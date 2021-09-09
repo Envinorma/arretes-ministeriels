@@ -1,0 +1,3567 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/42852",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "D",
+      "rubrique": "1978",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "1978"
+    }
+  ],
+  "date_of_signature": "2019-12-13",
+  "id": "JORFTEXT000041413405",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041413405",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": "DISPOSITIONS_GENERALES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Cf89E0EA9aAB",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "94fa9C8e80Ea",
+          "outer_alineas": [
+            {
+              "text": "Les installations class\u00e9es soumises \u00e0 d\u00e9claration au titre de la rubrique n\u00b0 1978, solvants organiques (installations et activit\u00e9s list\u00e9es \u00e0 l'annexe VII de la directive n\u00b0 2010/75/UE du 24 novembre 2010 relative aux \u00e9missions industrielles), sont soumises aux dispositions du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "L'activit\u00e9 inclut le nettoyage de l'\u00e9quipement, mais pas le nettoyage du produit fini, sauf indication contraire."
+            },
+            {
+              "text": "Les dispositions sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un \u00e9tablissement qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation ou au r\u00e9gime de l'enregistrement d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation ou par l'arr\u00eat\u00e9 minist\u00e9riel de prescriptions g\u00e9n\u00e9rales applicables."
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "26BCEBEd3126",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9fet peut, en application de l'article L. 512-10 du code de l'environnement et dans les conditions pr\u00e9vues \u00e0 l'article R. 512-52 du code de l'environnement, adapter par arr\u00eat\u00e9 pr\u00e9fectoral aux circonstances locales :"
+            },
+            {
+              "text": "- les prescriptions de l'article 9 sur les \u00e9missions de compos\u00e9s organiques volatils si les conditions de d\u00e9rogation d\u00e9finies au VI du point 9.1 sont respect\u00e9es ;"
+            },
+            {
+              "text": "- les prescriptions des articles 8, 9.2 et 9.3."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2 - Am\u00e9nagement"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B7cB4c792B4F",
+          "outer_alineas": [
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "\u00ab Colle \u00bb : tout m\u00e9lange, y compris tous les solvants organiques ou m\u00e9langes contenant des solvants organiques n\u00e9cessaires pour une application ad\u00e9quate, utilis\u00e9 pour assurer l'adh\u00e9rence entre diff\u00e9rentes parties d'un produit."
+            },
+            {
+              "text": "\u00ab Compos\u00e9 organique \u00bb : tout compos\u00e9 contenant au moins l'\u00e9l\u00e9ment carbone et un ou plusieurs des \u00e9l\u00e9ments suivants : hydrog\u00e8ne, halog\u00e8nes, oxyg\u00e8ne, soufre, phosphore, silicium ou azote, \u00e0 l'exception des oxydes de carbone et des carbonates et bicarbonates inorganiques."
+            },
+            {
+              "text": "\u00ab Compos\u00e9 organique volatil (COV) \u00bb : tout compos\u00e9 organique ainsi que la fraction de cr\u00e9osote ayant une pression de vapeur de 0,01 kPa ou plus \u00e0 une temp\u00e9rature de 293,15 K ou ayant une volatilit\u00e9 correspondante dans les conditions d'utilisation particuli\u00e8res."
+            },
+            {
+              "text": "\u00ab Conditions ma\u00eetris\u00e9es \u00bb : les conditions dans lesquelles une installation est exploit\u00e9e de sorte que les compos\u00e9s organiques volatils lib\u00e9r\u00e9s par l'activit\u00e9 soient capt\u00e9s et rejet\u00e9s de mani\u00e8re contr\u00f4l\u00e9e, par l'interm\u00e9diaire d'une chemin\u00e9e ou d'un \u00e9quipement de r\u00e9duction des \u00e9missions, et ne constituent donc pas des \u00e9missions totalement diffuses."
+            },
+            {
+              "text": "\u00ab Consommation de solvants organiques \u00bb : la quantit\u00e9 totale de solvants organiques utilis\u00e9e dans une installation sur une p\u00e9riode de douze mois, diminu\u00e9e de la quantit\u00e9 de COV r\u00e9cup\u00e9r\u00e9s en interne en vue de leur r\u00e9utilisation mais non utilis\u00e9s \u00e0 l'entr\u00e9e de l'unit\u00e9. On entend par \u00ab r\u00e9utilisation \u00bb l'utilisation \u00e0 des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques r\u00e9cup\u00e9r\u00e9s dans une installation. N'entrent pas dans la d\u00e9finition de \u00ab r\u00e9utilisation \u00bb les solvants organiques r\u00e9cup\u00e9r\u00e9s qui sont \u00e9vacu\u00e9s d\u00e9finitivement comme d\u00e9chets et les COV d\u00e9truits par incin\u00e9ration sur site ou \u00e0 l'ext\u00e9rieur."
+            },
+            {
+              "text": "\u00ab D\u00e9bit d'odeur \u00bb : conventionnellement, le produit du d\u00e9bit d'air rejet\u00e9, exprim\u00e9 en m3/h, par le facteur de dilution au seuil de perception."
+            },
+            {
+              "text": "\u00ab Emission canalis\u00e9e de COV \u00bb : toute \u00e9mission de COV rejet\u00e9 dans l'air par une chemin\u00e9e ou d'autres \u00e9quipements de r\u00e9duction"
+            },
+            {
+              "text": "\u00ab Emission diffuse de COV \u00bb : toute \u00e9mission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'\u00e9missions canalis\u00e9es. Pour le cas sp\u00e9cifique des COV, cette d\u00e9finition couvre, sauf indication contraire, les \u00e9missions retard\u00e9es dues aux solvants contenus dans les produits finis sauf disposition contraire mentionn\u00e9e \u00e0 l'annexe II."
+            },
+            {
+              "text": "\u00ab Emissions totales \u00bb : la somme des \u00e9missions diffuses et des \u00e9missions sous forme de gaz r\u00e9siduaires."
+            },
+            {
+              "text": "\u00ab Encre \u00bb : tout m\u00e9lange, y compris tous les solvants organiques ou m\u00e9langes contenant des solvants organiques n\u00e9cessaires pour une application ad\u00e9quate, utilis\u00e9 dans une op\u00e9ration d'impression pour imprimer du texte ou des images sur une surface."
+            },
+            {
+              "text": "\u00ab Gaz r\u00e9siduaires \u00bb : le rejet gazeux final contenant des compos\u00e9s organiques volatils ou d'autres polluants et rejet\u00e9 dans l'air par une chemin\u00e9e ou d'autres \u00e9quipements de r\u00e9duction."
+            },
+            {
+              "text": "\u00ab Installation existante au sens de la directive \u00bb :une installation en service au 29 mars 1999 ou qui a obtenu une autorisation ou a \u00e9t\u00e9 enregistr\u00e9e ou d\u00e9clar\u00e9e avant le 1er avril 2001, ou dont l'exploitant a pr\u00e9sent\u00e9 une demande compl\u00e8te d'autorisation avant le 1er avril 2001 pour autant que cette installation ait \u00e9t\u00e9 mise en service le 1er avril 2002 au plus tard."
+            },
+            {
+              "text": "\u00ab M\u00e9lange \u00bb : un m\u00e9lange au sens de l'article 3, paragraphe 2, du r\u00e8glement (CE) n\u00b0 1907/2006 du Parlement europ\u00e9en et du Conseil du 18 d\u00e9cembre 2006 concernant l'enregistrement, l'\u00e9valuation et l'autorisation des substances chimiques, ainsi que les restrictions applicables \u00e0 ces substances (REACH), et instituant une Agence europ\u00e9enne des substances chimiques."
+            },
+            {
+              "text": "\u00ab Niveau d'une odeur ou concentration d'un m\u00e9lange odorant \u00bb : conventionnellement, le facteur de dilution qu'il faut appliquer \u00e0 un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un \u00e9chantillon de population."
+            },
+            {
+              "text": "\u00ab Op\u00e9rations de d\u00e9marrage et d'arr\u00eat \u00bb : les op\u00e9rations de mise en service, de mise hors service ou de mise au ralenti d'une installation, d'un \u00e9quipement ou d'une cuve, \u00e0 l'exception des phases d'activit\u00e9 fluctuante survenant dans les conditions normales de fonctionnement."
+            },
+            {
+              "text": "\u00ab Rev\u00eatement \u00bb : tout m\u00e9lange, y compris tous les solvants organiques ou m\u00e9langes contenant des solvants organiques n\u00e9cessaires pour une application ad\u00e9quate, utilis\u00e9 pour obtenir un film ayant un effet d\u00e9coratif, un effet protecteur ou tout autre effet fonctionnel sur une surface."
+            },
+            {
+              "text": "\u00ab Solvant organique \u00bb : tout COV utilis\u00e9 seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des mati\u00e8res premi\u00e8res, des produits ou des d\u00e9chets, ou utilis\u00e9 comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosit\u00e9, correcteur de tension superficielle, plastifiant ou agent protecteur."
+            },
+            {
+              "text": "\u00ab Solvants organiques utilis\u00e9s \u00e0 l'entr\u00e9e \u00bb : la quantit\u00e9 de solvants organiques, \u00e0 l'\u00e9tat pur ou dans les m\u00e9langes, qui est utilis\u00e9e dans l'exercice d'une activit\u00e9, y compris les solvants recycl\u00e9s \u00e0 l'int\u00e9rieur ou \u00e0 l'ext\u00e9rieur de l'installation, qui sont compt\u00e9s chaque fois qu'ils sont utilis\u00e9s pour l'exercice de l'activit\u00e9."
+            },
+            {
+              "text": "\u00ab Vernis \u00bb : un rev\u00eatement transparent."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "Article 3 - D\u00e9finitions"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F5faF5ef42E9",
+          "outer_alineas": [
+            {
+              "text": "L'installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [],
+          "title": {
+            "text": "Article 4 - Conformit\u00e9 de l'installation \u00e0 la d\u00e9claration"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2fabD35c7db4",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+            },
+            {
+              "text": "- les plans de l'installation tenus \u00e0 jour ;"
+            },
+            {
+              "text": "- la preuve du d\u00e9p\u00f4t de d\u00e9claration et les prescriptions g\u00e9n\u00e9rales ;"
+            },
+            {
+              "text": "- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l'environnement, s'il y en a ;"
+            },
+            {
+              "text": "- s'il y a lieu, le sch\u00e9ma de ma\u00eetrise des \u00e9missions vis\u00e9 au V du point 9.1 ;"
+            },
+            {
+              "text": "- le plan de gestion des solvants pr\u00e9vu au point 10.2 ;"
+            },
+            {
+              "text": "- les r\u00e9sultats des derni\u00e8res mesures de surveillance r\u00e9alis\u00e9es sur les effluents gazeux ;"
+            },
+            {
+              "text": "- les d\u00e9rogations accord\u00e9es conform\u00e9ment au VI du point 9.1."
+            },
+            {
+              "text": "Ce dossier est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5 - Dossier installation class\u00e9e"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre 1er : Dispositions g\u00e9n\u00e9rales"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "c7dA670B0A12",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2541aEe5F63D",
+          "outer_alineas": [
+            {
+              "text": "L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nomm\u00e9ment d\u00e9sign\u00e9e par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6 - Surveillance de l'exploitation"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "BA1E788b3Ad9",
+          "outer_alineas": [
+            {
+              "text": "Une augmentation de la masse maximale de solvants organiques utilis\u00e9e, en moyenne journali\u00e8re, par une installation existante lorsque cette derni\u00e8re fonctionne dans des conditions normales, au rendement pr\u00e9vu, en dehors des op\u00e9rations de d\u00e9marrage et d'arr\u00eat et d'entretien de l'\u00e9quipement, est consid\u00e9r\u00e9e comme une augmentation importante si elle entra\u00eene une augmentation des \u00e9missions de compos\u00e9s organiques volatils sup\u00e9rieure :"
+            },
+            {
+              "text": "a) A 25 % pour les installations exer\u00e7ant les activit\u00e9s et ne d\u00e9passant pas les seuils de consommation list\u00e9s dans le tableau ci-dessous, ainsi que pour les installations exer\u00e7ant d'autres activit\u00e9s soumises au pr\u00e9sent arr\u00eat\u00e9 et dont la consommation est inf\u00e9rieure \u00e0 10 tonnes par an :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": ""
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nActivit\u00e9s"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nSeuil de consommation\nde solvants en tonnes/an"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n1"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nImpression sur rotative offset \u00e0 s\u00e9cheur thermique, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 25"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nAutres unit\u00e9s d'h\u00e9liogravure, flexographie, impression s\u00e9rigraphique en rotative, contrecollage ou vernissage, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 25"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nNettoyage de surface \u00e0 l'aide de compos\u00e9s organiques volatils \u00e0 mentions de danger H340, H350, H350i, H360D ou H360F, ou de compos\u00e9s organiques volatils halog\u00e9n\u00e9s \u00e0 mentions de danger H341 ou H351, au sens du r\u00e8glement (CE) n\u00b0 1272/2008 du Parlement europ\u00e9en et du Conseil du 16 d\u00e9cembre 2008 relatif \u00e0 la classification, \u00e0 l'\u00e9tiquetage et \u00e0 l'emballage des substances et des m\u00e9langes, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le r\u00e8glement (CE) n\u00b0 1907/2006, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 1 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 5"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nAutres nettoyages de surface, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 2 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 10"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n8"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nAutres rev\u00eatements, y compris le rev\u00eatement de m\u00e9taux, de plastiques, de textiles (autres que l'impression s\u00e9rigraphique en rotative), de feuilles et de papier, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 15"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n10"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nRev\u00eatement de surfaces en bois, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 25"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n13"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nRev\u00eatement du cuir, lorsque la consommation de solvant\nest sup\u00e9rieure \u00e0 10 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 25"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n16"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nRev\u00eatement adh\u00e9sif, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 15"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n17"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nFabrication de m\u00e9langes pour rev\u00eatements, de vernis, d'encres et de colle, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 100 t/an"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n< 1 000"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "b) A 10 % pour toutes les autres installations."
+            },
+            {
+              "text": "Lorsqu'une augmentation importante est r\u00e9alis\u00e9e, elle est pr\u00e9alablement port\u00e9e \u00e0 la connaissance du pr\u00e9fet en tant que modification notable au sens de l'article R. 512-54 (II) du code de l'environnement en mentionnant les activit\u00e9s relevant de la rubrique n\u00b0 1978 sur lesquelles elle porte."
+            },
+            {
+              "text": "Dans les six mois suivant la mise en service de l'augmentation importante, l'exploitant effectue une surveillance des \u00e9missions de la partie modifi\u00e9e, aux fins de v\u00e9rification par l'inspection des installations class\u00e9es de la conformit\u00e9 de l'installation aux exigences du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [],
+          "title": {
+            "text": "Article 7 - Augmentation de l'utilisation de solvant"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre II : Exploitation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "AIR_ODEURS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d0A74c5EAdDa",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2eF6A0ac3Dee",
+          "outer_alineas": [
+            {
+              "text": "Les installations susceptibles de d\u00e9gager des fum\u00e9es, gaz, poussi\u00e8res ou odeurs sont munies de dispositifs permettant de collecter \u00e0 la source et canaliser autant que possible les \u00e9missions. Ces dispositifs, apr\u00e8s \u00e9puration des gaz collect\u00e9s en tant que de besoin, sont munis d'orifices obturables et accessibles aux fins de pr\u00e9l\u00e8vements en vue d'analyse ou de mesure. Le d\u00e9bouch\u00e9 des chemin\u00e9es est \u00e9loign\u00e9 au maximum des immeubles habit\u00e9s ou occup\u00e9s par des tiers et des bouches d'aspiration d'air frais et ne doit pas comporter d'obstacles \u00e0 la diffusion des gaz (chapeaux chinois\u2026). Les points de rejets sont en nombre aussi r\u00e9duit que possible."
+            },
+            {
+              "text": "La dilution des effluents est interdite. Elle ne peut \u00eatre autoris\u00e9e aux seules fins de respecter les valeurs limites exprim\u00e9es en concentration."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8 - Captage et \u00e9puration des rejets \u00e0 l'atmosph\u00e8re"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CBCDcED83c8f",
+          "outer_alineas": [
+            {
+              "text": "Les effluents gazeux respectent les valeurs limites d\u00e9finies ci-apr\u00e8s, exprim\u00e9es en mg/Nm3 dans les conditions normalis\u00e9es de temp\u00e9rature (273,15 kelvins) et de pression (101,3 kilopascals) mesur\u00e9es selon les m\u00e9thodes d\u00e9finies \u00e0 l'article 10."
+            },
+            {
+              "text": "Des volumes de gaz peuvent \u00eatre ajout\u00e9s aux gaz r\u00e9siduaires \u00e0 des fins de refroidissement ou de dilution lorsque cette op\u00e9ration est techniquement justifi\u00e9e, mais ils ne sont pas pris en consid\u00e9ration pour la d\u00e9termination de la concentration en masse du polluant dans les gaz r\u00e9siduaires."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9 - Valeurs limites et conditions de rejet"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "448a7aF7cDDC",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9.1",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "aD98aAb4176B",
+              "outer_alineas": [
+                {
+                  "text": "Les \u00e9missions de compos\u00e9s organiques volatils des installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration au titre de la rubrique n\u00b0 1978 ne d\u00e9passent pas les valeurs limites d'\u00e9mission dans les gaz r\u00e9siduaires et les valeurs limites d'\u00e9missions diffuses, ou les valeurs limites d'\u00e9mission totale, \u00e9nonc\u00e9es dans les annexes I et II du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Lorsqu'une augmentation importante a \u00e9t\u00e9 r\u00e9alis\u00e9e sur une installation existante au sens de la directive, les valeurs limites applicables \u00e0 la partie de l'installation ainsi modifi\u00e9e sont celles applicables aux installations nouvelles au sens de la directive."
+                },
+                {
+                  "text": "Toutefois, si l'exploitant d\u00e9montre que les \u00e9missions totales de l'ensemble de l'installation ne d\u00e9passent pas le niveau qui aurait \u00e9t\u00e9 atteint si la partie qui a subi l'augmentation importante avait \u00e9t\u00e9 trait\u00e9e comme une installation nouvelle au sens de la directive, le pr\u00e9fet peut l'autoriser \u00e0 conserver, pour cette partie modifi\u00e9e, le b\u00e9n\u00e9fice des valeurs limites applicables aux installations existantes au sens de la directive."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 I.",
+              "sections": [],
+              "title": {
+                "text": "I. - Seuils de consommation et valeurs limites d'\u00e9missions"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f91ae1efEAD1",
+              "outer_alineas": [
+                {
+                  "text": "Les substances ou m\u00e9langes auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H340, H350, H350i, H360D ou H360F en raison de leur teneur en compos\u00e9s organiques volatils class\u00e9s canc\u00e9rig\u00e8nes, mutag\u00e8nes ou toxiques pour la reproduction en vertu du r\u00e8glement (CE) n\u00b0 1272/2008 sont remplac\u00e9s, dans toute la mesure du possible, par des substances ou des m\u00e9langes moins nocifs, et ce dans les meilleurs d\u00e9lais possible."
+                },
+                {
+                  "text": "Les \u00e9missions soit de compos\u00e9s organiques volatils auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H340, H350, H350i, H360D ou H360F, soit de compos\u00e9s organiques volatils halog\u00e9n\u00e9s auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H341 ou H351, sont contr\u00f4l\u00e9es dans des conditions ma\u00eetris\u00e9es, dans la mesure o\u00f9 il est techniquement et \u00e9conomiquement possible de le faire en vue de prot\u00e9ger la sant\u00e9 publique et l'environnement, et ne d\u00e9passent pas les valeurs limites d'\u00e9mission pertinentes fix\u00e9es dans le pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Pour les \u00e9missions des compos\u00e9s organiques volatils vis\u00e9s au premier alin\u00e9a, lorsque le d\u00e9bit massique de la somme des compos\u00e9s justifiant l'\u00e9tiquetage vis\u00e9 audit article est sup\u00e9rieur ou \u00e9gal \u00e0 10 g/h (en masse totale des diff\u00e9rents compos\u00e9s), une valeur limite d'\u00e9mission de 2 mg/Nm3 est respect\u00e9e. La valeur limite d'\u00e9mission se rapporte \u00e0 la masse totale des diff\u00e9rents compos\u00e9s."
+                },
+                {
+                  "text": "Pour les \u00e9missions de compos\u00e9s organiques volatils halog\u00e9n\u00e9s auxquels est attribu\u00e9e, ou sur lesquels doit \u00eatre appos\u00e9e, la mention de danger H341 ou H351, lorsque le d\u00e9bit massique de la somme des compos\u00e9s justifiant la mention de danger H341 ou H351 est sup\u00e9rieur ou \u00e9gal \u00e0 100 g/h (en masse totale des diff\u00e9rents compos\u00e9s), une valeur limite d'\u00e9mission de 20 mg/Nm3 est respect\u00e9e. La valeur limite d'\u00e9mission se rapporte \u00e0 la masse totale des diff\u00e9rents compos\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 II.",
+              "sections": [],
+              "title": {
+                "text": "II. - Compos\u00e9s organiques volatils \u00e0 mention de danger"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "09c9DdD8e00D",
+              "outer_alineas": [
+                {
+                  "text": "Les installations dans lesquelles sont exerc\u00e9es deux ou plusieurs des activit\u00e9s entra\u00eenant un classement au titre de la rubrique 1978 de la nomenclature des installations class\u00e9es sont tenues de respecter les exigences pr\u00e9vues pour les substances indiqu\u00e9es au point II ci-dessus et, pour les autres substances :"
+                },
+                {
+                  "text": "- de respecter les exigences d\u00e9finies au point I, pour chaque activit\u00e9 prise individuellement ;"
+                },
+                {
+                  "text": "- ou d'atteindre un niveau total d'\u00e9mission ne d\u00e9passant pas celui qui aurait \u00e9t\u00e9 atteint en application du tiret ci-dessus."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 III.",
+              "sections": [],
+              "title": {
+                "text": "III. - Installations exer\u00e7ant plusieurs activit\u00e9s"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "95b5BC4f8Fdf",
+              "outer_alineas": [
+                {
+                  "text": "Toutes les pr\u00e9cautions appropri\u00e9es sont prises pour r\u00e9duire au minimum les \u00e9missions de compos\u00e9s organiques volatils lors des op\u00e9rations de d\u00e9marrage et d'arr\u00eat."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 IV.",
+              "sections": [],
+              "title": {
+                "text": "IV. - Op\u00e9rations de d\u00e9marrage et d'arr\u00eat"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EEC79A59E184",
+              "outer_alineas": [
+                {
+                  "text": "Les valeurs limites d'\u00e9missions canalis\u00e9es et diffuses relatives aux COV d\u00e9finies au I ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un sch\u00e9ma de ma\u00eetrise des \u00e9missions de COV, tel que d\u00e9fini ci-apr\u00e8s."
+                },
+                {
+                  "text": "Un tel sch\u00e9ma garantit que le flux total d'\u00e9missions de COV de l'installation ne d\u00e9passe pas le flux qui serait atteint par une application stricte des valeurs limites d'\u00e9mission canalis\u00e9es et diffuses d\u00e9finies dans le pr\u00e9sent arr\u00eat\u00e9. Le sch\u00e9ma est \u00e9labor\u00e9 \u00e0 partir d'un niveau d'\u00e9mission de r\u00e9f\u00e9rence de l'installation correspondant au niveau atteint si aucune mesure de r\u00e9duction des \u00e9missions de COV n'\u00e9tait mise en \u0153uvre sur l'installation."
+                },
+                {
+                  "text": "L'installation ou les parties de l'installation dans lesquelles sont notamment mises en \u0153uvre une ou plusieurs des substances vis\u00e9es au point II ci-dessus peuvent faire l'objet d'un sch\u00e9ma de ma\u00eetrise des \u00e9missions. Les \u00e9missions des substances vis\u00e9es au point II restent n\u00e9anmoins soumises au respect des valeurs limites pr\u00e9vues au II."
+                },
+                {
+                  "text": "L'exploitant transmet le sch\u00e9ma de ma\u00eetrise des \u00e9missions au pr\u00e9fet avant sa mise en \u0153uvre. Il tient \u00e0 disposition de l'inspection des installations class\u00e9es, et lui transmet sur sa demande, les donn\u00e9es lui permettant de v\u00e9rifier que ces prescriptions sont respect\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 V.",
+              "sections": [],
+              "title": {
+                "text": "V. - Mise en \u0153uvre d'un sch\u00e9ma de ma\u00eetrise des \u00e9missions de COV"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "78F1C44e64af",
+              "outer_alineas": [
+                {
+                  "text": "Par d\u00e9rogation au premier alin\u00e9a du I, si l'exploitant d\u00e9montre que son installation ne peut, d'un point de vue technique et \u00e9conomique, respecter la valeur limite d'\u00e9mission diffuse, le pr\u00e9fet peut autoriser le d\u00e9passement de cette valeur limite d'\u00e9mission, pour autant qu'il n'y ait pas lieu de craindre des risques importants pour la sant\u00e9 humaine ou pour l'environnement et que l'exploitant d\u00e9montre qu'il est fait appel aux meilleures techniques disponibles."
+                },
+                {
+                  "text": "Par d\u00e9rogation au premier alin\u00e9a du I, pour les activit\u00e9s de rev\u00eatements d\u00e9finies au point 8 de la rubrique 1978, qui ne peuvent pas \u00eatre r\u00e9alis\u00e9es dans des conditions ma\u00eetris\u00e9es, le pr\u00e9fet peut accepter que les \u00e9missions des installations ne respectent pas les exigences d\u00e9finies au premier alin\u00e9a du I si l'exploitant d\u00e9montre que cela n'est pas techniquement ni \u00e9conomiquement r\u00e9alisable et qu'il est fait appel aux meilleures techniques disponibles."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9.1 VI.",
+              "sections": [],
+              "title": {
+                "text": "VI. - D\u00e9rogations"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 9.1 - Compos\u00e9s organiques volatils (COV)"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B931D0CEBba9",
+          "outer_alineas": [
+            {
+              "text": "Valeurs limites d'\u00e9mission en COV, NOx et CO en cas d'utilisation d'une technique d'\u00e9puration des \u00e9missions canalis\u00e9es par oxydation thermique"
+            },
+            {
+              "text": "La teneur en oxyg\u00e8ne de r\u00e9f\u00e9rence pour la v\u00e9rification de la conformit\u00e9 aux valeurs limites d'\u00e9mission est celle mesur\u00e9e dans les effluents en sortie d'\u00e9quipement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'\u00e9mission d\u00e9finies ci-dessous pour les COV, les oxydes d'azote (NOx) et le monoxyde de carbone (CO) :"
+            },
+            {
+              "text": "- COV : valeurs limites de l'annexe I ;"
+            },
+            {
+              "text": "- NOx (en \u00e9quivalent NO2) : 100 mg/m3 ;"
+            },
+            {
+              "text": "- CO : 100 mg/m3."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9.2",
+          "sections": [],
+          "title": {
+            "text": "Article 9.2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6a9E6f1E0CCf",
+          "outer_alineas": [
+            {
+              "text": "Les installations et les entrep\u00f4ts pouvant d\u00e9gager des \u00e9missions d'odeurs sont am\u00e9nag\u00e9s autant que possible dans des locaux confin\u00e9s et si besoin ventil\u00e9s. Les effluents gazeux diffus ou canalis\u00e9s d\u00e9gageant des \u00e9missions d'odeurs sont r\u00e9cup\u00e9r\u00e9s et achemin\u00e9s vers une installation d'\u00e9puration des gaz. Toutes les dispositions n\u00e9cessaires sont prises pour limiter les odeurs provenant du traitement des fum\u00e9es. Lorsqu'il y a des sources potentielles d'odeurs de grande surface (bassin de stockage, bassin de traitement\u2026) difficiles \u00e0 confiner, celles-ci sont implant\u00e9es de mani\u00e8re \u00e0 limiter la g\u00eane pour le voisinage. Les produits bruts ou interm\u00e9diaires susceptibles d'\u00eatre \u00e0 l'origine d'\u00e9missions d'odeurs sont entrepos\u00e9s autant que possible dans des conteneurs ferm\u00e9s."
+            },
+            {
+              "text": "En cas de nuisances, le pr\u00e9fet peut demander la r\u00e9alisation d'une \u00e9tude de dispersion. A partir des rejets de chacune des sources exprim\u00e9s en d\u00e9bit d'odeur aux conditions normales olfactom\u00e9triques (\u00e0 savoir T = 20 \u00b0C et P = 101,3 kPa, en conditions humides), l'exploitant s'assure que la concentration d'odeur, calcul\u00e9e dans un rayon de 3 kilom\u00e8tres par rapport aux limites de propri\u00e9t\u00e9 de l'installation, ne d\u00e9passe pas 5 uoE/m3 (unit\u00e9s d'odeur europ\u00e9ennes par m\u00e8tre cube) plus de 175 heures par an (soit une fr\u00e9quence de 2 %)."
+            },
+            {
+              "text": "La fr\u00e9quence de d\u00e9passement prend en compte les \u00e9ventuelles dur\u00e9es d'indisponibilit\u00e9 des installations de traitement des compos\u00e9s odorants."
+            },
+            {
+              "text": "Cette \u00e9tude de dispersion est r\u00e9alis\u00e9e par un organisme comp\u00e9tent choisi en accord avec l'inspection des installations class\u00e9es, aux frais de l'exploitant et sous sa responsabilit\u00e9."
+            },
+            {
+              "text": "Le mode de calcul utilis\u00e9 pour l'\u00e9tude de dispersion doit prendre en compte les conditions a\u00e9rauliques et thermiques des rejets, ainsi que les conditions locales de dispersion, topographiques et m\u00e9t\u00e9orologiques."
+            },
+            {
+              "text": "La liste des sources caract\u00e9ris\u00e9es et quantifi\u00e9es et le choix du mod\u00e8le de dispersion sont justifi\u00e9s par l'exploitant. Les m\u00e9thodologies mises en \u0153uvre sont d\u00e9crites."
+            },
+            {
+              "text": "A d\u00e9faut de la r\u00e9alisation d'une \u00e9tude de dispersion, la concentration d'odeur \u00e0 retenir, quelle que soit la hauteur d'\u00e9mission, ne doit pas d\u00e9passer 1 000 uoE/m3 par source."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9.3",
+          "sections": [],
+          "title": {
+            "text": "Article 9.3 - Odeurs"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F5e9EDe5aef3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10 - Surveillance par l'exploitant de la pollution rejet\u00e9e"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F32A1ECa4a6a",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant met en place un programme de surveillance lui permettant d'intervenir d\u00e8s que les limites d'\u00e9missions sont ou risquent d'\u00eatre d\u00e9pass\u00e9es."
+            },
+            {
+              "text": "L'exploitant calcule sa consommation annuelle des solvants pour chaque activit\u00e9, selon la d\u00e9finition de l'article 3, sur l'ensemble du p\u00e9rim\u00e8tre pertinent, incluant le cas \u00e9ch\u00e9ant plusieurs activit\u00e9s entra\u00eenant le classement au titre de la rubrique 1978. Les documents justifiant de la consommation annuelle de solvants sont tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "L'exploitant met en place un plan de gestion de solvants, mentionnant notamment les entr\u00e9es et les sorties de solvants de chaque installation. Ce plan est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et lui est transmis annuellement si la consommation annuelle de solvants de l'installation est sup\u00e9rieure \u00e0 30 tonnes par an."
+            },
+            {
+              "text": "La surveillance en permanence des \u00e9missions canalis\u00e9es de l'ensemble des COV est r\u00e9alis\u00e9e si, sur l'ensemble de l'installation, l'une des conditions suivantes est remplie :"
+            },
+            {
+              "text": "a) Le flux horaire maximal total (canalis\u00e9 et diffus) en COV, exprim\u00e9 en carbone total, d\u00e9passe :"
+            },
+            {
+              "text": "- 15 kg/h dans le cas g\u00e9n\u00e9ral ;"
+            },
+            {
+              "text": "- 10 kg/h si un \u00e9quipement d'\u00e9puration des gaz charg\u00e9s en COV est n\u00e9cessaire pour respecter les valeurs limites d'\u00e9mission canalis\u00e9es ;"
+            },
+            {
+              "text": "b) Le flux horaire maximal total (canalis\u00e9 et diffus) de COV auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H340, H350, H350i, H360D ou H360F, ou de COV halog\u00e9n\u00e9s auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H341 ou H351 d\u00e9passe 2 kg/h (exprim\u00e9 en somme des compos\u00e9s)."
+            },
+            {
+              "text": "Toutefois, en accord avec le pr\u00e9fet, cette surveillance en permanence peut \u00eatre remplac\u00e9e par le suivi d'un param\u00e8tre repr\u00e9sentatif, corr\u00e9l\u00e9 aux \u00e9missions sauf en cas d'utilisation d'un \u00e9quipement d'\u00e9puration. Cette corr\u00e9lation devra \u00eatre confirm\u00e9e p\u00e9riodiquement par une mesure des \u00e9missions."
+            },
+            {
+              "text": "Dans les autres cas, des mesures p\u00e9riodiques sont effectu\u00e9es par un organisme agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement :"
+            },
+            {
+              "text": "- au moins une fois par an si la consommation de solvants est sup\u00e9rieure \u00e0 1 tonne par an ;"
+            },
+            {
+              "text": "- au moins tous les 3 ans si la consommation de solvants est inf\u00e9rieure \u00e0 1 tonne par an."
+            },
+            {
+              "text": "Trois valeurs de mesure au moins sont relev\u00e9es au cours de chaque campagne de mesures."
+            },
+            {
+              "text": "Dans le cas o\u00f9 le flux horaire total (canalis\u00e9 et diffus) de COV auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H340, H350, H350i, H360D ou H360F, ou de COV halog\u00e9n\u00e9s auxquels sont attribu\u00e9es, ou sur lesquels doivent \u00eatre appos\u00e9es, les mentions de danger H341 ou H351 d\u00e9passe 2 kg/h (exprim\u00e9 en somme des compos\u00e9s) sur l'ensemble de l'installation, des mesures p\u00e9riodiques de chacun des COV pr\u00e9sents seront effectu\u00e9es afin d'\u00e9tablir une corr\u00e9lation entre la mesure de l'ensemble des COV et les compos\u00e9s effectivement pr\u00e9sents."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10.1",
+          "sections": [],
+          "title": {
+            "text": "Article 10.1 - Cas g\u00e9n\u00e9ral"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C32DAADFde2D",
+          "outer_alineas": [
+            {
+              "text": "Lorsque l'installation est \u00e9quip\u00e9e d'un oxydateur, une mesure du d\u00e9bit rejet\u00e9 et de la concentration des polluants vis\u00e9s au point 9.2 est effectu\u00e9e, selon les m\u00e9thodes normalis\u00e9es en vigueur, au moins une fois par an, en marche continue et stable."
+            },
+            {
+              "text": "Toutefois, les polluants qui ne sont pas susceptibles d'\u00eatre \u00e9mis par l'installation ne font pas l'objet de mesures p\u00e9riodiques. Dans ce cas, l'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments techniques permettant d'attester l'absence de produits susceptibles d'\u00eatre \u00e0 l'origine directe ou indirecte de l'\u00e9mission de ces polluants dans l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10.2",
+          "sections": [],
+          "title": {
+            "text": "Article 10.2 - Cas particuliers"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4AF9aD0Ec4e1",
+          "outer_alineas": [
+            {
+              "text": "Pour les mesures continues, on consid\u00e8re que les valeurs limites d'\u00e9mission sont respect\u00e9es lorsque :"
+            },
+            {
+              "text": "a) Aucune des moyennes arithm\u00e9tiques de tous les relev\u00e9s effectu\u00e9s sur une p\u00e9riode de 24 heures d'exploitation d'une installation ou d'une activit\u00e9, \u00e0 l'exception des phases de d\u00e9marrage et d'arr\u00eat et d'entretien de l'\u00e9quipement, ne d\u00e9passe les valeurs limites d'\u00e9mission ;"
+            },
+            {
+              "text": "b) Aucune des moyennes horaires n'est sup\u00e9rieure \u00e0 1,5 fois la valeur limite d'\u00e9mission."
+            },
+            {
+              "text": "Pour les mesures p\u00e9riodiques, on consid\u00e8re que les valeurs limites d'\u00e9mission sont respect\u00e9es lorsque, au cours d'une op\u00e9ration de surveillance :"
+            },
+            {
+              "text": "a) La moyenne de toutes les valeurs de mesure ne d\u00e9passe pas les valeurs limites d'\u00e9mission ;"
+            },
+            {
+              "text": "b) Aucune des moyennes horaires n'est sup\u00e9rieure \u00e0 1,5 fois la valeur limite d'\u00e9mission."
+            },
+            {
+              "text": "La conformit\u00e9 aux valeurs limites d'\u00e9missions des compos\u00e9s organiques volatils \u00e0 mention de danger est v\u00e9rifi\u00e9e sur la base de la somme des concentrations en masse de chacun des compos\u00e9s organiques volatils concern\u00e9s. Dans tous les autres cas, sauf disposition contraire pr\u00e9vue dans l'annexe II, la conformit\u00e9 est v\u00e9rifi\u00e9e sur la base de la masse totale de carbone organique \u00e9mis."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11 - Evaluation du respect des valeurs limites d'\u00e9mission dans les gaz r\u00e9siduaires"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre III : Air - Odeurs"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Ef24ea6A24cF",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "54ac4EccE27F",
+          "outer_alineas": [
+            {
+              "text": "A abrog\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "- Arr\u00eat\u00e9 du 15 d\u00e9cembre 2009"
+            },
+            {
+              "text": "  Art. 1,   Art. 2,   Sct. Annexes,   Art. Annexe I,   Art. Annexe II,   Art. Annexe III"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "828cEADA13bF",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 13",
+          "sections": [],
+          "title": {
+            "text": "Article 13 - Ex\u00e9cution"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre IV : Ex\u00e9cution"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "49BA7f5de3Ee",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d5ef33713F75",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe Art. -",
+          "sections": [
+            {
+              "annotations": {
+                "topic": "AIR_ODEURS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6BF2c95Af7FE",
+              "outer_alineas": [
+                {
+                  "text": "Seuils de consommation et valeurs limites d'\u00e9mission"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nActivit\u00e9 (seuil de consommation de solvant\nen tonnes/an)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nSeuil (seuil de consommation de solvants en tonnes/an)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nValeurs limites d'\u00e9mission dans les gaz r\u00e9siduaires\n(mg C/Nm3)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\nValeurs limites d'\u00e9mission diffuse (en % de la quantit\u00e9 de solvant utilis\u00e9)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\nValeurs limites d'\u00e9mission totale"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nDispositions particuli\u00e8res"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": true
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nInstallation\nnouvelle au sens\nde la directive"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nInstallation\nexistante au sens\nde la directive"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nInstallation\nnouvelle au sens\nde la directive"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nInstallation\nexistante au sens\nde la directive"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": true
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n1"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nImpression sur rotative offset \u00e0 s\u00e9cheur thermique, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15-25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n30 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) Le r\u00e9sidu de solvant dans le produit fini n'est pas consid\u00e9r\u00e9 comme faisant partie des \u00e9missions diffuses"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n30 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n2"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nH\u00e9liogravure d'\u00e9dition, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 25 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n75"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n10"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n3"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nAutres unit\u00e9s d'h\u00e9liogravure, flexographie, impression s\u00e9rigraphique en rotative, contrecollage ou vernissage, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15-25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n3 bis"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nImpression s\u00e9rigraphique en rotative sur textiles ou cartons, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 30 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 30"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n4"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nNettoyage de surface \u00e0 l'aide de compos\u00e9s organiques volatils \u00e0 mentions de danger H340, H350, H350i, H360D ou H360F, ou de compos\u00e9s organiques volatils halog\u00e9n\u00e9s \u00e0 mentions de danger H341 ou H351, au sens du r\u00e8glement (CE)n\u00b0 1272/2008 du Parlement europ\u00e9en et du Conseil du 16 d\u00e9cembre 2008 relatif \u00e0 la classification, \u00e0 l'\u00e9tiquetage et \u00e0 l'emballage des substances et des m\u00e9langes, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le r\u00e8glement (CE) n\u00b0 1907/2006, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 1 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n1-5"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) la valeur limite se rapporte \u00e0 la masse des compos\u00e9s en mg/Nm3 et non au carbone total"
+                            },
+                            "rowspan": 2
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 5"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n10"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nAutres nettoyages de surface, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 2 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n2-10"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n75 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) Ces valeurs ne s'appliquent pas aux installations qui d\u00e9montrent \u00e0 l'autorit\u00e9 comp\u00e9tente que la teneur moyenne en solvant organique de tous les produits de nettoyage utilis\u00e9s ne d\u00e9passe pas 30 % en poids"
+                            },
+                            "rowspan": 2
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 10"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n75 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n6"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nRev\u00eatement et retouche de v\u00e9hicules, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 0,5 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) la conformit\u00e9 aux valeurs limites d'\u00e9mission est d\u00e9montr\u00e9e sur la base de mesures moyennes par quinze minutes"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n7"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nLaquage en continu, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 25 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n10"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) Pour les installations ayant recours \u00e0 des techniques permettant la r\u00e9utilisation de solvants r\u00e9cup\u00e9r\u00e9s, la valeur limite d'\u00e9mission est de 150"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n8"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nAutres rev\u00eatements, y compris le rev\u00eatement de m\u00e9taux, de plastiques, de textiles (5) (autres que l'impression s\u00e9rigraphique en rotative), de feuilles et de papier, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5-15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100 (1) (4)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25 (4)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) La valeur limite d'\u00e9mission concerne l'application du rev\u00eatement et le s\u00e9chage dans des conditions ma\u00eetris\u00e9es.\n(2) la premi\u00e8re valeur limite d'\u00e9mission se rapporte au s\u00e9chage, la seconde \u00e0 l'application du rev\u00eatement\n(3) Pour les installations de rev\u00eatement de textiles ayant recours \u00e0 des techniques permettant la r\u00e9utilisation de solvants r\u00e9cup\u00e9r\u00e9s, la valeur limite d'\u00e9mission est de 150 pour l'ensemble de l'op\u00e9ration d'application du rev\u00eatement et de s\u00e9chage\n(4) Les activit\u00e9s de rev\u00eatement qui ne peuvent se d\u00e9rouler dans des conditions ma\u00eetris\u00e9es (telles que construction navale, rev\u00eatement des a\u00e9ronefs) peuvent d\u00e9roger \u00e0 ces valeurs conform\u00e9ment au VI de l'article 9.1\n(5) L'impression s\u00e9rigraphique en rotative sur textiles est couverte par l'activit\u00e9 n\u00b0 3 bis"
+                            },
+                            "rowspan": 2
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 / 75 (2) (3) (4)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20 (4)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n9"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nRev\u00eatement de fil de bobinage, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n10 g/kg (1)\n5 g/kg (2)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) S'applique aux installations o\u00f9 le diam\u00e8tre moyen de fil est inf\u00e9rieur ou \u00e9gal \u00e0 0,1 mm\n(2) S'applique \u00e0 toutes les autres installations"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n10"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nRev\u00eatement de surfaces en bois, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15-25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) La valeur limite d'\u00e9mission concerne l'application du rev\u00eatement et le s\u00e9chage dans des conditions ma\u00eetris\u00e9es"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 / 75 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) La premi\u00e8re valeur se rapporte au s\u00e9chage, la seconde \u00e0 l'application du rev\u00eatement"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n11"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nNettoyage \u00e0 sec"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20g/kg (1) (2)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) Exprim\u00e9e en masse de solvant \u00e9mis par kilogramme de produit nettoy\u00e9 et s\u00e9ch\u00e9\n(2) La valeur limite d'\u00e9mission pour les COV halog\u00e9n\u00e9s auxquels est attribu\u00e9e ou sur lesquels doit \u00eatre appos\u00e9e la mention de danger H341 ou H351 d\u00e9finie au II de l'article 9.1 ne s'applique pas \u00e0 cette activit\u00e9"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n12"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nImpr\u00e9gnation du bois, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 25 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n45"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n11 kg/m3"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) La valeur limite d'\u00e9mission ne s'applique pas \u00e0 la cr\u00e9osote"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n13"
+                            },
+                            "rowspan": 3
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nRev\u00eatement du cuir, lorsque la consommation de solvant\nest sup\u00e9rieure \u00e0 10 t/an"
+                            },
+                            "rowspan": 3
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n10-25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n85 g/m2"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nLes valeurs limites d'\u00e9mission sont exprim\u00e9es en grammes de solvant \u00e9mis par m\u00e8tre carr\u00e9 de produit fabriqu\u00e9\n(1) Pour les activit\u00e9s de rev\u00eatement du cuir dans l'ameublement et certains produits en cuir utilis\u00e9s comme petits articles de consommation tels que les sacs, les ceintures, les portefeuilles, etc."
+                            },
+                            "rowspan": 3
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n75g/m2"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 10 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n150g/m2"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n14"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nFabrication de chaussures, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25 g par paire"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nLes valeurs limites d'\u00e9mission totale sont exprim\u00e9es en grammes de solvant \u00e9mis par paire compl\u00e8te de chaussures produite"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nStratification de bois et de plastique, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n30 g/m2"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n16"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nRev\u00eatement adh\u00e9sif, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 5 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5-15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) En cas d'utilisation de techniques permettant la r\u00e9utilisation du solvant r\u00e9cup\u00e9r\u00e9, la valeur limite d'\u00e9mission dans les gaz r\u00e9siduaire est de 150."
+                            },
+                            "rowspan": 2
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 15"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n50 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n17"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nFabrication de m\u00e9langes pour rev\u00eatements, de vernis, d'encres et de colle, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 100 t/an"
+                            },
+                            "rowspan": 2
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n100-1 000"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n150"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n5"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n5 % de solvant utilis\u00e9"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nLa valeur limite d'\u00e9mission diffuse ne comprend pas les solvants vendus avec les m\u00e9langes pour rev\u00eatement dans un r\u00e9cipient ferm\u00e9 herm\u00e9tiquement."
+                            },
+                            "rowspan": 2
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n> 1 000"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n150"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n3"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n3 % de solvant utilis\u00e9"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n18"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConversion de caoutchouc, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 15 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25 (2)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\n25 % de solvant utilis\u00e9"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) En cas d'utilisation de techniques permettant la r\u00e9utilisation du solvant r\u00e9cup\u00e9r\u00e9, la valeur limite d'\u00e9mission dans les gaz r\u00e9siduaires est de 150.\n(2) La valeur limite d'\u00e9mission diffuse ne comprend pas les solvants vendus avec les m\u00e9langes pour rev\u00eatement dans un r\u00e9cipient ferm\u00e9 herm\u00e9tiquement"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n19"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nExtraction d'huiles v\u00e9g\u00e9tales et de graisses animales et activit\u00e9s de raffinage d'huile v\u00e9g\u00e9tale, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 10 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 2,
+                            "content": {
+                              "text": "\nGraisse animale : 1,5 kg/tonne\nRicin : 3 kg/tonne\nColza : 1 kg/tonne\nTournesol : 1 kg/tonne\nSoja (broyage normal) : 0,8 kg/tonne\nSoja (flocons blancs) : 1,2 kg/tonne\nAutres graines et autres mati\u00e8res v\u00e9g\u00e9tales : 3 kg/tonne (1) / 1,5 kg/tonne (2) / 4 kg/tonne (3)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) Les valeurs limites d'\u00e9mission totale pour des installations transformant des lots s\u00e9par\u00e9s de graines et autres mati\u00e8res v\u00e9g\u00e9tales devraient \u00eatre fix\u00e9es par les autorit\u00e9s comp\u00e9tentes cas par cas, en recourant aux meilleures techniques disponibles\n(2) S'applique \u00e0 tous les processus de fractionnement \u00e0 l'exception de la d\u00e9mucilagination (\u00e9limination des mati\u00e8res gommeuses de l'huile)\n(3) S'applique \u00e0 la d\u00e9mucilagination"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nFabrication de produits pharmaceutiques, lorsque la consommation de solvant est sup\u00e9rieure \u00e0 50 t/an"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": ""
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n20 (1)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5 (2)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15 (2)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5 % de solvant utilis\u00e9"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15 % de solvant utilis\u00e9"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n(1) En cas d'utilisation de techniques permettant la r\u00e9utilisation du solvant r\u00e9cup\u00e9r\u00e9, la valeur limite d'\u00e9mission dans les gaz r\u00e9siduaires est de 150\n(2) La valeur limite d'\u00e9mission diffuse ne comprend pas les solvants vendus avec les m\u00e9langes pour rev\u00eatement dans un r\u00e9cipient ferm\u00e9 herm\u00e9tiquement"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe Art. - Annexe I",
+              "sections": [],
+              "title": {
+                "text": "ANNEXE I"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article - ANNEXES"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "2928dF9DDAAa",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "AC65dEeE4B7B",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe Art.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": "AIR_ODEURS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "DFA9c506e8ee",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe Art. Annexe II",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "CbBD2fBCBdcb",
+                  "outer_alineas": [
+                    {
+                      "text": "Les valeurs limites d'\u00e9mission totale sont exprim\u00e9es en grammes de solvant organique \u00e9mis par m\u00e8tre carr\u00e9 de surface du produit et en kilogrammes de solvant organique \u00e9mis par carrosserie de voiture."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. Annexe II",
+                  "sections": [],
+                  "title": {
+                    "text": "1."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "37D22e6EBA59",
+                  "outer_alineas": [
+                    {
+                      "text": "La surface des produits indiqu\u00e9s dans le tableau figurant au point 3 est d\u00e9finie comme \u00e9tant l'aire calcul\u00e9e sur la base de la surface de rev\u00eatement \u00e9lectrophor\u00e9tique totale et l'aire de toutes les parties qui sont \u00e9ventuellement ajout\u00e9es lors d'\u00e9tapes successives du traitement et qui re\u00e7oivent le m\u00eame rev\u00eatement que celui utilis\u00e9 pour le produit en question, ou l'aire totale du produit trait\u00e9 dans l'installation."
+                    },
+                    {
+                      "text": "L'aire de la surface de rev\u00eatement \u00e9lectrophor\u00e9tique est calcul\u00e9e \u00e0 l'aide de la formule suivante :"
+                    },
+                    {
+                      "text": "2 \u00d7 poids total de la coque"
+                    },
+                    {
+                      "text": "Epaisseur moyenne de la t\u00f4le \u00d7 densit\u00e9 de la t\u00f4le"
+                    },
+                    {
+                      "text": "Cette m\u00e9thode est appliqu\u00e9e \u00e9galement pour d'autres parties en t\u00f4le."
+                    },
+                    {
+                      "text": "La conception assist\u00e9e par ordinateur ou d'autres m\u00e9thodes \u00e9quivalentes sont utilis\u00e9es pour le calcul de l'aire des autres parties ajout\u00e9es ou de l'aire totale trait\u00e9e dans l'installation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. Annexe II",
+                  "sections": [],
+                  "title": {
+                    "text": "2."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "ee85fAAefd37",
+                  "outer_alineas": [
+                    {
+                      "text": "Dans le tableau ci-dessous, les valeurs limites d'\u00e9mission totale se rapportent \u00e0 toutes les \u00e9tapes des op\u00e9rations qui se d\u00e9roulent dans la m\u00eame installation, de l'application par \u00e9lectrophor\u00e8se ou par tout autre proc\u00e9d\u00e9 de rev\u00eatement jusqu'au polissage de la couche de finition, ainsi qu'au solvant utilis\u00e9 pour le nettoyage du mat\u00e9riel, y compris la zone de pulv\u00e9risation et autre \u00e9quipement fixe, tant pendant la dur\u00e9e du processus de production qu'en dehors de celui-ci."
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nActivit\u00e9s (seuil de consommation de solvant en tonnes/an)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nSeuil de production (production annuelle du produit trait\u00e9)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 2,
+                                "content": {
+                                  "text": "\nValeur limite d'\u00e9mission totale"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nInstallations existantes au sens de la directive"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nAutres installations"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nRev\u00eatement d'automobiles neuves (> 15)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n> 5 000"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n60g/m2 ou\n1,9 kg/carrosserie + 41 g/m2"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n45 g/m2 ou\n1,3 kg/carrosserie + 33 g/m2"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n< ou = 5 000 (monocoque) ou > 3 500 (ch\u00e2ssis)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n90 g/m2 ou\n1,5 kg/carrosserie + 70g/m2"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n90 g/m2 ou 1,5 kg/carrosserie + 70 g/m2"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 2,
+                                "content": {
+                                  "text": "\nValeur limite d'\u00e9mission totale (g/m2)"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nRev\u00eatement de cabines de camion neuves (> 15)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n< ou = 5 000"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n85 g/m2"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n65 g/m2"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n> 5 000"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n75 g/m2"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n55 g/m2"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nRev\u00eatement de camionnettes et camions neufs (> 15)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n< ou = 2 500"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n120"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n90"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n> 2 500"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n90"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n70"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nRev\u00eatement d'autobus neufs (> 15)"
+                                },
+                                "rowspan": 2
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n< ou = 2 000"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n290"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n210"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n> 2 000"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n225"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n150"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. Annexe II",
+                  "sections": [],
+                  "title": {
+                    "text": "3."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "105B80e2A31e",
+                  "outer_alineas": [
+                    {
+                      "text": "Les installations de rev\u00eatement de v\u00e9hicules qui n'atteignent pas le seuil de consommation de solvant indiqu\u00e9 dans le tableau figurant au point 3 satisfont aux exigences applicables au secteur de retouche des v\u00e9hicules \u00e9nonc\u00e9es dans l'annexe I."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. Annexe II",
+                  "sections": [],
+                  "title": {
+                    "text": "4."
+                  }
+                }
+              ],
+              "title": {
+                "text": "ANNEXE II - VALEURS LIMITES D'\u00c9MISSION APPLICABLES AUX INSTALLATIONS DE L'INDUSTRIE DE REV\u00caTEMENT DE V\u00c9HICULES"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 13/12/19 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations relevant du r\u00e9gime de la d\u00e9claration au titre de la rubrique n\u00b0 1978 (installations et activit\u00e9s utilisant des solvants organiques) de la nomenclature des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": [
+    {
+      "text": "Vu le r\u00e8glement (CE) n\u00b0 1907/2006 du Parlement europ\u00e9en et du Conseil du 18 d\u00e9cembre 2006 concernant l'enregistrement, l'\u00e9valuation et l'autorisation des substances chimiques, ainsi que les restrictions applicables \u00e0 ces substances (REACH), et instituant une Agence europ\u00e9enne des substances chimiques ;"
+    },
+    {
+      "text": "Vu le r\u00e8glement CE n\u00b0 1272/2008 du 16 d\u00e9cembre 2008 relatif \u00e0 la classification, \u00e0 l'\u00e9tiquetage et \u00e0 l'emballage des substances et des m\u00e9langes (dit CLP) ;"
+    },
+    {
+      "text": "Vu la directive 2010/75/UE du Parlement et du Conseil du 24 novembre 2010 relative aux \u00e9missions industrielles notamment le chapitre V et l'annexe VII ;"
+    },
+    {
+      "text": "Vu la directive 2004/42/CE du Parlement europ\u00e9en et du Conseil du 21 avril 2004 ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        },
+        {
+          "content_size": 38,
+          "position": 72,
+          "target": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039291739&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, notamment le titre Ier du livre V, et le d\u00e9cret n\u00b0 2019-1096 du 28 octobre 2019 modifiant la nomenclature des installations class\u00e9es pour la protection de l'environnement et cr\u00e9ant la rubrique 1978 ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 relatif aux pr\u00e9l\u00e8vements et \u00e0 la consommation d'eau ainsi qu'aux \u00e9missions de toute nature des installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation ;"
+    },
+    {
+      "text": "Vu l'avis des organisations professionnelles int\u00e9ress\u00e9es ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 46,
+          "position": 132,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000032975869&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu les observations formul\u00e9es lors de la consultation du public r\u00e9alis\u00e9e du 11 octobre 2019 au 4 novembre 2019, en application de l'article L. 123-19-1 du code de l'environnement ;"
+    },
+    {
+      "text": "Vu l'avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques en date du 8 novembre 2019,"
+    }
+  ]
+}

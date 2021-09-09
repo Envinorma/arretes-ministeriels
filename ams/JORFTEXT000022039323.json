@@ -1,0 +1,1106 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/4141",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2260",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2260"
+    }
+  ],
+  "date_of_signature": "2010-02-18",
+  "id": "JORFTEXT000022039323",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022039323",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b9EA901A6B7B",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cF7428aCdb9D",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions applicables pour la pr\u00e9vention des risques accidentels, aux installations :"
+            },
+            {
+              "text": "\u2015 autoris\u00e9es au titre de la rubrique 2260 de la nomenclature des installations class\u00e9es ;"
+            },
+            {
+              "text": "\u2015 et correspondant \u00e0 l'une des activit\u00e9s suivantes : meuneries, rizeries, semouleries de bl\u00e9 dur et de ma\u00efs et usines de fabrication d'aliments compos\u00e9s pour animaux."
+            },
+            {
+              "text": "Les stockages faisant partie int\u00e9grante du processus de production sont r\u00e9gis par les dispositions du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "En revanche, les prescriptions de cet arr\u00eat\u00e9 ne sont pas applicables aux capacit\u00e9s de stockage type vrac quelle que soit leur conception, situ\u00e9es en amont et en aval des ateliers de transformation et aux \u00e9quipements associ\u00e9s suivants :"
+            },
+            {
+              "text": "\u2015 les fosses de r\u00e9ception, les galeries de manutention, les dispositifs de transport (\u00e9l\u00e9vateurs, transporteur \u00e0 cha\u00eene, transporteur \u00e0 bande, transporteur pneumatique) et de distribution des produits (en galerie ou en fosse), les \u00e9quipements auxiliaires (\u00e9pierreurs, tarares, d\u00e9poussi\u00e9reurs, tamiseurs, s\u00e9parateurs magn\u00e9tiques ou tout autre dispositif permettant l'\u00e9limination de corps \u00e9trangers) ;"
+            },
+            {
+              "text": "\u2015 les tr\u00e9mies de vidange et de stockage des poussi\u00e8res."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE IER : DOMAINE D'APPLICATION"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DISPOSITIONS_GENERALES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "8A6e8f4Dc5B5",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1663bdDD24A9",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant d\u00e9finit dans une \u00e9tude de dangers les mesures techniques et organisationnelles propres \u00e0 r\u00e9duire la probabilit\u00e9 d'occurrence, la cin\u00e9tique, l'intensit\u00e9 des effets et la gravit\u00e9 des cons\u00e9quences des accidents potentiels. Il assure le maintien dans le temps de leurs performances."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3f8fAb44E2d6",
+          "outer_alineas": [
+            {
+              "text": "L'exploitation se fait sous la surveillance d'une personne nomm\u00e9ment d\u00e9sign\u00e9e par l'exploitant et sp\u00e9cialement form\u00e9e aux caract\u00e9ristiques de l'installation et aux questions de s\u00e9curit\u00e9."
+            },
+            {
+              "text": "L'ensemble du personnel, y compris int\u00e9rimaire ou saisonnier, re\u00e7oit une formation sp\u00e9cifique aux risques particuliers li\u00e9s \u00e0 l'activit\u00e9 de l'\u00e9tablissement. Cette formation fait l'objet d'un plan formalis\u00e9. Elle est mise \u00e0 jour et renouvel\u00e9e r\u00e9guli\u00e8rement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "Article 3"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c68ac3aAe463",
+          "outer_alineas": [
+            {
+              "text": "Les consignes de s\u00e9curit\u00e9 et les proc\u00e9dures d'exploitation de l'ensemble des installations comportent explicitement la liste d\u00e9taill\u00e9e des contr\u00f4les \u00e0 effectuer en marche normale, au d\u00e9marrage, lors de nettoyages, de p\u00e9riodes de maintenance, en fonctionnement d\u00e9grad\u00e9, \u00e0 la suite d'un arr\u00eat pour travaux de modification ou d'entretien des installations et \u00e0 la remise en service de celles-ci en cas d'incident grave ou d'accident. Les consignes de s\u00e9curit\u00e9 sont tenues \u00e0 jour et affich\u00e9es dans les lieux fr\u00e9quent\u00e9s par le personnel. Les proc\u00e9dures d'exploitation sont tenues \u00e0 jour et mises \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Il est interdit de fumer dans l'ensemble des installations."
+            },
+            {
+              "text": "La r\u00e9alisation de travaux susceptibles de cr\u00e9er des points chauds dans ces zones fait l'objet d'un permis de feu, d\u00e9livr\u00e9 et d\u00fbment sign\u00e9 par l'exploitant ou par la personne qu'il a nomm\u00e9ment d\u00e9sign\u00e9e et par le personnel devant ex\u00e9cuter les travaux."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [],
+          "title": {
+            "text": "Article 4"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EE5bdFe997cE",
+          "outer_alineas": [
+            {
+              "text": "Tout \u00e9v\u00e9nement susceptible de constituer un pr\u00e9curseur d'explosion ou d'incendie est consign\u00e9 dans un registre tenu \u00e0 la disposition de l'inspection des installations class\u00e9es. L'exploitant r\u00e9alise annuellement une analyse des causes possibles de ces \u00e9v\u00e9nements afin de pr\u00e9venir l'apparition d'accidents. Cette analyse est tenue \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE II : DISPOSITIONS GENERALES"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C3EaAbCd5Ec6",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ba21637a52a2",
+          "outer_alineas": [
+            {
+              "text": "Les installations nouvelles sont implant\u00e9es \u00e0 une distance d'au moins 10 m\u00e8tres des limites de propri\u00e9t\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2010-08-18",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "fe7c9952bACb",
+          "outer_alineas": [
+            {
+              "text": "Sans pr\u00e9judice de r\u00e9glementations sp\u00e9cifiques, toutes dispositions sont prises afin que les personnes non autoris\u00e9es ou en dehors de toute surveillance ne puissent pas avoir acc\u00e8s aux installations (par exemple : cl\u00f4ture, panneaux d'interdiction de p\u00e9n\u00e9trer, proc\u00e9dures d'identification \u00e0 respecter)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [],
+          "title": {
+            "text": "Article 7"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE III : IMPLANTATION ET AMENAGEMENT GENERAL"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ADBB972b4Af1",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "de1149252239",
+          "outer_alineas": [
+            {
+              "text": "Les structures porteuses abritant l'installation pr\u00e9sentent la caract\u00e9ristique de r\u00e9action au feu minimale suivante : mat\u00e9riaux de classe A1."
+            },
+            {
+              "text": "Les b\u00e2timents abritant l'installation pr\u00e9sentent les caract\u00e9ristiques de r\u00e9sistance au feu minimales suivantes :"
+            },
+            {
+              "text": "\u2015 murs et murs s\u00e9paratifs REI 120 ;"
+            },
+            {
+              "text": "\u2015 planchers EI 120 et structures porteuses de planchers R 120 ;"
+            },
+            {
+              "text": "\u2015 portes et fermetures r\u00e9sistantes au feu (y compris celles comportant des vitrages et des quincailleries) et leurs dispositifs de fermeture EI 120."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2010-08-18",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2f9Fca9DD9C4",
+          "outer_alineas": [
+            {
+              "text": "Les installations sont \u00e9quip\u00e9es en partie haute de dispositifs permettant l'\u00e9vacuation naturelle des fum\u00e9es, gaz de combustion, chaleur et produits imbr\u00fbl\u00e9s d\u00e9gag\u00e9s en cas d'incendie (lanterneaux en toiture, ouvrants en fa\u00e7ade ou tout autre dispositif \u00e9quivalent). Les exutoires \u00e0 commandes automatiques ou manuelles font partie de ces dispositifs."
+            },
+            {
+              "text": "Les dispositifs d'\u00e9vacuation naturelle de fum\u00e9es et de chaleur sont conformes aux normes en vigueur et sont adapt\u00e9s aux risques particuliers de l'installation."
+            },
+            {
+              "text": "La surface utile d'ouverture de l'ensemble des exutoires (y compris les dispositifs d'\u00e9vacuation naturelle de fum\u00e9es et de chaleur) n'est pas inf\u00e9rieure \u00e0 :"
+            },
+            {
+              "text": "\u2015 2 % de la superficie des locaux, si celle-ci est inf\u00e9rieure \u00e0 1 600 m\u00e8tres carr\u00e9s ;"
+            },
+            {
+              "text": "\u2015 une valeur \u00e0 d\u00e9terminer selon la nature des risques si la superficie \u00e0 d\u00e9senfumer est sup\u00e9rieure \u00e0 1 600 m\u00e8tres carr\u00e9s, sans pouvoir \u00eatre inf\u00e9rieure \u00e0 2 % de la superficie totale des locaux."
+            },
+            {
+              "text": "En exploitation normale, le r\u00e9armement (fermeture) des exutoires \u00e0 commandes automatiques ou manuelles est possible depuis le sol ou depuis la zone \u00e0 d\u00e9senfumer. Les commandes d'ouverture manuelle sont plac\u00e9es \u00e0 proximit\u00e9 des acc\u00e8s."
+            },
+            {
+              "text": "Ces dispositifs pr\u00e9sentent, en r\u00e9f\u00e9rence \u00e0 la norme NF EN 12 101-2, version octobre 2003, les caract\u00e9ristiques suivantes :"
+            },
+            {
+              "text": "\u2015 syst\u00e8me d'ouverture de type B (ouverture + fermeture) ;"
+            },
+            {
+              "text": "\u2015 fiabilit\u00e9 : classe RE 300 (300 cycles de mise en s\u00e9curit\u00e9). Les exutoires bi-fonction sont soumis \u00e0 10 000 cycles d'ouverture en position d'a\u00e9ration ;"
+            },
+            {
+              "text": "\u2015 la classification de la surcharge neige \u00e0 l'ouverture est SL 250 (25 daN/m\u00b2) pour des altitudes inf\u00e9rieures ou \u00e9gales \u00e0 400 m\u00e8tres et SL 500 (50 daN/m\u00b2) pour des altitudes sup\u00e9rieures \u00e0 400 m\u00e8tres et inf\u00e9rieures ou \u00e9gales \u00e0 800 m\u00e8tres. La classe SL 0 est utilisable si la r\u00e9gion d'implantation n'est pas susceptible d'\u00eatre enneig\u00e9e ou si des dispositions constructives emp\u00eachent l'accumulation de la neige. Au-dessus de 800 m\u00e8tres, les exutoires sont de la classe SL 500 et install\u00e9s avec des dispositions constructives emp\u00eachant l'accumulation de la neige ;"
+            },
+            {
+              "text": "\u2015 classe de temp\u00e9rature ambiante T (00) ;"
+            },
+            {
+              "text": "\u2015 classe d'exposition \u00e0 la chaleur B 300."
+            },
+            {
+              "text": "Des amen\u00e9es d'air frais d'une surface libre \u00e9gale \u00e0 la surface g\u00e9om\u00e9trique de l'ensemble des dispositifs d'\u00e9vacuation sont r\u00e9alis\u00e9es en partie inf\u00e9rieure des locaux."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2010-08-18",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7Bae8Ab7E6b5",
+          "outer_alineas": [
+            {
+              "text": "L'installation dispose en permanence d'un acc\u00e8s pour permettre l'intervention des services d'incendie et de secours. On entend par acc\u00e8s au d\u00e9p\u00f4t une ouverture reliant la voie publique et l'int\u00e9rieur du site suffisamment dimensionn\u00e9e pour permettre l'entr\u00e9e des engins de secours."
+            },
+            {
+              "text": "Les v\u00e9hicules dont la pr\u00e9sence est li\u00e9e \u00e0 l'exploitation de l'\u00e9tablissement stationnent sans occasionner de g\u00eane pour l'accessibilit\u00e9 des engins des services de secours depuis les voies de circulation externes au d\u00e9p\u00f4t, m\u00eame en dehors des heures d'exploitation et d'ouverture du d\u00e9p\u00f4t."
+            },
+            {
+              "text": "Une voie \u00ab engins \u00bb au moins est maintenue d\u00e9gag\u00e9e pour la circulation sur le p\u00e9rim\u00e8tre du d\u00e9p\u00f4t et est positionn\u00e9e de fa\u00e7on \u00e0 ne pouvoir \u00eatre obstru\u00e9e par l'effondrement de tout ou partie du d\u00e9p\u00f4t."
+            },
+            {
+              "text": "Cette voie \u00ab engins \u00bb respecte les caract\u00e9ristiques suivantes :"
+            },
+            {
+              "text": "\u2015 la largeur utile est au minimum de 3 m\u00e8tres, la hauteur libre au minimum de 3,50 m\u00e8tres et la pente inf\u00e9rieure \u00e0 15 % ;"
+            },
+            {
+              "text": "\u2015 dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50  m\u00e8tres, un rayon int\u00e9rieur R minimal de 11 m\u00e8tres est maintenu et une surlargeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+            },
+            {
+              "text": "\u2015 la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci \u00e9tant distants de 3,60 m\u00e8tres au maximum ;"
+            },
+            {
+              "text": "\u2015 chaque point du p\u00e9rim\u00e8tre du d\u00e9p\u00f4t est \u00e0 une distance maximale de 60 m\u00e8tres de cette voie ;"
+            },
+            {
+              "text": "\u2015 aucun obstacle n'est dispos\u00e9 entre le d\u00e9p\u00f4t et la voie \u00ab engins \u00bb."
+            },
+            {
+              "text": "En cas d'impossibilit\u00e9 de mise en place d'une voie \u00ab engins \u00bb permettant la circulation sur l'int\u00e9gralit\u00e9 du p\u00e9rim\u00e8tre du d\u00e9p\u00f4t et si tout ou partie de la voie est en impasse, les 40 derniers m\u00e8tres de la partie de la voie en impasse sont d'une largeur utile minimale de 7 m\u00e8tres et une aire de retournement de 10 m\u00e8tres de diam\u00e8tre est pr\u00e9vue \u00e0 son extr\u00e9mit\u00e9."
+            },
+            {
+              "text": "Pour permettre le croisement des engins de secours, tout tron\u00e7on de voie \u00ab engins \u00bb de plus de 100 m\u00e8tres lin\u00e9aires dispose d'au moins deux aires dites \u00ab de croisement \u00bb, judicieusement positionn\u00e9es, dont les caract\u00e9ristiques sont :"
+            },
+            {
+              "text": "\u2015 largeur utile minimale de 3 m\u00e8tres en plus de la voie \u00ab engins \u00bb;"
+            },
+            {
+              "text": "\u2015 longueur minimale de 10 m\u00e8tres pr\u00e9sentant a minima les m\u00eames qualit\u00e9s de pente, de force portante et de hauteur libre que la voie \u00ab engins \u00bb."
+            },
+            {
+              "text": "Pour tout d\u00e9p\u00f4t en b\u00e2timent de hauteur sup\u00e9rieure \u00e0 15 m\u00e8tres, au moins une fa\u00e7ade est desservie par au moins une voie \u00ab \u00e9chelle \u00bb permettant la circulation et la mise en station des \u00e9chelles a\u00e9riennes."
+            },
+            {
+              "text": "Depuis cette voie, une \u00e9chelle acc\u00e9dant \u00e0 au moins toute la hauteur du b\u00e2timent peut \u00eatre dispos\u00e9e. La voie respecte par ailleurs les caract\u00e9ristiques suivantes :"
+            },
+            {
+              "text": "\u2015 la largeur utile est au minimum de 4 m\u00e8tres, la longueur de l'aire de stationnement au minimum de 10 m\u00e8tres, la pente au maximum de 10 % ;"
+            },
+            {
+              "text": "\u2015 dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50 m\u00e8tres, un rayon int\u00e9rieur R minimal de 11 m\u00e8tres est maintenu et une surlargeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+            },
+            {
+              "text": "\u2015 aucun obstacle a\u00e9rien ne doit g\u00eaner la man\u0153uvre de ces \u00e9chelles \u00e0 la verticale de l'ensemble de la voie ;"
+            },
+            {
+              "text": "\u2015 la distance par rapport \u00e0 la fa\u00e7ade est de 1 m\u00e8tre minimum et 8 m\u00e8tres maximum pour un stationnement parall\u00e8le au b\u00e2timent et inf\u00e9rieure \u00e0 1 m\u00e8tre pour un stationnement perpendiculaire au b\u00e2timent ;"
+            },
+            {
+              "text": "\u2015 la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci \u00e9tant distants de 3,60 m\u00e8tres au maximum et pr\u00e9sente une r\u00e9sistance au poin\u00e7onnement minimale de 80 N/cm\u00b2."
+            },
+            {
+              "text": "Par ailleurs, pour tout d\u00e9p\u00f4t couvert de plusieurs niveaux poss\u00e9dant au moins un plancher situ\u00e9 \u00e0 une hauteur sup\u00e9rieure \u00e0 8 m\u00e8tres par rapport au niveau d'acc\u00e8s des secours, sur au moins deux fa\u00e7ades, une voie \u00ab \u00e9chelle \u00bb permet d'acc\u00e9der \u00e0 des ouvertures."
+            },
+            {
+              "text": "Cette voie \u00ab \u00e9chelle \u00bb respecte les caract\u00e9ristiques d\u00e9crites pr\u00e9c\u00e9demment."
+            },
+            {
+              "text": "Ces ouvertures permettent au moins un acc\u00e8s par \u00e9tage pour chacune des fa\u00e7ades disposant de voie \u00ab \u00e9chelle \u00bb et pr\u00e9sentent une hauteur minimale de 1,80 m\u00e8tre et une largeur minimale de 0,9 m\u00e8tre. Les panneaux d'obturation ou les ch\u00e2ssis composant ces acc\u00e8s doivent s'ouvrir et demeurer toujours accessibles de l'ext\u00e9rieur et de l'int\u00e9rieur. Ils doivent \u00eatre ais\u00e9ment rep\u00e9rables de l'ext\u00e9rieur par les services de secours."
+            },
+            {
+              "text": "A partir de chaque voie \u00ab engins \u00bb ou \u00ab \u00e9chelle \u00bb est pr\u00e9vu :"
+            },
+            {
+              "text": "\u2015 pour un d\u00e9p\u00f4t couvert, un acc\u00e8s \u00e0 toutes les issues du b\u00e2timent par un chemin stabilis\u00e9 de 1,40 m\u00e8tre de large au minimum ;"
+            },
+            {
+              "text": "\u2015 pour un d\u00e9p\u00f4t ext\u00e9rieur, un chemin stabilis\u00e9 de 1,40 m\u00e8tre de large au minimum permettant d'acc\u00e9der en deux endroits diff\u00e9rents au d\u00e9p\u00f4t en vue de l'atteindre quelles que soient les conditions de vent."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2010-08-18",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE IV : COMPORTEMENT AU FEU DES BATIMENTS  ET ACCESSIBILITE"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d34fCcD74C9f",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "DC4C8Aaf7Db4",
+          "outer_alineas": [
+            {
+              "links": [
+                {
+                  "content_size": 15,
+                  "position": 215,
+                  "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid"
+                }
+              ],
+              "text": "L'exploitant met en place les mesures de pr\u00e9vention adapt\u00e9es aux installations et aux produits, permettant de limiter la probabilit\u00e9 d'occurrence d'une explosion ou d'un incendie, sans pr\u00e9judice des dispositions du code du travail. Il assure le maintien dans le temps de leurs performances."
+            },
+            {
+              "text": "Dans les locaux de l'\u00e9tablissement susceptibles d'\u00eatre \u00e0 l'origine d'un incendie identifi\u00e9s dans l'\u00e9tude de dangers, les installations \u00e9lectriques, y compris les canalisations, sont conformes aux prescriptions de l'article 422 de la norme NF C 15-100, version novembre 2008."
+            },
+            {
+              "text": "Les installations sont efficacement prot\u00e9g\u00e9es contre les risques li\u00e9s aux effets de l'\u00e9lectricit\u00e9 statique, des courants vagabonds et de la foudre."
+            },
+            {
+              "text": "Les appareils et syst\u00e8mes de protection susceptibles d'\u00eatre \u00e0 l'origine d'explosions, notamment lorsqu'ils ont \u00e9t\u00e9 identifi\u00e9s dans l'\u00e9tude de dangers, au minimum :"
+            },
+            {
+              "links": [
+                {
+                  "content_size": 34,
+                  "position": 191,
+                  "target": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000196772&categorieLien=cid"
+                }
+              ],
+              "text": "\u2015 appartiennent aux cat\u00e9gories 1D, 2D ou 3D pour le groupe d'appareils II (la lettre \u00ab D \u00bb concernant les atmosph\u00e8res explosives dues \u00e0 la pr\u00e9sence de poussi\u00e8res) telles que d\u00e9finies dans le d\u00e9cret du 19 novembre 1996 susvis\u00e9 ;"
+            },
+            {
+              "text": "\u2015 ou disposent d'une \u00e9tanch\u00e9it\u00e9 correspondant \u00e0 un indice de protection IP 5X minimum (enveloppes \u00ab prot\u00e9g\u00e9es contre les poussi\u00e8res \u00bb dans le cas de poussi\u00e8res isolantes, norme NF 60-529), et poss\u00e8dent une temp\u00e9rature de surface au plus \u00e9gale au minimum : des deux tiers de la temp\u00e9rature d'inflammation en nuage, et de la temp\u00e9rature d'inflammation en couche de 5 mm diminu\u00e9e de 75 \u00b0C."
+            },
+            {
+              "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es un rapport annuel. Ce rapport est constitu\u00e9 des pi\u00e8ces suivantes :"
+            },
+            {
+              "text": "\u2015 l'avis d'un organisme comp\u00e9tent sur les mesures prises pour pr\u00e9venir les risques li\u00e9s aux effets de l'\u00e9lectricit\u00e9 statique et des courants vagabonds ;"
+            },
+            {
+              "text": "\u2015 l'avis d'un organisme comp\u00e9tent sur la conformit\u00e9 des installations \u00e9lectriques et du mat\u00e9riel utilis\u00e9 aux dispositions du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "Un suivi formalis\u00e9 de la prise en compte des conclusions du rapport est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Un programme de maintenance est mis en place, permettant de pr\u00e9venir les sources d'inflammation d'origine m\u00e9canique."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6E50DC37Abfb",
+          "outer_alineas": [
+            {
+              "links": [
+                {
+                  "content_size": 15,
+                  "position": 196,
+                  "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid"
+                }
+              ],
+              "text": "L'exploitant met en place les mesures de protection adapt\u00e9es aux installations permettant de limiter les effets d'une explosion et d'en emp\u00eacher sa propagation, sans pr\u00e9judice des dispositions du code du travail. Il assure le maintien dans le temps de leurs performances."
+            },
+            {
+              "text": "Les lignes d'\u00e9quipements de manutention (\u00e9l\u00e9vateurs, transporteurs, d\u00e9poussi\u00e9reurs, nettoyeurs, s\u00e9parateurs, broyeurs) sont au minimum rendues aussi \u00e9tanches que possible et sont \u00e9quip\u00e9es d'une aspiration ou sont mises en d\u00e9pression, afin de limiter les \u00e9missions de poussi\u00e8res inflammables."
+            },
+            {
+              "text": "Dans le cas o\u00f9 l'\u00e9tanch\u00e9it\u00e9 des \u00e9quipements ne serait pas techniquement r\u00e9alisable, d'autres moyens techniques adapt\u00e9s permettant de limiter les \u00e9missions de poussi\u00e8res peuvent \u00eatre autoris\u00e9s par le pr\u00e9fet apr\u00e8s justification."
+            },
+            {
+              "text": "L'exploitant remet \u00e9galement une \u00e9tude technico-\u00e9conomique proposant des moyens techniques pour r\u00e9duire les effets des explosions et \u00e9viter leur propagation par :"
+            },
+            {
+              "text": "\u2015 la mise en place de surfaces \u00e9ventables ou un dimensionnement des \u00e9quipements qui r\u00e9siste \u00e0 l'explosion ou la mise en place de dispositifs de suppression de l'explosion ;"
+            },
+            {
+              "text": "\u2015 la mise en place d'un d\u00e9couplage permettant d'\u00e9viter que l'explosion ne se propage dans une canalisation ou par une alimentation ou la pose d'un dispositif d'isolation de l'explosion."
+            },
+            {
+              "text": "Les transporteurs \u00e0 bandes sont \u00e9quip\u00e9s de bandes non propagatrices de la flamme."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "A9E2E91FdccD",
+          "outer_alineas": [
+            {
+              "text": "L'\u00e9tablissement est pourvu en moyens de lutte contre l'incendie adapt\u00e9s aux risques encourus, en nombre suffisant et correctement r\u00e9partis sur la superficie \u00e0 prot\u00e9ger, a minima :"
+            },
+            {
+              "text": "\u2015 d'un ou plusieurs appareils d'incendie (bouches, poteaux, par exemple) implant\u00e9s de telle sorte que tout point de la limite du d\u00e9p\u00f4t se trouve \u00e0 moins de 100 m\u00e8tres d'un appareil. Ce r\u00e9seau d'eau, public ou priv\u00e9, permet de fournir en toutes circonstances un d\u00e9bit minimal de 60 m\u00b3/h pendant deux heures et la quantit\u00e9 d'eau d'extinction et de refroidissement n\u00e9cessaires en fonction des risques pr\u00e9sent\u00e9s par l'\u00e9tablissement. A d\u00e9faut, une r\u00e9serve d'eau destin\u00e9e \u00e0 l'extinction est accessible en toutes circonstances et \u00e0 une distance du d\u00e9p\u00f4t permettant l'intervention des services d\u00e9partementaux d'incendie et de secours. Cette distance est fix\u00e9e apr\u00e8s avis des services d\u00e9partementaux d'incendie et de secours ;"
+            },
+            {
+              "text": "\u2015 et d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des locaux, sur les aires ext\u00e9rieures et les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits stock\u00e9s ;"
+            },
+            {
+              "text": "\u2015 et d'un moyen permettant d'alerter les services d'incendie et de secours."
+            },
+            {
+              "text": "Les canalisations constituant le r\u00e9seau d'incendie sont ind\u00e9pendantes du r\u00e9seau d'eau industrielle. Leurs sections sont calcul\u00e9es pour obtenir les d\u00e9bits et pressions n\u00e9cessaires en n'importe quel emplacement."
+            },
+            {
+              "text": "Les emplacements des bouches d'incendie, des colonnes s\u00e8ches ou des extincteurs sont mat\u00e9rialis\u00e9s sur les sols et b\u00e2timents (par exemple, au moyen de pictogrammes). Les bouches, poteaux incendie ou prises d'eau diverses qui \u00e9quipent le r\u00e9seau sont prot\u00e9g\u00e9s contre le gel et sont munis de raccords normalis\u00e9s. Ils sont judicieusement r\u00e9partis dans l'installation. Ces \u00e9quipements sont accessibles en toute circonstance."
+            },
+            {
+              "text": "Le r\u00e9seau d'eau incendie est conforme aux normes et aux r\u00e9glementations en vigueur."
+            },
+            {
+              "text": "Les installations de protection contre l'incendie sont correctement entretenues et maintenues en bon \u00e9tat de marche. Elles font l'objet de v\u00e9rifications p\u00e9riodiques."
+            },
+            {
+              "text": "Des proc\u00e9dures d'intervention pour la gestion des situations d'urgence sont r\u00e9dig\u00e9es par l'exploitant et communiqu\u00e9es aux services de secours. Elles comportent notamment :"
+            },
+            {
+              "text": "\u2015 le plan des installations avec indication :"
+            },
+            {
+              "text": "\u2015 des ph\u00e9nom\u00e8nes dangereux (incendie, explosion, etc.) susceptibles d'appara\u00eetre ;"
+            },
+            {
+              "text": "\u2015 les moyens de lutte contre l'incendie ;"
+            },
+            {
+              "text": "\u2015 les dispositifs destin\u00e9s \u00e0 faciliter l'intervention des services d'incendie et de secours ;"
+            },
+            {
+              "text": "\u2015 les strat\u00e9gies d'intervention de l'exploitant en cas de sinistre."
+            },
+            {
+              "text": "Les \u00e9l\u00e9ments d'information n\u00e9cessaires \u00e0 l'\u00e9vacuation du personnel et \u00e0 l'intervention des services de secours sont affich\u00e9s en des endroits fr\u00e9quent\u00e9s par le personnel. De plus, ils sont mat\u00e9rialis\u00e9s de mani\u00e8re apparente."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 13",
+          "sections": [],
+          "title": {
+            "text": "Article 13"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6e5aDBdCb103",
+          "outer_alineas": [
+            {
+              "text": "Les corps \u00e9trangers qui pourraient nuire au bon fonctionnement de la ligne de production sont s\u00e9par\u00e9s et \u00e9limin\u00e9s en amont des machines concourant \u00e0 la transformation des produits mis en \u0153uvre."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14",
+          "sections": [],
+          "title": {
+            "text": "Article 14"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b2536Cd9a5Cb",
+          "outer_alineas": [
+            {
+              "text": "Tous les locaux occup\u00e9s par du personnel sont d\u00e9barrass\u00e9s r\u00e9guli\u00e8rement des poussi\u00e8res recouvrant le sol, les parois, les chemins de c\u00e2bles, les gaines, les canalisations, les appareils et les \u00e9quipements et toutes les surfaces susceptibles d'en accumuler."
+            },
+            {
+              "text": "La fr\u00e9quence des nettoyages est fix\u00e9e sous la responsabilit\u00e9 de l'exploitant et pr\u00e9cis\u00e9e dans les proc\u00e9dures d'exploitation. Les dates de nettoyage sont indiqu\u00e9es sur un registre tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Le nettoyage est r\u00e9alis\u00e9 \u00e0 l'aide d'appareils qui pr\u00e9sentent toutes les garanties de s\u00e9curit\u00e9 n\u00e9cessaires pour \u00e9viter l'incendie et l'explosion."
+            },
+            {
+              "text": "L'utilisation de balais ou d'air comprim\u00e9 ne se produit qu'\u00e0 titre exceptionnel et fait l'objet de consignes particuli\u00e8res."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 15",
+          "sections": [],
+          "title": {
+            "text": "Article 15"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F93Bfe9f6F46",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant s'assure p\u00e9riodiquement que les conditions de stockage des produits (dur\u00e9e, taux d'humidit\u00e9, temp\u00e9rature, etc.) n'entra\u00eenent pas des d\u00e9gagements de gaz inflammables et de risques d'auto-\u00e9chauffement."
+            },
+            {
+              "text": "La temp\u00e9rature des produits stock\u00e9s susceptibles de fermenter est contr\u00f4l\u00e9e par des syst\u00e8mes de surveillance appropri\u00e9s et adapt\u00e9s aux installations et correctement r\u00e9partis. Dans ce cas, les relev\u00e9s de temp\u00e9rature donnent lieu \u00e0 un enregistrement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 16",
+          "sections": [],
+          "title": {
+            "text": "Article 16"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b5eF0Ac52E5f",
+          "outer_alineas": [
+            {
+              "text": "Les filtres \u00e0 manche identifi\u00e9s par l'\u00e9tude de dangers comme pouvant \u00eatre \u00e0 l'origine d'un accident majeur sont prot\u00e9g\u00e9s par des \u00e9vents (sauf impossibilit\u00e9 technique), qui, dans la mesure du possible, ne d\u00e9bouchent pas sur des zones o\u00f9 peuvent circuler des personnes, qu'il s'agisse du personnel du site ou des riverains."
+            },
+            {
+              "text": "Les syst\u00e8mes de d\u00e9poussi\u00e9rage et de transport des produits sont con\u00e7us de mani\u00e8re \u00e0 limiter les \u00e9missions de poussi\u00e8res. Ils sont \u00e9quip\u00e9s de dispositifs permettant la d\u00e9tection imm\u00e9diate d'un incident de fonctionnement et l'arr\u00eat de l'installation."
+            },
+            {
+              "text": "Les installations de manutention sont asservies au syst\u00e8me d'aspiration avec un double asservissement : elles ne d\u00e9marrent que si le syst\u00e8me d'aspiration est en fonctionnement, et, en cas d'arr\u00eat du syst\u00e8me d'aspiration, le circuit passe imm\u00e9diatement en phase de vidange et s'arr\u00eate une fois la vidange termin\u00e9e, ou s'arr\u00eate en cas d'arr\u00eat du syst\u00e8me d'aspiration, apr\u00e8s une \u00e9ventuelle temporisation adapt\u00e9e \u00e0 l'exploitation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 17",
+          "sections": [],
+          "title": {
+            "text": "Article 17"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE V : PREVENTION DES RISQUES D'EXPLOSION  ET D'INCENDIE ET MESURES DE PROTECTION"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "AC3Cdf6B68BC",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d3a8baAd1326",
+          "outer_alineas": [
+            {
+              "links": [
+                {
+                  "content_size": 19,
+                  "position": 317,
+                  "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006834249&dateTexte=&categorieLien=cid"
+                }
+              ],
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 est applicable aux installations nouvelles autoris\u00e9es post\u00e9rieurement \u00e0 la date de publication au Journal officiel de la R\u00e9publique fran\u00e7aise du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois ainsi qu'aux installations existantes faisant l'objet d'une nouvelle autorisation en application des dispositions de l'article L. 512-15 du code de l'environnement, post\u00e9rieurement \u00e0 la date de publication au Journal officiel de la R\u00e9publique fran\u00e7aise augment\u00e9e de six mois du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 18",
+          "sections": [],
+          "title": {
+            "text": "Article 18"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "45199d14dD20",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions des articles 1er et 15 du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes, post\u00e9rieurement \u00e0 la date de publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise augment\u00e9e de six mois."
+            },
+            {
+              "text": "Les dispositions des articles 4, 5 et 7 du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes dans un d\u00e9lai d'un an \u00e0 compter de sa publication."
+            },
+            {
+              "text": "Les dispositions des articles 2, 3 et 14 du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes dans un d\u00e9lai de deux ans \u00e0 compter de sa publication."
+            },
+            {
+              "text": "Les dispositions des articles 11, 12, 13, 16 et 17 du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes dans un d\u00e9lai de trois ans \u00e0 compter de sa publication."
+            },
+            {
+              "text": "Les dispositions des articles 6, 8, 9 et 10 ne sont pas applicables aux installations existantes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 19",
+          "sections": [],
+          "title": {
+            "text": "Article 19"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "36Ebbe6BED33",
+          "outer_alineas": [
+            {
+              "links": [
+                {
+                  "content_size": 19,
+                  "position": 176,
+                  "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006834249&dateTexte=&categorieLien=cid"
+                },
+                {
+                  "content_size": 9,
+                  "position": 198,
+                  "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006838710&dateTexte=&categorieLien=cid"
+                }
+              ],
+              "text": "Le pr\u00e9fet peut, pour les installations existantes qui font l'objet de modifications n\u00e9cessitant une nouvelle demande d'autorisation conform\u00e9ment aux dispositions combin\u00e9es des articles L. 512-15 et R. 512-33 du code de l'environnement, adapter par arr\u00eat\u00e9 les dispositions des articles 8, 9 et 10 du pr\u00e9sent arr\u00eat\u00e9 au regard des circonstances locales et particuli\u00e8res du site."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 20",
+          "sections": [],
+          "title": {
+            "text": "Article 20"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C513fFd2DE14",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "Article 21"
+          }
+        }
+      ],
+      "title": {
+        "text": "TITRE VI : MODALITES ET DELAIS D'APPLICATION"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 18/02/10 relatif \u00e0 la pr\u00e9vention des risques accidentels pr\u00e9sent\u00e9s par certaines installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation sous la rubrique n\u00b0 2260 \u00ab broyage, concassage, criblage, d\u00e9chiquetage, ensachage, pulv\u00e9risation, trituration, granulation, nettoyage, tamisage, blutage, m\u00e9lange, \u00e9pluchage et d\u00e9cortication des substances v\u00e9g\u00e9tales et de tous produits organiques naturels, y compris la fabrication d'aliments compos\u00e9s pour animaux, mais \u00e0 l'exclusion des activit\u00e9s vis\u00e9es par les rubriques 2220, 2221, 2225, 2226 \u00bb"
+  },
+  "visa": []
+}

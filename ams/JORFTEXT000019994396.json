@@ -1,0 +1,3130 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/35826",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": "1-a",
+      "regime": "A",
+      "rubrique": "1434",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [
+        "1-a"
+      ],
+      "regime": "A",
+      "rubrique": "1434"
+    }
+  ],
+  "date_of_signature": "2008-12-19",
+  "id": "JORFTEXT000019994396",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019994396",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E61755e787E8",
+      "outer_alineas": [
+        {
+          "text": "Les installations de remplissage ou de distribution soumises \u00e0 autorisation sous la rubrique n\u00b0 1434-1 sont soumises aux dispositions du pr\u00e9sent arr\u00eat\u00e9. Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations."
+        },
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 applicables aux liquides inflammables sont \u00e9galement applicables aux liquides combustibles de point \u00e9clair compris entre 60 \u00b0C et 93 \u00b0C, aux fiouls lourds et aux p\u00e9troles bruts."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E2FB512eAb9d",
+      "outer_alineas": [
+        {
+          "text": "Station-service : toute installation o\u00f9 les carburants sont transf\u00e9r\u00e9s de r\u00e9servoirs de stockage fixes dans les r\u00e9servoirs \u00e0 carburant de v\u00e9hicules \u00e0 moteur, de bateaux ou d'a\u00e9ronefs. Les stations-service peuvent \u00eatre ouvertes au public ou non ouvertes au public."
+        },
+        {
+          "text": "Aire de d\u00e9potage : surface d'arr\u00eat des v\u00e9hicules-citerne d\u00e9di\u00e9e aux op\u00e9rations d'approvisionnement des r\u00e9servoirs fixes de stockage. Cette surface englobe les zones situ\u00e9es entre les bouches de r\u00e9ception en produit des r\u00e9servoirs fixes et les vannes des r\u00e9servoirs mobiles ainsi que le cheminement des flexibles. Cette surface est au minimum un rectangle de 3 m\u00e8tres de large et de 4 m\u00e8tres de long."
+        },
+        {
+          "text": "Aire de distribution : surface accessible \u00e0 la circulation des v\u00e9hicules englobant les zones situ\u00e9es \u00e0 moins de 3 m\u00e8tres de la paroi des appareils de distribution."
+        },
+        {
+          "text": "Aire de remplissage : surface d'arr\u00eat d\u00e9di\u00e9e aux op\u00e9rations d'approvisionnement des r\u00e9servoirs mobiles dont la longueur ne peut \u00eatre inf\u00e9rieure \u00e0 la longueur desdits r\u00e9servoirs et englobant au minimum un rectangle de 3 m\u00e8tres de large et de 4 m\u00e8tres de long."
+        },
+        {
+          "text": "Cat\u00e9gorie A : cat\u00e9gorie relative \u00e0 l'oxyde d'\u00e9thyle, et \u00e0 tout liquide dont le point \u00e9clair est inf\u00e9rieur \u00e0 0 \u00b0C et dont la pression de vapeur saturante \u00e0 35 \u00b0C est sup\u00e9rieure \u00e0 105 pascals."
+        },
+        {
+          "text": "Cat\u00e9gorie B : cat\u00e9gorie relative \u00e0 tout liquide dont le point \u00e9clair est inf\u00e9rieur \u00e0 55 \u00b0C et qui ne r\u00e9pond pas \u00e0 la d\u00e9finition des liquides de cat\u00e9gorie A."
+        },
+        {
+          "text": "Cat\u00e9gorie C : cat\u00e9gorie relative \u00e0 tout liquide dont le point \u00e9clair est sup\u00e9rieur ou \u00e9gal \u00e0 55 \u00b0C et inf\u00e9rieur \u00e0 93 \u00b0C, sauf les fiouls lourds."
+        },
+        {
+          "text": "Cat\u00e9gorie D : cat\u00e9gorie relative aux fiouls lourds tels qu'ils sont d\u00e9finis par les sp\u00e9cifications administratives."
+        },
+        {
+          "text": "D\u00e9bit maximum \u00e9quivalent : somme des d\u00e9bits maximaux \u00e9quivalents des pompes pr\u00e9sentes dans une installation de remplissage et/ou de distribution."
+        },
+        {
+          "text": "D\u00e9canteur-s\u00e9parateur d'hydrocarbures : dispositif vers lequel les effluents susceptibles de contenir des hydrocarbures sont orient\u00e9s avant rejet. Ce dispositif permet de s\u00e9parer les mati\u00e8res en suspension et les hydrocarbures des eaux collect\u00e9es. Le d\u00e9canteur-s\u00e9parateur d'hydrocarbures est muni d'un dispositif d'obturation automatique, en sortie de s\u00e9parateur, en cas d'afflux d'hydrocarbures emp\u00eachant tout d\u00e9versement d'hydrocarbures dans le r\u00e9seau. Il est coupl\u00e9 de fa\u00e7on optionnelle \u00e0 une cuve de r\u00e9tention."
+        },
+        {
+          "text": "Ilot : ouvrage permettant l'implantation des appareils de distribution par rapport au niveau de l'aire de roulage des v\u00e9hicules et d'a\u00e9ronefs, ou de la voie navigable."
+        },
+        {
+          "text": "Installation de remplissage : \u00e9quipement d'un terminal permettant de charger des v\u00e9hicules-citernes, wagons-citernes ou bateaux-citernes. Cet \u00e9quipement comprend les pompes et tuyauteries de remplissage."
+        },
+        {
+          "text": "Libre-service surveill\u00e9 : une installation peut \u00eatre consid\u00e9r\u00e9e comme \u00e9tant en libre service surveill\u00e9 lorsque le transfert du produit est effectu\u00e9 sous la surveillance d'un personnel d'exploitation de permanence connaissant le fonctionnement des installations et capable de mettre en \u0153uvre les moyens de premi\u00e8re intervention en mati\u00e8re d'incendie et de protection de l'environnement. La surveillance est assur\u00e9e par un personnel d'exploitation pr\u00e9sent sur le site. La personne effectuant le transfert de produit est distincte de la personne assurant la surveillance."
+        },
+        {
+          "text": "Ne sont pas consid\u00e9r\u00e9es comme \u00e9tant en libre service les installations de remplissage et d'avitaillement dont l'acc\u00e8s et l'usage des installations sont strictement r\u00e9serv\u00e9s \u00e0 un personnel sp\u00e9cialement form\u00e9 \u00e0 cet effet et aux risques des produits manipul\u00e9s."
+        },
+        {
+          "text": "Libre-service sans surveillance : installations en libre service autres que celles consid\u00e9r\u00e9es comme surveill\u00e9es."
+        },
+        {
+          "text": "Terminal : un terminal est une installation de remplissage qui poss\u00e8de des \u00e9quipements de stockage de liquides, de chargement et de d\u00e9chargement de r\u00e9servoirs utilis\u00e9s pour le transport de liquides."
+        },
+        {
+          "text": "Super\u00e9thanol : carburant compos\u00e9 d'un minimum de 65 % d'\u00e9thanol d'origine agricole et d'un minimum de 15 % de supercarburant sans plomb."
+        },
+        {
+          "text": "Volume \u00e9quivalent : volume calcul\u00e9 avec la formule suivante 10A + B + C/5 + D/15, o\u00f9 A, B, C, D repr\u00e9sentent respectivement le volume distribu\u00e9 ou d\u00e9livr\u00e9 de liquide de cat\u00e9gorie A, B, C, D."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2 - D\u00e9finitions."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "e1f715AE3FA4",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EB80acB20c28",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.1.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "64DFB283edC9",
+              "outer_alineas": [
+                {
+                  "text": "L'implantation de nouvelles installations vis\u00e9es par le pr\u00e9sent arr\u00eat\u00e9 est interdite en rez-de-chauss\u00e9e d'un immeuble habit\u00e9 ou occup\u00e9 par des tiers ou en sous-sol, c'est-\u00e0-dire en dessous du niveau dit de r\u00e9f\u00e9rence."
+                },
+                {
+                  "text": "Le niveau de r\u00e9f\u00e9rence est celui de la voirie publique situ\u00e9e \u00e0 l'air libre et desservant la construction utilisable par les engins des services publics et de secours et de lutte contre l'incendie. S'il y a deux acc\u00e8s par des voies situ\u00e9es \u00e0 des niveaux diff\u00e9rents, le niveau de r\u00e9f\u00e9rence sera d\u00e9termin\u00e9 par la voie la plus basse."
+                },
+                {
+                  "text": "Par ailleurs, aucune bouche de d\u00e9potage ne d\u00e9bouche en sous-sol ou en rez-de-chauss\u00e9e d'un immeuble occup\u00e9 par des tiers. Cette disposition est applicable aux installations dont le dossier de demande d'autorisation est d\u00e9pos\u00e9 \u00e0 la date de publication du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois et \u00e0 compter du 1er janvier 2015 pour les installations existantes."
+                },
+                {
+                  "text": "A compter du 1er janvier 2020, la distribution de carburants de la cat\u00e9gorie B en rez-de-chauss\u00e9e d'un immeuble habit\u00e9 ou occup\u00e9 par des tiers ou en sous-sol n'est autoris\u00e9e que sous r\u00e9serve que l'installation soit \u00e9quip\u00e9e :"
+                },
+                {
+                  "text": "\u2015 d'un syst\u00e8me de d\u00e9tection des vapeurs d'hydrocarbures, d'une installation de ventilation d'urgence dont le d\u00e9clenchement est asservi au syst\u00e8me de d\u00e9tection et d'un arr\u00eat d'urgence automatique des appareils de distribution asservi \u00e0 ces m\u00eames d\u00e9tecteurs ;"
+                },
+                {
+                  "text": "\u2015 de syst\u00e8mes de r\u00e9cup\u00e9ration des vapeurs au remplissage des installations de stockage et au ravitaillement en essence des v\u00e9hicules \u00e0 moteur respectant les prescriptions de l'article 7 du pr\u00e9sent arr\u00eat\u00e9 et d'un syst\u00e8me de r\u00e9gulation \u00e9lectronique en boucle ferm\u00e9e respectant les prescriptions de l'article 7.3 du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.1.",
+              "sections": [],
+              "title": {
+                "text": "A."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FdcCbD8646c1",
+              "outer_alineas": [
+                {
+                  "text": "Les distances d'implantation (en m\u00e8tres) des issues d'un \u00e9tablissement recevant du public de 1re, 2e, 3e ou 4e cat\u00e9gorie, d'un immeuble habit\u00e9 ou occup\u00e9 par des tiers, ext\u00e9rieur \u00e0 l'\u00e9tablissement ou d'une installation ext\u00e9rieure \u00e0 l'\u00e9tablissement pr\u00e9sentant des risques d'incendie ou d'explosion suivantes sont observ\u00e9es :"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "CAT\u00c9GORIE B\nhors super\u00e9thanol\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "CAT\u00c9GORIE C\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "SUPER\u00c9THANOL\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": true
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "D\u00e9potage\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "19\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "17\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "14\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "D\u00e9potage s\u00e9curis\u00e9\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "13 (auvent)\n16 (extinction automatique)\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "14\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "11\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Distribution\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "17\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "14, 18, 21, 23 (*)\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "11\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Distribution s\u00e9curis\u00e9e\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "13\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "11, 15, 17, 19 (*)\n"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "8\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 4,
+                            "content": {
+                              "text": "(*) Ces distances s'entendent respectivement pour :\n\u2015 la distribution voiture ;\n\u2015 la distribution poids-lourds limit\u00e9e \u00e0 2,5 m\u00e8tres cubes par heure ;\n\u2015 la distribution poids-lourds sup\u00e9rieure \u00e0 2,5 m\u00e8tres cubes par heure et inf\u00e9rieure \u00e0 8 m\u00e8tres cubes par heure ;\n\u2015 la distribution poids-lourds sup\u00e9rieure \u00e0 8 m\u00e8tres cubes par heure.\n"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                },
+                {
+                  "text": "On entend par distance pour le d\u00e9potage les distances mesur\u00e9es \u00e0 partir du centre de l'aire de d\u00e9potage la plus proche de l'\u00e9tablissement concern\u00e9."
+                },
+                {
+                  "text": "On entend par d\u00e9potage s\u00e9curis\u00e9 un d\u00e9potage r\u00e9alis\u00e9 dans une installation comportant un ou plusieurs des \u00e9quipements suivants :"
+                },
+                {
+                  "text": "\u2015 un auvent en acier ou en b\u00e9ton couvrant au moins la totalit\u00e9 de la surface de r\u00e9tention de la zone de d\u00e9potage d'une hauteur inf\u00e9rieure ou \u00e9gale \u00e0 5 m\u00e8tres ;"
+                },
+                {
+                  "text": "\u2015 un syst\u00e8me d'extinction automatique."
+                },
+                {
+                  "text": "On entend par distance pour la distribution les distances d'implantation, mesur\u00e9es horizontalement \u00e0 partir des parois de l'appareil de distribution (ou de remplissage) le plus proche des \u00e9tablissements vis\u00e9s."
+                },
+                {
+                  "text": "On entend par distribution s\u00e9curis\u00e9e une distribution r\u00e9alis\u00e9e dans une installation comportant un ou plusieurs des \u00e9quipements suivants :"
+                },
+                {
+                  "text": "\u2015 un auvent en acier ou en b\u00e9ton couvrant au moins la totalit\u00e9 de la surface de r\u00e9tention de la distribution d'une hauteur inf\u00e9rieure ou \u00e9gale \u00e0 5 m\u00e8tres ;"
+                },
+                {
+                  "text": "\u2015 un syst\u00e8me d'extinction automatique ;"
+                },
+                {
+                  "text": "\u2015 un syst\u00e8me de d\u00e9tection de gaz avec coupure automatique de la distribution en cas de d\u00e9tection."
+                },
+                {
+                  "text": "Ces distances peuvent \u00eatre diminu\u00e9es de 30 % en cas de mise en place d'un mur coupe-feu RE 120 d'une hauteur de 2,50 m\u00e8tres et situ\u00e9 \u00e0 5 m\u00e8tres au moins de l'appareil de distribution ou de remplissage le plus proche de l'\u00e9tablissement concern\u00e9."
+                },
+                {
+                  "text": "Par ailleurs, une distance d'\u00e9loignement de 5 m\u00e8tres est observ\u00e9e entre les parois des appareils de distribution et les issues des locaux susceptibles d'accueillir le public au sein de l'installation. Cette distance est \u00e9galement observ\u00e9e entre les limites de l'aire de d\u00e9potage et ces m\u00eames issues."
+                },
+                {
+                  "text": "La distance de 5 m\u00e8tres est \u00e9galement observ\u00e9e aux limites de la voie publique et aux limites de l'\u00e9tablissement, cette distance pouvant \u00eatre ramen\u00e9e \u00e0 1,5 m\u00e8tre sur un seul c\u00f4t\u00e9, lorsque la limite est constitu\u00e9e par un mur coupe-feu de degr\u00e9 2 heures de 2,5 m\u00e8tres de haut ou lorsque les liquides inflammables distribu\u00e9s sont de cat\u00e9gorie C."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-autorisation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2009-06-27",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.1.",
+              "sections": [],
+              "title": {
+                "text": "B."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cb7CFc4ee12D",
+              "outer_alineas": [
+                {
+                  "text": "Les stockages de bouteilles de gaz combustibles liqu\u00e9fi\u00e9s respectent les conditions minimales d'\u00e9loignement suivantes des parois des appareils de distribution ou de remplissage :"
+                },
+                {
+                  "text": "\u2015 6 m\u00e8tres, si la capacit\u00e9 du d\u00e9p\u00f4t de bouteilles est au plus de 15 000 kilogrammes ;"
+                },
+                {
+                  "text": "\u2015 7,5 m\u00e8tres pour une capacit\u00e9 de d\u00e9p\u00f4t sup\u00e9rieure \u00e0 15 000 kilogrammes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.1.",
+              "sections": [],
+              "title": {
+                "text": "C."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EcD802bE9291",
+              "outer_alineas": [
+                {
+                  "text": "Dans tous les cas, une distance minimale d'\u00e9loignement de 4 m\u00e8tres, mesur\u00e9e horizontalement, est observ\u00e9e entre l'\u00e9vent d'un r\u00e9servoir d'hydrocarbures et les parois d'appareils de distribution."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.1.",
+              "sections": [],
+              "title": {
+                "text": "D."
+              }
+            }
+          ],
+          "title": {
+            "text": "3.1. R\u00e8gles d'implantation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2Af23CF4e098",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant prend les dispositions n\u00e9cessaires pour satisfaire \u00e0 l'esth\u00e9tique du site. L'ensemble du site doit \u00eatre maintenu en bon \u00e9tat de propret\u00e9 (peinture, plantations, engazonnement, etc.)"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.2.",
+          "sections": [],
+          "title": {
+            "text": "3.2. Int\u00e9gration dans le paysage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1Bf892cccBd3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2009-06-27",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BACe38f5C4aE",
+              "outer_alineas": [
+                {
+                  "text": "Les installations implant\u00e9es sous immeuble habit\u00e9 ou occup\u00e9 par des tiers sont \u00e9quip\u00e9es d'un d\u00e9tecteur automatique d'incendie avec asservissement de la commande d'arr\u00eat de distribution, du d\u00e9clenchement des alarmes ainsi que du d\u00e9clenchement du dispositif d'extinction automatique."
+                },
+                {
+                  "text": "Ces installations ne commandent pas l'issue ou le d\u00e9gagement de locaux occup\u00e9s ou habit\u00e9s par des tiers et comportent au moins une issue directe sur l'ext\u00e9rieur."
+                },
+                {
+                  "text": "Dans les installations implant\u00e9es sous un immeuble habit\u00e9 ou occup\u00e9 par des tiers, les parois, les planchers hauts pr\u00e9sentent les caract\u00e9ristiques suivantes :"
+                },
+                {
+                  "text": "- murs et planchers hauts REI 120 ;"
+                },
+                {
+                  "text": "- couverture incombustible ;"
+                },
+                {
+                  "text": "- portes int\u00e9rieures EI 30 et munies d'un ferme-porte ou d'un dispositif assurant leur fermeture automatique ;"
+                },
+                {
+                  "text": "- porte donnant vers l'ext\u00e9rieur EI 120 ;"
+                },
+                {
+                  "text": "- mat\u00e9riaux de classe A1 (incombustibles)."
+                },
+                {
+                  "text": "Les locaux sont \u00e9quip\u00e9s en partie haute de dispositifs permettant l'\u00e9vacuation des fum\u00e9es et gaz de combustion d\u00e9gag\u00e9s en cas d'incendie (lanterneaux en toiture, ouvrants en fa\u00e7ade ou tout autre dispositif \u00e9quivalent). Les commandes d'ouverture manuelle sont plac\u00e9es \u00e0 proximit\u00e9 des acc\u00e8s. Le syst\u00e8me de d\u00e9senfumage est adapt\u00e9 aux risques particuliers de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.3.1.",
+              "sections": [],
+              "title": {
+                "text": "3.3.1. Cas des installations sous immeuble habit\u00e9 ou occup\u00e9 par des tiers."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F51806cd05DE",
+              "outer_alineas": [
+                {
+                  "text": "Les installations situ\u00e9es dans un local partiellement ou totalement clos pr\u00e9sentent des murs et planchers hauts REI 120 et sont \u00e9quip\u00e9es d'au moins deux portes EI 120 \u00e0 fermeture permanente ou comprenant un dispositif ferme-porte automatique ; ces portes visant \u00e0 \u00e9viter la propagation des effets du sinistre \u00e9ventuel sont munies d'un syst\u00e8me d'ouverture antipanique visant, d'une part, \u00e0 assurer l'\u00e9vacuation rapide des personnes."
+                },
+                {
+                  "text": "Ces portes d'une largeur minimale de 0,80 m\u00e8tre sont situ\u00e9es en des endroits tels que leur efficacit\u00e9 et leur accessibilit\u00e9 soient maximales au regard des risques potentiels ; leur acc\u00e8s est maintenu d\u00e9gag\u00e9 sur une largeur minimale de 5 m\u00e8tres de part et d'autre de l'axe m\u00e9dian des portes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3 3.3.2.",
+              "sections": [],
+              "title": {
+                "text": "3.3.2. Cas des installations situ\u00e9es dans un local totalement ou partiellement clos."
+              }
+            }
+          ],
+          "title": {
+            "text": "3.3. Comportement au feu des structures."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d2045b27B631",
+          "outer_alineas": [
+            {
+              "text": "L'installation dispose en permanence d'un acc\u00e8s pour permettre l'intervention des services d'incendie et de secours."
+            },
+            {
+              "text": "On entend par acc\u00e8s \u00e0 l'installation une ouverture reliant la voie publique et l'int\u00e9rieur du site, suffisamment dimensionn\u00e9e pour permettre l'entr\u00e9e des engins de secours."
+            },
+            {
+              "text": "Les v\u00e9hicules dont la pr\u00e9sence est li\u00e9e \u00e0 l'exploitation de l'\u00e9tablissement stationnent sans occasionner de g\u00eane pour l'accessibilit\u00e9 des engins des services de secours depuis les voies de circulation externes \u00e0 l'installation, m\u00eame en dehors des heures d'exploitation et d'ouverture de l'installation."
+            },
+            {
+              "text": "Pour les installations de distribution de liquides inflammables situ\u00e9es dans un local partiellement ou totalement clos, et poss\u00e9dant au moins un plancher situ\u00e9 \u00e0 une hauteur sup\u00e9rieure \u00e0 8 m\u00e8tres par rapport au niveau d'acc\u00e8s des secours, sur au moins deux fa\u00e7ades, une voie \u00e9chelle permet d'acc\u00e9der \u00e0 des ouvertures."
+            },
+            {
+              "text": "La voie \u00e9chelle est facilement accessible depuis l'ext\u00e9rieur de l'\u00e9tablissement. Depuis cette voie, une \u00e9chelle acc\u00e9dant \u00e0 au moins toute la hauteur du b\u00e2timent peut \u00eatre dispos\u00e9e. La voie \u00e9chelle respecte par ailleurs les caract\u00e9ristiques suivantes :"
+            },
+            {
+              "text": "- la largeur utile est au minimum de 4 m\u00e8tres, la longueur de l'aire de stationnement au minimum de 10 m\u00e8tres, la pente au maximum de 10 % ;"
+            },
+            {
+              "text": "- dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50 m\u00e8tres, un rayon int\u00e9rieur R minimal de 11 m\u00e8tres est maintenu et une surlargeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+            },
+            {
+              "text": "- aucun obstacle a\u00e9rien ne g\u00eane la man\u0153uvre de ces \u00e9chelles \u00e0 la verticale de l'ensemble de la voie ;"
+            },
+            {
+              "text": "- la distance par rapport \u00e0 la fa\u00e7ade est de 1 m\u00e8tre minimum et 8 m\u00e8tres maximum pour un stationnement parall\u00e8le au b\u00e2timent et inf\u00e9rieur \u00e0 1 m\u00e8tre pour un stationnement perpendiculaire au b\u00e2timent ;"
+            },
+            {
+              "text": "- la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci \u00e9tant distants de 3,6 m\u00e8tres au maximum et pr\u00e9sente une r\u00e9sistance au poin\u00e7onnement minimale de 80 N/cm\u00b2."
+            },
+            {
+              "text": "Les ouvertures pr\u00e9vues \u00e0 l'alin\u00e9a 4 du pr\u00e9sent article permettent au moins un acc\u00e8s par \u00e9tage pour chacune des fa\u00e7ades disposant de voie \u00e9chelle et pr\u00e9sentent une hauteur minimale de 1,8 m\u00e8tre et une largeur minimale de 0,9 m\u00e8tre. Les panneaux d'obturation ou les ch\u00e2ssis composant ces acc\u00e8s s'ouvrent et demeurent toujours accessibles de l'ext\u00e9rieur et de l'int\u00e9rieur. Ils sont ais\u00e9ment rep\u00e9rables de l'ext\u00e9rieur par les services de secours."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-autorisation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2009-06-27",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.4.",
+          "sections": [],
+          "title": {
+            "text": "3.4. Accessibilit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cf54B2d220b2",
+          "outer_alineas": [
+            {
+              "text": "Les installations qui ne sont pas situ\u00e9es en plein air sont ventil\u00e9es de mani\u00e8re efficace."
+            },
+            {
+              "text": "Pour les installations situ\u00e9es dans un local partiellement ou totalement clos, et sans pr\u00e9judice des dispositions du code du travail, les locaux doivent \u00eatre convenablement ventil\u00e9s pour \u00e9viter tout risque d'atmosph\u00e8re explosive ou toxique. Le d\u00e9bouch\u00e9 \u00e0 l'atmosph\u00e8re de la ventilation doit \u00eatre plac\u00e9 aussi loin que possible des habitations voisines et des bouches d'aspiration d'air ext\u00e9rieur, et \u00e0 une hauteur suffisante compte tenu de la hauteur des b\u00e2timents environnants afin de favoriser la dispersion des gaz rejet\u00e9s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.5.",
+          "sections": [],
+          "title": {
+            "text": "3.5. Ventilation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b6dACBB2b07c",
+          "outer_alineas": [
+            {
+              "text": "Les installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux normes en vigueur."
+            },
+            {
+              "text": "L'installation \u00e9lectrique comporte un dispositif de coupure g\u00e9n\u00e9rale permettant d'interrompre, en cas de fausse man\u0153uvre, d'incident ou d'inobservation des consignes de s\u00e9curit\u00e9, l'ensemble du circuit \u00e9lectrique \u00e0 l'exception des syst\u00e8mes d'\u00e9clairage de secours non susceptibles de provoquer une explosion, et permettant d'obtenir l'arr\u00eat total de la distribution de carburant. Un essai du bon fonctionnement du dispositif de coupure g\u00e9n\u00e9rale est r\u00e9alis\u00e9 au moins une fois par an."
+            },
+            {
+              "text": "La commande de ce dispositif est plac\u00e9e en un endroit facilement accessible \u00e0 tout moment au responsable de l'exploitation de l'installation."
+            },
+            {
+              "text": "Lorsque l'installation est exploit\u00e9e en libre service sans surveillance, le dispositif de coupure g\u00e9n\u00e9rale ci-dessus prescrit est man\u0153uvrable \u00e0 proximit\u00e9 de la commande manuelle doublant le dispositif de d\u00e9clenchement automatique de lutte fixe contre l'incendie."
+            },
+            {
+              "text": "Dans le cas d'une installation en libre-service sans surveillance, le d\u00e9clenchement des alarmes et syst\u00e8mes de d\u00e9tection pr\u00e9cit\u00e9s, la mise en service du dispositif automatique d'extinction ainsi que la man\u0153uvre du dispositif de coupure g\u00e9n\u00e9rale sont retransmis afin d'aviser un responsable nomm\u00e9ment d\u00e9sign\u00e9."
+            },
+            {
+              "text": "Dans les parties de l'installation se trouvant dans des zones susceptibles d'\u00eatre \u00e0 l'origine d'explosion, les installations \u00e9lectriques sont r\u00e9duites \u00e0 ce qui est strictement n\u00e9cessaire aux besoins de l'exploitation et \u00eatre enti\u00e8rement constitu\u00e9es de mat\u00e9riels utilisables dans les atmosph\u00e8res explosives."
+            },
+            {
+              "text": "Elles sont r\u00e9duites \u00e0 ce qui est strictement n\u00e9cessaire aux besoins de l'exploitation et \u00eatre enti\u00e8rement constitu\u00e9es de mat\u00e9riels utilisables dans les atmosph\u00e8res explosives."
+            },
+            {
+              "text": "Les canalisations \u00e9lectriques ne sont pas une cause possible d'inflammation et sont convenablement prot\u00e9g\u00e9es contre les chocs, contre la propagation des flammes et contre l'action des produits pr\u00e9sents dans la partie de l'installation en cause."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.6.",
+          "sections": [],
+          "title": {
+            "text": "3.6. Installations \u00e9lectriques."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "AfD7aAC25D0f",
+          "outer_alineas": [
+            {
+              "text": "Les \u00e9quipements m\u00e9talliques (r\u00e9servoirs, cuves, canalisations) sont mis \u00e0 la terre conform\u00e9ment aux r\u00e8glements et aux normes applicables, compte tenu notamment de la nature explosive ou inflammable des produits."
+            },
+            {
+              "text": "Sous r\u00e9serve des imp\u00e9ratifs techniques qui peuvent r\u00e9sulter de la mise en place de dispositifs de protection cathodique, les installations fixes de transfert de liquides inflammables ainsi que les charpentes et enveloppes m\u00e9talliques seront reli\u00e9es \u00e9lectriquement entre elles ainsi qu'\u00e0 une prise de terre unique. La continuit\u00e9 des liaisons devra pr\u00e9senter une r\u00e9sistance inf\u00e9rieure \u00e0 1 ohm et la r\u00e9sistance de la prise de terre sera inf\u00e9rieure \u00e0 10 ohms."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.7.",
+          "sections": [],
+          "title": {
+            "text": "3.7. Mise \u00e0 la terre des \u00e9quipements."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "48f62bA82EA8",
+          "outer_alineas": [
+            {
+              "text": "Sauf pour la boutique et le local de r\u00e9serve annexe, le sol des aires et des locaux de stockage ou de manipulation des mati\u00e8res dangereuses pour l'homme ou susceptibles de cr\u00e9er une pollution de l'eau ou du sol est \u00e9tanche, incombustible et \u00e9quip\u00e9 de fa\u00e7on \u00e0 pouvoir recueillir les eaux de lavage et les mati\u00e8res r\u00e9pandues accidentellement. Un dispositif emp\u00eachant la diffusion des mati\u00e8res r\u00e9pandues \u00e0 l'ext\u00e9rieur ou dans d'autres aires ou locaux est pr\u00e9vu. Les mati\u00e8res recueillies sont de pr\u00e9f\u00e9rence r\u00e9cup\u00e9r\u00e9es et recycl\u00e9es ou, en cas d'impossibilit\u00e9, trait\u00e9es conform\u00e9ment aux dispositions du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.8.",
+          "sections": [],
+          "title": {
+            "text": "3.8. R\u00e9tention des aires et locaux de travail."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d7acB5EbD6A1",
+          "outer_alineas": [
+            {
+              "text": "Les pistes, lorsqu'elles existent, et les aires de stationnement des v\u00e9hicules en attente de distribution sont dispos\u00e9es de telle fa\u00e7on que les v\u00e9hicules puissent \u00e9voluer en marche avant et puissent \u00e9vacuer en marche avant desdits appareils de distribution. Les pistes et les voies d'acc\u00e8s ne sont pas en impasse."
+            },
+            {
+              "text": "Les appareils de distribution et de remplissage sont ancr\u00e9s et prot\u00e9g\u00e9s contre les heurts de v\u00e9hicules, par exemple au moyen d'\u00eelots de 0,15 m\u00e8tre de hauteur, de bornes ou de butoirs de roues."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3 3.9.",
+          "sections": [],
+          "title": {
+            "text": "3.9. Implantation des appareils de distribution et de remplissage."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 3 - Implantation \u2015 am\u00e9nagement."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3C2f6Bfa8bCe",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0bcBCcA36D7d",
+          "outer_alineas": [
+            {
+              "text": "L'exploitation se fait sous la surveillance, directe ou indirecte, de personnes d\u00e9sign\u00e9es par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.1.",
+          "sections": [],
+          "title": {
+            "text": "4.1. Surveillance de l'exploitation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "30d03aCe3A8F",
+          "outer_alineas": [
+            {
+              "text": "Sauf dans le cas d'une exploitation en libre service, l'utilisation des appareils de distribution et de remplissage est assur\u00e9e par un agent d'exploitation, nomm\u00e9ment d\u00e9sign\u00e9 par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l'installation."
+            },
+            {
+              "text": "Dans le cas d'une exploitation en libre service, un agent d'exploitation (ou une soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e) peut intervenir rapidement en cas d'alarme."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.2.",
+          "sections": [],
+          "title": {
+            "text": "4.2. Contr\u00f4le de l'utilisation des appareils de distribution et de remplissage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c4212923cd8d",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant a \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9."
+            },
+            {
+              "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages portent en caract\u00e8res tr\u00e8s lisibles le nom des produits et, s'il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l'\u00e9tiquetage des substances et pr\u00e9parations chimiques dangereuses."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.3.",
+          "sections": [],
+          "title": {
+            "text": "4.3. Connaissance des produits. - Etiquetage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1877E461099B",
+          "outer_alineas": [
+            {
+              "text": "L'ensemble du site est maintenu en bon \u00e9tat de propret\u00e9. Les locaux sont maintenus propres et r\u00e9guli\u00e8rement nettoy\u00e9s notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res. Le mat\u00e9riel de nettoyage est adapt\u00e9 aux risques pr\u00e9sent\u00e9s par les produits et poussi\u00e8res."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.4.",
+          "sections": [],
+          "title": {
+            "text": "4.4. Propret\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3fd01e1F58E2",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant est en mesure de fournir une estimation des stocks ainsi qu'un bilan  quantit\u00e9s r\u00e9ceptionn\u00e9es, quantit\u00e9s d\u00e9livr\u00e9es  pour chaque cat\u00e9gorie de liquides inflammables d\u00e9tenus, auxquels est annex\u00e9 un plan g\u00e9n\u00e9ral des stockages. Cette information est tenue \u00e0 la disposition des services d'incendie et de secours et de l'inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.5.",
+          "sections": [],
+          "title": {
+            "text": "4.5. Etat des stocks de liquides inflammables."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1dCDd0F7F6Be",
+          "outer_alineas": [
+            {
+              "text": "Toutes les installations \u00e9lectriques sont entretenues en bon \u00e9tat et sont contr\u00f4l\u00e9es, apr\u00e8s leur installation ou leur modification, par une personne comp\u00e9tente. La p\u00e9riodicit\u00e9, l'objet et l'\u00e9tendue des v\u00e9rifications des installations \u00e9lectriques ainsi que le contenu des rapports relatifs auxdites v\u00e9rifications sont fix\u00e9s par l'arr\u00eat\u00e9 du 10 octobre 2000 susvis\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4 4.6.",
+          "sections": [],
+          "title": {
+            "text": "4.6. V\u00e9rification p\u00e9riodique des installations \u00e9lectriques."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 4 - Exploitation \u2015 entretien."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "6C0FCd9E5aC4",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "D6ec835d544A",
+          "outer_alineas": [
+            {
+              "text": "D'une fa\u00e7on g\u00e9n\u00e9rale, l'installation est dot\u00e9e de moyens de secours contre l'incendie appropri\u00e9s aux risques et au moins prot\u00e9g\u00e9e comme suit :"
+            },
+            {
+              "text": "-d'un syst\u00e8me d'alarme incendie (ou tout moyen permettant d'alerter les services d'incendie et de secours dans le cas des installations sous surveillance) ;"
+            },
+            {
+              "text": "-pour chaque \u00eelot de distribution, d'un syst\u00e8me manuel commandant en cas d'incident une alarme optique ou sonore ;"
+            },
+            {
+              "text": "-d'un dispositif permettant de rappeler \u00e0 tout instant aux tiers les consignes de s\u00e9curit\u00e9 et les conduites \u00e0 tenir en cas de danger ou d'incident, au besoin par l'interm\u00e9diaire d'un ou de plusieurs haut-parleurs ;"
+            },
+            {
+              "text": "-pour chaque \u00eelot de distribution, d'un extincteur homologu\u00e9 233 B ; pour l'aviation l'extincteur est conforme aux dispositions de l'arr\u00eat\u00e9 du 23 janvier 1980 susvis\u00e9 ;"
+            },
+            {
+              "text": "-pour l'aire de distribution des stations-service et \u00e0 proximit\u00e9 des bouches d'emplissage de r\u00e9servoirs des stations d\u00e9livrant des liquides inflammables, d'une r\u00e9serve de produit absorbant incombustible en quantit\u00e9 adapt\u00e9e au risque, sans \u00eatre inf\u00e9rieure \u00e0 200 litres, des moyens n\u00e9cessaires \u00e0 sa mise en \u0153uvre ; la r\u00e9serve de produit absorbant est prot\u00e9g\u00e9e par couvercle ou par tout dispositif permettant d'abriter le produit absorbant des intemp\u00e9ries ;"
+            },
+            {
+              "text": "-pour chaque local technique, d'un extincteur homologu\u00e9 233 B ;"
+            },
+            {
+              "text": "-pour le stockage des marchandises et le sous-sol, d'un extincteur homologu\u00e9 21 A-144 B 1 ou un extincteur homologu\u00e9 21 A-233 B et C ;"
+            },
+            {
+              "text": "-pour le tableau \u00e9lectrique, d'un extincteur \u00e0 gaz carbonique (2 kilogrammes) ;"
+            },
+            {
+              "text": "-sur l'installation, d'au moins une couverture sp\u00e9ciale anti-feu."
+            },
+            {
+              "text": "Sauf dans le cas des stations-service en plein air, l'installation est dot\u00e9e de moyens de secours contre l'incendie appropri\u00e9s aux risques notamment :"
+            },
+            {
+              "text": "-d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des locaux, sur les aires ext\u00e9rieures et les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits stock\u00e9s ;"
+            },
+            {
+              "text": "-de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local."
+            },
+            {
+              "text": "Les dispositifs cit\u00e9s ci-dessus sont adapt\u00e9s au risque \u00e0 couvrir, en nombre suffisant et correctement r\u00e9partis et, dans le cas o\u00f9 du super\u00e9thanol est distribu\u00e9, les agents d'extinction sont compatibles avec ce carburant."
+            },
+            {
+              "text": "Pour les installations de distribution, les moyens de lutte contre l'incendie prescrits dans les paragraphes pr\u00e9c\u00e9dents pourront \u00eatre remplac\u00e9s par des dispositifs automatiques d'extinction pr\u00e9sentant une efficacit\u00e9 au moins \u00e9quivalente."
+            },
+            {
+              "text": "Ce type de dispositifs est obligatoire pour les installations fonctionnant en libre service sans surveillance et pour les installations de remplissage de liquide de cat\u00e9gorie B."
+            },
+            {
+              "text": "Ce type de dispositifs est \u00e9galement obligatoire pour les installations implant\u00e9es sous immeuble habit\u00e9 ou occup\u00e9 par des tiers."
+            },
+            {
+              "text": "Une commande de mise en \u0153uvre manuelle d'acc\u00e8s facile double le dispositif de d\u00e9clenchement automatique de d\u00e9fense fixe contre l'incendie. Cette commande est install\u00e9e en dehors de l'aire de distribution en un endroit accessible au pr\u00e9pos\u00e9 \u00e9ventuel \u00e0 l'exploitation, ainsi qu'\u00e0 toute autre personne."
+            },
+            {
+              "text": "Conform\u00e9ment aux r\u00e9f\u00e9rentiels en vigueur et au moins une fois par an, tous les dispositifs sont entretenus par un technicien comp\u00e9tent et leur bon fonctionnement v\u00e9rifi\u00e9. Les rapports d'entretien et de v\u00e9rification sont tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.1.",
+          "sections": [],
+          "title": {
+            "text": "5.1. Moyens de secours contre l'incendie."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B1F6a7aE1f17",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant recense et signale par un panneau conventionnel, sous sa responsabilit\u00e9, les parties de l'installation qui, en raison des caract\u00e9ristiques qualitatives et quantitatives des mati\u00e8res mises en \u0153uvre, stock\u00e9es, utilis\u00e9es ou produites, sont susceptibles d'\u00eatre \u00e0 l'origine d'un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l'environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.2.",
+          "sections": [],
+          "title": {
+            "text": "5.2. Localisation des risques."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "63DbDb48480b",
+          "outer_alineas": [
+            {
+              "text": "Pour le stockage et la distribution de super\u00e9thanol, les mat\u00e9riaux sont adapt\u00e9s aux sp\u00e9cificit\u00e9s du carburant."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.3.",
+          "sections": [],
+          "title": {
+            "text": "5.3. Compatibilit\u00e9 des mat\u00e9riaux."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "E86cBCeA98ec",
+          "outer_alineas": [
+            {
+              "text": "Dans les parties de l'installation pr\u00e9sentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la r\u00e9alisation de travaux ayant fait l'objet d'un permis de feu. Cette interdiction est affich\u00e9e en caract\u00e8res apparents."
+            },
+            {
+              "text": "Les prescriptions que doit observer l'usager sont affich\u00e9es soit en caract\u00e8res lisibles, soit au moyen de pictogrammes, et ce au niveau de chaque appareil de distribution. Elles concernent notamment l'interdiction de fumer, d'utiliser un t\u00e9l\u00e9phone portable (le t\u00e9l\u00e9phone doit \u00eatre \u00e9teint), d'approcher un appareil pouvant provoquer un feu nu, ainsi que l'obligation d'arr\u00eat du moteur. Pour l'aviation, l'obligation d'arr\u00eat du moteur ne s'applique pas lorsqu'il s'agit d'assurer l'avitaillement de services d'urgence."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.4.",
+          "sections": [],
+          "title": {
+            "text": "5.4. Interdiction des feux."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Df38880D1Bff",
+          "outer_alineas": [
+            {
+              "text": "Tous les travaux de r\u00e9paration ou d'am\u00e9nagement effectu\u00e9s par une entreprise ext\u00e9rieure pr\u00e9sentant des risques sp\u00e9cifiques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent \u00eatre effectu\u00e9s qu'apr\u00e8s \u00e9tablissement d'un plan de pr\u00e9vention et \u00e9ventuellement la d\u00e9livrance d'un permis de feu et en respectant prescriptions du code du travail."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.5.",
+          "sections": [],
+          "title": {
+            "text": "5.5. Plan de pr\u00e9vention.-Permis de feu."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "536Bb0CE3E21",
+          "outer_alineas": [
+            {
+              "text": "Sans pr\u00e9judice des dispositions du code du travail, des consignes pr\u00e9cisant les modalit\u00e9s d'application des dispositions du pr\u00e9sent arr\u00eat\u00e9 sont \u00e9tablies, tenues \u00e0 jour et port\u00e9es \u00e0 la connaissance du personnel dans les lieux fr\u00e9quent\u00e9s par le personnel. Ces consignes indiquent notamment :"
+            },
+            {
+              "text": "-l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation vis\u00e9es \u00e0 l'article 5.2 incendie et atmosph\u00e8res explosives ;"
+            },
+            {
+              "text": "-l'obligation du plan de pr\u00e9vention pour les parties de l'installation vis\u00e9es \u00e0 l'article 5.5 ;"
+            },
+            {
+              "text": "-les proc\u00e9dures d'arr\u00eat d'urgence et de mise en s\u00e9curit\u00e9 de l'installation ;"
+            },
+            {
+              "text": "-les mesures \u00e0 prendre en cas de fuite sur un r\u00e9cipient ou une canalisation contenant des substances dangereuses ;"
+            },
+            {
+              "text": "-les pr\u00e9cautions \u00e0 prendre avec l'emploi et le stockage de produits incompatibles ;"
+            },
+            {
+              "text": "-les moyens d'extinction \u00e0 utiliser en cas d'incendie ;"
+            },
+            {
+              "text": "-la proc\u00e9dure d'alerte avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d'intervention de l'\u00e9tablissement, des services d'incendie et de secours, etc."
+            },
+            {
+              "text": "Une formation du personnel lui permet :"
+            },
+            {
+              "text": "-d'\u00eatre sensibilis\u00e9 aux risques inh\u00e9rents \u00e0 ce type d'installation ;"
+            },
+            {
+              "text": "-de v\u00e9rifier r\u00e9guli\u00e8rement le bon fonctionnement des divers \u00e9quipements pour la pr\u00e9vention des risques ;"
+            },
+            {
+              "text": "-de prendre les dispositions n\u00e9cessaires sur le plan pr\u00e9ventif et \u00e0 mettre en \u0153uvre, en cas de besoin, les actions les plus appropri\u00e9es."
+            },
+            {
+              "text": "Le pr\u00e9pos\u00e9 \u00e0 l'exploitation est en mesure de rappeler \u00e0 tout moment aux usagers les consignes de s\u00e9curit\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.6.",
+          "sections": [],
+          "title": {
+            "text": "5.6. Consignes de s\u00e9curit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ED8D7DABeAeA",
+          "outer_alineas": [
+            {
+              "text": "Les op\u00e9rations comportant des manipulations dangereuses et la conduite des installations font l'objet de consignes d'exploitation \u00e9crites. Ces consignes pr\u00e9voient notamment :"
+            },
+            {
+              "text": "-les modes op\u00e9ratoires, ceux-ci devant \u00eatre pr\u00e9sents \u00e0 chaque poste de chargement et distribution ; en particulier, une proc\u00e9dure est mise en place, visant \u00e0 s'assurer syst\u00e9matiquement que le tuyau est effectivement raccord\u00e9 avant que ne commence le chargement du r\u00e9servoir de stockage ;"
+            },
+            {
+              "text": "-la fr\u00e9quence de v\u00e9rification des dispositifs de s\u00e9curit\u00e9 et de traitement des pollutions et nuisances g\u00e9n\u00e9r\u00e9es ;"
+            },
+            {
+              "text": "-les instructions de maintenance et de nettoyage ;"
+            },
+            {
+              "text": "-les conditions de conservation et de stockage des produits."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.7.",
+          "sections": [],
+          "title": {
+            "text": "5.7. Consignes d'exploitation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8def7C33A57e",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5 5.8.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cF8edD1AB36c",
+              "outer_alineas": [
+                {
+                  "text": "Dans tous les cas, un acc\u00e8s ais\u00e9 pour les v\u00e9hicules d'intervention est pr\u00e9vu."
+                },
+                {
+                  "text": "Sauf dans le cas d'une installation de remplissage dot\u00e9e de dispositifs rendant impossible l'utilisation des appareils de remplissage \u00e0 des personnes non autoris\u00e9es, l'acc\u00e8s \u00e0 l'installation de remplissage est ferm\u00e9 par une cl\u00f4ture d'une hauteur minimale de 2 m\u00e8tres."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5 5.8.1.",
+              "sections": [],
+              "title": {
+                "text": "5.8.1. Acc\u00e8s."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "3FCdA5AF4dBa",
+              "outer_alineas": [
+                {
+                  "text": "Dans le cas de paiement par billets, toutes dispositions sont prises pour que les actes de malveillance \u00e9ventuels n'aient pas de cons\u00e9quences sur les appareils de distribution."
+                },
+                {
+                  "text": "L'habillage des parties de l'appareil de distribution o\u00f9 interviennent les liquides inflammables (unit\u00e9s de filtration, de pompage, de d\u00e9gazage, etc.) est en mat\u00e9riaux de cat\u00e9gorie A1."
+                },
+                {
+                  "text": "Les parties int\u00e9rieures de la carrosserie de l'appareil de distribution sont ventil\u00e9es de mani\u00e8re \u00e0 ne permettre aucune accumulation des vapeurs des liquides distribu\u00e9s."
+                },
+                {
+                  "text": "La partie de l'appareil de distribution o\u00f9 peuvent \u00eatre implant\u00e9s des mat\u00e9riels \u00e9lectriques ou \u00e9lectroniques non de s\u00fbret\u00e9 constitue un compartiment distinct de la partie o\u00f9 interviennent les liquides inflammables. Ce compartiment est s\u00e9par\u00e9 de la partie o\u00f9 les liquides inflammables sont pr\u00e9sents par une cloison \u00e9tanche aux vapeurs d'hydrocarbures, ou par un espace ventil\u00e9 assurant une dilution continue, de mani\u00e8re \u00e0 le rendre inaccessible aux vapeurs d'hydrocarbure."
+                },
+                {
+                  "text": "Les appareils de distribution sont install\u00e9s et \u00e9quip\u00e9s de dispositifs adapt\u00e9s de telle sorte que tout risque de siphonnage soit \u00e9cart\u00e9."
+                },
+                {
+                  "text": "Toutes dispositions sont prises pour que les \u00e9gouttures sous les appareils de distribution n'entra\u00eenent pas de pollution du sol ou de l'eau."
+                },
+                {
+                  "text": "Lorsque l'appareil est aliment\u00e9 par une canalisation fonctionnant en refoulement, l'installation est \u00e9quip\u00e9e d'un dispositif de s\u00e9curit\u00e9 arr\u00eatant automatiquement l'arriv\u00e9e de produit en cas d'incendie ou de renversement accidentel du distributeur."
+                },
+                {
+                  "text": "Pour les installations en libre service sans surveillance, le volume en liquide d\u00e9livr\u00e9 par op\u00e9ration par les appareils de distribution en libre-service sans surveillance est limit\u00e9 \u00e0 120 litres de liquides de la cat\u00e9gorie B (coefficient 1) et \u00e0 l'\u00e9quivalent pour les autres cat\u00e9gories, exception faite toutefois des installations dont l'acc\u00e8s est r\u00e9serv\u00e9 aux personnes form\u00e9es \u00e0 cet effet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5 5.8.2.",
+              "sections": [],
+              "title": {
+                "text": "5.8.2. Appareils de distribution."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0031bEecc938",
+              "outer_alineas": [
+                {
+                  "text": "Les flexibles de distribution ou de remplissage sont conformes \u00e0 la norme en vigueur (pour l'aviation, les flexibles sont conformes aux dispositions pr\u00e9vues dans la norme sp\u00e9cifique en vigueur). Les flexibles sont entretenus en bon \u00e9tat de fonctionnement et remplac\u00e9s au plus tard six ans apr\u00e8s leur date de fabrication. Dans le cas des installations exploit\u00e9es en libre-service, les flexibles autres que ceux pr\u00e9sentant une grande longueur et destin\u00e9s au transvasement de gazole et de carburants aviation sont \u00e9quip\u00e9s de dispositifs de mani\u00e8re \u00e0 ce qu'ils ne tra\u00eenent pas sur l'aire de distribution."
+                },
+                {
+                  "text": "Les rapports d'entretien et de v\u00e9rification seront tenus \u00e0 la disposition de l'inspection des installations class\u00e9es. Un dispositif appropri\u00e9 emp\u00eache que le flexible ne subisse une usure due \u00e0 un contact r\u00e9p\u00e9t\u00e9 avec le sol. Le flexible est chang\u00e9 apr\u00e8s toute d\u00e9gradation."
+                },
+                {
+                  "text": "Les appareils de distribution d'un d\u00e9bit inf\u00e9rieur \u00e0 4,8 m\u00e8tres cubes par heure sont \u00e9quip\u00e9s d'un dispositif anti-arrachement du flexible de type raccord-cassant."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5 5.8.3.",
+              "sections": [],
+              "title": {
+                "text": "5.8.3. Les flexibles."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E8aB944Fb3E6",
+              "outer_alineas": [
+                {
+                  "text": "Dans le cas des installations en libre service et des installations de remplissage, l'ouverture du clapet du robinet et son maintien en position ouverte ne peuvent s'effectuer sans intervention manuelle."
+                },
+                {
+                  "text": "Toute op\u00e9ration de distribution ou de remplissage est contr\u00f4l\u00e9e par un dispositif de s\u00e9curit\u00e9 qui interrompt automatiquement le remplissage du r\u00e9servoir quand le niveau maximal d'utilisation est atteint. Dans l'attente d'avanc\u00e9es techniques, ces dispositions ne s'appliquent pas au chargement par d\u00f4me des r\u00e9servoirs mobiles ni aux op\u00e9rations d'avitaillement des a\u00e9ronefs d\u00e8s lors qu'elles ne permettent pas le remplissage des r\u00e9servoirs au niveau maximal d'utilisation."
+                },
+                {
+                  "text": "Les op\u00e9rations de d\u00e9potage de liquides inflammables ne peuvent \u00eatre effectu\u00e9es qu'apr\u00e8s mise \u00e0 la terre des camions-citernes et connexion des syst\u00e8mes de r\u00e9cup\u00e9ration de vapeurs entre le v\u00e9hicule et les bouches de d\u00e9potage (pour les installations vis\u00e9es par la r\u00e9glementation sur la r\u00e9cup\u00e9ration de vapeurs)."
+                },
+                {
+                  "text": "Les op\u00e9rations de remplissage ne peuvent \u00eatre effectu\u00e9es qu'apr\u00e8s mise \u00e0 la terre des r\u00e9servoirs mobiles."
+                },
+                {
+                  "text": "Pour les cas d'une exploitation en libre service sans surveillance, l'installation de distribution ou de remplissage est \u00e9quip\u00e9e :"
+                },
+                {
+                  "text": "-d'un dispositif d'arr\u00eat d'urgence situ\u00e9 \u00e0 proximit\u00e9 de l'appareil permettant de provoquer la coupure de l'ensemble des installations destin\u00e9es \u00e0 la distribution ;"
+                },
+                {
+                  "text": "-d'un dispositif de communication permettant d'alerter instantan\u00e9ment l'agent d'exploitation ;"
+                },
+                {
+                  "text": "-d'un syst\u00e8me permettant de transmettre les informations sur la phase de fonctionnement en cours de l'appareil de distribution au (x) point (s) de contr\u00f4le de la station."
+                },
+                {
+                  "text": "Dans les installations exploit\u00e9es en libre service surveill\u00e9, l'agent d'exploitation peut commander \u00e0 tout moment, depuis un point de contr\u00f4le de la station, le fonctionnement de l'appareil de distribution ou de remplissage."
+                },
+                {
+                  "text": "Pour la distribution et le stockage du super\u00e9thanol, des arr\u00eate-flammes sont syst\u00e9matiquement pr\u00e9vus en tous points o\u00f9 une transmission d'explosion vers les r\u00e9servoirs est possible."
+                },
+                {
+                  "text": "Tous les arr\u00eate-flammes du circuit de r\u00e9cup\u00e9ration des vapeurs pour la distribution et le stockage de super\u00e9thanol respectent la norme EN 12874 de janvier 2001 ou toute norme \u00e9quivalente en vigueur dans la Communaut\u00e9 europ\u00e9enne ou l'Espace \u00e9conomique europ\u00e9en."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5 5.8.4.",
+              "sections": [],
+              "title": {
+                "text": "5.8.4. Dispositifs de s\u00e9curit\u00e9."
+              }
+            }
+          ],
+          "title": {
+            "text": "5.8. Am\u00e9nagement et construction des appareils de distribution et de remplissage."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 5 - Risques."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3aA3a25d7C7F",
+      "outer_alineas": [
+        {
+          "text": "Dans le cas o\u00f9 les aires d\u00e9finies dans les d\u00e9finitions de l'article 1er sont confondues, la surface de la plus grande aire doit \u00eatre retenue."
+        },
+        {
+          "text": "Les aires de d\u00e9potage, de remplissage et de distribution de liquides inflammables sont \u00e9tanches aux produits susceptibles d'y \u00eatre r\u00e9pandus et con\u00e7ues de mani\u00e8re \u00e0 permettre le drainage de ceux-ci. Dans le cas du ravitaillement bateau et du remplissage de bateau-citerne, l'\u00e9tanch\u00e9it\u00e9 de l'aire de distribution ou de remplissage se limite \u00e0 la zone terrestre."
+        },
+        {
+          "text": "Les liquides ainsi collect\u00e9s sont trait\u00e9s au moyen d'un d\u00e9canteur-s\u00e9parateur d'hydrocarbures muni d'un dispositif d'obturation automatique. Ce d\u00e9canteur-s\u00e9parateur est con\u00e7u et dimensionn\u00e9 de fa\u00e7on \u00e0 \u00e9vacuer un d\u00e9bit minimal de 45 litres par heure, par m\u00e8tre carr\u00e9 de l'aire consid\u00e9r\u00e9e, sans entra\u00eenement de liquides inflammables. Le s\u00e9parateur-d\u00e9canteur est conformes \u00e0 la norme en vigueur au moment de son installation."
+        },
+        {
+          "text": "Dans le cas du ravitaillement bateau, certains cas sp\u00e9cifiques peuvent ne pas permettre la mise en place d'un d\u00e9canteur-s\u00e9parateur d'hydrocarbures. Cette impossibilit\u00e9 est alors d\u00e9montr\u00e9e par une \u00e9tude technico-\u00e9conomique qui pr\u00e9cise les mesures compensatoires mises en place."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-autorisation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2009-06-27",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 6",
+      "sections": [],
+      "title": {
+        "text": "Article 6 - Eau."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "AIR_ODEURS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0339a773DD22",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 7",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9f363eFbEC8e",
+          "outer_alineas": [
+            {
+              "text": "Toutes dispositions sont prises pour que les percements effectu\u00e9s, par exemple pour le passage de gaines \u00e9lectriques, ne permettent pas la transmission de vapeurs depuis les canalisations, r\u00e9servoirs et mat\u00e9riels jusqu'aux locaux de l'installation."
+            },
+            {
+              "text": "Les installations, autres que les installations de chargement et d\u00e9chargement en essence, susceptibles de d\u00e9gager des vapeurs sont munies de dispositifs permettant de collecter et canaliser autant que possible les \u00e9missions. Ces dispositifs sont munis d'orifices obturables et accessibles (conformes aux dispositions de la norme NF X44-052) aux fins de pr\u00e9l\u00e8vements en vue d'analyse ou de mesure."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7 7.1.",
+          "sections": [],
+          "title": {
+            "text": "7.1. R\u00e9cup\u00e9ration des vapeurs. - Dispositions g\u00e9n\u00e9rales."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CAC8931e6586",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent article est applicable aux stations de distribution de carburant de la cat\u00e9gorie B."
+            },
+            {
+              "text": "Lors du d\u00e9chargement d'essence d'un r\u00e9servoir de transport dans les installations de stockage des stations-service, les vapeurs g\u00e9n\u00e9r\u00e9es par le d\u00e9placement de l'essence sont renvoy\u00e9es dans le r\u00e9servoir de transport au moyen d'un tuyau de raccordement \u00e9tanche aux vapeurs. Lors de cette op\u00e9ration, un dispositif est mis en place afin que ces vapeurs ne s'\u00e9vacuent pas par l'\u00e9vent du r\u00e9servoir de stockage de la station-service."
+            },
+            {
+              "text": "Les op\u00e9rations de remplissage des r\u00e9servoirs des stations-service ne sont pas effectu\u00e9es avant que ces dispositifs ne soient en place et fonctionnent correctement."
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent article ne s'appliquent pas aux stations-service d'un d\u00e9bit inf\u00e9rieur \u00e0 500 m\u00e8tres cubes par an et qui sont implant\u00e9es dans une commune de moins de 5 000 habitants \u00e0 condition qu'elles ne soient pas situ\u00e9es \u00e0 l'int\u00e9rieur d'une zone de protection sp\u00e9ciale ou zone sensible ou zone de mise en \u0153uvre d'une proc\u00e9dure d'alerte telles que d\u00e9finies au titre Ier du d\u00e9cret du 13 mai 1974 susvis\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7 7.2.",
+          "sections": [],
+          "title": {
+            "text": "7.2. R\u00e9cup\u00e9ration des vapeurs au remplissage des installations de stockage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "badEaACE3516",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent article est applicable aux stations de distribution de carburant de la cat\u00e9gorie B."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7 7.3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FEdfB3d5cCFf",
+              "outer_alineas": [
+                {
+                  "text": "Les stations sont \u00e9quip\u00e9es de syst\u00e8mes actifs de r\u00e9cup\u00e9ration des vapeurs afin de permettre le retour d'au moins 80 % des vapeurs dans les r\u00e9servoirs fixes des stations-service."
+                },
+                {
+                  "text": "Cette disposition est applicable :"
+                },
+                {
+                  "text": "- \u00e0 partir de la date de publication du pr\u00e9sent arr\u00eat\u00e9 pour les stations-service nouvelles ;"
+                },
+                {
+                  "text": "- \u00e0 partir de la date de publication du pr\u00e9sent arr\u00eat\u00e9 pour les stations-service autoris\u00e9es post\u00e9rieurement au 4 juillet 2001 ;"
+                },
+                {
+                  "text": "- \u00e0 partir de la date de publication du pr\u00e9sent arr\u00eat\u00e9 pour les stations d'un d\u00e9bit sup\u00e9rieur \u00e0 3 000 m\u00e8tres cubes par an ;"
+                },
+                {
+                  "text": "- au plus tard le 1er janvier 2016 pour les autres stations-service."
+                },
+                {
+                  "text": "Ce taux de r\u00e9cup\u00e9ration est port\u00e9 \u00e0 90 % :"
+                },
+                {
+                  "text": "- \u00e0 partir de la date de parution du pr\u00e9sent arr\u00eat\u00e9 pour les nouvelles installations ;"
+                },
+                {
+                  "text": "- au 1er janvier 2016 pour les stations-service dont le d\u00e9bit est sup\u00e9rieur \u00e0 3 000 m\u00e8tres cubes par an ;"
+                },
+                {
+                  "text": "- au 1er janvier 2020 pour les autres stations-service existantes."
+                },
+                {
+                  "text": "Les syst\u00e8mes de r\u00e9cup\u00e9ration des vapeurs d'essence sont constitu\u00e9s de quatre types d'\u00e9quipements :"
+                },
+                {
+                  "text": "- un pistolet de remplissage dont le syst\u00e8me de d\u00e9pression est ouvert \u00e0 l'atmosph\u00e8re ;"
+                },
+                {
+                  "text": "- un flexible de type coaxial ou pr\u00e9sentant des garanties \u00e9quivalentes afin de v\u00e9hiculer \u00e0 la fois l'essence et les vapeurs ;"
+                },
+                {
+                  "text": "- un organe d\u00e9primog\u00e8ne permettant d'assister l'aspiration des vapeurs du r\u00e9servoir du v\u00e9hicule pour les transf\u00e9rer vers le r\u00e9servoir de la station-service ;"
+                },
+                {
+                  "text": "- un dispositif de r\u00e9gulation permettant de contr\u00f4ler le rapport entre le d\u00e9bit de vapeur aspir\u00e9e et le d\u00e9bit d'essence distribu\u00e9e."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.1.",
+              "sections": [],
+              "title": {
+                "text": "7.3.1. R\u00e9cup\u00e9ration des vapeurs."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "80ee4A19E6bA",
+              "outer_alineas": [
+                {
+                  "text": "Le dispositif de r\u00e9gulation cit\u00e9 au point 7.3.1 est en boucle ferm\u00e9e."
+                },
+                {
+                  "text": "Le signal de mauvais fonctionnement du syst\u00e8me de r\u00e9cup\u00e9ration des vapeurs entra\u00eene l'arr\u00eat de la distribution de carburant d\u00e8s lors que la r\u00e9paration n'est pas r\u00e9alis\u00e9e sous 72 heures. Ces dispositions sont applicables :"
+                },
+                {
+                  "text": "- aux stations-service nouvelles \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9 ;"
+                },
+                {
+                  "text": "- aux stations-service existantes dont le d\u00e9bit est sup\u00e9rieur \u00e0 3 000 m\u00e8tres cubes par an \u00e0 compter du 1er janvier 2014 ;"
+                },
+                {
+                  "text": "- aux stations-service existantes dont le d\u00e9bit est sup\u00e9rieur \u00e0 1 000 m\u00e8tres cubes par an \u00e0 compter du 1er janvier 2016."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.2.",
+              "sections": [],
+              "title": {
+                "text": "7.3.2. Dispositif de r\u00e9gulation."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6b55BD49Bceb",
+              "outer_alineas": [
+                {
+                  "text": "Le retour des vapeurs dans les r\u00e9servoirs fixes des stations-service s'effectue dans des canalisations de diam\u00e8tre suffisant pour permettre l'\u00e9coulement des vapeurs d'essence."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.3.",
+              "sections": [],
+              "title": {
+                "text": "7.3.3. Retour des vapeurs."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "17FC9E2C2dec",
+              "outer_alineas": [
+                {
+                  "text": "Le syst\u00e8me de r\u00e9cup\u00e9ration de vapeurs n\u00e9cessite la mise en place de dispositifs anti-retour de flamme de part et d'autre de tout \u00e9l\u00e9ment susceptible de g\u00e9n\u00e9rer une ignition du m\u00e9lange gazeux. Les dispositifs arr\u00eate-flamme (aussi appel\u00e9s anti-retour de flamme) sont conformes \u00e0 la norme NF EN 12874, ou aux normes ou sp\u00e9cifications techniques ou aux proc\u00e9d\u00e9s de fabrication pr\u00e9vus dans les r\u00e9glementations d'un Etat membre de l'Union europ\u00e9enne ou d'un autre Etat partie \u00e0 l'accord instituant l'Espace \u00e9conomique europ\u00e9en, assurant un niveau de s\u00e9curit\u00e9 \u00e9quivalent."
+                },
+                {
+                  "text": "Le syst\u00e8me de d\u00e9pression, la connexion entre la sortie des vapeurs et le raccordement de l'\u00e9quipement \u00e0 la canalisation de retour des vapeurs d'essence vers le r\u00e9servoir, notamment, sont consid\u00e9r\u00e9s comme des \u00e9l\u00e9ments susceptibles de g\u00e9n\u00e9rer une ignition du m\u00e9lange gazeux."
+                },
+                {
+                  "text": "Un organe de coupure est mis en place entre le distributeur d'essence et la canalisation de retour des vapeurs d'essence en vue de permettre que les op\u00e9rations de maintenance sur le syst\u00e8me de r\u00e9cup\u00e9ration des vapeurs se d\u00e9roulent dans des conditions de s\u00e9curit\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.4.",
+              "sections": [],
+              "title": {
+                "text": "7.3.4. Dispositifs arr\u00eate-flamme."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FBbdCcDF25d1",
+              "outer_alineas": [
+                {
+                  "text": "Les syst\u00e8mes de r\u00e9cup\u00e9ration des vapeurs sont conformes aux dispositions de l'annexe II. Cette conformit\u00e9 est attest\u00e9e par un laboratoire comp\u00e9tent et ind\u00e9pendant."
+                },
+                {
+                  "text": "Tout syst\u00e8me de r\u00e9cup\u00e9ration de vapeurs en provenance de la Communaut\u00e9 europ\u00e9enne ou originaire des pays AELE parties contractantes de l'Accord EEE, qui est conforme \u00e0 une r\u00e9glementation, norme nationale ou proc\u00e9d\u00e9 de fabrication dont l'application est permise dans l'un de ces Etats est \u00e9galement reconnu, pour autant que soit assur\u00e9 un niveau de s\u00e9curit\u00e9 et d'efficacit\u00e9 \u00e9quivalant \u00e0 celui recherch\u00e9 dans l'annexe II du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.5.",
+              "sections": [],
+              "title": {
+                "text": "7.3.5. Conception des syst\u00e8mes de r\u00e9cup\u00e9ration."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cff81f7DFf10",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant s'assure du bon fonctionnement de son installation et fait r\u00e9aliser avant la mise en service du syst\u00e8me de r\u00e9cup\u00e9ration de vapeurs, apr\u00e8s toute r\u00e9paration du syst\u00e8me et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un syst\u00e8me de r\u00e9gulation \u00e9lectronique en boucle ferm\u00e9e et tous les trois ans pour les installations disposant d'un syst\u00e8me de r\u00e9gulation \u00e9lectronique en boucle ferm\u00e9e, un contr\u00f4le sur site par un organisme comp\u00e9tent et ind\u00e9pendant, conform\u00e9ment aux dispositions de l'annexe III. Les r\u00e9sultats de ces mesures sont tenus \u00e0 disposition de l'inspecteur des installations class\u00e9es et de l'organisme de contr\u00f4les p\u00e9riodiques pendant un d\u00e9lai d'au moins six ans."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 7.3.6.",
+              "sections": [],
+              "title": {
+                "text": "7.3.6. Maintenance du syst\u00e8me de r\u00e9cup\u00e9ration."
+              }
+            }
+          ],
+          "title": {
+            "text": "7.3. R\u00e9cup\u00e9ration des vapeurs li\u00e9es au ravitaillement en essence des v\u00e9hicules \u00e0 moteur."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 7 - Air."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ae5Ef087E110",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations nouvelles \u00e0 la date de publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel, augment\u00e9e de six mois."
+        },
+        {
+          "text": "Pour les installations r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel augment\u00e9e de six mois, les dispositions applicables sont :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n\u00c0 LA DATE DE PUBLICATION\nde l'arr\u00eat\u00e9 augment\u00e9e de six mois"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n\u00c0 LA DATE DE PUBLICATION\nde l'arr\u00eat\u00e9 augment\u00e9e de dix-huit mois"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nSELON LES MODALIT\u00c9S\nd\u00e9crites dans l'article"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": true
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 1er"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 3.1.D"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 3.1.A"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 2"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticles 3.6 \u00e0 3.9"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 7"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 3.1.C"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 5.1"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 3.2"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 5.8"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 3.5"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticle 4"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticles 5.2 \u00e0 5.7"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 8",
+      "sections": [],
+      "title": {
+        "text": "Article 8 - Applicabilit\u00e9."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cbB74bd7ca08",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9fet peut, pour une installation donn\u00e9e, modifier par arr\u00eat\u00e9 pr\u00e9fectoral les dispositions du pr\u00e9sent arr\u00eat\u00e9, \u00e0 l'exception des dispositions pr\u00e9vues \u00e0 l'article 7."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 9",
+      "sections": [],
+      "title": {
+        "text": "Article 9"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fc8e1E6aC79d",
+      "outer_alineas": [
+        {
+          "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 10",
+      "sections": [],
+      "title": {
+        "text": "Article 10"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Ea7A83c8EFe3",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "AIR_ODEURS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6fEb40F9d83c",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "D8fE241D4B0a",
+              "outer_alineas": [
+                {
+                  "text": "La conformit\u00e9 ne peut \u00eatre attest\u00e9e qu'\u00e0 un syst\u00e8me comprenant quatre types d'\u00e9quipements :"
+                },
+                {
+                  "text": "\u2015 un pistolet de remplissage dont le syst\u00e8me de d\u00e9pression est ouvert \u00e0 l'atmosph\u00e8re ;"
+                },
+                {
+                  "text": "\u2015 un flexible de type coaxial ou pr\u00e9sentant des garanties \u00e9quivalentes afin de v\u00e9hiculer \u00e0 la fois l'essence et les vapeurs ;"
+                },
+                {
+                  "text": "\u2015 un organe d\u00e9primog\u00e8ne permettant d'assister l'aspiration des vapeurs du r\u00e9servoir du v\u00e9hicule pour les transf\u00e9rer vers le r\u00e9servoir de la station-service ;"
+                },
+                {
+                  "text": "\u2015 un dispositif de r\u00e9gulation permettant de contr\u00f4ler le rapport entre le d\u00e9bit de vapeur aspir\u00e9e et le d\u00e9bit d'essence distribu\u00e9e."
+                },
+                {
+                  "text": "Pour tout changement de type de l'un de ces \u00e9quipements, l'ensemble du syst\u00e8me doit faire l'objet d'une nouvelle attestation de conformit\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I",
+              "sections": [],
+              "title": {
+                "text": "1."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "05dCCBFBfFA7",
+              "outer_alineas": [
+                {
+                  "text": "La conformit\u00e9 est attest\u00e9e par un laboratoire comp\u00e9tent et ind\u00e9pendant selon les m\u00e9thodes gravim\u00e9trique et volum\u00e9trique d\u00e9crites aux 3 et 4 ci-apr\u00e8s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I",
+              "sections": [],
+              "title": {
+                "text": "2."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b7269D5dF44D",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "83d9E506b280",
+                  "outer_alineas": [
+                    {
+                      "text": "La m\u00e9thode consiste \u00e0 comparer les \u00e9missions de base (la quantit\u00e9 de compos\u00e9s organiques volatils expuls\u00e9e de l'orifice du v\u00e9hicule lors d'un remplissage sans r\u00e9cup\u00e9ration de vapeurs) avec les \u00e9missions r\u00e9siduelles (quantit\u00e9 de compos\u00e9s organiques volatils expuls\u00e9e de l'orifice du v\u00e9hicule lors d'un remplissage avec r\u00e9cup\u00e9ration de vapeurs)."
+                    },
+                    {
+                      "text": "Les \u00e9missions de base et r\u00e9siduelles sont d\u00e9termin\u00e9es en collectant les vapeurs d'essence gr\u00e2ce \u00e0 un dispositif canalisant tous les compos\u00e9s organiques volatils \u00e9mis vers un filtre \u00e0 charbon actif destin\u00e9 \u00e0 les absorber et ce sans modification des conditions de pression dans le r\u00e9servoir. La modification de la masse du filtre correspond \u00e0 l'\u00e9mission de vapeurs expuls\u00e9es de l'orifice du v\u00e9hicule."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.1. Description de la m\u00e9thode."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "abA8bBdF9Fbe",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "b222bCE82Db5",
+                      "outer_alineas": [
+                        {
+                          "text": "Les \u00e9missions de base sont mesur\u00e9es lors d'un remplissage avec un pistolet \u00e9quip\u00e9 d'un embout pour essence sans plomb conforme \u00e0 la norme NF ISO 9158 et non \u00e9quip\u00e9 d'un syst\u00e8me de r\u00e9cup\u00e9ration de vapeur."
+                        },
+                        {
+                          "text": "Le pistolet \u00e9quip\u00e9 pour la r\u00e9cup\u00e9ration de vapeurs faisant partie du syst\u00e8me \u00e0 tester doit \u00eatre capable de d\u00e9livrer l'essence avec un d\u00e9bit \u00e9gal \u00e0 0,5 litre par minute \u00e0 celui du pistolet de r\u00e9f\u00e9rence d\u00e9fini ci-dessus."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.1. Caract\u00e9ristiques des pistolets de distribution."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "cf38eDdA29a2",
+                      "outer_alineas": [
+                        {
+                          "text": "Les essais sont r\u00e9alis\u00e9s avec du supercarburant sans plomb conforme \u00e0 la norme NF EN 228 qui n'a pas \u00e9t\u00e9 brass\u00e9 et qui est utilis\u00e9 pour la premi\u00e8re fois."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.2. Caract\u00e9ristiques de l'essence utilis\u00e9e."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "08db406dB2CB",
+                      "outer_alineas": [
+                        {
+                          "text": "Les essais sont r\u00e9alis\u00e9s avec un r\u00e9servoir \u00e9talon repr\u00e9sentatif des v\u00e9hicules circulant sur le march\u00e9 fran\u00e7ais."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.3. R\u00e9servoir du v\u00e9hicule utilis\u00e9."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "F7eBF6caCfDF",
+                      "outer_alineas": [
+                        {
+                          "text": "La temp\u00e9rature de l'essence utilis\u00e9e pour r\u00e9aliser les essais est \u00e9gale \u00e0 15 3 \u00b0C."
+                        },
+                        {
+                          "text": "La temp\u00e9rature ambiante est \u00e9gale \u00e0 15 5 \u00b0C."
+                        },
+                        {
+                          "text": "La diff\u00e9rence maximale entre la temp\u00e9rature de l'essence utilis\u00e9e et la temp\u00e9rature ambiante est dt = 5 \u00b0C."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.4.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.4. Conditions de temp\u00e9rature."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "87bbcA2Fba27",
+                      "outer_alineas": [
+                        {
+                          "text": "La mise en service et le r\u00e9glage du syst\u00e8me sont effectu\u00e9s sous la responsabilit\u00e9 de la soci\u00e9t\u00e9 ordonnatrice des essais."
+                        },
+                        {
+                          "text": "Les caract\u00e9ristiques techniques du syst\u00e8me sont pr\u00e9cis\u00e9es, en particulier la valeur de d\u00e9bit maximal de distribution ainsi que la perte de charge maximale admise en aval de l'organe d\u00e9primog\u00e8ne."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.5.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.5. Pr\u00e9paration du syst\u00e8me de r\u00e9cup\u00e9ration des vapeurs."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "d6FA3C5aCFbf",
+                      "outer_alineas": [
+                        {
+                          "text": "Apr\u00e8s avoir \u00e9vacu\u00e9 le contenu de r\u00e9servoir \u00e9talon, un ravitaillement partiel est effectu\u00e9 \u00e0 environ 10 % du volume du r\u00e9servoir. Le bouchon du r\u00e9servoir est alors ferm\u00e9 jusqu'\u00e0 l'obtention d'un \u00e9quilibre thermique entre l'essence utilis\u00e9e et le r\u00e9servoir."
+                        },
+                        {
+                          "text": "Cette op\u00e9ration est effectu\u00e9e avant chaque mesure, qu'il s'agisse d'\u00e9missions de base ou d'\u00e9missions r\u00e9siduelles, afin d'obtenir au d\u00e9but de la mesure une saturation en gaz reproductible dans le r\u00e9servoir \u00e9talon."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.2.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2.6. Pr\u00e9paration du r\u00e9servoir \u00e9talon."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "3.2. Conditions des essais."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "DeF0C9d1AF5d",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.3.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "Dae5DedD3eEc",
+                      "outer_alineas": [
+                        {
+                          "text": "L'\u00e9tanch\u00e9it\u00e9 du syst\u00e8me est pr\u00e9alablement v\u00e9rifi\u00e9e selon la proc\u00e9dure d\u00e9crite \u00e0 l'annexe II, point 1."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.3.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.3.1. Etanch\u00e9it\u00e9 du syst\u00e8me."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "64437FEf1c3B",
+                      "outer_alineas": [
+                        {
+                          "text": "Le pistolet de distribution est introduit le plus loin possible dans l'orifice de remplissage du r\u00e9servoir \u00e9talon, positionn\u00e9 de fa\u00e7on \u00e0 rester bloqu\u00e9 dans ce dernier. Le levier de man\u0153uvre reste bloqu\u00e9 pendant la dur\u00e9e de la mesure afin d'obtenir un d\u00e9bit constant."
+                        },
+                        {
+                          "text": "La mesure des \u00e9missions de vapeurs s'effectue pendant le remplissage du r\u00e9servoir \u00e9talon jusqu'\u00e0 environ 90 % de son volume."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.3.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.3.2. D\u00e9roulement d'une mesure."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "53AB8ddee557",
+                      "outer_alineas": [
+                        {
+                          "text": "Afin de d\u00e9terminer des valeurs moyennes, il est effectu\u00e9 trois mesures massiques de chaque type d'\u00e9mission dans l'ordre suivant :"
+                        },
+                        {
+                          "text": "\u2015 deux mesures massiques des \u00e9missions de base ;"
+                        },
+                        {
+                          "text": "\u2015 trois mesures massiques des \u00e9missions r\u00e9siduelles ;"
+                        },
+                        {
+                          "text": "\u2015 une mesure massique des \u00e9missions de base."
+                        },
+                        {
+                          "text": "Cette proc\u00e9dure est effectu\u00e9e au d\u00e9bit maximal du pistolet de distribution, d'une part, et \u00e0 la moiti\u00e9 du d\u00e9bit maximal, d'autre part."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I 3.3.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.3.3. D\u00e9roulement des essais."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "3.3. Proc\u00e9dure des essais."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "9DF7Ec0cb5a9",
+                  "outer_alineas": [
+                    {
+                      "text": "Le calcul du taux de r\u00e9cup\u00e9ration est effectu\u00e9 avec des valeurs moyennes, selon la formule :"
+                    },
+                    {
+                      "text": "TR \u2013 (EB \u2013 ER)/EB"
+                    },
+                    {
+                      "text": "Les abr\u00e9viations signifient :"
+                    },
+                    {
+                      "text": "TR = taux de r\u00e9cup\u00e9ration ;"
+                    },
+                    {
+                      "text": "EB = valeur moyenne des \u00e9missions de base (exprim\u00e9e en g/l) ;"
+                    },
+                    {
+                      "text": "ER = valeur moyenne des \u00e9missions r\u00e9siduelles (exprim\u00e9e en g/l)."
+                    },
+                    {
+                      "text": "Les taux de r\u00e9cup\u00e9ration d\u00e9termin\u00e9s au d\u00e9bit maximal et \u00e0 la moiti\u00e9 du d\u00e9bit maximal doivent \u00eatre sup\u00e9rieurs au taux fix\u00e9 \u00e0 l'article 7 du pr\u00e9sent arr\u00eat\u00e9."
+                    },
+                    {
+                      "text": "Les taux de r\u00e9cup\u00e9ration sont corrig\u00e9s lorsque le taux volum\u00e9trique TV d\u00e9termin\u00e9 au point 4 est sup\u00e9rieur \u00e0 100 %. Dans ce cas, on admet une saturation de 80 % pour le m\u00e9lange gazeux \u00e9mergeant de l'\u00e9vent du r\u00e9servoir de stockage. On obtient un taux de r\u00e9cup\u00e9ration corrig\u00e9 selon la formule :"
+                    },
+                    {
+                      "text": "TR corrig\u00e9 = TR + (100 \u2015 TV) \u00d7 0,8."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.4. D\u00e9termination du taux de r\u00e9cup\u00e9ration."
+                  }
+                }
+              ],
+              "title": {
+                "text": "3. M\u00e9thode gravim\u00e9trique."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F26c6876aEd7",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "17DEfbc5FD7c",
+                  "outer_alineas": [
+                    {
+                      "text": "La m\u00e9thode consiste \u00e0 comparer le d\u00e9bit d'essence distribu\u00e9e pendant un ravitaillement et le d\u00e9bit de m\u00e9lange de vapeurs-air r\u00e9cup\u00e9r\u00e9 afin de v\u00e9rifier l'efficacit\u00e9 du syst\u00e8me de r\u00e9gulation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.1. Description de la m\u00e9thode."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "AcD2a0bf83D6",
+                  "outer_alineas": [
+                    {
+                      "text": "Les dispositifs de mesure sont connect\u00e9s aux endroits appropri\u00e9s, en fonction de la technologie de l'organe d\u00e9primog\u00e8ne, pour d\u00e9terminer le volume d'essence distribu\u00e9e et le volume de m\u00e9lange vapeurs-air r\u00e9cup\u00e9r\u00e9 (par exemple, le point de mesure est situ\u00e9 en amont dans le cas de pompe lubrifi\u00e9e \u00e0 l'huile)."
+                    },
+                    {
+                      "text": "Les mesures sont effectu\u00e9es \u00e0 la perte de charge aval maximale admise pour le d\u00e9bit maximal, qui est indiqu\u00e9e par la soci\u00e9t\u00e9 ordonnatrice des essais."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.2. Conditions pr\u00e9paratoires des essais."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f2CD0F3c1790",
+                  "outer_alineas": [
+                    {
+                      "text": "Le calcul du taux volum\u00e9trique est effectu\u00e9 avec des valeurs moyennes, selon la formule :"
+                    },
+                    {
+                      "text": "TV = (V cov)/(Vessence)"
+                    },
+                    {
+                      "text": "Les abr\u00e9viations signifient :"
+                    },
+                    {
+                      "text": "TV = taux volum\u00e9trique."
+                    },
+                    {
+                      "text": "V cov = volume de compos\u00e9s organiques volatils r\u00e9cup\u00e9r\u00e9."
+                    },
+                    {
+                      "text": "V essence = volume d'essence distribu\u00e9."
+                    },
+                    {
+                      "text": "Les diff\u00e9rentes mesures sont effectu\u00e9es pendant la phase de mesure des \u00e9missions r\u00e9siduelles selon le d\u00e9roulement d\u00e9crit au 3.3."
+                    },
+                    {
+                      "text": "Au d\u00e9bit de distribution maximal, le taux volum\u00e9trique doit \u00eatre compris entre 95 % et 105 %."
+                    },
+                    {
+                      "text": "A la moiti\u00e9 du d\u00e9bit maximal, le taux volum\u00e9trique doit \u00eatre compris entre 90 % et 110 %."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.3. Calcul du taux volum\u00e9trique."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f52a8e5d0bE2",
+                  "outer_alineas": [
+                    {
+                      "text": "Des mesures sont \u00e9galement effectu\u00e9es avec une aspiration d'air \u00e0 la place des vapeurs d'essence selon la m\u00eame proc\u00e9dure, mais au d\u00e9bit maximal uniquement. Il sera d\u00e9termin\u00e9 un autre taux volum\u00e9trique qui permettra de calculer le facteur d'\u00e9quivalence K selon la formule :"
+                    },
+                    {
+                      "text": "K = (TV (air))/(TV (essence))"
+                    },
+                    {
+                      "text": "Ce facteur de correction est notifi\u00e9 afin de servir de r\u00e9f\u00e9rence pour les contr\u00f4les et la surveillance du syst\u00e8me de r\u00e9cup\u00e9ration des vapeurs sur site."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.4. D\u00e9termination du facteur d'\u00e9quivalences air/vapeurs."
+                  }
+                }
+              ],
+              "title": {
+                "text": "4. M\u00e9thode volum\u00e9trique."
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe I - CONFORMIT\u00c9 DES SYST\u00c8MES DE R\u00c9CUP\u00c9RATION DES VAPEURS"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "AIR_ODEURS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0992b0c5a2ed",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "58D36ff3338E",
+              "outer_alineas": [
+                {
+                  "text": "De fa\u00e7on \u00e0 s'assurer que seules les vapeurs pr\u00e9lev\u00e9es au niveau du ou des orifices d'aspiration du pistolet sont prises en compte lors de la d\u00e9termination du taux volum\u00e9trique TV, la v\u00e9rification de l'\u00e9tanch\u00e9it\u00e9 du syst\u00e8me est effectu\u00e9e pr\u00e9alablement au contr\u00f4le d\u00e9fini au point 2 de la pr\u00e9sente annexe."
+                },
+                {
+                  "text": "Cette v\u00e9rification permet d'\u00e9tablir :"
+                },
+                {
+                  "text": "- qu'il n'existe aucune possibilit\u00e9 d'entr\u00e9e d'air entre le pistolet et l'organe d\u00e9primog\u00e8ne, d'un d\u00e9bit sup\u00e9rieur \u00e0 0,5 % du d\u00e9bit maximum ;"
+                },
+                {
+                  "text": "- qu'il n'existe aucune possibilit\u00e9 de sortie de vapeur entre la pompe et l'extr\u00e9mit\u00e9 de refoulement de l'installation, d'un d\u00e9bit sup\u00e9rieur \u00e0 0,5 % du d\u00e9bit maximum ;"
+                },
+                {
+                  "text": "- que la somme des deux d\u00e9bits de fuite pr\u00e9c\u00e9demment consid\u00e9r\u00e9s reste inf\u00e9rieure \u00e0 0,5 % du d\u00e9bit maximum, et ce, quel que soit le nombre de pistolets associ\u00e9s \u00e0 l'organe d\u00e9primog\u00e8ne."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II",
+              "sections": [],
+              "title": {
+                "text": "1."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6aB0395F491b",
+              "outer_alineas": [
+                {
+                  "text": "Le contr\u00f4le est r\u00e9alis\u00e9 conform\u00e9ment \u00e0 la m\u00e9thode volum\u00e9trique avec l'aspiration d'air d\u00e9crite au point 4.4 de l'annexe I."
+                },
+                {
+                  "text": "Le taux volum\u00e9trique mesur\u00e9 au d\u00e9bit maximal avec l'aspiration d'air doit \u00eatre corrig\u00e9 du facteur d'\u00e9quivalence notifi\u00e9 dans l'attestation de conformit\u00e9 du syst\u00e8me de r\u00e9cup\u00e9ration des vapeurs."
+                },
+                {
+                  "text": "Le taux volum\u00e9trique ainsi d\u00e9termin\u00e9 doit \u00eatre compris entre 90 % et 110 % au d\u00e9bit maximal de distribution."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II",
+              "sections": [],
+              "title": {
+                "text": "2."
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe II - CONTR\u00d4LE SUR SITE DES SYST\u00c8MES DE R\u00c9CUP\u00c9RATION DES VAPEURS"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 19/12/08 fixant les r\u00e8gles g\u00e9n\u00e9rales et prescriptions techniques applicables aux installations class\u00e9es soumises \u00e0 autorisation sous la rubrique n\u00b0 1434-1"
+  },
+  "visa": []
+}

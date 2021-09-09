@@ -1,0 +1,1097 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/41576",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": "2-a",
+      "regime": "E",
+      "rubrique": "2760",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [
+        "2-a"
+      ],
+      "regime": "E",
+      "rubrique": "2760"
+    }
+  ],
+  "date_of_signature": "2018-11-27",
+  "id": "JORFTEXT000037832596",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037832596",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fdbB84345aFd",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B8Caa7Ba4e67",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions applicables aux installations de stockage de d\u00e9chets non dangereux soumises \u00e0 enregistrement sous la rubrique n\u00b0 2760-2-a."
+            },
+            {
+              "text": "Ces dispositions s'appliquent sans pr\u00e9judice de prescriptions particuli\u00e8res dont peut \u00eatre assorti l'arr\u00eat\u00e9 d'enregistrement dans les conditions fix\u00e9es par les articles L. 512-7-3 et L. 512-7-5 du code de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C9Ba2FAbB1cb",
+          "outer_alineas": [
+            {
+              "text": "Sont exclus du champ d'application du pr\u00e9sent arr\u00eat\u00e9 :"
+            },
+            {
+              "text": "- les stockages de d\u00e9chets radioactifs au sens de la directive 96/29/EURATOM du Conseil du 13 mai 1996 fixant les normes de base relatives \u00e0 la protection sanitaire de la population et des travailleurs contre les dangers r\u00e9sultant des rayonnements ionisants ;"
+            },
+            {
+              "text": "- les stockages de d\u00e9chets \u00e0 risques infectieux tels que d\u00e9finis dans le d\u00e9cret n\u00b0 97-1048 du 6 novembre 1997 relatif \u00e0 l'\u00e9limination des d\u00e9chets d'activit\u00e9s de soins \u00e0 risques infectieux et assimil\u00e9s et des pi\u00e8ces anatomiques et modifiant le code de la sant\u00e9 publique ;"
+            },
+            {
+              "text": "- les stockages de d\u00e9chets provenant de la prospection, de l'extraction, du traitement et du stockage de ressources mini\u00e8res, y compris les mati\u00e8res premi\u00e8res fossiles, et les d\u00e9chets issus de l'exploitation des mines et carri\u00e8res, y compris les boues issues des forages permettant l'exploitation des hydrocarbures ;"
+            },
+            {
+              "text": "- les stockages dans des cavit\u00e9s naturelles ou artificielles en sous-sol ;"
+            },
+            {
+              "text": "- les installations stockant des d\u00e9chets non dangereux :"
+            },
+            {
+              "text": "- pour une dur\u00e9e inf\u00e9rieure \u00e0 un an si les d\u00e9chets sont destin\u00e9s \u00e0 \u00e9limination ; ou"
+            },
+            {
+              "text": "- pour une dur\u00e9e inf\u00e9rieure \u00e0 trois ans si les d\u00e9chets sont destin\u00e9s \u00e0 valorisation ;"
+            },
+            {
+              "text": "- les installations de stockage de d\u00e9chets de s\u00e9diments ;"
+            },
+            {
+              "text": "- les travaux d'am\u00e9nagement ou de r\u00e9habilitation ou de remblai \u00e0 des fins de construction avec des d\u00e9chets inertes, m\u00eame ceux situ\u00e9s dans les installations de stockage vis\u00e9es par le pr\u00e9sent arr\u00eat\u00e9 ;"
+            },
+            {
+              "text": "- les bassins de d\u00e9cantation ou de lagunage en fonctionnement ;"
+            },
+            {
+              "text": "- les \u00e9pandages sur le sol de d\u00e9chets ou de boues, y compris les boues d'\u00e9puration et les boues r\u00e9sultant d'op\u00e9rations de dragage, ainsi que de mati\u00e8res analogues dans un but de fertilisation ou d'amendement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre IER : D\u00c9FINITION ET CHAMP D'APPLICATION"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3d92A5234caC",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "DISPOSITIONS_GENERALES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "D2eaBa62e294",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9E7eaeAa2a0F",
+              "outer_alineas": [
+                {
+                  "text": "L'installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la demande d'enregistrement \u00e9tablie en conformit\u00e9 avec les articles R. 512-46-1 \u00e0 R. 512-46-7 du code de l'environnement."
+                },
+                {
+                  "text": "L'exploitant \u00e9num\u00e8re et justifie en tant que de besoin toutes les dispositions prises pour la conception, la construction et l'exploitation de l'installation afin de respecter les prescriptions du pr\u00e9sent arr\u00eat\u00e9, et la justification du respect de la d\u00e9finition de zone isol\u00e9e."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "Article 3"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B3ea8B8EA6e5",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+                },
+                {
+                  "text": "- une copie de la demande d'enregistrement ;"
+                },
+                {
+                  "text": "- le dossier d'enregistrement et le dossier qui l'accompagne, tenu \u00e0 jour et dat\u00e9 en fonction des modifications apport\u00e9es \u00e0 l'installation ;"
+                },
+                {
+                  "text": "- l'arr\u00eat\u00e9 d'enregistrement d\u00e9livr\u00e9 par le pr\u00e9fet ainsi que tout arr\u00eat\u00e9 pr\u00e9fectoral relatif \u00e0 l'installation ;"
+                },
+                {
+                  "text": "- le type de d\u00e9chets admissibles sur le site selon les libell\u00e9s et codes de l'annexe II \u00e0 l'article R. 41-8 du code de l'environnement ;"
+                },
+                {
+                  "text": "- la description du site, y compris les caract\u00e9ristiques hydrog\u00e9ologiques et g\u00e9ologiques ;"
+                },
+                {
+                  "text": "- les diff\u00e9rents documents pr\u00e9vus par le pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [],
+              "title": {
+                "text": "Article 4"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e066b4207AE5",
+              "outer_alineas": [
+                {
+                  "text": "Les d\u00e9chets autoris\u00e9s dans une installation de stockage de d\u00e9chets non dangereux situ\u00e9e en site isol\u00e9 sont les d\u00e9chets m\u00e9nagers ou assimil\u00e9s non dangereux."
+                },
+                {
+                  "text": "Les d\u00e9chets suivants ne sont pas autoris\u00e9s \u00e0 \u00eatre stock\u00e9s dans une installation de stockage de d\u00e9chets non dangereux :"
+                },
+                {
+                  "text": "- tous les d\u00e9chets dangereux au sens de l'article R. 541-8 du code de l'environnement ;"
+                },
+                {
+                  "text": "- les d\u00e9chets ayant fait l'objet d'une collecte s\u00e9par\u00e9e \u00e0 des fins de valorisation ;"
+                },
+                {
+                  "text": "- les d\u00e9chets liquides (tout d\u00e9chet sous forme liquide, notamment les eaux us\u00e9es, mais \u00e0 l'exclusion des boues) ou dont la siccit\u00e9 est inf\u00e9rieure \u00e0 30 % ;"
+                },
+                {
+                  "text": "- les substances chimiques non identifi\u00e9es et/ou nouvelles qui proviennent d'activit\u00e9s de recherche et de d\u00e9veloppement ou d'enseignement et dont les effets sur l'homme et/ou sur l'environnement ne sont pas connus (par exemple, d\u00e9chets de laboratoires, etc.) ;"
+                },
+                {
+                  "text": "- les d\u00e9chets de pneumatiques, \u00e0 l'exclusion des d\u00e9chets de pneumatiques \u00e9quipant ou ayant \u00e9quip\u00e9 les cycles d\u00e9finis \u00e0 l'article R. 311-1 du code de la route."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5",
+              "sections": [],
+              "title": {
+                "text": "Article 5"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre IER : Dispositions g\u00e9n\u00e9rales"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1156fd94f2FA",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2cCE9A72bbCf",
+              "outer_alineas": [
+                {
+                  "text": "L'installation est implant\u00e9e sur des terrains au contexte g\u00e9ologique, hydrologique et hydrog\u00e9ologique favorable, afin d'emp\u00eacher les infiltrations de lixiviats dans le milieu naturel. En particulier :"
+                },
+                {
+                  "text": "- l'absence d'eau dans les premiers m\u00e8tres (\u00e0 partir du niveau du terrain naturel) au droit du site retenu est \u00e0 v\u00e9rifier. En particulier, l'installation est implant\u00e9e hors zone d'affleurement de nappe, cours d'eau, plan d'eau, canaux et foss\u00e9s, temporaires ou d\u00e9finitifs ;"
+                },
+                {
+                  "text": "- le sous-sol de la zone \u00e0 exploiter constitue une barri\u00e8re de s\u00e9curit\u00e9 passive qui ne doit pas \u00eatre sollicit\u00e9e pendant l'exploitation et permet d'assurer \u00e0 long terme la pr\u00e9vention de la pollution des sols, des eaux souterraines et de surface par les d\u00e9chets et les lixiviats."
+                },
+                {
+                  "text": "L'implantation ne perturbe pas les r\u00e9gimes d'\u00e9coulement des eaux souterraines. Les zones \u00e9paisses d'alluvions sont notamment \u00e0 \u00e9viter. S'il n'est pas possible d'\u00e9viter une zone \u00e9paisse d'alluvions, le document justifiant du respect des prescriptions g\u00e9n\u00e9rales applicables \u00e0 l'installation mentionne les dispositions techniques susceptibles d'\u00eatre prises pour pr\u00e9venir les amen\u00e9es d'eau dans la zone \u00e0 exploiter. Dans de telles situations, les \u00e9ventuels r\u00e9seaux de drainage des eaux sont implant\u00e9s de mani\u00e8re \u00e0 ne pas rompre la continuit\u00e9 de la barri\u00e8re passive mise en place selon les modalit\u00e9s sp\u00e9cifi\u00e9es \u00e0 l'article 9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 6",
+              "sections": [],
+              "title": {
+                "text": "Article 6"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "3aFfa2cEfac5",
+              "outer_alineas": [
+                {
+                  "text": "Les terrains d'implantation sont compatibles avec la nature et l'intensit\u00e9 des risques d'inondation, de faille, d'avalanche ou de mouvements de terrain, tel qu'affaissement, glissement de terrain ou \u00e9boulement. Ils ne sont pas situ\u00e9s \u00e0 l'int\u00e9rieur des p\u00e9rim\u00e8tres de protection imm\u00e9diat et rapproch\u00e9 des captages d'eau destin\u00e9e \u00e0 la consommation humaine."
+                },
+                {
+                  "text": "L'ensemble de ces dispositions est mis en \u0153uvre par l'exploitant pendant la p\u00e9riode d'exploitation et de suivi long terme."
+                },
+                {
+                  "text": "L'installation n'est pas implant\u00e9e sur des terrains comportant un patrimoine naturel ou culturel \u00e0 prot\u00e9ger, sauf si des mesures de compensation sont mises en \u0153uvre pour en garantir la protection."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7",
+              "sections": [],
+              "title": {
+                "text": "Article 7"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5BB54e22fCB7",
+              "outer_alineas": [
+                {
+                  "text": "L'installation est implant\u00e9e \u00e0 une distance minimale d'\u00e9loignement de :"
+                },
+                {
+                  "text": "- 50 m\u00e8tres des constructions \u00e0 usage d'habitation, des \u00e9tablissements destin\u00e9s \u00e0 recevoir des personnes du public ;"
+                },
+                {
+                  "text": "- 50 m\u00e8tres des voies d'eau et puits priv\u00e9s."
+                },
+                {
+                  "text": "L'installation est \u00e9galement implant\u00e9e en dehors des p\u00e9rim\u00e8tres de protection rapproch\u00e9e de captage d'eau potable."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 8",
+              "sections": [],
+              "title": {
+                "text": "Article 8"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre II : Localisation de l'installation"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "39046dfa0ac4",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B3f7C857CF4C",
+              "outer_alineas": [
+                {
+                  "text": "La protection du sol, des eaux souterraines et de surface est assur\u00e9e par une barri\u00e8re g\u00e9ologique dite \u00ab barri\u00e8re de s\u00e9curit\u00e9 passive \u00bb constitu\u00e9e du terrain naturel en l'\u00e9tat r\u00e9pondant aux crit\u00e8res suivants :"
+                },
+                {
+                  "text": "- le fond d'un casier pr\u00e9sente une couche de perm\u00e9abilit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 1.10-5 m/s sur au moins 2,5 m\u00e8tres d'\u00e9paisseur ;"
+                },
+                {
+                  "text": "- les flancs d'un casier pr\u00e9sentent une perm\u00e9abilit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 1.10-5 m/s sur au moins 1 m\u00e8tre d'\u00e9paisseur."
+                },
+                {
+                  "text": "La g\u00e9om\u00e9trie des flancs est r\u00e9alis\u00e9e selon une pente assurant un coefficient de stabilit\u00e9 suffisant."
+                },
+                {
+                  "text": "Lorsque la barri\u00e8re g\u00e9ologique ne r\u00e9pond pas naturellement aux conditions pr\u00e9cit\u00e9es, elle est compl\u00e9t\u00e9e et renforc\u00e9e par d'autres moyens pr\u00e9sentant une protection \u00e9quivalente. L'\u00e9paisseur de la barri\u00e8re ainsi reconstitu\u00e9e ne doit pas \u00eatre inf\u00e9rieure \u00e0 1 m\u00e8tre pour le fond de forme et \u00e0 0,5 m\u00e8tre pour les flancs."
+                },
+                {
+                  "text": "L'ensemble des \u00e9l\u00e9ments relatifs \u00e0 l'\u00e9quivalence de la barri\u00e8re de s\u00e9curit\u00e9 passive doit \u00eatre d\u00e9crit dans le document justifiant du respect des prescriptions g\u00e9n\u00e9rales applicables \u00e0 l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9",
+              "sections": [],
+              "title": {
+                "text": "Article 9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f5Ba033eDde9",
+              "outer_alineas": [
+                {
+                  "text": "Afin de supprimer les infiltrations d'eaux de ruissellement, le casier est entour\u00e9 d'un merlon de 0,5 m de haut sur toute sa p\u00e9riph\u00e9rie."
+                },
+                {
+                  "text": "L'ensemble du casier et du merlon associ\u00e9 est recouvert d'une toiture incombustible (par exemple t\u00f4les fix\u00e9es sur charpente robuste) disposant d'un d\u00e9bord suffisant pour emp\u00eacher toute entr\u00e9e d'eau pluviale dans le casier. Tous les supports de structure sont ext\u00e9rieurs au casier."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 10",
+              "sections": [],
+              "title": {
+                "text": "Article 10"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre III : Exigences relatives \u00e0 l'\u00e9tanch\u00e9it\u00e9, \u00e0 la stabilit\u00e9 et aux moyens mis en \u0153uvre pour limiter les infiltrations d'eaux"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "dDAcCc681156",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E7dB97cB0C21",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 11",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "cBEFC16f12FB",
+                  "outer_alineas": [
+                    {
+                      "text": "Tout stockage d'un liquide susceptible de cr\u00e9er une pollution des eaux ou des sols est r\u00e9alis\u00e9 \u00e0 l'abri des eaux m\u00e9t\u00e9oriques et associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention adapt\u00e9e au volume des r\u00e9cipients."
+                    },
+                    {
+                      "text": "L'\u00e9tanch\u00e9it\u00e9 du (ou des) r\u00e9servoir(s) associ\u00e9(s) peut \u00eatre contr\u00f4l\u00e9e \u00e0 tout moment."
+                    },
+                    {
+                      "text": "Tout nouveau r\u00e9servoir install\u00e9 sous le niveau du sol est \u00e0 double enveloppe."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "165cABBdFf8c",
+                  "outer_alineas": [
+                    {
+                      "text": "Le sol des aires et des locaux de stockage des mati\u00e8res dangereuses ou susceptibles de cr\u00e9er une pollution de l'eau ou du sol est \u00e9tanche et \u00e9quip\u00e9 de fa\u00e7on \u00e0 pouvoir recueillir les eaux de lavage et les mati\u00e8res r\u00e9pandues accidentellement, de fa\u00e7on \u00e0 ce que le liquide ne puisse s'\u00e9couler hors de l'aire ou du local."
+                    },
+                    {
+                      "text": "Les mati\u00e8res recueillies sont de pr\u00e9f\u00e9rence r\u00e9cup\u00e9r\u00e9es et recycl\u00e9es ou, en cas d'impossibilit\u00e9, trait\u00e9es conform\u00e9ment aux dispositions du pr\u00e9sent arr\u00eat\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 II.",
+                  "sections": [],
+                  "title": {
+                    "text": "II. - R\u00e9tention et confinement."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 11"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EAE196AAcCcf",
+              "outer_alineas": [
+                {
+                  "text": "L'installation doit \u00eatre prot\u00e9g\u00e9e pour emp\u00eacher le libre acc\u00e8s au site. Les grilles doivent \u00eatre ferm\u00e9es \u00e0 clef en dehors des heures de travail. La cl\u00f4ture prot\u00e8ge l'installation des agressions externes et emp\u00eache l'intrusion de personnes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 12",
+              "sections": [],
+              "title": {
+                "text": "Article 12"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre IV : Dispositions diverses"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "181B108De3B3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f5bad824f2A4",
+              "outer_alineas": [
+                {
+                  "text": "Avant toute admission de d\u00e9chets dans l'installation de stockage de d\u00e9chets non dangereux implant\u00e9e en site isol\u00e9, l'exploitant informe le pr\u00e9fet de la fin des travaux d'am\u00e9nagement de l'installation, qui fait proc\u00e9der par l'inspection des installations class\u00e9es \u00e0 une visite du site afin de s'assurer que le site est conforme aux conditions fix\u00e9es en la mati\u00e8re par l'arr\u00eat\u00e9 d'enregistrement, en particulier celles d\u00e9finies aux chapitres II \u00e0 IV du pr\u00e9sent titre. L'admission des d\u00e9chets ne peut d\u00e9buter que si le rapport conclut positivement sur la base des v\u00e9rifications pr\u00e9cit\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "Article 13"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dB13E07C7f83",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant adresse \u00e0 l'inspection des installations class\u00e9es un rapport annuel d'activit\u00e9 comportant tout \u00e9l\u00e9ment d'information pertinent sur l'exploitation de l'installation de stockage. Celui-ci int\u00e8gre notamment un contr\u00f4le visuel sur les capacit\u00e9s d'accueil de d\u00e9chets disponibles restantes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 14",
+              "sections": [],
+              "title": {
+                "text": "Article 14"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre V : Contr\u00f4les pr\u00e9alables \u00e0 la mise en service des \u00e9quipements et contr\u00f4les p\u00e9riodiques en cours d'exploitation"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DECHETS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EdeeA7CAd4bd",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "7FEB33F9EB1b",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant r\u00e9alise des inspections visuelles r\u00e9guli\u00e8res au point de d\u00e9p\u00f4t afin de s'assurer que seuls des d\u00e9chets non dangereux provenant de l'implantation isol\u00e9e sont accept\u00e9s. L'exploitant tient \u00e9galement un registre des quantit\u00e9s de d\u00e9chets d\u00e9pos\u00e9es sur le site."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 15",
+              "sections": [],
+              "title": {
+                "text": "Article 15"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre VI : Admission des d\u00e9chets"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9a6beEadBFD4",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "06c421A4b159",
+              "outer_alineas": [
+                {
+                  "text": "I. - Le mode de stockage permet de limiter les envols de d\u00e9chets et d'\u00e9viter leur dispersion dans les zones environnantes."
+                },
+                {
+                  "text": "II. - Tout br\u00fblage de d\u00e9chets \u00e0 l'air libre est strictement interdit."
+                },
+                {
+                  "text": "Les abords du site sont d\u00e9broussaill\u00e9s de mani\u00e8re \u00e0 \u00e9viter la diffusion \u00e9ventuelle d'un incendie s'\u00e9tant d\u00e9velopp\u00e9 sur le site ou, \u00e0 l'inverse, les cons\u00e9quences d'un incendie ext\u00e9rieur sur le stockage."
+                },
+                {
+                  "text": "L'exploitant \u00e9tablit une proc\u00e9dure relative \u00e0 la conduite \u00e0 tenir en cas d'incendie sur l'installation et organise des formations de sensibilisation au risque incendie pour le personnel du site, sans pr\u00e9judice des dispositions applicables aux travailleurs qui rel\u00e8vent du code du travail."
+                },
+                {
+                  "text": "III. - Toutes dispositions sont prises pour \u00e9viter la formation d'a\u00e9rosols."
+                },
+                {
+                  "text": "IV. - Toute humidification des d\u00e9chets est interdite."
+                },
+                {
+                  "text": "V. - Les activit\u00e9s de tri, chiffonnage et r\u00e9cup\u00e9ration des d\u00e9chets sont interdites dans le casier."
+                },
+                {
+                  "text": "VI. - L'exploitant prend les mesures n\u00e9cessaires pour lutter contre la prolif\u00e9ration des rongeurs, des insectes et des oiseaux, en particulier, pour ces derniers, au voisinage des a\u00e9rodromes, dans le respect des textes relatifs \u00e0 la protection des esp\u00e8ces."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 16",
+              "sections": [],
+              "title": {
+                "text": "Article 16"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre VII : Conduite d'exploitation"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "FIN_EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EdA2f6A77297",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "88e970c6a88D",
+              "outer_alineas": [
+                {
+                  "text": "D\u00e8s la fin de l'exploitation, le casier est recouvert d'une couverture finale. La couverture finale est compos\u00e9e d'une couche d'\u00e9tanch\u00e9it\u00e9 d'une \u00e9paisseur minimale de 0,50 m, et d'une perm\u00e9abilit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 1.10-6 m/s, d'une couche de drainage et d'une couche de terre de 0,30 m."
+                },
+                {
+                  "text": "Son model\u00e9 permet la r\u00e9sorption et l'\u00e9vacuation des eaux pluviales compatibles avec les obligations \u00e9dict\u00e9es aux articles 640 et 41 du code civil. Les am\u00e9nagements sont effectu\u00e9s en fonction de l'usage ult\u00e9rieur pr\u00e9vu du site, notamment ceux mentionn\u00e9s dans les documents d'urbanisme opposables aux tiers. Dans tous les cas, l'am\u00e9nagement du site apr\u00e8s exploitation prend en compte l'aspect paysager. L'am\u00e9nagement ne peut pas comporter de cr\u00e9ation de plan d'eau qui entra\u00eene la mise en contact des d\u00e9chets stock\u00e9s avec de l'eau, ni de construction \u00e0 usage d'habitation ou d'\u00e9tablissement recevant des personnes dites sensibles."
+                },
+                {
+                  "text": "D\u00e8s la fin de l'exploitation, l'exploitant fournit au pr\u00e9fet du d\u00e9partement dans lequel est situ\u00e9e l'installation un plan topographique du site de stockage \u00e0 l'\u00e9chelle 1/500 qui pr\u00e9sente l'ensemble des am\u00e9nagements du site. Une copie de ce plan du site est transmise au maire de la commune d'implantation de l'installation pour prise en compte des documents d'urbanisme, et au propri\u00e9taire du terrain si l'exploitant n'est pas le propri\u00e9taire."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 17",
+              "sections": [],
+              "title": {
+                "text": "Article 17"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "71c51E7F7BAf",
+              "outer_alineas": [
+                {
+                  "text": "Pendant dix ans, l'exploitant s'assure du bon \u00e9tat de la couverture finale et r\u00e9alise notamment un entretien r\u00e9gulier de la couche v\u00e9g\u00e9tale, afin de conserver l'int\u00e9grit\u00e9 de la couche d'\u00e9tanch\u00e9it\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "Article 18"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre VIII : Fin d'exploitation"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre II : CONCEPTION ET CONSTRUCTION DE L'INSTALLATION"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cd61CD22DC2F",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4CfE47eD0E56",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 entre en vigueur le 1er janvier 2019."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 19",
+          "sections": [],
+          "title": {
+            "text": "Article 19"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FAc37c8E6D4D",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 20",
+          "sections": [],
+          "title": {
+            "text": "Article 20"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre III : EX\u00c9CUTION"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 27/11/18 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations de stockage de d\u00e9chets non dangereux dans une implantation isol\u00e9e telle que d\u00e9finie dans la directive 1999/31/CE relevant du r\u00e9gime de l'enregistrement au titre de la rubrique n\u00b0 2760-2a de la nomenclature des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": [
+    {
+      "text": "Vu la d\u00e9cision n\u00b0 2003/33/CE du Conseil du 19 d\u00e9cembre 2002 \u00e9tablissant des crit\u00e8res et des proc\u00e9dures d'admission des d\u00e9chets dans les d\u00e9charges conform\u00e9ment \u00e0 l'article 16 et \u00e0 l'annexe II de la directive n\u00b0 1999/31/CE ;"
+    },
+    {
+      "text": "Vu la directive n\u00b0 1999/31/CE du Conseil du 26 avril 1999 concernant la mise en d\u00e9charge de d\u00e9chets, modifi\u00e9e par la directive (UE) 2018/850 du Parlement et du Conseil du 30 mai 2018 ;"
+    },
+    {
+      "text": "Vu la directive n\u00b0 2008/98/CE du Parlement europ\u00e9en et du Conseil du 19 novembre 2008 relative aux d\u00e9chets et abrogeant certaines directives ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, notamment les articles R. 512-46-1 \u00e0 R. 512-46-30 ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 9,
+          "position": 87,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006839117&dateTexte=29990101&categorieLien=cid"
+        },
+        {
+          "content_size": 9,
+          "position": 100,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006839120&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu l'arr\u00eat\u00e9 du 29 f\u00e9vrier 2012 fixant le contenu des registres mentionn\u00e9s aux articles R. 541-43 et R. 541-46 du code de l'environnement ;"
+    },
+    {
+      "text": "Vu l'avis des organisations professionnelles int\u00e9ress\u00e9es ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 48,
+          "position": 132,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000032975869&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu les observations formul\u00e9es lors de la consultation publique r\u00e9alis\u00e9e du 10 novembre 2017 au 3 d\u00e9cembre 2017, en application de l'article L. 12 3-19 -1 du code de l'environnement,"
+    },
+    {
+      "text": "Vu l'avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques en date du 19 d\u00e9cembre 2017 ;"
+    },
+    {
+      "text": "Vu l'avis du Conseil national d'\u00e9valuation des normes en date du 3 mai 2018,"
+    }
+  ]
+}

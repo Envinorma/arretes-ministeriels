@@ -1,0 +1,1021 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/3423",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [],
+  "classements_with_alineas": [],
+  "date_of_signature": "2012-05-31",
+  "id": "JORFTEXT000026052372",
+  "is_transverse": true,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026052372",
+  "nickname": "Garanties financi\u00e8res",
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4F517F6af2a7",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "38df98Db380d",
+          "outer_alineas": [
+            {
+              "text": "Le montant des garanties financi\u00e8res pr\u00e9vues au 5\u00b0 du IV de l'article R. 516-2 du code de l'environnement permet d'ex\u00e9cuter la mise en s\u00e9curit\u00e9 conform\u00e9ment \u00e0 l'article R. 512-39-1 du m\u00eame code et, le cas \u00e9ch\u00e9ant, les mesures de gestion de la pollution des sols et des eaux souterraines conform\u00e9ment \u00e0 l'article R. 516-5-1 du m\u00eame code."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "I."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B5bdB3deBEEf",
+          "outer_alineas": [
+            {
+              "text": "Sauf pour les rubriques 1716, 1735 et 2797, ce montant est \u00e9tabli, pour les garanties financi\u00e8res mentionn\u00e9es au 5\u00b0 (a) du IV de l'article R. 516-2 du code de l'environnement, selon le mode de calcul forfaitaire de l'annexe I du pr\u00e9sent arr\u00eat\u00e9 ou sur la base d'une m\u00e9thode de calcul forfaitaire propre \u00e0 une branche professionnelle, approuv\u00e9e par d\u00e9cision du ministre charg\u00e9 des installations class\u00e9es."
+            },
+            {
+              "text": "L'exploitant peut proposer un montant diff\u00e9rent de garanties financi\u00e8res. Ce montant se base sur le mode de calcul pr\u00e9vu \u00e0 l'annexe I du pr\u00e9sent arr\u00eat\u00e9 mais est adapt\u00e9 \u00e0 la situation sp\u00e9cifique de l'exploitant sur un ou plusieurs des postes qui composent ce mode de calcul. Ces adaptations doivent \u00eatre d\u00fbment justifi\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "II."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "39dBACA3Be8c",
+          "outer_alineas": [
+            {
+              "text": "Pour les garanties financi\u00e8res additionnelles mentionn\u00e9es au VI de l'article R. 516-2 du code de l'environnement, le montant est d\u00e9termin\u00e9 par le pr\u00e9fet sur proposition de l'exploitant."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fC34Bdf8DcD6",
+              "outer_alineas": [
+                {
+                  "text": "Pour les rubriques 1716,1735 et 2797, le montant des garanties financi\u00e8res mentionn\u00e9es au 5\u00b0 (a) du IV de l'article R. 516-2 du code de l'environnement est \u00e9tabli selon le mode de calcul forfaitaire de l'annexe III du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Dans certaines situations sp\u00e9cifiques, notamment pour certains d\u00e9chets \u00e0 tr\u00e8s faibles activit\u00e9s (TFA), l'exploitant peut proposer un montant diff\u00e9rent de garanties financi\u00e8res que celui indiqu\u00e9 dans l'annexe III du pr\u00e9sent arr\u00eat\u00e9. Ce montant doit \u00eatre adapt\u00e9 \u00e0 la situation et \u00eatre d\u00fbment justifi\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 1",
+              "sections": [],
+              "title": {
+                "text": "IV."
+              }
+            }
+          ],
+          "title": {
+            "text": "III."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cb03649bbeeD",
+      "outer_alineas": [
+        {
+          "text": "Les garanties financi\u00e8res \u00e9tablies en vertu du pr\u00e9sent arr\u00eat\u00e9 s'\u00e9tablissent sans pr\u00e9judice des garanties financi\u00e8res que l'exploitant constitue en application du 3\u00b0 du IV de l'article R. 516-2 du code de l'environnement."
+        },
+        {
+          "text": "En revanche, le co\u00fbt de mise en s\u00e9curit\u00e9 des installations d\u00e9j\u00e0 vis\u00e9es par des garanties financi\u00e8res prises en application des 1\u00b0 et 2\u00b0 du IV de l'article R. 516-2 du m\u00eame code est exclu du montant de la garantie calcul\u00e9 en application du pr\u00e9sent arr\u00eat\u00e9."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "af3401f42c3f",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ee9ceC05Ce81",
+          "outer_alineas": [
+            {
+              "text": "En vue de l'\u00e9tablissement du montant de r\u00e9f\u00e9rence des garanties financi\u00e8res pr\u00e9vues au 5\u00b0 du IV de l'article R. 516-2, l'exploitant transmet au pr\u00e9fet une proposition de montant des garanties financi\u00e8res accompagn\u00e9e des valeurs et justifications techniques des diff\u00e9rents param\u00e8tres pertinents ayant permis le calcul forfaitaire pr\u00e9vu dans l'annexe I ou dans l'accord de branche, ou le calcul sp\u00e9cifique propos\u00e9 par l'exploitant. Ces valeurs et justifications techniques incluent la quantit\u00e9 maximale de d\u00e9chets pouvant \u00eatre entrepos\u00e9s sur le site, pr\u00e9vue dans l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation ou d'autorisation simplifi\u00e9e ou, \u00e0 d\u00e9faut, son estimation par l'exploitant qui sera ensuite prescrite par arr\u00eat\u00e9 pr\u00e9fectoral et, en tant que de besoin, une \u00e9tude sur le r\u00e9seau de contr\u00f4le de la qualit\u00e9 des eaux souterraines comportant le nombre de pi\u00e9zom\u00e8tres \u00e0 r\u00e9aliser, leur implantation ainsi que la nature des param\u00e8tres \u00e0 contr\u00f4ler."
+            },
+            {
+              "text": "Pour les installations d\u00e9j\u00e0 mises en service au 1er juillet 2012, la proposition de montant des garanties financi\u00e8res est adress\u00e9e au pr\u00e9fet au moins six mois avant la premi\u00e8re \u00e9ch\u00e9ance de constitution pr\u00e9vue dans l'arr\u00eat\u00e9 fixant la liste des installations class\u00e9es soumises \u00e0 l'obligation de constitution de garanties financi\u00e8res en application du 5\u00b0 de l'article R. 516-1 du code de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "I."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c2F97CEef583",
+          "outer_alineas": [
+            {
+              "text": "Pour les garanties financi\u00e8res additionnelles mentionn\u00e9es au VI de l'article R. 516-2, la proposition de l'exploitant est accompagn\u00e9e d'une pr\u00e9sentation des mesures de gestion de la pollution des sols et des eaux souterraines envisag\u00e9es \u00e0 terme et d'une estimation des co\u00fbts de ces mesures de gestion."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "II."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "7F5Cac987106",
+      "outer_alineas": [
+        {
+          "text": "Les mesures d\u00e9j\u00e0 mises en \u0153uvre dans le cadre du fonctionnement normal de l'installation et qui contribuent \u00e0 la mise en s\u00e9curit\u00e9 du site (par exemple les pi\u00e9zom\u00e8tres de surveillance ou une cl\u00f4ture du site), \u00e0 condition qu'elles soient toujours en bon \u00e9tat, ne sont pas comptabilis\u00e9es dans le montant des garanties."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "a9EfCBdD4EB5",
+      "outer_alineas": [
+        {
+          "text": "Le montant, initial ou actualis\u00e9, des garanties financi\u00e8res est arr\u00eat\u00e9 par le pr\u00e9fet. Le cas \u00e9ch\u00e9ant, le pr\u00e9fet fixe par arr\u00eat\u00e9 les quantit\u00e9s maximales de d\u00e9chets pouvant \u00eatre entrepos\u00e9s sur le site."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [],
+      "title": {
+        "text": "Article 5"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "85a415C0dadE",
+      "outer_alineas": [
+        {
+          "text": "Sans pr\u00e9judice des dispositions de l'article R. 516-5-1 du code de l'environnement, l'exploitant pr\u00e9sente tous les cinq ans un \u00e9tat actualis\u00e9 du montant de ses garanties financi\u00e8res."
+        },
+        {
+          "text": "Ce montant r\u00e9actualis\u00e9 est obtenu par application de la m\u00e9thode d'actualisation pr\u00e9cis\u00e9e \u00e0 l'annexe II du pr\u00e9sent arr\u00eat\u00e9 au montant de r\u00e9f\u00e9rence figurant dans l'arr\u00eat\u00e9 pr\u00e9fectoral pour la p\u00e9riode consid\u00e9r\u00e9e."
+        },
+        {
+          "text": "L'arr\u00eat\u00e9 pr\u00e9fectoral fixant le montant de r\u00e9f\u00e9rence des garanties financi\u00e8res pr\u00e9cise l'indice utilis\u00e9 pour le calcul de ce montant."
+        },
+        {
+          "text": "Toute modification des conditions d'exploitation conduisant \u00e0 une modification du co\u00fbt de mise en s\u00e9curit\u00e9 n\u00e9cessite une r\u00e9vision du montant de r\u00e9f\u00e9rence des garanties financi\u00e8res."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 6",
+      "sections": [],
+      "title": {
+        "text": "Article 6"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Ea22210bd6a1",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 entrent en vigueur le 1er juillet 2012."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 7",
+      "sections": [],
+      "title": {
+        "text": "Article 7"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "5da9B64a339C",
+      "outer_alineas": [
+        {
+          "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 8",
+      "sections": [],
+      "title": {
+        "text": "Article 8"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "8fcC10dDC6CE",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0359fAc3C848",
+          "outer_alineas": [
+            {
+              "text": "Les formules ci-dessous permettent de calculer le montant de r\u00e9f\u00e9rence des garanties financi\u00e8res."
+            },
+            {
+              "text": "Les produits dangereux mentionn\u00e9s d\u00e9signent l'ensemble des produits par le r\u00e8glement europ\u00e9en (CEE) n\u00b0 1272/2008 du Parlement europ\u00e9en et du Conseil du 16 d\u00e9cembre 2008 relatif \u00e0 la classification, \u00e0 l'\u00e9tiquetage et \u00e0 l'emballage des substances et des m\u00e9langes, modifiant et abrogeant les directives 67/548/ CEE et 1999/45/ CE et modifiant le r\u00e8glement (CE) n\u00b0 1907/2006."
+            },
+            {
+              "text": "Les d\u00e9chets dangereux mentionn\u00e9s ci-dessous sont d\u00e9finis \u00e0 l'article R. 541-8 du code de l'environnement."
+            },
+            {
+              "text": "Le montant de la garantie financi\u00e8re (M)"
+            },
+            {
+              "text": "Le montant global de la garantie est \u00e9gal \u00e0 :"
+            },
+            {
+              "text": "M = Sc [Me + \u03b1(Mi + Mc + Ms + Mg)]"
+            },
+            {
+              "text": "O\u00f9"
+            },
+            {
+              "text": "SC : coefficient pond\u00e9rateur de prise en compte des co\u00fbts li\u00e9s \u00e0 la gestion du chantier. Ce coefficient est \u00e9gal \u00e0 1,10."
+            },
+            {
+              "text": "Me : montant, au moment de la d\u00e9termination du premier montant de garantie financi\u00e8re, relatif aux mesures de gestion des produits dangereux et des d\u00e9chets pr\u00e9sents sur le site de l'installation. Ce montant est \u00e9tabli sur la base des \u00e9l\u00e9ments de r\u00e9f\u00e9rence suivants :"
+            },
+            {
+              "text": "Nature et quantit\u00e9 maximale des produits dangereux d\u00e9tenus par l'exploitant ;"
+            },
+            {
+              "text": "Nature et quantit\u00e9 estim\u00e9e des d\u00e9chets produits par l'installation. La quantit\u00e9 retenue est \u00e9gale \u00e0 :"
+            },
+            {
+              "text": "\u2015 la quantit\u00e9 maximale stockable sur le site \u00e9ventuellement pr\u00e9vue par l'arr\u00eat\u00e9 pr\u00e9fectoral ;"
+            },
+            {
+              "text": "\u2015 \u00e0 d\u00e9faut, la quantit\u00e9 maximale pouvant \u00eatre entrepos\u00e9e sur le site estim\u00e9e par l'exploitant."
+            },
+            {
+              "text": "\u03b1: indice d'actualisation des co\u00fbts."
+            },
+            {
+              "text": "MI : montant relatif \u00e0 la neutralisation des cuves enterr\u00e9es pr\u00e9sentant un risque d'explosion ou d'incendie apr\u00e8s vidange."
+            },
+            {
+              "text": "MC (co\u00fbt 2012) : montant relatif \u00e0 la limitation des acc\u00e8s au site. Ce montant comprend la pose d'une cl\u00f4ture autour du site et de panneaux d'interdiction d'acc\u00e8s \u00e0 chaque entr\u00e9e du site et sur la cl\u00f4ture tous les 50 m\u00e8tres."
+            },
+            {
+              "text": "MS (co\u00fbt 2012) : montant relatif au contr\u00f4le des effets de l'installation sur l'environnement. Ce montant couvre la r\u00e9alisation de pi\u00e9zom\u00e8tres de contr\u00f4les et les co\u00fbts d'analyse de la qualit\u00e9 des eaux de la nappe au droit du site, ainsi qu'un diagnostic de la pollution des sols."
+            },
+            {
+              "text": "MG (co\u00fbt 2012) : montant relatif au gardiennage du site ou \u00e0 tout autre dispositif \u00e9quivalent."
+            },
+            {
+              "text": "L'indice d'actualisation des co\u00fbts"
+            },
+            {
+              "text": "On d\u00e9finit \u03b1 tel que :"
+            },
+            {
+              "text": "Vous pouvez consulter la formule dans le JO n\u00b0 145 du 23/06/2012 texte num\u00e9ro 17 \u00e0 l'adresse suivante :"
+            },
+            {
+              "text": " https://www.legifrance.gouv.fr/download/pdf?id=uAU4ZIQ-SM0yutJpcTzuL8KaN5YM8TCPy2C_ZbLX96A="
+            },
+            {
+              "text": "Avec :"
+            },
+            {
+              "text": "Index : indice TP01 utilis\u00e9 pour l'\u00e9tablissement du montant de r\u00e9f\u00e9rence des garanties financi\u00e8res fix\u00e9 dans l'arr\u00eat\u00e9 pr\u00e9fectoral."
+            },
+            {
+              "text": "Index0 : indice TP01 de janvier 2011 soit : 667,7."
+            },
+            {
+              "text": "TVAR : taux de la TVA applicable lors de l'\u00e9tablissement de l'arr\u00eat\u00e9 pr\u00e9fectoral fixant le montant de r\u00e9f\u00e9rence des garanties financi\u00e8res."
+            },
+            {
+              "text": "TVA0 : taux de la TVA applicable en janvier 2011 soit 19,6 %."
+            },
+            {
+              "text": "Les mesures de gestion des produits dangereux et des d\u00e9chets (ME)"
+            },
+            {
+              "text": "ME : montant relatif aux mesures de gestion des produits dangereux et des d\u00e9chets."
+            },
+            {
+              "text": "ME = Q1 (CTRd1 + C1) + Q2 (CTRd2 + C2) + Q3 (CTRd3 + C3)"
+            },
+            {
+              "text": "Les d\u00e9chets et produits dangereux \u00e0 \u00e9vacuer peuvent \u00eatre class\u00e9es en trois cat\u00e9gories :"
+            },
+            {
+              "text": "Q1 (en tonnes ou en litres) : quantit\u00e9 totale de produits et de d\u00e9chets dangereux \u00e0 \u00e9liminer."
+            },
+            {
+              "text": "Q2 (en tonnes ou en litres) : quantit\u00e9 totale de d\u00e9chets non dangereux \u00e0 \u00e9liminer."
+            },
+            {
+              "text": "Q3 (en tonnes ou en litres) : pour les installations de traitement de d\u00e9chets, quantit\u00e9 totale de d\u00e9chets inertes \u00e0 \u00e9liminer."
+            },
+            {
+              "text": "CTR : co\u00fbt de transport des produits dangereux ou d\u00e9chets \u00e0 \u00e9liminer."
+            },
+            {
+              "text": "dT1, dT2, d1, d2, d3 : distances entre le site de l'installation class\u00e9e et les centres de traitement ou d'\u00e9limination permettant respectivement la gestion des quantit\u00e9s QTi, Q1, Q2 et Q3."
+            },
+            {
+              "text": "C1 : co\u00fbt des op\u00e9rations de gestion jusqu'\u00e0 l'\u00e9limination des produits dangereux ou des d\u00e9chets."
+            },
+            {
+              "text": "C2 : co\u00fbt des op\u00e9rations de gestion jusqu'\u00e0 l'\u00e9limination des d\u00e9chets non dangereux."
+            },
+            {
+              "text": "C3 : co\u00fbt des op\u00e9rations de gestion jusqu'\u00e0 l'\u00e9limination des d\u00e9chets inertes."
+            },
+            {
+              "text": "Co\u00fbts unitaires (TTC) : les co\u00fbts C1, C2, C3, CTR sont d\u00e9termin\u00e9s par le pr\u00e9fet sur proposition de l'exploitant."
+            },
+            {
+              "text": "En cas de devis forfaitaires de la part d'une ou de plusieurs entreprises incluant les co\u00fbts des op\u00e9rations de gestion jusqu'\u00e0 leur \u00e9limination, l'exploitant peut dans ce cas proposer au pr\u00e9fet d'utiliser ces devis forfaitaires en lieu et place de la formule de calcul de ME."
+            },
+            {
+              "text": "Pour les produits dangereux et d\u00e9chets pouvant \u00eatre vendus ou enlev\u00e9s du site \u00e0 titre gratuit compte tenu de l'historique de gestion des d\u00e9chets ou des produits dangereux, de leurs caract\u00e9ristiques et de leurs conditions de stockage et de surveillance, le co\u00fbt unitaire \u00e0 prendre en compte est \u00e9gal \u00e0 0."
+            },
+            {
+              "text": "La suppression des risques d'incendie ou d'explosion,"
+            },
+            {
+              "text": "vidange et inertage des cuves enterr\u00e9es de carburants MI"
+            },
+            {
+              "text": "Vous pouvez consulter la formule dans le JO n\u00b0 145 du 23/06/2012 texte num\u00e9ro 17 \u00e0 l'adresse suivante :"
+            },
+            {
+              "text": " https://www.legifrance.gouv.fr/download/pdf?id=uAU4ZIQ-SM0yutJpcTzuL8KaN5YM8TCPy2C_ZbLX96A="
+            },
+            {
+              "text": "MI : montant relatif \u00e0 la neutralisation des cuves enterr\u00e9es."
+            },
+            {
+              "text": "CN : co\u00fbt fixe relatif \u00e0 la pr\u00e9paration et au nettoyage de la cuve. Ce co\u00fbt est \u00e9gal \u00e0 2 200 \u20ac."
+            },
+            {
+              "text": "PB : prix du m \u00b3 du remblai liquide inerte (b\u00e9ton) 130 \u20ac/ m \u00b3."
+            },
+            {
+              "text": "V : volume de la cuve exprim\u00e9 en m \u00b3."
+            },
+            {
+              "text": "NC : nombre de cuves \u00e0 traiter."
+            },
+            {
+              "text": "Les interdictions ou les limitations d'acc\u00e8s au site (MC)"
+            },
+            {
+              "text": "MC = P \u00d7 CC + nP \u00d7 PP"
+            },
+            {
+              "text": "MC : montant relatif \u00e0 la limitation des acc\u00e8s au site. Ce montant comprend la pose d'une cl\u00f4ture autour du site et de panneaux d'interdiction d'acc\u00e8s au lieu. Ces panneaux seront dispos\u00e9s \u00e0 chaque entr\u00e9e du site et autant que de besoin sur la cl\u00f4ture, tous les 50 m."
+            },
+            {
+              "text": "P (en m\u00e8tres) : p\u00e9rim\u00e8tre de la parcelle occup\u00e9e par l'installation class\u00e9e et ses \u00e9quipements connexes."
+            },
+            {
+              "text": "CC : co\u00fbt du lin\u00e9aire de cl\u00f4ture soit 50 \u20ac/ m."
+            },
+            {
+              "text": "nP : nombre de panneaux de restriction d'acc\u00e8s au lieu. Il est \u00e9gal \u00e0 :"
+            },
+            {
+              "text": "nP = Nombre d'entr\u00e9es du site + p\u00e9rim\u00e8tre/50"
+            },
+            {
+              "text": "PP : prix d'un panneau soit 15 \u20ac."
+            },
+            {
+              "text": "La surveillance des effets de l'installation"
+            },
+            {
+              "text": "sur son environnement (MS)"
+            },
+            {
+              "text": "MS = NP \u00d7 (CP \u00d7 h + C) + CD"
+            },
+            {
+              "text": "MS : montant relatif \u00e0 la surveillance des effets de l'installation sur l'environnement. Ce montant couvre la r\u00e9alisation de pi\u00e9zom\u00e8tres de contr\u00f4les et les co\u00fbts d'analyse de la qualit\u00e9 des eaux de la nappe au droit du site."
+            },
+            {
+              "text": "NP : nombre de pi\u00e9zom\u00e8tres \u00e0 installer."
+            },
+            {
+              "text": "CP : co\u00fbt unitaire de r\u00e9alisation d'un pi\u00e9zom\u00e8tre soit 300 \u20ac par m\u00e8tre de pi\u00e9zom\u00e8tre creus\u00e9."
+            },
+            {
+              "text": "h : profondeur des pi\u00e9zom\u00e8tres."
+            },
+            {
+              "text": "C : co\u00fbt du contr\u00f4le et de l'interpr\u00e9tation des r\u00e9sultats de la qualit\u00e9 des eaux de la nappe sur la base de deux campagnes soit 2 000 \u20ac par pi\u00e9zom\u00e8tre."
+            },
+            {
+              "text": "CD : co\u00fbt d'un diagnostic de pollution des sols d\u00e9termin\u00e9 de la mani\u00e8re suivante :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "CO\u00dbT TTC"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\u00c9TUDE HISTORIQUE,\n\u00e9tude de vuln\u00e9rabilit\u00e9\net des investigations sur les sols"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Pour un site dont la superficie est inf\u00e9rieure ou \u00e9gale \u00e0 10 hectares"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "10 000 \u20ac TTC + 5 000 \u20ac TTC/ hectare"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Pour un site dont la superficie est sup\u00e9rieure \u00e0 10 hectares"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "60 000 \u20ac TTC + 2 000 \u20ac TTC/ hectare au-del\u00e0 de 10 hectares"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "La surveillance du site :"
+            },
+            {
+              "text": "gardiennage ou autre dispositif \u00e9quivalent (MG)"
+            },
+            {
+              "text": "MG = CG \u00d7 HG \u00d7 NG \u00d7 6"
+            },
+            {
+              "text": "MG : montant relatif au co\u00fbt de gardiennage du site pour une p\u00e9riode de six mois."
+            },
+            {
+              "text": "CG : co\u00fbt horaire moyen d'un gardien soit 40 \u20ac TTC/ h."
+            },
+            {
+              "text": "HG : nombre d'heures de gardiennage n\u00e9cessaires par mois."
+            },
+            {
+              "text": "NG : nombre de gardiens n\u00e9cessaires."
+            },
+            {
+              "text": "Sur proposition de l'exploitant, la m\u00e9thode de calcul de MG peut \u00eatre adapt\u00e9e \u00e0 d'autres dispositifs de surveillance appropri\u00e9s aux besoins du site."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [],
+          "title": {
+            "text": "Annexe I - FORMULES DE CALCUL FORFAITAIRE DU MONTANT DE R\u00c9F\u00c9RENCE DES GARANTIES FINANCI\u00c8RES DE MISE EN S\u00c9CURIT\u00c9 DES INSTALLATIONS VIS\u00c9ES \u00c0 L'ARTICLE R. 516-1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bDCD44cACB9E",
+          "outer_alineas": [
+            {
+              "text": "La formule d'actualisation est :"
+            },
+            {
+              "text": "Vous pouvez consulter la formule dans le JO n\u00b0 145 du 23/06/2012 texte num\u00e9ro 17 \u00e0 l'adresse suivante :"
+            },
+            {
+              "text": " https://www.legifrance.gouv.fr/download/pdf?id=uAU4ZIQ-SM0yutJpcTzuL8KaN5YM8TCPy2C_ZbLX96A="
+            },
+            {
+              "text": "Mn : le montant des garanties financi\u00e8res devant \u00eatre constitu\u00e9es l'ann\u00e9e n et figurant dans le document d'attestation de la constitution de garanties financi\u00e8res."
+            },
+            {
+              "text": "MR : le montant de r\u00e9f\u00e9rence des garanties financi\u00e8res, c'est-\u00e0-dire le premier montant arr\u00eat\u00e9 par le pr\u00e9fet."
+            },
+            {
+              "text": "Indexn : indice TP01 au moment de la constitution du document d'attestation de la constitution de garanties financi\u00e8res."
+            },
+            {
+              "text": "IndexR : indice TP01 utilis\u00e9 pour l'\u00e9tablissement du montant de r\u00e9f\u00e9rence des garanties financi\u00e8res fix\u00e9 par l'arr\u00eat\u00e9 pr\u00e9fectoral."
+            },
+            {
+              "text": "TVAn : taux de la TVA applicable au moment de la constitution du document d'attestation de la constitution de garanties financi\u00e8res."
+            },
+            {
+              "text": "TVAR : taux de la TVA applicable \u00e0 l'\u00e9tablissement de l'arr\u00eat\u00e9 pr\u00e9fectoral fixant le montant de r\u00e9f\u00e9rence des garanties financi\u00e8res."
+            },
+            {
+              "text": "Les indices TP01 sont consultables au Bulletin officiel de la concurrence, de la consommation et de la r\u00e9pression des fraudes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II",
+          "sections": [],
+          "title": {
+            "text": "Annexe II - ACTUALISATION DU MONTANT INDIQU\u00c9 DANS LE DOCUMENT D'ATTESTATION DE LA CONSTITUTION DE GARANTIES FINANCI\u00c8RES"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "aCE5cEf1C658",
+          "outer_alineas": [
+            {
+              "text": "Le montant des garanties financi\u00e8res est d\u00e9termin\u00e9 de mani\u00e8re forfaitaire. Il d\u00e9pend de la valeur du coefficient Q calcul\u00e9 pour l'ensemble des substances radioactives pr\u00e9sentes dans les installations soumises aux dispositions de la pr\u00e9sente annexe au sein d'un m\u00eame \u00e9tablissement, y compris celles contenues dans les d\u00e9chets radioactifs. Les substances radioactives et les d\u00e9chets radioactifs mentionn\u00e9s sont d\u00e9finis \u00e0 l'article L. 542-1-1 du code de l'environnement."
+            },
+            {
+              "text": "La formule de calcul du coefficient Q est la suivante :"
+            },
+            {
+              "text": "Vous pouvez consulter la formule dans le fac-simil\u00e9 du JO n\u00ba 0303 du 31/12/2015, texte n\u00ba 27 \u00e0 l'adresse suivante :"
+            },
+            {
+              "text": " https://www.legifrance.gouv.fr/download/pdf?id=VifEz48BZSgTsExfcCEow__pik3NODSsWVUey25O64c="
+            },
+            {
+              "text": "O\u00f9 :"
+            },
+            {
+              "text": "ARN repr\u00e9sente l'activit\u00e9 totale (en Bq) du radionucl\u00e9ide RN ;"
+            },
+            {
+              "text": "AExRN repr\u00e9sente le seuil d'exemption en activit\u00e9 du radionucl\u00e9ide RN d\u00e9fini \u00e0 l'annexe 13-8 (1) du code de la sant\u00e9 publique."
+            },
+            {
+              "text": "Les activit\u00e9s pour les radionucl\u00e9ides \u00e0 prendre en compte sont les activit\u00e9s maximales susceptibles d'\u00eatre pr\u00e9sentes, sans tenir compte de la d\u00e9croissance."
+            },
+            {
+              "text": "En fonction de la valeur du coefficient Q, les montants des garanties financi\u00e8res sont les suivants :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Valeur du coefficient Q"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Montant en euros"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q < 104"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Non soumis"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 104 et < 106"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "500 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 106 et < 107"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1 000 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 107 et < 108"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2 000 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 108 et < 109"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "5 000 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 109 et < 1011"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "10 000 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Q \u2265 1011"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "20 000 000 \u20ac"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "(1) L'annexe 13-8 fixe des seuils d'activit\u00e9 en Bq et des seuils d'activit\u00e9 massique, en kBq/kg."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe III",
+          "sections": [],
+          "title": {
+            "text": "Annexe III - FORMULES DE CALCUL FORFAITAIRE DU MONTANT DE R\u00c9F\u00c9RENCE DES GARANTIES FINANCI\u00c8RES DE MISE EN S\u00c9CURIT\u00c9 DES INSTALLATIONS SOUMISES \u00c0 AUTORISATION AU TITRE DES RUBRIQUES 1716, 1735 ET 2797"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 31/05/12 relatif aux modalit\u00e9s de d\u00e9termination et d'actualisation du montant des garanties financi\u00e8res pour la mise en s\u00e9curit\u00e9 des installations class\u00e9es et des garanties additionnelles en cas de mise en \u0153uvre de mesures de gestion de la pollution des sols et des eaux souterraines"
+  },
+  "visa": []
+}

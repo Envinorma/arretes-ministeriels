@@ -1,0 +1,2213 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/5489",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "D",
+      "rubrique": "1455",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "1455"
+    }
+  ],
+  "date_of_signature": "2000-05-03",
+  "id": "JORFTEXT000000399730",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000399730",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "5F0EfCDeBB96",
+      "outer_alineas": [
+        {
+          "text": "Les installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1455, Carbure de calcium (stockage), lorsque la quantit\u00e9 susceptible d'\u00eatre pr\u00e9sente dans l'installation est sup\u00e9rieure \u00e0 3 t, sont soumises aux dispositions de l'annexe I. Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1er",
+      "sections": [],
+      "title": {
+        "text": "Article 1er"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "85A167Cd4563",
+      "outer_alineas": [
+        {
+          "text": "I. Les dispositions de l'annexe I sont applicables :"
+        },
+        {
+          "text": "\t- aux installations nouvelles d\u00e8s la date de publication de pr\u00e9sent arr\u00eat\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise,"
+        },
+        {
+          "text": "\t- aux installations existant avant la date de publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise selon les d\u00e9lais mentionn\u00e9s \u00e0 l'annexe II."
+        },
+        {
+          "text": "II. Les prescriptions auxquelles les installations existantes sont d\u00e9j\u00e0 soumises demeurent applicables jusqu'\u00e0 la date de mise en application des dispositions \u00e9quivalentes du pr\u00e9sent arr\u00eat\u00e9 selon les modalit\u00e9s d\u00e9finies \u00e0 l'annexe II."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C63757Fe27Da",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9fet peut, pour une installation donn\u00e9e, modifier par arr\u00eat\u00e9 les dispositions des annexes I et II dans les conditions pr\u00e9vues aux articles 11 de la loi n\u00b0 76-663 du 19 juillet 1976 et 30 du d\u00e9cret n\u00b0 77-1133 du 21 septembre 1977."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3D4D0C83Afe2",
+      "outer_alineas": [
+        {
+          "text": "Le directeur de la pr\u00e9vention des pollutions et des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9 qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        },
+        {
+          "text": "Fait \u00e0 Paris, le 03 mai 2000."
+        },
+        {
+          "text": "Pour le ministre et par d\u00e9l\u00e9gation :"
+        },
+        {
+          "text": "\tLe directeur de la pr\u00e9vention des pollutions et des risques,"
+        },
+        {
+          "text": "\td\u00e9l\u00e9gu\u00e9 aux risques majeurs,"
+        },
+        {
+          "text": "\tP. VESSERON"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "AE5c9EE9e17D",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "DISPOSITIONS_GENERALES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "37d2D4e02DC0",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 1.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "44A95e172Bdc",
+              "outer_alineas": [
+                {
+                  "text": "L'installation doit \u00eatre implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.1 - Conformit\u00e9 de l'installation \u00e0 la d\u00e9claration"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "7a78eFF6cee2",
+              "outer_alineas": [
+                {
+                  "text": "Toute modification apport\u00e9e par le d\u00e9clarant \u00e0 l'installation, \u00e0 son mode d'exploitation ou \u00e0 son voisinage, entra\u00eenant un changement notable des \u00e9l\u00e9ments du dossier de d\u00e9claration initiale, doit \u00eatre port\u00e9e, avant sa r\u00e9alisation, \u00e0 la connaissance du pr\u00e9fet qui peut exiger une nouvelle d\u00e9claration (r\u00e9f\u00e9rence : article 31 du d\u00e9cret du 21 septembre 1977)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.2 - Modifications"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2E80df41fCA6",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9claration doit pr\u00e9ciser les mesures prises ou pr\u00e9vues par l'exploitant pour respecter les dispositions du pr\u00e9sent arr\u00eat\u00e9 (r\u00e9f\u00e9rence : article 25 du d\u00e9cret du 21 septembre 1977)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.3 - Justification du respect des prescriptions de l'arr\u00eat\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "041abC6A8aE6",
+              "outer_alineas": [
+                {
+                  "text": "(D\u00e9cret n\u00b02015-1614 du 9 d\u00e9cembre 2015, article 16)"
+                },
+                {
+                  "text": "L'exploitant doit \u00e9tablir et tenir \u00e0 jour un dossier comportant les documents suivants :"
+                },
+                {
+                  "text": "- le dossier de d\u00e9claration,"
+                },
+                {
+                  "text": "- les plans tenus \u00e0 jour,"
+                },
+                {
+                  "text": "- \u00ab la preuve de d\u00e9p\u00f4t de la d\u00e9claration \u00bb et les prescriptions g\u00e9n\u00e9rales,"
+                },
+                {
+                  "text": "- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l'environnement, s'il y en a,"
+                },
+                {
+                  "text": "- les r\u00e9sultats des derni\u00e8res mesures sur les effluents et le bruit, les rapports des visites,"
+                },
+                {
+                  "text": "- les documents pr\u00e9vus aux points 3.5, 3.6, 4.3, 4.7, 4.8 et 5.1 du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Ce dossier doit \u00eatre tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.4 - Dossier installation class\u00e9e"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0EBb57C64A98",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant d'une installation est tenu de d\u00e9clarer dans les meilleurs d\u00e9lais \u00e0 l'inspection des installations class\u00e9es les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature \u00e0 porter atteinte aux int\u00e9r\u00eats mentionn\u00e9s \u00e0 l'article 1er de la loi du 19 juillet 1976 (r\u00e9f\u00e9rence : article 38 du d\u00e9cret du 21 septembre 1977)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.5 - D\u00e9claration d'accident ou de pollution accidentelle"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "732f38802171",
+              "outer_alineas": [
+                {
+                  "text": "Lorsque l'installation change d'exploitant, le nouvel exploitant ou son repr\u00e9sentant doit en faire la d\u00e9claration au pr\u00e9fet dans le mois qui suit la prise en charge de l'exploitation. Cette d\u00e9claration doit mentionner, s'il s'agit d'une personne physique, les noms, pr\u00e9noms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa d\u00e9nomination ou sa raison sociale, sa forme juridique, l'adresse de son si\u00e8ge social ainsi que la qualit\u00e9 du signataire de la d\u00e9claration (r\u00e9f\u00e9rence : article 34 du d\u00e9cret du 21 septembre 1977)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.6 - Changement d'exploitant"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "93a0f059AdDF",
+              "outer_alineas": [
+                {
+                  "text": "Lorsqu'une installation cesse l'activit\u00e9 au titre de laquelle elle \u00e9tait d\u00e9clar\u00e9e, son exploitant doit en informer le pr\u00e9fet au moins un mois avant l'arr\u00eat d\u00e9finitif. La notification de l'exploitant indique les mesures de remise en \u00e9tat pr\u00e9vues ou r\u00e9alis\u00e9es (r\u00e9f\u00e9rence : article 34-1 du d\u00e9cret du 21 septembre 1977)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1.7 - Cessation d'activit\u00e9"
+              }
+            }
+          ],
+          "title": {
+            "text": "1. Dispositions g\u00e9n\u00e9rales"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "afd0E0Be4043",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 2.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6201d30d0FeA",
+              "outer_alineas": [
+                {
+                  "text": "L'installation doit \u00eatre implant\u00e9e \u00e0 une distance d'au moins cinq m\u00e8tres des limites de propri\u00e9t\u00e9. Cette distance n'est pas exig\u00e9e si l'installation est s\u00e9par\u00e9e des limites de propri\u00e9t\u00e9 par un mur plein sans ouverture, construit en mat\u00e9riaux incombustibles et de caract\u00e9ristiques coupe-feu de degr\u00e9 deux heures et de hauteur 3 m\u00e8tres ou s'\u00e9levant jusqu'\u00e0 la toiture (hauteur inf\u00e9rieure \u00e0 3 m\u00e8tres)."
+                },
+                {
+                  "text": "L'installation ne doit pas \u00eatre inondable et ne doit renfermer aucune canalisation d'eau ou de vapeur d'eau."
+                },
+                {
+                  "text": "Les r\u00e9cipients (f\u00fbts ou conteneurs) peuvent \u00eatre stock\u00e9s en plein air, \u00e0 condition que leur conception et leur \u00e9tanch\u00e9it\u00e9 le permettent."
+                },
+                {
+                  "text": "Dans tous les cas, afin d'\u00e9viter toute entr\u00e9e d'eau accidentelle dans les r\u00e9cipients (f\u00fbts ou conteneurs), ceux-ci doivent \u00eatre dispos\u00e9s de fa\u00e7on \u00e0 ce que la partie contenante soit sur\u00e9lev\u00e9e d'au moins 10 centim\u00e8tres par rapport au niveau du sol adjacent."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-installation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2000-06-07",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.1 - R\u00e8gles d'implantation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "12dA4CCcDDDe",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant doit prendre les dispositions n\u00e9cessaires pour satisfaire \u00e0 l'esth\u00e9tique du site. L'ensemble du site doit \u00eatre maintenu en bon \u00e9tat de propret\u00e9 (peinture, plantations, engazonnement...)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-installation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2000-06-07",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.2 - Int\u00e9gration dans le paysage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Fbd49CAcBd33",
+              "outer_alineas": [
+                {
+                  "text": "L'installation ne doit pas \u00eatre surmont\u00e9e de locaux occup\u00e9s par des tiers ou habit\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-installation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2000-06-07",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.3 - Interdiction d'habitations au-dessus des installations"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F7A2edd2AdED",
+              "outer_alineas": [
+                {
+                  "text": "Dans le cas o\u00f9 des locaux abritent l'installation, ils doivent pr\u00e9senter les caract\u00e9ristiques de r\u00e9action et de r\u00e9sistance au feu minimales suivantes :"
+                },
+                {
+                  "text": "- murs coupe-feu de degr\u00e9 2 heures,"
+                },
+                {
+                  "text": "- toiture l\u00e9g\u00e8re incombustible ou plancher haut coupe-feu de degr\u00e9 2 heures,"
+                },
+                {
+                  "text": "- portes int\u00e9rieures coupe-feu de degr\u00e9 1/2 heure et munies d'un ferme-porte ou d'un dispositif assurant leur fermeture automatique,"
+                },
+                {
+                  "text": "- porte donnant vers l'ext\u00e9rieur pare-flamme de degr\u00e9 1/2 heure,"
+                },
+                {
+                  "text": "- mat\u00e9riaux de classe M0 (incombustibles)."
+                },
+                {
+                  "text": "Les locaux ferm\u00e9s doivent \u00eatre \u00e9quip\u00e9s en partie haute de dispositifs permettant l'\u00e9vacuation des fum\u00e9es et gaz de combustion d\u00e9gag\u00e9s en cas d'incendie (lanterneaux en toiture, ouvrants en fa\u00e7ade ou tout autre dispositif \u00e9quivalent). Les commandes d'ouverture manuelle doivent \u00eatre plac\u00e9es \u00e0 proximit\u00e9 des acc\u00e8s. Le syst\u00e8me de d\u00e9semfumage doit \u00eatre adapt\u00e9 aux risques particuliers de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-installation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2000-06-07",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.4 - Comportement au feu des b\u00e2timents"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9Fd6CfFC8A04",
+              "outer_alineas": [
+                {
+                  "text": "L'installation doit \u00eatre accessible pour permettre l'intervention des services d'incendie et de secours. Elle doit \u00eatre desservie, sur au moins une face, par une voie-engin ou par une voie-\u00e9chelle si le plancher haut de cette installation est \u00e0 une hauteur sup\u00e9rieure \u00e0 8 m\u00e8tres par rapport \u00e0 cette voie."
+                },
+                {
+                  "text": "En cas de local ferm\u00e9, une des fa\u00e7ades doit \u00eatre \u00e9quip\u00e9e d'un ouvrant permettant le passage de sauveteurs \u00e9quip\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-installation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2000-06-07",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.5 - Accessibilit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "a3F62EF5e1c1",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des dispositions du code du travail, les locaux doivent \u00eatre convenablement ventil\u00e9s pour \u00e9viter tout risque d'atmosph\u00e8re explosible. Le d\u00e9bouch\u00e9 \u00e0 l'atmosph\u00e8re de la ventilation doit \u00eatre plac\u00e9 aussi loin que possible des habitations voisines."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.6 - Ventilation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "DF6bd2f924b3",
+              "outer_alineas": [
+                {
+                  "text": "Les installations \u00e9lectriques doivent \u00eatre r\u00e9alis\u00e9es conform\u00e9ment au d\u00e9cret n\u00b0 88-1056 du 14 novembre 1988 relatif \u00e0 la r\u00e9glementation du travail."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.7 - Installations \u00e9lectriques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A186Ac4B27A3",
+              "outer_alineas": [
+                {
+                  "text": "Les \u00e9quipements m\u00e9talliques fixes (r\u00e9servoirs, cuves, canalisations, charpente) doivent \u00eatre mis \u00e0 la terre conform\u00e9ment aux r\u00e8glements et aux normes applicables, compte tenu notamment de la nature explosive ou inflammable des produits."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.8 - Mise \u00e0 la terre des \u00e9quipements"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "779a0c1107BF",
+              "outer_alineas": [
+                {
+                  "text": "Le sol des aires et des locaux de stockage ou de manipulation de l'installation doit \u00eatre \u00e9tanche, incombustible et pr\u00e9vu pour pouvoir recueillir les produits r\u00e9pandus accidentellement. Les produits recueillis doivent, de pr\u00e9f\u00e9rence, \u00eatre r\u00e9cup\u00e9r\u00e9s et recycl\u00e9s, ou, en cas d'impossibilit\u00e9, \u00eatre trait\u00e9s conform\u00e9ment au titre 7."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.9 - R\u00e9tention des aires et locaux de travail"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "C9Bd59A34E8a",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.10 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "74DEA54bbEbe",
+              "outer_alineas": [
+                {
+                  "text": "Le carbure de calcium doit \u00eatre contenu dans des f\u00fbts ou conteneurs \u00e9tanches."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.11 - Caract\u00e9ristiques et dispositions du stockage de carbure de calcium"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cdc96cEfE86e",
+              "outer_alineas": [
+                {
+                  "text": "Des r\u00e9cipients de substances non inflammables et non oxydantes (comburantes) peuvent \u00eatre stock\u00e9s dans le local ou sur l'aire de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.12 - Stockage d'autres produits"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A2c03be901d6",
+              "outer_alineas": [
+                {
+                  "text": "Dans le cas o\u00f9 un local abrite l'installation, il comportera des dispositifs ou des dispositions constructives permettant de limiter les surpressions (\u00e9vents d'explosion, toiture l\u00e9g\u00e8re, etc)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2.13 - Pr\u00e9vention du risque explosion"
+              }
+            }
+          ],
+          "title": {
+            "text": "2. Implantation - am\u00e9nagement"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "34d8bAbAE3eA",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B1AC3EdCfAfB",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitation doit se faire sous la surveillance, directe ou indirecte, d'une personne nomm\u00e9ment d\u00e9sign\u00e9e par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconv\u00e9nients des produits stock\u00e9s dans l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.1 - Surveillance de l'exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "94cec850B0C0",
+              "outer_alineas": [
+                {
+                  "text": "Les personnes \u00e9trang\u00e8res \u00e0 l'\u00e9tablissement ne doivent pas avoir un acc\u00e8s libre \u00e0 l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.2 - Contr\u00f4le de l'acc\u00e8s"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "afab83CbA3F9",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant doit avoir \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9 pr\u00e9vues par l'article R. 231-53 du code du travail."
+                },
+                {
+                  "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages doivent porter en caract\u00e8res lisibles le nom des produits et, s'il y a lieu, le(s) symbole(s) de danger conform\u00e9ment \u00e0 l'arr\u00eat\u00e9 du 20 avril 1994 relatif \u00e0 l'\u00e9tiquetage des substances et pr\u00e9parations chimiques dangereuses."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.3 - Connaissance des produits - Etiquetage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d4B8D2CB54Fc",
+              "outer_alineas": [
+                {
+                  "text": "Les locaux doivent \u00eatre maintenus propres et r\u00e9guli\u00e8rement nettoy\u00e9s notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res. Le mat\u00e9riel de nettoyage doit \u00eatre adapt\u00e9 aux risques pr\u00e9sent\u00e9s par les produits et poussi\u00e8res."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.4 - Propret\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "aFCcbBEbDC2b",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant doit tenir \u00e0 jour un \u00e9tat indiquant la nature et la quantit\u00e9 des produits dangereux d\u00e9tenus, auquel est annex\u00e9 un plan g\u00e9n\u00e9ral des stockages. Cet \u00e9tat est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et des services d'incendie et de secours."
+                },
+                {
+                  "text": "La pr\u00e9sence dans les ateliers de mati\u00e8res dangereuses ou combustibles est limit\u00e9e aux n\u00e9cessit\u00e9s de l'exploitation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.5 - Registre entr\u00e9e/sortie"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e5aDffaBf932",
+              "outer_alineas": [
+                {
+                  "text": "Toutes les installations \u00e9lectriques doivent \u00eatre entretenues en bon \u00e9tat et doivent \u00eatre contr\u00f4l\u00e9es, apr\u00e8s leur installation ou leur modification par une personne comp\u00e9tente. La p\u00e9riodicit\u00e9, l'objet et l'\u00e9tendue des v\u00e9rifications des installations \u00e9lectriques ainsi que le contenu des rapports relatifs aux dites v\u00e9rifications sont fix\u00e9s par l'arr\u00eat\u00e9 du 20 d\u00e9cembre 1988 relatif \u00e0 la r\u00e9glementation du travail."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3.6 - V\u00e9rification p\u00e9riodique des installations \u00e9lectriques"
+              }
+            }
+          ],
+          "title": {
+            "text": "3. Exploitation - entretien"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0A0D8F9df4fa",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 4.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cBcfAda229fD",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des dispositions du code du travail, des mat\u00e9riels de protection individuelle, adapt\u00e9s aux risques pr\u00e9sent\u00e9s par l'installation et permettant l'intervention en cas de sinistre, doivent \u00eatre conserv\u00e9s \u00e0 proximit\u00e9 de l'installation. Ces mat\u00e9riels doivent \u00eatre entretenus en bon \u00e9tat et v\u00e9rifi\u00e9s p\u00e9riodiquement. Le personnel doit \u00eatre form\u00e9 \u00e0 l'emploi de ces mat\u00e9riels."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.1 - Protection individuelle"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b21C6adADBE2",
+              "outer_alineas": [
+                {
+                  "text": "L'installation doit \u00eatre dot\u00e9e de moyens de secours contre l'incendie appropri\u00e9s aux risques et conformes aux normes en vigueur, notamment :"
+                },
+                {
+                  "text": "- d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des locaux, sur les aires ext\u00e9rieures et les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles."
+                },
+                {
+                  "text": "Les agents d'extinction doivent \u00eatre appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits stock\u00e9s."
+                },
+                {
+                  "text": "L'utilisation d'eau et de tout agent d'extinction \u00e0 base d'eau est formellement interdite."
+                },
+                {
+                  "text": "- d'un moyen permettant d'alerter les services d'incendie et de secours,"
+                },
+                {
+                  "text": "- de plans des locaux facilitant l'intervention des services d'incendie et de secours."
+                },
+                {
+                  "text": "Ces mat\u00e9riels doivent \u00eatre maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.2 - Moyens de secours contre l'incendie"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "28dbEdDEdCe3",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant doit recenser, sous sa responsabilit\u00e9, les parties de l'installation qui, en raison des caract\u00e9ristiques qualitatives et quantitatives des mati\u00e8res mises en oeuvre, stock\u00e9es, utilis\u00e9es ou produites, sont susceptibles d'\u00eatre \u00e0 l'origine d'un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l'environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l'installation."
+                },
+                {
+                  "text": "L'exploitant doit d\u00e9terminer pour chacune de ces parties de l'installation la nature du risque (incendie, atmosph\u00e8res explosives ou \u00e9manations toxiques). Ce risque doit \u00eatre signal\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.3 - Localisation des risques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "13Cfb7B9cC23",
+              "outer_alineas": [
+                {
+                  "text": "Dans les parties de l'installation vis\u00e9es au point 4.3 \"atmosph\u00e8res explosives\", les installations \u00e9lectriques doivent \u00eatre r\u00e9duites \u00e0 ce qui est strictement n\u00e9cessaire aux besoins de l'exploitation. Elles doivent \u00eatre enti\u00e8rement constitu\u00e9es de mat\u00e9riels utilisables dans les atmosph\u00e8res explosives. Cependant, dans les parties de l'installation o\u00f9 les atmosph\u00e8res explosives peuvent appara\u00eetre de mani\u00e8re \u00e9pisodique avec une faible fr\u00e9quence et une courte dur\u00e9e, les installations \u00e9lectriques peuvent \u00eatre constitu\u00e9es de mat\u00e9riel \u00e9lectrique de bonne qualit\u00e9 industrielle qui, en service normal, n'engendrent ni arc, ni \u00e9tincelle, ni surface chaude susceptible de provoquer une explosion. Les canalisations ne doivent pas \u00eatre une cause possible d'inflammation et doivent \u00eatre convenablement prot\u00e9g\u00e9es contre les chocs, contre la propagation des flammes et contre l'action des produits pr\u00e9sents dans la partie de l'installation en cause."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.4 - Mat\u00e9riel \u00e9lectrique de s\u00e9curit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "88aF0d9c4EeF",
+              "outer_alineas": [
+                {
+                  "text": "Dans les parties de l'installation, vis\u00e9es au point 4.3, pr\u00e9sentant des risques d'incendie ou d'explosion, il doit \u00eatre interdit d'apporter du feu sous une forme quelconque, sauf pour la r\u00e9alisation de travaux ayant fait l'objet d'un \"permis de feu\" . Cette interdiction doit \u00eatre affich\u00e9e en caract\u00e8res apparents."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.5 - Interdiction des feux"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fc9CDfce632E",
+              "outer_alineas": [
+                {
+                  "text": "Dans les parties de l'installation vis\u00e9es au point 4.3, tous les travaux de r\u00e9paration ou d'am\u00e9nagement conduisant \u00e0 une augmentation des risques (utilisation d'eau, emploi d'une flamme ou d'une source chaude, purge des circuits, etc.) ne peuvent \u00eatre effectu\u00e9s qu'apr\u00e8s d\u00e9livrance d'un \"permis de travail\" et, \u00e9ventuellement, d'un \"permis de feu\" et en respectant les r\u00e8gles d'une consigne particuli\u00e8re."
+                },
+                {
+                  "text": "Le \"permis de travail\" et, \u00e9ventuellement, le \"permis de feu\" et la consigne particuli\u00e8re doivent \u00eatre \u00e9tablis et vis\u00e9s par l'exploitant ou par la personne qu'il aura nomm\u00e9ment d\u00e9sign\u00e9e. Lorsque les travaux sont effectu\u00e9s par une entreprise ext\u00e9rieure, le \"permis de travail\" et, \u00e9ventuellement, le \"permis de feu\" et la consigne particuli\u00e8re relative \u00e0 la s\u00e9curit\u00e9 de l'installation, doivent \u00eatre cosign\u00e9s par l'exploitant et l'entreprise ext\u00e9rieure ou les personnes qu'ils auront nomm\u00e9ment d\u00e9sign\u00e9es."
+                },
+                {
+                  "text": "Apr\u00e8s la fin des travaux et avant la reprise de l'activit\u00e9, une v\u00e9rification des installations doit \u00eatre effectu\u00e9e par l'exploitant ou son repr\u00e9sentant."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.6 - \"Permis de travail\" et/ou \"permis de feu\" dans les parties de l'installation vis\u00e9es au point 4.3"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5fE4F5D7C0Ac",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des dispositions du code du travail, des consignes pr\u00e9cisant les modalit\u00e9s d'application des dispositions du pr\u00e9sent arr\u00eat\u00e9 doivent \u00eatre \u00e9tablies, tenues \u00e0 jour et affich\u00e9es dans les lieux fr\u00e9quent\u00e9s par le personnel. Ces consignes doivent notamment indiquer :"
+                },
+                {
+                  "text": "- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation vis\u00e9es au point 4.3 \"incendie\" et \"atmosph\u00e8res explosives\", except\u00e9 lors des travaux pr\u00e9vus au point 4.6,"
+                },
+                {
+                  "text": "- l'obligation du \"permis de travail\" pour les parties de l'installation vis\u00e9es au point 4.3,"
+                },
+                {
+                  "text": "- les proc\u00e9dures d'arr\u00eat d'urgence et de mise en s\u00e9curit\u00e9 de l'installation (\u00e9lectricit\u00e9, r\u00e9seaux de fluides),"
+                },
+                {
+                  "text": "- les mesures \u00e0 prendre en cas de fuite sur un r\u00e9cipient,"
+                },
+                {
+                  "text": "- les moyens d'extinction \u00e0 utiliser en cas d'incendie,"
+                },
+                {
+                  "text": "- la proc\u00e9dure d'alerte avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d'intervention de l'\u00e9tablissement, des services d'incendie et de secours, etc."
+                },
+                {
+                  "text": "Une consigne particuli\u00e8re, affich\u00e9e \u00e0 l'ext\u00e9rieur de l'installation, doit indiquer, en caract\u00e8res tr\u00e8s apparents, la nature du stockage \"carbure de calcium\" et l' \"interdiction d'utiliser de l'eau ou des produits \u00e0 base d'eau\" pour combattre un \u00e9ventuel incendie."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.7 - Consignes de s\u00e9curit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4BA4d1bFEbed",
+              "outer_alineas": [
+                {
+                  "text": "Les op\u00e9rations comportant des manipulations dangereuses et la conduite des installations (d\u00e9marrage et arr\u00eat, fonctionnement normal, entretien...) doivent faire l'objet de consignes d'exploitation \u00e9crites. Ces consignes doivent notamment pr\u00e9voir :"
+                },
+                {
+                  "text": "- les modes op\u00e9ratoires,"
+                },
+                {
+                  "text": "- la fr\u00e9quence de contr\u00f4le des dispositifs de s\u00e9curit\u00e9 et de traitement des pollutions et nuisances g\u00e9n\u00e9r\u00e9es,"
+                },
+                {
+                  "text": "- les instructions de maintenance et de nettoyage,"
+                },
+                {
+                  "text": "- l'interdiction d'utiliser de l'eau \u00e0 l'int\u00e9rieur de l'installation, sauf application du point 4.6."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4.8 - Consignes d'exploitation"
+              }
+            }
+          ],
+          "title": {
+            "text": "4. Risques"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9B1e8E02BBBd",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 5.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "05f0A3b391B5",
+              "outer_alineas": [
+                {
+                  "text": "Les installations de pr\u00e9l\u00e8vement d'eau dans le milieu naturel doivent \u00eatre munies de dispositifs de mesure totalisateurs de la quantit\u00e9 d'eau pr\u00e9lev\u00e9e. Ces dispositifs doivent \u00eatre relev\u00e9s toutes les semaines si le d\u00e9bit moyen pr\u00e9lev\u00e9 est sup\u00e9rieur \u00e0 10 m\u00b3/j. Le r\u00e9sultat de ces mesures doit \u00eatre enregistr\u00e9 et tenu \u00e0 la disposition de l'inspecteur des installations class\u00e9es."
+                },
+                {
+                  "text": "Le raccordement \u00e0 une nappe d'eau ou au r\u00e9seau public de distribution d'eau potable doit \u00eatre muni d'un disconnecteur hydraulique."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.1 - Pr\u00e9l\u00e8vements"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2Dbafa4d4CFc",
+              "outer_alineas": [
+                {
+                  "text": "Toutes dispositions doivent \u00eatre prises pour limiter la consommation d'eau."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.2 - Consommation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A03dE0fb28A4",
+              "outer_alineas": [
+                {
+                  "text": "Le r\u00e9seau de collecte doit \u00eatre de type s\u00e9paratif permettant d'isoler les eaux r\u00e9siduaires pollu\u00e9es des eaux pluviales non susceptibles d'\u00eatre pollu\u00e9es."
+                },
+                {
+                  "text": "Les points de rejet des eaux r\u00e9siduaires doivent \u00eatre en nombre aussi r\u00e9duit que possible et am\u00e9nag\u00e9s pour permettre un pr\u00e9l\u00e8vement ais\u00e9 d'\u00e9chantillons et l'installation d'un dispositif de mesure du d\u00e9bit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.3 - R\u00e9seau de collecte"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1bF5d0ebD5FE",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.4 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "db0F44a1E53a",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.5 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1Cbbf7E0647C",
+              "outer_alineas": [
+                {
+                  "text": "Le rejet direct ou indirect m\u00eame apr\u00e8s \u00e9puration d'eaux r\u00e9siduaires dans une nappe souterraine est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5.6 - Interdiction des rejets en nappe"
+              }
+            }
+          ],
+          "title": {
+            "text": "5. Eau"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8A67cBcfaba6",
+          "outer_alineas": [
+            {
+              "text": "non concern\u00e9"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 6.",
+          "sections": [],
+          "title": {
+            "text": "6. (*)"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DECHETS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "aA4E07e48b5B",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 7.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "3e86b868232F",
+              "outer_alineas": [
+                {
+                  "text": "Toutes dispositions doivent \u00eatre prises pour limiter les quantit\u00e9s de d\u00e9chets produites. Les diverses cat\u00e9gories de d\u00e9chets doivent \u00eatre collect\u00e9es s\u00e9par\u00e9ment puis valoris\u00e9es ou \u00e9limin\u00e9es de mani\u00e8re \u00e0 assurer la protection des int\u00e9r\u00eats vis\u00e9s \u00e0 l'article 1er de la loi du 19 juillet 1976 dans des installations r\u00e9guli\u00e8rement autoris\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7.1 - R\u00e9cup\u00e9ration - Recyclage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4Bd29646C745",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7.2 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "39a4a0beBfc2",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7.3 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Adb50D85bdE1",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7.4 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "CFe47BA80DBb",
+              "outer_alineas": [
+                {
+                  "text": "Le br\u00fblage des d\u00e9chets \u00e0 l'air libre est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7.5 -\u00a0 Br\u00fblage"
+              }
+            }
+          ],
+          "title": {
+            "text": "7. D\u00e9chets"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "BRUIT_VIBRATIONS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "af2A1aa63D78",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 8.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ba5464B90B7D",
+              "outer_alineas": [
+                {
+                  "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on appelle :"
+                },
+                {
+                  "text": "\t\t\u00e9mergence : la diff\u00e9rence entre les niveaux de pression continus \u00e9quivalents pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l'absence du bruit g\u00e9n\u00e9r\u00e9 par l'installation),"
+                },
+                {
+                  "text": "\t\tzones \u00e0 \u00e9mergence r\u00e9glement\u00e9e :"
+                },
+                {
+                  "text": "\t\tl'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers, existants \u00e0 la date de la d\u00e9claration, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse),"
+                },
+                {
+                  "text": "\t\tles zones constructibles d\u00e9finies par des documents d'urbanisme opposables aux tiers et publi\u00e9s \u00e0 la date de la d\u00e9claration,"
+                },
+                {
+                  "text": "\t\tl'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers qui ont \u00e9t\u00e9 implant\u00e9s apr\u00e8s la date de la d\u00e9claration dans les zones constructibles d\u00e9finies ci-dessus, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse) \u00e0 l'exclusion de celles des immeubles implant\u00e9s dans les zones destin\u00e9es \u00e0 recevoir des activit\u00e9s artisanales ou industrielles."
+                },
+                {
+                  "text": "Pour les installations existantes, la date de la d\u00e9claration est remplac\u00e9e, dans la d\u00e9finition ci-dessus des zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, par la date du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "L'installation doit \u00eatre construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l'origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+                },
+                {
+                  "text": "Les \u00e9missions sonores \u00e9mises par l'installation ne doivent pas \u00eatre \u00e0 l'origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d'une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant :"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Niveau de bruit ambiant existant dans les zones \u00e0\u00a0 \u00e9mergence r\u00e9glement\u00e9e (incluant le bruit de l'installation)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Emergence admissible pour la p\u00e9riode allant de 7 heures \u00e0 22 heures, sauf dimanches et jours f\u00e9ri\u00e9s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Emergence admissible pour la p\u00e9riode allant de 22 heures \u00e0 7 heures, ainsi que les dimanches et jours f\u00e9ri\u00e9s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "sup\u00e9rieur \u00e0 35 et inf\u00e9rieur ou \u00e9gal \u00e0 45 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "6 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "4 dB (A)"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "sup\u00e9rieur \u00e0 45 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "5 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "3 dB (A)"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                },
+                {
+                  "text": "De plus, le niveau de bruit en limite de propri\u00e9t\u00e9 de l'installation ne doit pas d\u00e9passer, lorsqu'elle est en fonctionnement, 70 dB (A) pour la p\u00e9riode de jour et 60 dB (A) pour la p\u00e9riode de nuit, sauf si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+                },
+                {
+                  "text": "Dans le cas o\u00f9 le bruit particulier de l'\u00e9tablissement est \u00e0 tonalit\u00e9 marqu\u00e9e au sens du point 1.9 de l'annexe de l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l'environnement par les installations class\u00e9es pour la protection de l'environnement, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d'apparition ne doit pas exc\u00e9der 30 % de la dur\u00e9e de fonctionnement de l'\u00e9tablissement dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+                },
+                {
+                  "text": "Lorsque plusieurs installations class\u00e9es, soumises \u00e0 d\u00e9claration au titre de rubriques diff\u00e9rentes, sont situ\u00e9es au sein d'un m\u00eame \u00e9tablissement, le niveau de bruit global \u00e9mis par ces installations devra respecter les valeurs limites ci-dessus."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.",
+              "sections": [],
+              "title": {
+                "text": "8.1 - Valeurs limites de bruit"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1Da9Da1ac723",
+              "outer_alineas": [
+                {
+                  "text": "Les v\u00e9hicules de transport, les mat\u00e9riels de manutention et les engins de chantier utilis\u00e9s \u00e0 l'int\u00e9rieur de l'installation doivent \u00eatre conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores. En particulier, les engins de chantier doivent \u00eatre conformes \u00e0 un type homologu\u00e9."
+                },
+                {
+                  "text": "L'usage de tous appareils de communication par voie acoustique (sir\u00e8nes, avertisseurs, haut-parleurs, etc.), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d'incidents graves ou d'accidents."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.",
+              "sections": [],
+              "title": {
+                "text": "8.2 -\u00a0 V\u00e9hicules - engins de chantier - appareils de communication"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "464A5e42a4AD",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.",
+              "sections": [],
+              "title": {
+                "text": "8.3 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4723CE2bA677",
+              "outer_alineas": [
+                {
+                  "text": "Les mesures sont effectu\u00e9es selon la m\u00e9thode d\u00e9finie en annexe de l'arr\u00eat\u00e9 du 23 janvier 1997."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.",
+              "sections": [],
+              "title": {
+                "text": "8.4 - Mesure de bruit"
+              }
+            }
+          ],
+          "title": {
+            "text": "8. Bruit et vibrations"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "FIN_EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9aD6f9c5Cb80",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 9.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e0Dae88DAEFF",
+              "outer_alineas": [
+                {
+                  "text": "En fin d'exploitation, tous les produits dangereux ainsi que tous les d\u00e9chets doivent \u00eatre valoris\u00e9s ou \u00e9vacu\u00e9s vers des installations d\u00fbment autoris\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.",
+              "sections": [],
+              "title": {
+                "text": "9.1 - Elimination des produits dangereux en fin d'exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8Ad064F6Fd7B",
+              "outer_alineas": [
+                {
+                  "text": "non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.",
+              "sections": [],
+              "title": {
+                "text": "9.2 (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "955447Fb53Ee",
+              "outer_alineas": [
+                {
+                  "text": "Les r\u00e9cipients ayant contenu des produits susceptibles de polluer les eaux doivent \u00eatre vid\u00e9s, nettoy\u00e9s, d\u00e9gaz\u00e9s et le cas \u00e9ch\u00e9ant d\u00e9contamin\u00e9s."
+                },
+                {
+                  "text": "(*) Un mod\u00e8le a \u00e9t\u00e9 constitu\u00e9 pour la r\u00e9daction des arr\u00eat\u00e9s de prescriptions g\u00e9n\u00e9rales applicables aux installations soumises \u00e0 d\u00e9claration. Certaines dispositions de ce mod\u00e8le, qui ne se justifient pas pour les installations vis\u00e9es par la rubrique n\u00b0 1455 ont \u00e9t\u00e9 supprim\u00e9es. N\u00e9anmoins, la num\u00e9rotation a \u00e9t\u00e9 conserv\u00e9e pour permettre une homog\u00e9n\u00e9it\u00e9 entre les arr\u00eat\u00e9s de prescriptions g\u00e9n\u00e9rales de toutes les rubriques de la nomenclature."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.",
+              "sections": [],
+              "title": {
+                "text": "9.3 - Traitement des r\u00e9cipients"
+              }
+            }
+          ],
+          "title": {
+            "text": "9. Remise en \u00e9tat en fin d'exploitation"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe I"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "B453FD5B023C",
+      "outer_alineas": [
+        {
+          "text": "A l'exception des dispositions du d\u00e9cret du 21 septembre 1977 mentionn\u00e9es dans le \"1. Dispositions g\u00e9n\u00e9rales\" qui sont applicables sans d\u00e9lai, les dispositions sont applicables aux installations existantes selon le calendrier suivant \u00e0 compter de la date de publication de l'arr\u00eat\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "1 mois"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "3 ans"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "4 ans"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "1. Dispositions g\u00e9n\u00e9rales\n3. Exploitation - Entretien\n4. Risques\n5.6. Rejet en nappe\n5.8. Epandage\n7. D\u00e9chets\n9. Remise en \u00e9tat"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "2. Implantation Am\u00e9nagement (sauf 2.1 \u00e0 2.5)\n5.1. Pr\u00e9l\u00e8vement d'eau\n5.2. Consommation d'eau\n5.3. R\u00e9seau de collecte\n5.7. Pr\u00e9vention des pollutions accidentelles\n8. Bruit et vibrations"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": ""
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe II",
+      "sections": [],
+      "title": {
+        "text": "Annexe II - Dispositions applicables aux installations existantes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 03/05/00 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1455  \" Carbure de calcium (stockage) \""
+  },
+  "visa": []
+}

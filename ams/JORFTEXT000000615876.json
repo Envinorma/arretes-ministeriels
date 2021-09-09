@@ -1,0 +1,1605 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/4861",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2120",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2120"
+    }
+  ],
+  "date_of_signature": "2006-12-08",
+  "id": "JORFTEXT000000615876",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000615876",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E2Fda310a79c",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions techniques applicables aux installations soumises \u00e0 autorisation sous la rubrique 2120 de la nomenclature."
+        },
+        {
+          "text": "Dans les zones vuln\u00e9rables, d\u00e9limit\u00e9es en application du d\u00e9cret n\u00b0 93-1038 du 27 ao\u00fbt 1993 susvis\u00e9, les dispositions fix\u00e9es par les arr\u00eat\u00e9s relatifs aux programmes d'action pris en application du d\u00e9cret n\u00b0 2001-34 du 10 janvier 2001, en particulier celles applicables en zone d'exc\u00e9dent structurel, sont applicables \u00e0 l'installation."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "31ef5b871276",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 est applicable, d\u00e8s sa publication au Journal officiel de la R\u00e9publique fran\u00e7aise, aux installations nouvelles dont l'arr\u00eat\u00e9 d'autorisation interviendra plus de quatre mois apr\u00e8s sa publication ainsi qu'aux installations existantes faisant l'objet, apr\u00e8s sa publication, d'une nouvelle autorisation conform\u00e9ment aux dispositions combin\u00e9es des articles L. 512-15 du code de l'environnement et 20 du d\u00e9cret n\u00b0 77-1133 du 21 septembre 1977 susvis\u00e9s."
+        },
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 est applicable aux installations autoris\u00e9es au plus tard quatre mois apr\u00e8s sa publication, dans des d\u00e9lais de mise en conformit\u00e9 d\u00e9finis par arr\u00eat\u00e9 pr\u00e9fectoral. Ces d\u00e9lais sont compatibles avec ceux qui peuvent par ailleurs \u00eatre fix\u00e9s dans le cadre des programmes d'action en vue de la protection des eaux par les nitrates d'origine agricole ou du programme de ma\u00eetrise des pollutions d'origine agricole. Ces d\u00e9lais ne pourront en aucun cas d\u00e9passer le 31 d\u00e9cembre 2008."
+        },
+        {
+          "text": "Les prescriptions auxquelles les installations existantes sont d\u00e9j\u00e0 soumises demeurent applicables jusqu'\u00e0 l'expiration du d\u00e9lai maximal de mise en conformit\u00e9 fix\u00e9 au pr\u00e9c\u00e9dent alin\u00e9a."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "aFc3B28db1E9",
+      "outer_alineas": [
+        {
+          "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par installation :"
+        },
+        {
+          "text": "- les b\u00e2timents d'\u00e9levage : les locaux d'\u00e9levage et d'h\u00e9bergement (boxes, niches...), les locaux de quarantaine et d'infirmerie, les aires d'exercice en dur (type courette) ;"
+        },
+        {
+          "text": "- les parcs d'\u00e9levage : terrains dont la surface n'est pas \u00e9tanche et servant de lieu de vie permanent, diurne et nocturne, aux animaux ;"
+        },
+        {
+          "text": "- les annexes : les parcs d'\u00e9bat et de travail, les locaux de pr\u00e9paration de la nourriture, les b\u00e2timents de stockage de liti\u00e8re et d'aliments, le syst\u00e8me d'assainissement des effluents (\u00e9vacuation, stockage, traitement) ;"
+        },
+        {
+          "text": "On entend par :"
+        },
+        {
+          "text": "- habitation : un local destin\u00e9 \u00e0 servir de r\u00e9sidence permanente ou temporaire \u00e0 des personnes, tel que logement, pavillon ;"
+        },
+        {
+          "text": "- local habituellement occup\u00e9 par des tiers : un local destin\u00e9 \u00e0 \u00eatre utilis\u00e9 couramment par des personnes (\u00e9tablissements recevant du public, bureau, magasin, atelier, etc.) ;"
+        },
+        {
+          "text": "- parc d'\u00e9bat : aire dont la surface n'est pas \u00e9tanche, o\u00f9 peuvent s'\u00e9battre les animaux dans la journ\u00e9e ;"
+        },
+        {
+          "text": "- parc de travail : aire utilis\u00e9e pour le dressage et/ou l'entra\u00eenement des animaux ;"
+        },
+        {
+          "text": "- fumiers : un m\u00e9lange de d\u00e9jections solides et liquides et de liti\u00e8res ayant subi un d\u00e9but de fermentation ;"
+        },
+        {
+          "text": "- effluents : les d\u00e9jections liquides ou solides, les fumiers, les eaux de pluie ayant ruissel\u00e9 sur les aires d'exercice en dur des chiens et les eaux us\u00e9es issues de l'activit\u00e9 et des annexes ;"
+        },
+        {
+          "text": "- liti\u00e8re : couche de mat\u00e9riau isolant et absorbant, plac\u00e9e sur le sol, l\u00e0 o\u00f9 les animaux s\u00e9journent, et destin\u00e9e \u00e0 donner aux animaux une couche commode et saine, retenant les d\u00e9jections ;"
+        },
+        {
+          "text": "- eaux peu charg\u00e9es : eaux de pluie ou de lavage ayant ruissel\u00e9 sur les aires de vie en dur des chiens et ayant \u00e9t\u00e9 d\u00e9barrass\u00e9es des mati\u00e8res solides (d\u00e9jections, poils, restes de repas,...)."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cB3fEd4AE455",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [],
+      "title": {
+        "text": "Chapitre Ier - Localisation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "c541d9B5C02E",
+      "outer_alineas": [
+        {
+          "text": "Les b\u00e2timents d'\u00e9levage, les annexes et les parcs d'\u00e9levage sont implant\u00e9s :"
+        },
+        {
+          "text": "- \u00e0 au moins 100 m\u00e8tres des habitations des tiers (\u00e0 l'exception des logements occup\u00e9s par des personnels de l'installation) ou des locaux habituellement occup\u00e9s par des tiers, des stades ou des terrains de camping agr\u00e9\u00e9s, ainsi que des zones destin\u00e9es \u00e0 l'habitation par des documents d'urbanisme opposables aux tiers ;"
+        },
+        {
+          "text": "- \u00e0 au moins 35 m\u00e8tres des puits et forages, des sources, des aqueducs en \u00e9coulement libre, de toute installation souterraine ou semi-enterr\u00e9e utilis\u00e9e pour le stockage des eaux, que les eaux soient destin\u00e9es \u00e0 l'alimentation en eau potable ou \u00e0 l'arrosage des cultures mara\u00eech\u00e8res, des rivages, des berges des cours d'eau ;"
+        },
+        {
+          "text": "- \u00e0 au moins 200 m\u00e8tres des lieux de baignade (\u00e0 l'exception des piscines priv\u00e9es) et des plages ;"
+        },
+        {
+          "text": "- \u00e0 au moins 500 m\u00e8tres en amont des piscicultures et des zones conchylicoles. Des d\u00e9rogations li\u00e9es \u00e0 la topographie et \u00e0 la circulation des eaux peuvent \u00eatre accord\u00e9es par le pr\u00e9fet."
+        },
+        {
+          "text": "En cas de n\u00e9cessit\u00e9 et en l'absence de solution technique propre \u00e0 garantir la commodit\u00e9 du voisinage et la protection des eaux, les distances fix\u00e9es ci-dessus peuvent \u00eatre augment\u00e9es."
+        },
+        {
+          "text": "Les parcs d'\u00e9bat, de travail et d'\u00e9levage sont implant\u00e9s sur des terrains de nature \u00e0 supporter les animaux en toutes saisons, maintenus en bon \u00e9tat, et de perm\u00e9abilit\u00e9 suffisante pour \u00e9viter la stagnation des eaux. Toutes les pr\u00e9cautions sont prises pour \u00e9viter l'\u00e9coulement direct de boues et d'eau pollu\u00e9e vers les cours d'eau, le domaine public et les terrains des tiers."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4218Bc230883",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions de l'article 4 ne s'appliquent, dans le cas des extensions des installations en fonctionnement r\u00e9gulier, qu'aux nouveaux b\u00e2timents d'\u00e9levage ou parcs d'\u00e9levage, ou \u00e0 leurs annexes nouvelles. Elles ne s'appliquent pas lorsqu'un exploitant doit, pour mettre en conformit\u00e9 son installation autoris\u00e9e avec les dispositions du pr\u00e9sent arr\u00eat\u00e9, r\u00e9aliser des annexes ou am\u00e9nager ou reconstruire sur le m\u00eame site un b\u00e2timent de m\u00eame capacit\u00e9."
+        },
+        {
+          "text": "Sans pr\u00e9judice de l'article L. 512-15 du code de l'environnement, dans le cas de modifications, notamment pour se conformer \u00e0 de nouvelles normes en mati\u00e8re de bien-\u00eatre animal, d'installations en fonctionnement r\u00e9gulier ou fonctionnant au b\u00e9n\u00e9fice des droits acquis conform\u00e9ment aux dispositions de l'article L. 513-1 du code de l'environnement, des d\u00e9rogations aux dispositions de l'article 4 peuvent \u00eatre accord\u00e9es par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation, sous r\u00e9serve du respect des conditions fix\u00e9es ci-apr\u00e8s."
+        },
+        {
+          "text": "Pour d\u00e9livrer ces d\u00e9rogations, le pr\u00e9fet, sur la base de l'\u00e9tude d'impact ou de la d\u00e9claration de modification \u00e9tablie conform\u00e9ment \u00e0 l'article 20 du d\u00e9cret n\u00b0 77-1133 du 21 septembre 1977 susvis\u00e9, impose les prescriptions qui assurent que ces modifications n'entra\u00eenent pas d'augmentation des inconv\u00e9nients pour les int\u00e9r\u00eats vis\u00e9s par l'article L. 511-1 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [],
+      "title": {
+        "text": "Article 5"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "CefE87b5cf31",
+      "outer_alineas": [
+        {
+          "text": "L'exploitant prend les dispositions appropri\u00e9es pour int\u00e9grer l'installation dans le paysage."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 6",
+      "sections": [],
+      "title": {
+        "text": "Article 6"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d2Ab348F1CC7",
+      "outer_alineas": [
+        {
+          "text": "Le r\u00e9seau de collecte des effluents est maintenu en bon \u00e9tat de fonctionnement."
+        },
+        {
+          "text": "Les points de rejet des eaux r\u00e9siduaires sont en nombre aussi r\u00e9duit que possible."
+        },
+        {
+          "text": "Ils sont am\u00e9nag\u00e9s pour permettre l'installation de syst\u00e8me de pr\u00e9l\u00e8vement d'\u00e9chantillons et de mesure du d\u00e9bit."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 7",
+      "sections": [],
+      "title": {
+        "text": "Article 7"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "f93f4e2e1ee6",
+      "outer_alineas": [
+        {
+          "text": "Tous les sols des b\u00e2timents d'\u00e9levage et des annexes, toutes les installations d'\u00e9vacuation (canalisations, y compris celles permettant l'\u00e9vacuation des effluents vers les ouvrages de stockage et de traitement, etc.) ou de stockage des effluents sont imperm\u00e9ables et maintenus en parfait \u00e9tat d'\u00e9tanch\u00e9it\u00e9. La pente des sols des b\u00e2timents d'\u00e9levage ou des installations annexes permet l'\u00e9coulement des effluents vers le syst\u00e8me d'assainissement. Ces dispositions ne s'appliquent pas aux sols des parcs d'\u00e9bat, de travail et d'\u00e9levage."
+        },
+        {
+          "text": "A l'int\u00e9rieur des b\u00e2timents d'\u00e9levage, le bas des murs est imperm\u00e9able et maintenu en parfait \u00e9tat d'\u00e9tanch\u00e9it\u00e9 sur une hauteur d'un m\u00e8tre au moins."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 8",
+      "sections": [],
+      "title": {
+        "text": "Article 8"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "724046A054Ba",
+      "outer_alineas": [
+        {
+          "text": "Les installations de pr\u00e9l\u00e8vement d'eau dans le milieu naturel sont munies de dispositifs de mesure totalisateurs de la quantit\u00e9 d'eau pr\u00e9lev\u00e9e. La mesure est r\u00e9guli\u00e8rement relev\u00e9e et les r\u00e9sultats sont enregistr\u00e9s et tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+        },
+        {
+          "text": "Le raccordement \u00e0 une nappe d'eau ou au r\u00e9seau public de distribution d'eau potable est muni d'un dispositif \u00e9vitant en toute circonstance le retour d'eau pouvant \u00eatre pollu\u00e9e."
+        },
+        {
+          "text": "L'arr\u00eat\u00e9 d'autorisation de l'installation fixe les prescriptions applicables aux pr\u00e9l\u00e8vements d'eau en fonction de leur importance et de leur impact sur les milieux aquatiques."
+        },
+        {
+          "text": "Toutes les dispositions sont prises pour limiter la consommation d'eau."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 9",
+      "sections": [],
+      "title": {
+        "text": "Article 9"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "c06eC4A594B0",
+      "outer_alineas": [
+        {
+          "text": "Toutes les eaux de nettoyage n\u00e9cessaires \u00e0 l'entretien des b\u00e2timents et des annexes et les eaux susceptibles de ruisseler sur les aires b\u00e9tonn\u00e9es sont collect\u00e9es par un r\u00e9seau \u00e9tanche et dirig\u00e9es vers le syst\u00e8me d'assainissement des effluents."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 10",
+      "sections": [],
+      "title": {
+        "text": "Article 10"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4F6FAB47141e",
+      "outer_alineas": [
+        {
+          "text": "Le r\u00e9seau de collecte doit \u00eatre de type s\u00e9paratif permettant d'isoler les eaux r\u00e9siduaires pollu\u00e9es des eaux pluviales non susceptibles d'\u00eatre pollu\u00e9es."
+        },
+        {
+          "text": "Les eaux de pluie provenant des toitures ne sont en aucun cas m\u00e9lang\u00e9es aux effluents d'\u00e9levage, ni rejet\u00e9es sur les aires d'exercice. Lorsque ce risque existe, elles sont collect\u00e9es par une goutti\u00e8re ou tout autre dispositif \u00e9quivalent. Elles sont alors soit stock\u00e9es en vue d'une utilisation ult\u00e9rieure, soit \u00e9vacu\u00e9es vers le milieu naturel ou un r\u00e9seau particulier."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 11",
+      "sections": [],
+      "title": {
+        "text": "Article 11"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "AcA16BC72535",
+      "outer_alineas": [
+        {
+          "text": "Lorsqu'ils existent, les ouvrages de stockage des effluents sont dimensionn\u00e9s et exploit\u00e9s de mani\u00e8re \u00e0 \u00e9viter tout d\u00e9versement dans le milieu naturel."
+        },
+        {
+          "text": "En cas d'\u00e9pandage sur des terres agricoles, la capacit\u00e9 de stockage permet de stocker la totalit\u00e9 des effluents produits pendant quatre mois au minimum. La capacit\u00e9 de stockage peut \u00eatre augment\u00e9e pour tenir compte notamment des particularit\u00e9s climatiques et de la valorisation agronomique."
+        },
+        {
+          "text": "Les dur\u00e9es de stockage sont d\u00e9finies par le pr\u00e9fet et tiennent compte des particularit\u00e9s climatiques. Lorsque les effluents sont rejet\u00e9s dans le milieu naturel apr\u00e8s traitement, il en est tenu compte dans le calcul de la capacit\u00e9 de stockage des effluents."
+        },
+        {
+          "text": "Les ouvrages de stockage \u00e0 l'air libre des effluents liquides sont signal\u00e9s et entour\u00e9s d'une cl\u00f4ture de s\u00e9curit\u00e9 efficace."
+        },
+        {
+          "text": "Les nouveaux ouvrages sont dot\u00e9s de dispositifs de contr\u00f4le de l'\u00e9tanch\u00e9it\u00e9. Les ouvrages de stockage des effluents liquides construits apr\u00e8s la publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel sont conformes aux I \u00e0 V et VII \u00e0 IX du cahier des charges de l'annexe II de l'arr\u00eat\u00e9 du 26 f\u00e9vrier 2002 relatif aux travaux de ma\u00eetrise des pollutions li\u00e9es aux effluents d'\u00e9levage."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 12",
+      "sections": [],
+      "title": {
+        "text": "Article 12"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "EE5ec4d6128A",
+      "outer_alineas": [
+        {
+          "text": "Toutes mesures sont prises dans toutes les parties de l'installation pour \u00e9viter la fuite des animaux (conception et hauteur des cl\u00f4tures, murs et cloisons,...). Des moyens de capture appropri\u00e9s sont tenus \u00e0 disposition dans l'\u00e9tablissement, en tant que de besoin."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 13",
+      "sections": [],
+      "title": {
+        "text": "Article 13"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "BRUIT_VIBRATIONS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "f12EFfD3F3F3",
+      "outer_alineas": [
+        {
+          "text": "L'installation est exploit\u00e9e conform\u00e9ment aux dispositions suivantes relatives aux bruits a\u00e9riens \u00e9mis dans l'environnement."
+        },
+        {
+          "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on appelle :"
+        },
+        {
+          "text": "- \u00e9mergence : la diff\u00e9rence entre les niveaux de pression continus \u00e9quivalents pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l'absence du bruit g\u00e9n\u00e9r\u00e9 par l'installation) ;"
+        },
+        {
+          "text": "- zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e :"
+        },
+        {
+          "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers, existant \u00e0 la date de la d\u00e9claration, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse) ;"
+        },
+        {
+          "text": "- les zones constructibles d\u00e9finies par des documents d'urbanisme opposables aux tiers et publi\u00e9s \u00e0 la date de l'autorisation ;"
+        },
+        {
+          "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers qui ont \u00e9t\u00e9 implant\u00e9s apr\u00e8s la date de la d\u00e9claration dans les zones constructibles d\u00e9finies ci-dessus, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse), \u00e0 l'exclusion de celles des immeubles implant\u00e9s dans les zones destin\u00e9es \u00e0 recevoir des activit\u00e9s artisanales ou industrielles."
+        },
+        {
+          "text": "Pour les installations existantes, autoris\u00e9es au plus tard quatre mois avant la date de publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel, la date de l'autorisation est remplac\u00e9e, dans la d\u00e9finition ci-dessus des zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, par la date du pr\u00e9sent arr\u00eat\u00e9."
+        },
+        {
+          "text": "L'installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l'origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+        },
+        {
+          "text": "Toutes les pr\u00e9cautions sont prises pour \u00e9viter aux animaux de voir directement la voie publique ou toute sollicitation r\u00e9guli\u00e8re susceptible de provoquer des aboiements, \u00e0 l'exclusion de celles n\u00e9cessaires au bon fonctionnement de l'installation."
+        },
+        {
+          "text": "Les animaux sont rentr\u00e9s chaque nuit dans les b\u00e2timents, ou enclos r\u00e9serv\u00e9s."
+        },
+        {
+          "text": "Des mesures techniques adapt\u00e9es peuvent \u00eatre impos\u00e9es pour parvenir au respect des valeurs maximales d'\u00e9mergence."
+        },
+        {
+          "text": "Les \u00e9missions sonores \u00e9mises par l'installation ne doivent pas \u00eatre \u00e0 l'origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d'une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant :"
+        },
+        {
+          "text": "- pour la p\u00e9riode allant de 7 heures \u00e0 22 heures :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "DUR\u00c9E CUMUL\u00c9E D'APPARITION\ndu bruit particulier T"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\u00c9MERGENCE MAXIMALE\nadmissible en dB(A)"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "T < 20 minutes"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "10"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "20 minutes \u2264 T < 45 minutes"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "9"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "45 minutes \u2264 T < 2 heures"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "7"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "2 heures \u2264 T < 4 heures"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "6"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "T \u2265 4 heures"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "5"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        },
+        {
+          "text": "- pour la p\u00e9riode allant de 22 heures \u00e0 7 heures : \u00e9mergence maximale admissible : 3 dB(A)."
+        },
+        {
+          "text": "De plus, le niveau de bruit en limite de propri\u00e9t\u00e9 de l'installation ne doit pas d\u00e9passer 70 dB(A) pour la p\u00e9riode de jour et 60 dB(A) pour la p\u00e9riode de nuit, sauf si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+        },
+        {
+          "text": "Dans le cas o\u00f9 le bruit particulier de l'\u00e9tablissement est \u00e0 tonalit\u00e9 marqu\u00e9e au sens du point 1.9 de l'annexe de l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l'environnement par les installations class\u00e9es pour la protection de l'environnement, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d'apparition ne peut exc\u00e9der 30 % de la dur\u00e9e de fonctionnement de l'\u00e9tablissement dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+        },
+        {
+          "text": "Lorsque plusieurs installations class\u00e9es, soumises \u00e0 d\u00e9claration au titre de rubriques diff\u00e9rentes, sont situ\u00e9es au sein d'un m\u00eame \u00e9tablissement, le niveau de bruit global \u00e9mis par ces installations devra respecter les valeurs limites ci-dessus."
+        },
+        {
+          "text": "Les v\u00e9hicules de transport et les mat\u00e9riels de manutention utilis\u00e9s \u00e0 l'int\u00e9rieur de l'installation doivent \u00eatre conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores."
+        },
+        {
+          "text": "L'usage de tous appareils de communication par voie acoustique (sir\u00e8nes, avertisseurs, haut-parleurs, etc.), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d'incidents graves ou d'accidents."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 14",
+      "sections": [],
+      "title": {
+        "text": "Article 14"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "AIR_ODEURS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "58536Abd7B5d",
+      "outer_alineas": [
+        {
+          "text": "Les b\u00e2timents d'\u00e9levage sont ventil\u00e9s de mani\u00e8re efficace et permanente."
+        },
+        {
+          "text": "L'exploitant prend des dispositions pour att\u00e9nuer les \u00e9missions d'odeurs, de gaz ou de poussi\u00e8res susceptibles de cr\u00e9er des nuisances de voisinage."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 15",
+      "sections": [],
+      "title": {
+        "text": "Article 15"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "e9399d285cFC",
+      "outer_alineas": [
+        {
+          "text": "Les effluents (solides et liquides) de l'installation sont trait\u00e9s :"
+        },
+        {
+          "text": "- soit dans un syst\u00e8me d'assainissement individuel (du type fosse septique \u00e9tanche, fosse \u00e0 tranch\u00e9e filtrante,...) dans les conditions pr\u00e9vues \u00e0 l'article 18, sans pr\u00e9judice des dispositions de la r\u00e9glementation en vigueur concernant ces syst\u00e8mes, et notamment des dispositions de l'arr\u00eat\u00e9 minist\u00e9riel du 6 mai 1996 et dans le respect des recommandations du service public d'assainissement non collectif ;"
+        },
+        {
+          "text": "- soit sur un site sp\u00e9cialis\u00e9 (centre d'enfouissement, centre de compostage,...) dans les conditions pr\u00e9vues \u00e0 l'article 19 ;"
+        },
+        {
+          "text": "- soit dans une station d'\u00e9puration propre \u00e0 l'installation, dans les conditions pr\u00e9vues \u00e0 l'article 20 ;"
+        },
+        {
+          "text": "- soit par \u00e9pandage sur des terres agricoles, conform\u00e9ment aux dispositions de l'article 21 ;"
+        },
+        {
+          "text": "- soit par tout autre moyen \u00e9quivalent autoris\u00e9 par le pr\u00e9fet."
+        },
+        {
+          "text": "Le d\u00e9versement, direct ou apr\u00e8s traitement, des effluents dans le r\u00e9seau public est soumis \u00e0 autorisation de d\u00e9versement, conform\u00e9ment \u00e0 l'article L. 1331-10 du code de la sant\u00e9 publique."
+        },
+        {
+          "text": "En zone d'exc\u00e9dent structurel, les dispositions fix\u00e9es par les arr\u00eat\u00e9s relatifs aux programmes d'action, pris en application du d\u00e9cret n\u00b0 2001-34 du 10 janvier 2001, sont applicables \u00e0 l'installation."
+        },
+        {
+          "text": "Les eaux peu charg\u00e9es peuvent \u00eatre trait\u00e9es selon les proc\u00e9d\u00e9s autoris\u00e9s par la r\u00e9glementation relative aux programmes d'action pris en application du d\u00e9cret n\u00b0 2001-34 du 10 janvier 2001."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 16",
+      "sections": [],
+      "title": {
+        "text": "Article 16"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "F93a5df1f1a7",
+      "outer_alineas": [
+        {
+          "text": "Tout rejet direct d'effluents dans le milieu naturel est interdit."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 17",
+      "sections": [],
+      "title": {
+        "text": "Article 17"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d9adbCBa2DF3",
+      "outer_alineas": [
+        {
+          "text": "Les capacit\u00e9s techniques du syst\u00e8me d'assainissement individuel des effluents de l'installation sont, qualitativement et quantitativement, compatibles avec l'ensemble des effluents re\u00e7us."
+        },
+        {
+          "text": "Les donn\u00e9es techniques concernant le syst\u00e8me d'assainissement sont tenues \u00e0 disposition de l'inspection des installations class\u00e9es."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 18",
+      "sections": [],
+      "title": {
+        "text": "Article 18"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b9Aad5Bca37a",
+      "outer_alineas": [
+        {
+          "text": "Les effluents provenant des activit\u00e9s de l'exploitation peuvent, totalement ou en partie, \u00eatre trait\u00e9s sur un site autoris\u00e9 ou d\u00e9clar\u00e9 au titre du livre II, titre Ier ou du livre V du code de l'environnement."
+        },
+        {
+          "text": "L'exploitant tient \u00e0 la disposition de l'inspecteur des installations class\u00e9es les coordonn\u00e9es du gestionnaire du site, l'accord ou le contrat pass\u00e9 avec celui-ci, ainsi que le relev\u00e9 des quantit\u00e9s livr\u00e9es et la date de livraison."
+        },
+        {
+          "text": "Dans le cas de l'utilisation d'une fosse \u00e9tanche, une vidange r\u00e9guli\u00e8re doit \u00eatre effectu\u00e9e par une entreprise autoris\u00e9e. Le contrat \u00e9tabli avec l'entreprise ainsi que les pi\u00e8ces justificatives des vidanges doivent \u00eatre tenus \u00e0 disposition de l'inspection des IC."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 19",
+      "sections": [],
+      "title": {
+        "text": "Article 19"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cB4ceC9De3Ca",
+      "outer_alineas": [
+        {
+          "text": "Pour les stations de traitement des effluents, le niveau de traitement minimal est fix\u00e9 par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation et, en cas de rejet dans les eaux superficielles d'effluents trait\u00e9s, le flux journalier maximal de pollution admissible est compatible avec les objectifs de qualit\u00e9 fix\u00e9s pour le milieu r\u00e9cepteur."
+        },
+        {
+          "text": "Pour pallier toute panne de l'installation de traitement des effluents, l'installation dispose de bassins de s\u00e9curit\u00e9 \u00e9tanches qui permettent de stocker la totalit\u00e9 des effluents le temps n\u00e9cessaire \u00e0 la remise en fonctionnement correcte de l'installation."
+        },
+        {
+          "text": "Les boues et autres produits issus du traitement des effluents peuvent \u00eatre \u00e9pandus sur des terres agricoles en respectant les prescriptions de l'article 21."
+        },
+        {
+          "text": "Dans le cas de rejet dans le milieu naturel des effluents trait\u00e9s, le rejet respecte les valeurs limites d'\u00e9mission suivantes (contr\u00f4l\u00e9es, sauf stipulation contraire de la norme, sur effluent brut non d\u00e9cant\u00e9 et non filtr\u00e9, sans dilution pr\u00e9alable ou m\u00e9lange avec d'autres effluents) :"
+        },
+        {
+          "text": "- mati\u00e8res en suspension (NFT 90-105) : la concentration ne doit pas d\u00e9passer 100 mg/l si le flux journalier n'exc\u00e8de pas 15 kg/j, 35 mg/l au-del\u00e0 ;"
+        },
+        {
+          "text": "- DCO (NFT 90-101) : la concentration ne doit pas d\u00e9passer 300 mg/l si le flux journalier n'exc\u00e8de pas 100 kg/j, 125 mg/l au-del\u00e0 ;"
+        },
+        {
+          "text": "- DBO5 (NFT 90-103) : la concentration ne doit pas d\u00e9passer 100 mg/l si le flux journalier n'exc\u00e8de pas 30 kg/j, 30 mg/l au-del\u00e0."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 20",
+      "sections": [],
+      "title": {
+        "text": "Article 20"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "aDCC9EF5302a",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 21",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "80aAc44DE8ab",
+          "outer_alineas": [
+            {
+              "text": "Les effluents d'\u00e9levage de l'exploitation peuvent \u00eatre soumis \u00e0 une \u00e9puration naturelle par le sol et son couvert v\u00e9g\u00e9tal, dans les conditions pr\u00e9cis\u00e9es ci-apr\u00e8s :"
+            },
+            {
+              "text": "- les apports azot\u00e9s, toutes origines confondues (effluents d'\u00e9levage, effluents d'origine agroalimentaire, engrais chimique ou autres apports azot\u00e9s d'origine organique ou min\u00e9rale), sur les terres faisant l'objet d'un \u00e9pandage, tiennent compte de la nature particuli\u00e8re des terrains et de la rotation des cultures ;"
+            },
+            {
+              "text": "- la fertilisation doit \u00eatre \u00e9quilibr\u00e9e et correspondre aux capacit\u00e9s exportatrices de la culture ou de la prairie concern\u00e9e ;"
+            },
+            {
+              "text": "- en aucun cas la capacit\u00e9 d'absorption des sols ne doit \u00eatre d\u00e9pass\u00e9e, de telle sorte que ni la stagnation prolong\u00e9e sur les sols, ni le ruissellement en dehors du champ d'\u00e9pandage, ni une percolation rapide vers les nappes souterraines ne puissent se produire ;"
+            },
+            {
+              "text": "- la fertilisation azot\u00e9e organique est interdite sur toutes les l\u00e9gumineuses sauf la luzerne et les prairies d'association gramin\u00e9es-l\u00e9gumineuses ;"
+            },
+            {
+              "text": "- les distances minimales entre, d'une part, les parcelles d'\u00e9pandage des effluents et, d'autre part, toute habitation des tiers ou tout local habituellement occup\u00e9 par des tiers, les stades ou les terrains de camping agr\u00e9\u00e9s, \u00e0 l'exception des terrains de camping \u00e0 la ferme, sont fix\u00e9es \u00e0 100 m\u00e8tres. En dehors des p\u00e9riodes o\u00f9 le sol est gel\u00e9, les \u00e9pandages sur terres nues des effluents sont suivis d'un enfouissement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "1."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "97Ae5fcA54F9",
+          "outer_alineas": [
+            {
+              "text": "Tout \u00e9pandage est subordonn\u00e9 \u00e0 la production d'un plan d'\u00e9pandage. Ce plan d\u00e9finit, en fonction de leur aptitude \u00e0 l'\u00e9pandage, les parcelles qui peuvent faire l'objet d'\u00e9pandage d'effluents organiques. Il doit d\u00e9montrer que chacune des parcelles r\u00e9ceptrices, y compris celles mises \u00e0 disposition par des tiers, est apte \u00e0 permettre la valorisation agronomique des effluents."
+            },
+            {
+              "text": "Le plan d'\u00e9pandage comporte au minimum les \u00e9l\u00e9ments suivants :"
+            },
+            {
+              "text": "- l'identification des parcelles (r\u00e9f\u00e9rences cadastrales ou tout autre support reconnu, superficie totale et superficie \u00e9pandable) regroup\u00e9es par exploitant ;"
+            },
+            {
+              "text": "- l'identit\u00e9 et l'adresse de l'exploitant et des pr\u00eateurs de terres qui ont souscrit un contrat \u00e9crit avec l'exploitant ;"
+            },
+            {
+              "text": "- la localisation sur une repr\u00e9sentation cartographique \u00e0 une \u00e9chelle comprise entre 1/12 500 et 1/5 000 des parcelles concern\u00e9es et des surfaces exclues de l'\u00e9pandage en les diff\u00e9renciant et en indiquant les motifs d'exclusion ;"
+            },
+            {
+              "text": "- les syst\u00e8mes de culture envisag\u00e9s (cultures en place et principales successions) ;"
+            },
+            {
+              "text": "- la nature, la teneur en azote avec indication du mode d'\u00e9valuation de cette teneur (analyses ou r\u00e9f\u00e9rences) et la quantit\u00e9 des effluents qui seront \u00e9pandus ;"
+            },
+            {
+              "text": "- les doses maximales admissibles par type d'effluent, de sol et de culture en utilisant des r\u00e9f\u00e9rences locales ou toute autre m\u00e9thode \u00e9quivalente ;"
+            },
+            {
+              "text": "- le calendrier pr\u00e9visionnel d'\u00e9pandage rappelant les p\u00e9riodes durant lesquelles l'\u00e9pandage est interdit ou inappropri\u00e9. Dans les zones vuln\u00e9rables, ces p\u00e9riodes sont celles d\u00e9finies par le programme d'action pris en application du d\u00e9cret n\u00b0 2001-34 du 10 janvier 2001 susvis\u00e9."
+            },
+            {
+              "text": "L'ensemble de ces \u00e9l\u00e9ments est pr\u00e9sent\u00e9 dans un document de synth\u00e8se tenu \u00e0 disposition de l'inspecteur des installations class\u00e9es."
+            },
+            {
+              "text": "Toute modification notable du plan d'\u00e9pandage doit \u00eatre port\u00e9e avant sa r\u00e9alisation \u00e0 la connaissance du pr\u00e9fet."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "2."
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2cDdb0c2f4bA",
+          "outer_alineas": [
+            {
+              "text": "En zone d'exc\u00e9dent structurel, les dispositions fix\u00e9es par les arr\u00eat\u00e9s relatifs aux programmes d'action, pris en application du d\u00e9cret n\u00b0 2001-34 du 10 janvier 2001, sont applicables \u00e0 l'installation, en particulier les dispositions relatives \u00e0 l'\u00e9tendue maximale des surfaces d'\u00e9pandage des effluents."
+            },
+            {
+              "text": "S'il appara\u00eet n\u00e9cessaire de renforcer la protection des eaux, le pr\u00e9fet peut fixer les quantit\u00e9s \u00e9pandables d'azote et de phosphore \u00e0 ne pas d\u00e9passer en fonction de l'\u00e9tat initial du site, du bilan global de fertilisation figurant dans l'\u00e9tude d'impact et des risques d'\u00e9rosion des terrains, de ruissellement vers les eaux superficielles ou de lessivage."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "3."
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "E34AE5A15A0b",
+          "outer_alineas": [
+            {
+              "text": "L'\u00e9pandage des effluents d'\u00e9levage et des produits issus de leur traitement est interdit :"
+            },
+            {
+              "text": "- \u00e0 moins de 50 m\u00e8tres des points de pr\u00e9l\u00e8vement d'eau destin\u00e9e \u00e0 l'alimentation des collectivit\u00e9s humaines ou des particuliers ;"
+            },
+            {
+              "text": "- \u00e0 moins de 200 m\u00e8tres des lieux de baignade (\u00e0 l'exception des piscines priv\u00e9es) et des plages ;"
+            },
+            {
+              "text": "- \u00e0 moins de 500 m\u00e8tres en amont des piscicultures et des zones conchylicoles, sauf d\u00e9rogation li\u00e9e \u00e0 la topographie, \u00e0 la circulation des eaux et pr\u00e9vue par l'arr\u00eat\u00e9 d'autorisation ;"
+            },
+            {
+              "text": "- \u00e0 moins de 35 m\u00e8tres des berges des cours d'eau ; cette limite est r\u00e9duite \u00e0 10 m\u00e8tres si une bande de 10 m\u00e8tres enherb\u00e9e ou bois\u00e9e et ne recevant aucun intrant est implant\u00e9e de fa\u00e7on permanente en bordure des cours d'eau ;"
+            },
+            {
+              "text": "- sur les terrains de forte pente sauf s'il est mis en place des dispositifs pr\u00e9venant tout risque d'\u00e9coulement et de ruissellement vers les cours d'eau ;"
+            },
+            {
+              "text": "- sur les sols pris en masse par le gel (exception faite pour les fumiers et les composts) ou enneig\u00e9s ;"
+            },
+            {
+              "text": "- sur les sols inond\u00e9s ou d\u00e9tremp\u00e9s ;"
+            },
+            {
+              "text": "- pendant les p\u00e9riodes de fortes pluviosit\u00e9s ;"
+            },
+            {
+              "text": "- sur les sols non utilis\u00e9s en vue d'une production agricole ;"
+            },
+            {
+              "text": "- sur les cultures mara\u00eech\u00e8res ;"
+            },
+            {
+              "text": "- par a\u00e9ro-aspersion sauf pour les eaux issues du traitement des effluents."
+            },
+            {
+              "text": "L'\u00e9pandage par aspersion n'est possible que pour les eaux issues du traitement des effluents. Il est pratiqu\u00e9 au moyen de dispositifs qui ne produisent pas d'a\u00e9rosols."
+            },
+            {
+              "text": "Ces dispositions sont sans pr\u00e9judice des dispositions \u00e9dict\u00e9es par les autres r\u00e8gles applicables aux \u00e9levages de chiens, notamment celles d\u00e9finies dans le cadre des programmes d'action en vue de la protection des eaux par les nitrates d'origine agricole ou du programme de ma\u00eetrise des pollutions d'origine agricole."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "4."
+          }
+        }
+      ],
+      "title": {
+        "text": "Article 21"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "cdC557a5cCF2",
+      "outer_alineas": [
+        {
+          "text": "L'ensemble du site doit \u00eatre maintenu en parfait \u00e9tat d'entretien (peinture, plantations, engazonnement...)."
+        },
+        {
+          "text": "L'ensemble des b\u00e2timents et des annexes est maintenu propre et r\u00e9guli\u00e8rement nettoy\u00e9, conform\u00e9ment au plan de nettoyage et de d\u00e9sinfection pr\u00e9sent\u00e9 dans le dossier initial d'autorisation."
+        },
+        {
+          "text": "Les niches dans lesquelles sont plac\u00e9s les animaux sont construites en mat\u00e9riaux durs, r\u00e9sistants aux chocs, faciles \u00e0 entretenir et \u00e0 d\u00e9sinfecter."
+        },
+        {
+          "text": "Les sols et les murs des b\u00e2timents d'\u00e9levage sont nettoy\u00e9s chaque jour et d\u00e9sinfect\u00e9s r\u00e9guli\u00e8rement."
+        },
+        {
+          "text": "Dans le cas de l'utilisation de liti\u00e8re, celle-ci est entretenue de fa\u00e7on \u00e0 ne pas provoquer de nuisances (les d\u00e9jections solides sont enlev\u00e9es chaque jour)."
+        },
+        {
+          "text": "Les parcs d'\u00e9bat, de travail et d'\u00e9levage sont maintenus en bon \u00e9tat ; les d\u00e9jections solides sont enlev\u00e9es r\u00e9guli\u00e8rement lorsque la charge d'animaux d\u00e9passe 1 chien / 60 m\u00e8tres carr\u00e9s."
+        },
+        {
+          "text": "L'exploitant lutte contre la prolif\u00e9ration des insectes et des rongeurs aussi souvent que n\u00e9cessaire. Un registre des traitements effectu\u00e9s est tenu \u00e0 jour et mis \u00e0 la disposition de l'inspection."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 22",
+      "sections": [],
+      "title": {
+        "text": "Article 22"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "6944EECCD29e",
+      "outer_alineas": [
+        {
+          "text": "La pr\u00e9sence dans l'installation de mati\u00e8res dangereuses ou combustibles est limit\u00e9e aux n\u00e9cessit\u00e9s de l'exploitation."
+        },
+        {
+          "text": "L'exploitant garde \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9."
+        },
+        {
+          "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages doivent porter en caract\u00e8res tr\u00e8s lisibles le nom des produits et, s'il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l'\u00e9tiquetage des substances et pr\u00e9parations chimiques dangereuses."
+        },
+        {
+          "text": "Les produits de nettoyage, de d\u00e9sinfection, de traitement, le fuel et plus g\u00e9n\u00e9ralement les produits dangereux sont stock\u00e9s dans des conditions propres \u00e0 \u00e9viter tout d\u00e9versement accidentel dans le milieu naturel et tous risques pour la s\u00e9curit\u00e9 et la sant\u00e9 des populations avoisinantes et pour la protection de l'environnement."
+        },
+        {
+          "text": "Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident, d\u00e9versement de mati\u00e8res dangereuses dans les \u00e9gouts publics ou le milieu naturel."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 23",
+      "sections": [],
+      "title": {
+        "text": "Article 23"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "DACFDA9687aB",
+      "outer_alineas": [
+        {
+          "text": "L'exploitant \u00e9limine ou fait \u00e9liminer les d\u00e9chets et notamment les emballages et les d\u00e9chets de soins v\u00e9t\u00e9rinaires produits, dans des conditions propres \u00e0 garantir les int\u00e9r\u00eats vis\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilis\u00e9es pour cette \u00e9limination sont r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 cet effet."
+        },
+        {
+          "text": "Les d\u00e9chets, et notamment les emballages et les d\u00e9chets de soins v\u00e9t\u00e9rinaires produits par l'installation, doivent \u00eatre stock\u00e9s dans des conditions pr\u00e9venant les risques de pollution (pr\u00e9vention des envols, des ruissellements, des infiltrations dans le sol, des odeurs,...)."
+        },
+        {
+          "text": "Les d\u00e9chets non dangereux (bois, papier, verre, textile, plastique, caoutchouc, etc.) et non souill\u00e9s par des produits toxiques ou polluants peuvent \u00eatre r\u00e9cup\u00e9r\u00e9s, valoris\u00e9s ou \u00e9limin\u00e9s dans des installations autoris\u00e9es."
+        },
+        {
+          "text": "Le br\u00fblage des d\u00e9chets \u00e0 l'air libre est interdit."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 24",
+      "sections": [],
+      "title": {
+        "text": "Article 24"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "34CfBbcCEa8b",
+      "outer_alineas": [
+        {
+          "text": "Les animaux morts sont entrepos\u00e9s et enlev\u00e9s par l'\u00e9quarrisseur ou d\u00e9truits selon les modalit\u00e9s pr\u00e9vues par le code rural."
+        },
+        {
+          "text": "En vue de leur enl\u00e8vement, les animaux morts sont plac\u00e9s dans des conteneurs \u00e9tanches et ferm\u00e9s, de manipulation facile, dispos\u00e9s sur un emplacement s\u00e9par\u00e9 de toute autre activit\u00e9 et r\u00e9serv\u00e9 \u00e0 cet usage. Dans l'attente de leur enl\u00e8vement, quand celui-ci est diff\u00e9r\u00e9 conform\u00e9ment aux modalit\u00e9s pr\u00e9vues par le code rural, sauf mortalit\u00e9 exceptionnelle, ils sont stock\u00e9s \u00e0 temp\u00e9rature n\u00e9gative dans un r\u00e9cipient \u00e9tanche et ferm\u00e9, destin\u00e9 \u00e0 ce seul usage et identifi\u00e9."
+        },
+        {
+          "text": "Le br\u00fblage des cadavres \u00e0 l'air libre est interdit."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 25",
+      "sections": [],
+      "title": {
+        "text": "Article 25"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fB25505F9Def",
+      "outer_alineas": [
+        {
+          "text": "Les installations techniques (gaz, chauffage, fuel) et \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux dispositions des normes et r\u00e9glementations en vigueur."
+        },
+        {
+          "text": "Les vannes de barrage (gaz, fuel, \u00e9lectricit\u00e9) sont install\u00e9es \u00e0 l'entr\u00e9e des b\u00e2timents dans un bo\u00eetier sous verre dormant correctement identifi\u00e9."
+        },
+        {
+          "text": "Toutes les installations \u00e9lectriques sont entretenues en bon \u00e9tat et sont contr\u00f4l\u00e9es, apr\u00e8s leur installation ou leur modification, par une personne comp\u00e9tente au moins tous les trois ans. Lorsque l'exploitant emploie du personnel, la p\u00e9riodicit\u00e9, l'objet et l'\u00e9tendue des v\u00e9rifications des installations \u00e9lectriques ainsi que le contenu des rapports relatifs auxdites v\u00e9rifications sont fix\u00e9s conform\u00e9ment au d\u00e9cret n\u00b0 88-1056 du 14 novembre 1988 pris pour l'ex\u00e9cution des dispositions du livre II du code du travail."
+        },
+        {
+          "text": "Les rapports de v\u00e9rification et les justificatifs de la r\u00e9alisation des travaux rendus n\u00e9cessaires suite \u00e0 ces rapports sont tenus \u00e0 la disposition des organismes de contr\u00f4le et de l'inspection des installations class\u00e9es."
+        },
+        {
+          "text": "L'installation doit \u00eatre \u00e9quip\u00e9e de moyens de lutte contre l'incendie appropri\u00e9s aux risques, notamment :"
+        },
+        {
+          "text": "- d'un ou de plusieurs appareils d'incendie (bouches, poteaux,...) publics ou priv\u00e9s dont un implant\u00e9 \u00e0 200 m\u00e8tres au plus du risque, ou de points d'eau, bassins, citernes, etc., d'une capacit\u00e9 en rapport avec le danger \u00e0 combattre ;"
+        },
+        {
+          "text": "- d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des locaux, sur les aires ext\u00e9rieures et les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d'extinction doivent \u00eatre appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits stock\u00e9s ;"
+        },
+        {
+          "text": "- d'un moyen permettant d'alerter les services d'incendie et de secours ;"
+        },
+        {
+          "text": "- de plans des locaux facilitant l'intervention des servicesd'incendie et de secours avec une description des dangers pour chaque local."
+        },
+        {
+          "text": "Ces mat\u00e9riels doivent \u00eatre maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an."
+        },
+        {
+          "text": "Les rapports de v\u00e9rification sont tenus \u00e0 la disposition de l'inspection."
+        },
+        {
+          "text": "Des moyens compl\u00e9mentaires de lutte contre l'incendie peuvent \u00eatre fix\u00e9s par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+        },
+        {
+          "text": "Sont affich\u00e9es \u00e0 proximit\u00e9 du t\u00e9l\u00e9phone urbain, dans la mesure o\u00f9 il existe, et pr\u00e8s de l'entr\u00e9e du b\u00e2timent principal, des consignes pr\u00e9cises indiquant notamment :"
+        },
+        {
+          "text": "- le num\u00e9ro d'appel des sapeurs-pompiers : 18 ;"
+        },
+        {
+          "text": "- le num\u00e9ro d'appel de la gendarmerie : 17 ;"
+        },
+        {
+          "text": "- le num\u00e9ro d'appel du SAMU : 15 ;"
+        },
+        {
+          "text": "- le num\u00e9ro d'appel des secours \u00e0 partir d'un t\u00e9l\u00e9phone mobile : 112,"
+        },
+        {
+          "text": "ainsi que les dispositions imm\u00e9diates \u00e0 prendre en cas de sinistre ou d'accident de toute nature pour assurer la s\u00e9curit\u00e9 des personnels et la sauvegarde de l'\u00e9tablissement."
+        },
+        {
+          "text": "Les \u00e9quipements m\u00e9talliques (r\u00e9servoirs, cuves, canalisations) doivent \u00eatre mis \u00e0 la terre conform\u00e9ment aux r\u00e8glements et aux normes applicables."
+        },
+        {
+          "text": "L'installation doit \u00eatre accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins une face, par une voie-engin."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 26",
+      "sections": [],
+      "title": {
+        "text": "Article 26"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "afBfB608482a",
+      "outer_alineas": [
+        {
+          "text": "L'enregistrement des pratiques de fertilisation azot\u00e9e est r\u00e9alis\u00e9 par la tenue \u00e0 jour d'un cahier d'\u00e9pandage pour chaque parcelle ou \u00eelot cultural, y compris pour les parcelles mises \u00e0 disposition par des tiers. Par \u00eelot cultural, on entend un regroupement de parcelles homog\u00e8nes du point de vue de la culture concern\u00e9e, de l'histoire culturale (notamment pour ce qui concerne les successions et les apports organiques) et de la nature du terrain."
+        },
+        {
+          "text": "Le cahier d'\u00e9pandage regroupe les informations suivantes relatives aux effluents d'\u00e9levage issus de l'exploitation :"
+        },
+        {
+          "text": "- le bilan global de fertilisation ;"
+        },
+        {
+          "text": "- l'identification des parcelles (ou \u00eelots) r\u00e9ceptrices \u00e9pandues ;"
+        },
+        {
+          "text": "- les superficies effectivement \u00e9pandues ;"
+        },
+        {
+          "text": "- les dates d'\u00e9pandage ;"
+        },
+        {
+          "text": "- la nature des cultures ;"
+        },
+        {
+          "text": "- les volumes par nature d'effluent et les quantit\u00e9s d'azote \u00e9pandues, en pr\u00e9cisant les autres apports d'azote organique et min\u00e9ral ;"
+        },
+        {
+          "text": "- le mode d'\u00e9pandage et le d\u00e9lai d'enfouissement ;"
+        },
+        {
+          "text": "- le traitement mis en oeuvre pour att\u00e9nuer les odeurs (s'il existe)."
+        },
+        {
+          "text": "En outre, chaque fois que des effluents produits par une installation sont \u00e9pandus sur des parcelles mises \u00e0 disposition par des tiers, le cahier d'\u00e9pandage comprend l'accord ou le contrat pass\u00e9 entre les deux parties ainsi qu'un bordereau cosign\u00e9 par le producteur des effluents et le destinataire. Ce bordereau est \u00e9tabli au plus tard \u00e0 la fin du chantier d'\u00e9pandage ; il comporte l'identification des parcelles r\u00e9ceptrices, les volumes par nature d'effluent et les quantit\u00e9s d'azote \u00e9pandues."
+        },
+        {
+          "text": "Le cahier d'\u00e9pandage est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 27",
+      "sections": [],
+      "title": {
+        "text": "Article 27"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "68da5EA7e0b7",
+      "outer_alineas": [
+        {
+          "text": "En cas de traitement des effluents dans une station d'\u00e9puration propre \u00e0 l'installation, une analyse de l'azote et du phosphore contenus dans les boues et les produits issus du traitement des effluents est r\u00e9alis\u00e9e annuellement."
+        },
+        {
+          "text": "En cas de rejet dans le milieu naturel, le point de rejet de l'effluent trait\u00e9 dans le milieu est unique et am\u00e9nag\u00e9 en vue de pouvoir proc\u00e9der \u00e0 des pr\u00e9l\u00e8vements et \u00e0 des mesures de d\u00e9bit utilisant soit un seuil d\u00e9versoir dans un regard sp\u00e9cialement am\u00e9nag\u00e9 \u00e0 cet effet, soit une capacit\u00e9 de volume connu. Des mesures du d\u00e9bit et des analyses permettant de conna\u00eetre la DCO, la DBO5, les MES, le phosphore et l'azote global (NGL) de l'effluent rejet\u00e9 dans le milieu naturel sont faites aux frais de l'exploitant au minimum une fois par semestre."
+        },
+        {
+          "text": "Les r\u00e9sultats de ces analyses sont conserv\u00e9s cinq ans et pr\u00e9sent\u00e9s \u00e0 sa demande \u00e0 l'inspecteur des installations class\u00e9es."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 28",
+      "sections": [],
+      "title": {
+        "text": "Article 28"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "BRUIT_VIBRATIONS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "a0eBD3B18bf6",
+      "outer_alineas": [
+        {
+          "text": "La mesure des \u00e9missions sonores est effectu\u00e9e, selon la m\u00e9thode d\u00e9finie en annexe de l'arr\u00eat\u00e9 du 23 janvier 1997, selon une p\u00e9riodicit\u00e9 quinquennale, sauf d\u00e9rogation pr\u00e9vue par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation, li\u00e9e \u00e0 la situation g\u00e9ographique, \u00e0 l'am\u00e9nagement ou aux conditions d'exploitation de l'installation."
+        },
+        {
+          "text": "Les mesures sont effectu\u00e9es, dans la mesure du possible, par un organisme ou une personne qualifi\u00e9, agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement."
+        },
+        {
+          "text": "Ces mesures sont effectu\u00e9es dans des conditions repr\u00e9sentatives du fonctionnement de l'installation sur une dur\u00e9e d'une demi-heure au moins."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 29",
+      "sections": [],
+      "title": {
+        "text": "Article 29"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "AIR_ODEURS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Cb6bBDE458B5",
+      "outer_alineas": [
+        {
+          "text": "La mesure du d\u00e9bit d'odeur est effectu\u00e9e, notamment \u00e0 la demande du pr\u00e9fet, selon les m\u00e9thodes normalis\u00e9es en vigueur si l'installation fait l'objet de plaintes relatives aux nuisances olfactives."
+        },
+        {
+          "text": "Les mesures sont effectu\u00e9es, dans la mesure du possible, par un organisme agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 30",
+      "sections": [],
+      "title": {
+        "text": "Article 30"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "FIN_EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "dFc787f19Cdf",
+      "outer_alineas": [
+        {
+          "text": "Lorsqu'une installation cesse l'activit\u00e9 au titre de laquelle elle \u00e9tait autoris\u00e9e, son exploitant en informe le pr\u00e9fet au moins trois mois avant l'arr\u00eat d\u00e9finitif. La notification de l'exploitant indique les mesures de remise en \u00e9tat pr\u00e9vues ou r\u00e9alis\u00e9es."
+        },
+        {
+          "text": "L'exploitant remet en \u00e9tat le site de sorte qu'il ne s'y manifeste plus aucun danger et inconv\u00e9nient. En particulier :"
+        },
+        {
+          "text": "- tous les produits dangereux ainsi que tous les d\u00e9chets sont valoris\u00e9s ou \u00e9vacu\u00e9s vers des installations d\u00fbment autoris\u00e9es ;"
+        },
+        {
+          "text": "- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vid\u00e9es, nettoy\u00e9es, d\u00e9gaz\u00e9es et, le cas \u00e9ch\u00e9ant, d\u00e9contamin\u00e9es. Elles sont si possible enlev\u00e9es, sinon, et dans le cas sp\u00e9cifique des cuves enterr\u00e9es et semi-enterr\u00e9es, elles sont rendues inutilisables par remplissage avec un mat\u00e9riau solide inerte."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 31",
+      "sections": [],
+      "title": {
+        "text": "Article 31"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "5CEDC7735fC0",
+      "outer_alineas": [
+        {
+          "text": "Le directeur de la pr\u00e9vention des pollutions et des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 32",
+      "sections": [],
+      "title": {
+        "text": "Article 32"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 08/12/06 fixant les r\u00e8gles techniques auxquelles doivent satisfaire les installations renfermant des chiens soumises \u00e0 autorisation au titre du livre V du code de l'environnement"
+  },
+  "visa": []
+}

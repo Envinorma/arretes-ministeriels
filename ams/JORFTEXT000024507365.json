@@ -1,0 +1,2686 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/35876",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2980",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2980"
+    }
+  ],
+  "date_of_signature": "2011-08-26",
+  "id": "JORFTEXT000024507365",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024507365",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "04e08BEf7c75",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 est applicable aux installations soumises \u00e0 autorisation au titre de la rubrique 2980 de la l\u00e9gislation des installations class\u00e9es."
+        },
+        {
+          "text": "L'ensemble des dispositions du pr\u00e9sent arr\u00eat\u00e9 s'appliquent aux installations pour lesquelles une demande d'autorisation est d\u00e9pos\u00e9e \u00e0 compter du lendemain de la publication du pr\u00e9sent arr\u00eat\u00e9 ainsi qu'aux extensions ou modifications d'installations existantes r\u00e9guli\u00e8rement mises en service n\u00e9cessitant le d\u00e9p\u00f4t d'une nouvelle demande d'autorisation en application de l'article R. 181-46 du code de l'environnement au-del\u00e0 de cette m\u00eame date. Ces installations sont d\u00e9nomm\u00e9es nouvelles installations dans la suite du pr\u00e9sent arr\u00eat\u00e9."
+        },
+        {
+          "text": "Les installations ayant fait l'objet d'une mise en service industrielle avant le 13 juillet 2011, celles ayant obtenu un permis de construire avant cette m\u00eame date ainsi que celles pour lesquelles l'arr\u00eat\u00e9 d'ouverture d'enqu\u00eate publique a \u00e9t\u00e9 pris avant cette m\u00eame date, sont d\u00e9nomm\u00e9es \u201cinstallations existantes\u201d."
+        },
+        {
+          "text": "Les dispositions des articles des sections 1, 5, 6, 7, 8, de la section 4 \u00e0 l'exception du 1er et du 3e alin\u00e9a de l'article 17 et le point V du 4-1 et le point II du 4-2 de l'article 4 de la section 2 sont applicables aux installations existantes."
+        },
+        {
+          "text": "Les dispositions des articles de la section 3, du 1er et du 3e alin\u00e9a de l'article 17 de la section 4 et de la section 2 \u00e0 l'exception des points V du 4-1 et II du 4-2 de l'article 4 ne sont pas applicables aux installations existantes. Dans le cadre d'un renouvellement d'une installation existante encadr\u00e9e par l'article R. 181-46 du code de l'environnement, des dispositions pr\u00e9cit\u00e9es deviennent applicables."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DISPOSITIONS_GENERALES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b2aAe2351D74",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CeB9FdC10B8f",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "06F826FFE12f",
+              "outer_alineas": [
+                {
+                  "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9 on entend par :"
+                },
+                {
+                  "text": "Point de raccordement : point de connexion de l'installation au r\u00e9seau \u00e9lectrique. Il peut s'agir entre autre d'un poste de livraison ou d'un poste de raccordement. Il constitue la limite entre le r\u00e9seau \u00e9lectrique interne et externe."
+                },
+                {
+                  "text": "Mise en service industrielle : phase d'exploitation suivant la p\u00e9riode d'essais."
+                },
+                {
+                  "text": "Survitesse : vitesse de rotation des parties tournantes (rotor constitu\u00e9 du moyeu et des pales ainsi que la ligne d'arbre jusqu'\u00e0 la g\u00e9n\u00e9ratrice) sup\u00e9rieure \u00e0 la valeur maximale indiqu\u00e9e par le constructeur."
+                },
+                {
+                  "text": "A\u00e9rog\u00e9n\u00e9rateur : dispositif m\u00e9canique destin\u00e9 \u00e0 convertir l'\u00e9nergie du vent en \u00e9lectricit\u00e9, compos\u00e9 des principaux \u00e9l\u00e9ments suivants : un m\u00e2t, une nacelle, le rotor auquel sont fix\u00e9es les pales, ainsi que, le cas \u00e9ch\u00e9ant un transformateur."
+                },
+                {
+                  "text": "Emergence : la diff\u00e9rence entre les niveaux de pression acoustiques pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l'absence du bruit g\u00e9n\u00e9r\u00e9 par l'installation)."
+                },
+                {
+                  "text": "Zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e :"
+                },
+                {
+                  "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers, existant \u00e0 la date de l'autorisation pour les installations nouvelles ou \u00e0 la date du permis de construire pour les installations existantes, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse) ;"
+                },
+                {
+                  "text": "- les zones constructibles d\u00e9finies par des documents d'urbanisme opposables aux tiers et publi\u00e9s \u00e0 la date de l'autorisation pour les installations nouvelles ou \u00e0 la date du permis de construire pour les installations existantes ;"
+                },
+                {
+                  "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers qui ont fait l'objet d'une demande de permis de construire, dans les zones constructibles d\u00e9finies ci-dessus, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse), \u00e0 l'exclusion de celles des immeubles implant\u00e9s dans les zones destin\u00e9es \u00e0 recevoir des activit\u00e9s artisanales ou industrielles, lorsque la demande de permis de construire a \u00e9t\u00e9 d\u00e9pos\u00e9e avant la mise en service industrielle de l'installation."
+                },
+                {
+                  "text": "P\u00e9rim\u00e8tre de mesure du bruit de l'installation : p\u00e9rim\u00e8tre correspondant au plus petit polygone convexe dans lequel sont inscrits les disques centr\u00e9s sur chaque a\u00e9rog\u00e9n\u00e9rateur et de rayon R d\u00e9fini comme suit :"
+                },
+                {
+                  "text": "R = 1,2 \u00d7 (hauteur de moyeu + longueur d'un demi-rotor)"
+                },
+                {
+                  "text": "Zones d'impact : au sens du pr\u00e9sent arr\u00eat\u00e9, les zones d'impact s'entendent \u00e0 l'int\u00e9rieur de la surface d\u00e9finie par les distances minimales d'\u00e9loignement pr\u00e9cis\u00e9es au tableau I de l'article 4 et pour lesquelles les mesures du radar m\u00e9t\u00e9orologique sont inexploitables du fait de l'impact cumul\u00e9 des a\u00e9rog\u00e9n\u00e9rateurs."
+                },
+                {
+                  "text": "Garantie financi\u00e8re initiale : garantie financi\u00e8re subordonnant la mise en service d'une installation de production d'\u00e9lectricit\u00e9 utilisant l'\u00e9nergie m\u00e9canique du vent en application du I de l'article R. 515-101 du code de l'environnement."
+                },
+                {
+                  "text": "Garantie financi\u00e8re actualis\u00e9e : mise \u00e0 jour de la garantie financi\u00e8re initiale d'une installation en exploitation selon une p\u00e9riodicit\u00e9 donn\u00e9e."
+                },
+                {
+                  "text": "Garantie financi\u00e8re r\u00e9actualis\u00e9e : garantie financi\u00e8re subordonnant la remise en service d'une installation \u00e0 la suite de son renouvellement port\u00e9 \u00e0 la connaissance du pr\u00e9fet en application du II de l'article R. 181-46 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2",
+              "sections": [],
+              "title": {
+                "text": "Art. 2.1."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dCEC9cEB1d5B",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f7F1686DA45c",
+                  "outer_alineas": [
+                    {
+                      "text": "Le p\u00e9titionnaire et l'exploitant sont tenus de d\u00e9clarer les donn\u00e9es techniques relatives \u00e0 l'installation, incluant l'ensemble des a\u00e9rog\u00e9n\u00e9rateurs. Les modalit\u00e9s de transmission et la nature des donn\u00e9es techniques \u00e0 d\u00e9clarer sont d\u00e9finies par avis au Bulletin officiel du minist\u00e8re de la transition \u00e9cologique et solidaire."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 2",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "FfFBD5eC4E0c",
+                  "outer_alineas": [
+                    {
+                      "text": "A compter de la date de publication de l'avis vis\u00e9 au point I du pr\u00e9sent article, la d\u00e9claration doit \u00eatre r\u00e9alis\u00e9e, et le cas \u00e9ch\u00e9ant mise \u00e0 jour dans un d\u00e9lai maximal de quinze jours apr\u00e8s chacune des \u00e9tapes suivantes :"
+                    },
+                    {
+                      "text": "- le d\u00e9p\u00f4t du dossier de demande d'autorisation environnementale pr\u00e9vue par l'article R. 181-12 du code de l'environnement ;"
+                    },
+                    {
+                      "text": "- le d\u00e9p\u00f4t d'un dossier au pr\u00e9fet en application du II de l'article R. 181-46 du code de l'environnement ;"
+                    },
+                    {
+                      "text": "- la d\u00e9claration d'ouverture du chantier de construction d'un ou plusieurs a\u00e9rog\u00e9n\u00e9rateurs ;"
+                    },
+                    {
+                      "text": "- la mise en service industrielle des a\u00e9rog\u00e9n\u00e9rateurs y compris, le cas \u00e9ch\u00e9ant, apr\u00e8s leur renouvellement ;"
+                    },
+                    {
+                      "text": "- le d\u00e9marrage du chantier de d\u00e9mant\u00e8lement d'un a\u00e9rog\u00e9n\u00e9rateur."
+                    },
+                    {
+                      "text": "Lorsque l'\u00e9tape correspondante a d\u00e9j\u00e0 \u00e9t\u00e9 r\u00e9alis\u00e9e \u00e0 la date de publication de l'avis vis\u00e9 au point I du pr\u00e9sent article, la d\u00e9claration est r\u00e9alis\u00e9e dans les six mois apr\u00e8s cette publication."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 2",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Art. 2.2."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A7A3C9d3fAf8",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "C91Ff31Ba90B",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les rapports, registres, manuels, consignes et justificatifs vis\u00e9s par le pr\u00e9sent arr\u00eat\u00e9, dans leur version fran\u00e7aise, le cas \u00e9ch\u00e9ant en version d\u00e9mat\u00e9rialis\u00e9e."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 2",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "3C8Ea432B7Ae",
+                  "outer_alineas": [
+                    {
+                      "text": "Par d\u00e9rogation au I, l'exploitant transmet \u00e0 l'inspection des installations class\u00e9es, dans leur version fran\u00e7aise, le cas \u00e9ch\u00e9ant en version d\u00e9mat\u00e9rialis\u00e9e :"
+                    },
+                    {
+                      "text": "- les rapports de suivi environnemental vis\u00e9 \u00e0 l'article 12, au plus tard 6 mois apr\u00e8s la derni\u00e8re campagne de prospection sur le terrain r\u00e9alis\u00e9e dans le cadre de ces suivis ;"
+                    },
+                    {
+                      "text": "- les rapports acoustiques r\u00e9dig\u00e9s \u00e0 la suite de la v\u00e9rification de la conformit\u00e9 de l'installation pr\u00e9vue par l'article 28, au plus tard 3 mois apr\u00e8s l'ach\u00e8vement de la campagne de mesures."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 2",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Art. 2.3."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 1 : G\u00e9n\u00e9ralit\u00e9s"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d9aaA94f9BAC",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-installation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2011-07-13",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1f5Dbcb36a8A",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ab26bB2be9Fa",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice de la distance minimale d'\u00e9loignement impos\u00e9e par les articles L. 515-44 et le cas \u00e9ch\u00e9ant L. 515-47 du code de l'environnement, l'installation est implant\u00e9e \u00e0 une distance minimale de 300 m\u00e8tres :"
+                },
+                {
+                  "text": "- d'une installation nucl\u00e9aire de base vis\u00e9e par l'article 28 de la loi n\u00b0 2006-686 du 13 juin 2006 relative \u00e0 la transparence et \u00e0 la s\u00e9curit\u00e9 en mati\u00e8re nucl\u00e9aire ;"
+                },
+                {
+                  "text": "- d'une installation class\u00e9e pour la protection de l'environnement relevant de l'article L. 515-32 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cB1adaFcb67a",
+              "outer_alineas": [
+                {
+                  "text": "Les distances d'\u00e9loignement sont mesur\u00e9es \u00e0 partir de la base du m\u00e2t de chaque a\u00e9rog\u00e9n\u00e9rateur de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 3"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ae54af9d049B",
+          "outer_alineas": [
+            {
+              "text": "L'installation est implant\u00e9e de fa\u00e7on \u00e0 ne pas perturber de mani\u00e8re significative le fonctionnement des radars utilis\u00e9s dans le cadre des missions de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens et de s\u00e9curit\u00e9 \u00e0 la navigation maritime et fluviale."
+            },
+            {
+              "text": "En outre, les perturbations g\u00e9n\u00e9r\u00e9es par l'installation ne remettent pas en cause de mani\u00e8re significative les capacit\u00e9s de fonctionnement des radars et des aides \u00e0 la navigation utilis\u00e9s dans le cadre des missions de s\u00e9curit\u00e9 \u00e0 la navigation a\u00e9rienne civile et les missions de s\u00e9curit\u00e9 militaire."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d8bEd5acac3d",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "02FfcA4F91a5",
+                  "outer_alineas": [
+                    {
+                      "text": "Afin de satisfaire au premier alin\u00e9a du pr\u00e9sent article, pour les aspects de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens, les distances minimales d'\u00e9loignement pr\u00e9vues par le point  12\u00b0 d de l'article D. 181-15-2 du code de l'environnement sont fix\u00e9es dans le tableau I."
+                    },
+                    {
+                      "text": "TABLEAU I"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Distance minimale d'\u00e9loignement en kilom\u00e8tres"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence C"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "20"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence S"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "30"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence X"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "10"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "daB7Dfe5c514",
+                  "outer_alineas": [
+                    {
+                      "text": "L'\u00e9tude des impacts cumul\u00e9s, pr\u00e9vue par le point 12\u00b0 d de l'article D. 181-15-2 du code de l'environnement, justifie du respect :"
+                    },
+                    {
+                      "text": "-d'une longueur maximale de 10 km de chaque zone d'impact associ\u00e9e au projet ;"
+                    },
+                    {
+                      "text": "-d'une inter-distance minimale de 10 km entre les diff\u00e9rentes zones d'impacts ;"
+                    },
+                    {
+                      "text": "-d'une occultation maximale, \u00e0 tout moment, de 10 % de la surface du faisceau radar par un ou plusieurs a\u00e9rog\u00e9n\u00e9rateurs ;"
+                    },
+                    {
+                      "text": "-d'une inter-distance minimale de 10 km entre chaque zone d'impact et les sites sensibles constitu\u00e9s des installations nucl\u00e9aires de base et des installations mentionn\u00e9es \u00e0 l' article L. 515-8 du code de l'environnement jusqu'au 31 mai 2015 ou \u00e0 l' article L. 515-36 du code de l'environnement \u00e0 partir du 1er juin 2015."
+                    },
+                    {
+                      "text": "L'\u00e9tude des impacts cumul\u00e9s peut \u00eatre r\u00e9alis\u00e9e selon une m\u00e9thode reconnue par d\u00e9cision du ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement dans les conditions d\u00e9finies au III du pr\u00e9sent article. A d\u00e9faut, le pr\u00e9fet consulte pour avis l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens dans le cadre de la proc\u00e9dure de consultation pr\u00e9vue par l' article D. 181-17-1 du code de l'environnement ."
+                    },
+                    {
+                      "text": "Pour les d\u00e9partements d'outre-mer et dans le cadre de la mise en \u0153uvre d'une m\u00e9thode reconnue par le ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement, les crit\u00e8res fix\u00e9s au premier alin\u00e9a du point II du pr\u00e9sent article peuvent faire l'objet d'un am\u00e9nagement sp\u00e9cifique au d\u00e9partement concern\u00e9 par d\u00e9cision du ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement sur la base de l'avis consultatif de l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens qu'il aura consult\u00e9, avis r\u00e9put\u00e9 favorable en l'absence de r\u00e9ponse dans les deux mois."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "BF3C3cEaF4Cc",
+                  "outer_alineas": [
+                    {
+                      "text": "La reconnaissance d'une m\u00e9thode de mod\u00e9lisation des perturbations g\u00e9n\u00e9r\u00e9es par les a\u00e9rog\u00e9n\u00e9rateurs sur les radars m\u00e9t\u00e9orologiques, pr\u00e9vue au point II du pr\u00e9sent article, ainsi que des organismes comp\u00e9tents pour la mettre en \u0153uvre est conditionn\u00e9e par la fourniture au ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement :"
+                    },
+                    {
+                      "text": "-d'une pr\u00e9sentation de la m\u00e9thode de mod\u00e9lisation ;"
+                    },
+                    {
+                      "text": "-d'une justification de la comp\u00e9tence du ou des organismes charg\u00e9s de mettre en \u0153uvre cette m\u00e9thode de mod\u00e9lisation ;"
+                    },
+                    {
+                      "text": "-de la comparaison entre les perturbations r\u00e9ellement observ\u00e9es et les r\u00e9sultats issus de la mod\u00e9lisation effectu\u00e9e sur la base d'un ou de plusieurs parcs \u00e9oliens implant\u00e9s dans les distances d'\u00e9loignements d'un radar m\u00e9t\u00e9orologique telles que d\u00e9finies dans le tableau I. Le choix de ces parcs fait l'objet d'un accord pr\u00e9alable du ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement apr\u00e8s consultation par ce dernier de l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens."
+                    },
+                    {
+                      "text": "Sur la base des \u00e9l\u00e9ments fournis, le ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement consulte l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens."
+                    },
+                    {
+                      "text": "La reconnaissance d'une m\u00e9thode de mod\u00e9lisation et des organismes comp\u00e9tents pour la mettre en \u0153uvre fait l'objet d'une d\u00e9cision du ministre charg\u00e9 des installations class\u00e9es pour la protection de l'environnement."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "III."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "c87cCa86cc8B",
+                  "outer_alineas": [
+                    {
+                      "text": "En application du  point 4 de l'article R. 181-32 du code de l'environnement , l'avis conforme de l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 m\u00e9t\u00e9orologique des personnes et des biens est requis lorsque l'implantation d'un a\u00e9rog\u00e9n\u00e9rateur est inf\u00e9rieure aux distances de protection fix\u00e9es dans le tableau II. Le cas \u00e9ch\u00e9ant, cet \u00e9tablissement public demande des compl\u00e9ments \u00e0 l'\u00e9tude des impacts cumul\u00e9s pr\u00e9vue par le point II du pr\u00e9sent article."
+                    },
+                    {
+                      "text": "TABLEAU II"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Distance de protection en kilom\u00e8tres"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence C"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "5"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence S"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "10"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de bande de fr\u00e9quence X"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "4"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "IV."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Fb6A3e90932E",
+                  "outer_alineas": [
+                    {
+                      "text": "Dans le cas d'un projet de renouvellement, autre qu'un renouvellement \u00e0 l'identique, d'une installation qui ne respecte pas les seuils d'un ou plusieurs crit\u00e8res d'impacts cumul\u00e9s fix\u00e9s au point II du pr\u00e9sent article, la modification des a\u00e9rog\u00e9n\u00e9rateurs n'augmente pas les risques de perturbations des radars m\u00e9t\u00e9orologiques sur ce ou ces crit\u00e8res. A cette fin, les \u00e9l\u00e9ments port\u00e9s \u00e0 la connaissance du pr\u00e9fet en application de l' article R. 181-46 du code de l'environnement contiennent une \u00e9tude comparant les impacts cumul\u00e9s avant et apr\u00e8s modification."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "V."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Art. 4-1."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2cE82a3C50e1",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "3E76E86B7cc8",
+                  "outer_alineas": [
+                    {
+                      "text": "Afin de satisfaire au premier alin\u00e9a du pr\u00e9sent article, pour les aspects de la s\u00e9curit\u00e9 de la navigation maritime et fluviale, les a\u00e9rog\u00e9n\u00e9rateurs sont implant\u00e9s dans le respect des distances minimales d'\u00e9loignement indiqu\u00e9es dans le tableau III ci-dessous sauf si l'exploitant dispose de l'accord \u00e9crit de de l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 de la navigation maritime et fluviale."
+                    },
+                    {
+                      "text": "TABLEAU III"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Distance minimale d'\u00e9loignement en kilom\u00e8tres"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar portuaire"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "20"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Radar de centre r\u00e9gional de surveillance et de sauvetage"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "10"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "EFaf1c41ceCc",
+                  "outer_alineas": [
+                    {
+                      "text": "Dans le cas d'un projet de renouvellement, autre qu'un renouvellement \u00e0 l'identique d'une installation ne respectant pas les distances minimales d'\u00e9loignement fix\u00e9es dans le tableau III, la modification des a\u00e9rog\u00e9n\u00e9rateurs n'augmente pas les risques de perturbations des radars portuaires et de centre r\u00e9gional de surveillance et de sauvetage. A cette fin, l'exploitant dispose de l'accord \u00e9crit de l'\u00e9tablissement public charg\u00e9 des missions de l'Etat en mati\u00e8re de s\u00e9curit\u00e9 de la navigation maritime et fluviale."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 4",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Art. 4-2."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b623eF64EdB1",
+              "outer_alineas": [
+                {
+                  "text": "Les r\u00e8gles applicables aux avis conformes du ministre charg\u00e9 de l'aviation civile sont fix\u00e9es par arr\u00eat\u00e9 pris pour l'application de l'article R. 181-32."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [],
+              "title": {
+                "text": "Art. 4-3."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 4"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "411Cd05d7e00",
+          "outer_alineas": [
+            {
+              "text": "Afin de limiter l'impact sanitaire li\u00e9 aux effets stroboscopiques, lorsqu'un a\u00e9rog\u00e9n\u00e9rateur est implant\u00e9 \u00e0 moins de 250 m\u00e8tres d'un b\u00e2timent \u00e0 usage de bureaux, l'exploitant r\u00e9alise une \u00e9tude d\u00e9montrant que l'ombre projet\u00e9e de l'a\u00e9rog\u00e9n\u00e9rateur n'impacte pas plus de trente heures par an et une demi-heure par jour le b\u00e2timent."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bB3caD004Cc2",
+          "outer_alineas": [
+            {
+              "text": "L'installation est implant\u00e9e de telle sorte que les habitations ne sont pas expos\u00e9es \u00e0 un champ magn\u00e9tique \u00e9manant des a\u00e9rog\u00e9n\u00e9rateurs sup\u00e9rieur \u00e0 100 microteslas \u00e0 50-60 Hz."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 2 : Implantation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "9f24D9209FcE",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-installation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2011-07-13",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "217BCFeEFbAa",
+          "outer_alineas": [
+            {
+              "text": "Le site dispose en permanence d'une voie d'acc\u00e8s carrossable au moins pour permettre l'intervention des services d'incendie et de secours."
+            },
+            {
+              "text": "Cet acc\u00e8s est entretenu."
+            },
+            {
+              "text": "Les abords de l'installation plac\u00e9s sous le contr\u00f4le de l'exploitant sont maintenus en bon \u00e9tat de propret\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [],
+          "title": {
+            "text": "Article 7"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c54aeeEE1141",
+          "outer_alineas": [
+            {
+              "text": "L'a\u00e9rog\u00e9n\u00e9rateur est con\u00e7u pour garantir le maintien de son int\u00e9grit\u00e9 technique au cours de sa dur\u00e9e de vie. Le respect de la norme NF EN 61 400-1 ou IEC 61 400-1, dans leur version en vigueur \u00e0 la date de d\u00e9p\u00f4t du dossier de demande d'autorisation environnementale pr\u00e9vu par l'article L. 181-8 du code de l'environnement, ou toute norme \u00e9quivalente en vigueur dans l'Union europ\u00e9enne \u00e0 l'exception des dispositions contraires aux prescriptions du pr\u00e9sent arr\u00eat\u00e9, permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "Un rapport de contr\u00f4le d'un organisme comp\u00e9tent atteste de la conformit\u00e9 de chaque a\u00e9rog\u00e9n\u00e9rateur de l'installation avant leur mise en service industrielle."
+            },
+            {
+              "text": "En outre l'exploitant dispose des justificatifs d\u00e9montrant que chaque a\u00e9rog\u00e9n\u00e9rateur de l'installation est conforme aux dispositions de l'article R. 111-38 du code de la construction et de l'habitation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7f4aae0BA7Eb",
+          "outer_alineas": [
+            {
+              "text": "L'installation est mise \u00e0 la terre pour pr\u00e9venir les cons\u00e9quences du risque foudre. Le respect de la norme IEC 61 400-24, dans sa version en vigueur \u00e0 la date de d\u00e9p\u00f4t du dossier de demande d'autorisation environnementale pr\u00e9vu par l'article L. 181-8 du code de l'environnement, permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "Un rapport de contr\u00f4le d'un organisme comp\u00e9tent atteste de la mise \u00e0 la terre de l'installation avant sa mise en service industrielle."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1a659DdE3cfF",
+          "outer_alineas": [
+            {
+              "text": "L'installation est con\u00e7ue pour pr\u00e9venir les risques \u00e9lectriques."
+            },
+            {
+              "text": "Pour satisfaire au 1er alin\u00e9a :"
+            },
+            {
+              "text": "- les installations \u00e9lectriques \u00e0 l'int\u00e9rieur de l'a\u00e9rog\u00e9n\u00e9rateur respectent les dispositions de la directive du 17 mai 2006 susvis\u00e9e qui leur sont applicables ;"
+            },
+            {
+              "text": "- pour les installations \u00e9lectriques ext\u00e9rieures \u00e0 l'a\u00e9rog\u00e9n\u00e9rateur, le respect des normes NF C 15-100, NF C 13-100 et NF C 13-200, dans leur version en vigueur \u00e0 la date de d\u00e9p\u00f4t du dossier de demande d'autorisation environnementale pr\u00e9vu par l'article L. 181-8 du code de l'environnement, permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "Un rapport de contr\u00f4le d'un organisme comp\u00e9tent atteste de la conformit\u00e9 de l'installation pour pr\u00e9venir les risques \u00e9lectriques, avant sa mise en service industrielle."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c8Ae0eCb2fce",
+          "outer_alineas": [
+            {
+              "text": "Le balisage de l'installation est conforme aux dispositions prises en application des articles L. 6351-6 et L. 6352-1 du code des transports et des articles R. 243-1 et R. 244-1 du code de l'aviation civile."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 3 : Dispositions constructives"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "30EcBFBFdfA8",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "45C8bFEdFfCF",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant met en place un suivi environnemental permettant notamment d'estimer la mortalit\u00e9 de l'avifaune et des chiropt\u00e8res due \u00e0 la pr\u00e9sence des a\u00e9rog\u00e9n\u00e9rateurs. Sauf cas particulier justifi\u00e9 et faisant l'objet d'un accord du Pr\u00e9fet, ce suivi doit d\u00e9buter dans les 12 mois qui suivent la mise en service industrielle de l'installation afin d'assurer un suivi sur un cycle biologique complet et continu adapt\u00e9 aux enjeux avifaune et chiropt\u00e8res susceptibles d'\u00eatre pr\u00e9sents. Dans le cas d'une d\u00e9rogation accord\u00e9e par le Pr\u00e9fet, le suivi doit d\u00e9buter au plus tard dans les 24 mois qui suivent la mise en service industrielle de l'installation."
+            },
+            {
+              "text": "Ce suivi est renouvel\u00e9 dans les 12 mois si le pr\u00e9c\u00e9dent suivi a mis en \u00e9vidence un impact significatif et qu'il est n\u00e9cessaire de v\u00e9rifier l'efficacit\u00e9 des mesures correctives. A minima, le suivi est renouvel\u00e9 tous les 10 ans d'exploitation de l'installation."
+            },
+            {
+              "text": "Le suivi mis en place par l'exploitant est conforme au protocole de suivi environnemental reconnu par le ministre charg\u00e9 des installations class\u00e9es."
+            },
+            {
+              "text": "Les donn\u00e9es brutes collect\u00e9es dans le cadre du suivi environnemental sont vers\u00e9es, par l'exploitant ou toute personne qu'il aura mandat\u00e9e \u00e0 cette fin, dans l'outil de t\u00e9l\u00e9-service de \u201cd\u00e9p\u00f4t l\u00e9gal de donn\u00e9es de biodiversit\u00e9\u201d cr\u00e9\u00e9 en application de l'arr\u00eat\u00e9 du 17 mai 2018. Le versement de donn\u00e9es est effectu\u00e9 concomitamment \u00e0 la transmission de chaque rapport de suivi environnemental \u00e0 l'inspection des installations class\u00e9es impos\u00e9e au II de l'article 2.3. Lorsque ces donn\u00e9es sont ant\u00e9rieures \u00e0 la date de mise en ligne de l'outil de t\u00e9l\u00e9-service, elles doivent \u00eatre vers\u00e9es dans un d\u00e9lai de 6 mois \u00e0 compter de la date de mise en ligne de cet outil."
+            },
+            {
+              "text": "Dans le cas d'un projet de renouvellement d'une installation existante, autre qu'un renouvellement \u00e0 l'identique ou une extension au sens de l'article R. 181-46-I du code de l'environnement, l'exploitant met en place un suivi environnemental, permettant d'atteindre les objectifs vis\u00e9s au 1er alin\u00e9a du pr\u00e9sent article, dans les 3 ans qui pr\u00e9c\u00e8dent le d\u00e9p\u00f4t du porter \u00e0 connaissance au pr\u00e9fet pr\u00e9vu par l'article R. 181-46 du code de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CCbb87eBE5bf",
+          "outer_alineas": [
+            {
+              "text": "Les personnes \u00e9trang\u00e8res \u00e0 l'installation n'ont pas d'acc\u00e8s libre \u00e0 l'int\u00e9rieur des a\u00e9rog\u00e9n\u00e9rateurs."
+            },
+            {
+              "text": "Les acc\u00e8s \u00e0 l'int\u00e9rieur de chaque a\u00e9rog\u00e9n\u00e9rateur, du poste de transformation, de raccordement ou de livraison sont maintenus ferm\u00e9s \u00e0 clef afin d'emp\u00eacher les personnes non autoris\u00e9es d'acc\u00e9der aux \u00e9quipements."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 13",
+          "sections": [],
+          "title": {
+            "text": "Article 13"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2eeEeE91e73d",
+          "outer_alineas": [
+            {
+              "text": "Chaque a\u00e9rog\u00e9n\u00e9rateur est identifi\u00e9 par un num\u00e9ro, affich\u00e9 en caract\u00e8res lisibles sur son m\u00e2t. Le num\u00e9ro est identique \u00e0 celui g\u00e9n\u00e9r\u00e9 \u00e0 l'issue de la d\u00e9claration pr\u00e9vue \u00e0 l'article 2.2."
+            },
+            {
+              "text": "Les prescriptions \u00e0 observer par les tiers sont affich\u00e9es soit en caract\u00e8res lisibles soit au moyen de pictogrammes sur des panneaux positionn\u00e9s sur le chemin d'acc\u00e8s de chaque a\u00e9rog\u00e9n\u00e9rateur, sur le poste de livraison et, le cas \u00e9ch\u00e9ant, sur le poste de raccordement. Elles concernent notamment :"
+            },
+            {
+              "text": "- les consignes de s\u00e9curit\u00e9 \u00e0 suivre en cas de situation anormale ;"
+            },
+            {
+              "text": "- l'interdiction de p\u00e9n\u00e9trer dans l'a\u00e9rog\u00e9n\u00e9rateur ;"
+            },
+            {
+              "text": "- la mise en garde face aux risques d'\u00e9lectrocution ;"
+            },
+            {
+              "text": "- la mise en garde, le cas \u00e9ch\u00e9ant, face au risque de chute de glace."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14",
+          "sections": [],
+          "title": {
+            "text": "Article 14"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "aeD6AACCBEAb",
+          "outer_alineas": [
+            {
+              "text": "Le fonctionnement de l'installation est assur\u00e9 par un personnel comp\u00e9tent disposant d'une formation portant sur les risques accidentels vis\u00e9s \u00e0 la section 5 du pr\u00e9sent arr\u00eat\u00e9, ainsi que sur les moyens mis en \u0153uvre pour les \u00e9viter. Il conna\u00eet les proc\u00e9dures \u00e0 suivre en cas d'urgence et proc\u00e8de \u00e0 des exercices d'entra\u00eenement, le cas \u00e9ch\u00e9ant, en lien avec les services de secours."
+            },
+            {
+              "text": "La r\u00e9alisation des exercices d'entrainement, les conditions de r\u00e9alisations de ceux-ci, et le cas \u00e9ch\u00e9ant les accidents/incidents survenus dans l'installation, sont consign\u00e9s dans un registre. Le registre contient \u00e9galement l'analyse de retour d'exp\u00e9rience r\u00e9alis\u00e9e par l'exploitant et les mesures correctives mises en place."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 15",
+          "sections": [],
+          "title": {
+            "text": "Article 15"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "02A9eDcAE64F",
+          "outer_alineas": [
+            {
+              "text": "L'int\u00e9rieur de l'a\u00e9rog\u00e9n\u00e9rateur est maintenu propre. L'entreposage \u00e0 l'int\u00e9rieur de l'a\u00e9rog\u00e9n\u00e9rateur de mat\u00e9riaux combustibles ou inflammables est interdit."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 16",
+          "sections": [],
+          "title": {
+            "text": "Article 16"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "607B9cFbae61",
+          "outer_alineas": [
+            {
+              "text": "Avant la mise en service industrielle d'un a\u00e9rog\u00e9n\u00e9rateur, l'exploitant r\u00e9alise des essais permettant de s'assurer du bon fonctionnement de l'ensemble des \u00e9quipements mobilis\u00e9s pour mettre l'a\u00e9rog\u00e9n\u00e9rateur en s\u00e9curit\u00e9. Ces essais comprennent :"
+            },
+            {
+              "text": "- un arr\u00eat ;"
+            },
+            {
+              "text": "- un arr\u00eat d'urgence ;"
+            },
+            {
+              "text": "- un arr\u00eat depuis un r\u00e9gime de survitesse ou depuis une simulation de ce r\u00e9gime."
+            },
+            {
+              "text": "Suivant une p\u00e9riodicit\u00e9 qui ne peut exc\u00e9der 1 an, l'exploitant r\u00e9alise des tests pour v\u00e9rifier l'\u00e9tat fonctionnel des \u00e9quipements de mise \u00e0 l'arr\u00eat, de mise \u00e0 l'arr\u00eat d'urgence et de mise \u00e0 l'arr\u00eat depuis un r\u00e9gime de survitesse en application des pr\u00e9conisations du constructeur de l'a\u00e9rog\u00e9n\u00e9rateur. Les r\u00e9sultats de ces tests sont consign\u00e9s dans le registre de maintenance vis\u00e9 \u00e0 l'article 19."
+            },
+            {
+              "text": "Avant la mise en service industrielle des a\u00e9rog\u00e9n\u00e9rateurs et des \u00e9quipements connexes, les installations \u00e9lectriques vis\u00e9es \u00e0 l'article 10 sont contr\u00f4l\u00e9es par une personne comp\u00e9tente."
+            },
+            {
+              "text": "Par ailleurs elles sont entretenues, elles sont maintenues en bon \u00e9tat et elles sont contr\u00f4l\u00e9es \u00e0 fr\u00e9quence annuelle apr\u00e8s leur installation ou leur modification. L'objet et l'\u00e9tendue des v\u00e9rifications des installations \u00e9lectriques ainsi que le contenu des rapports de contr\u00f4le sont fix\u00e9s par l'arr\u00eat\u00e9 du 10 octobre 2000 susvis\u00e9. Les rapports de contr\u00f4le des installations \u00e9lectriques sont annex\u00e9s au registre de maintenance vis\u00e9 \u00e0 l'article 19."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 17",
+          "sections": [],
+          "title": {
+            "text": "Article 17"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "47ecCdF6d6aD",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 18",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "001f1c9edFE3",
+              "outer_alineas": [
+                {
+                  "text": "Trois mois, puis un an apr\u00e8s leur mise en service industrielle, puis suivant une p\u00e9riodicit\u00e9 qui ne peut exc\u00e9der trois ans, l'exploitant proc\u00e8de \u00e0 un contr\u00f4le des brides de fixations, des brides de m\u00e2t, de la fixation des pales et un contr\u00f4le visuel du m\u00e2t de chaque a\u00e9rog\u00e9n\u00e9rateur. Le contr\u00f4le de l'ensemble des brides et des fixations de chaque a\u00e9rog\u00e9n\u00e9rateur peut \u00eatre liss\u00e9 sur trois ans tant que chaque bride respecte la p\u00e9riodicit\u00e9 de trois ans."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Dc662445aE1e",
+              "outer_alineas": [
+                {
+                  "text": "Selon une p\u00e9riodicit\u00e9 d\u00e9finie en fonction des conditions m\u00e9t\u00e9orologiques et qui ne peut exc\u00e9der 6 mois, l'exploitant proc\u00e8de \u00e0 un contr\u00f4le visuel des pales et des \u00e9l\u00e9ments susceptibles d'\u00eatre endommag\u00e9s, notamment par des impacts de foudre, au regard des limites de s\u00e9curit\u00e9 de fonctionnement et d'arr\u00eat sp\u00e9cifi\u00e9es dans les consignes \u00e9tablies en application de l'article 22 du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "CaD97E9F8D22",
+              "outer_alineas": [
+                {
+                  "text": "L'installation est \u00e9quip\u00e9e de syst\u00e8mes instrument\u00e9s de s\u00e9curit\u00e9, de d\u00e9tecteurs et de syst\u00e8mes de d\u00e9tection destin\u00e9s \u00e0 identifier tout fonctionnement anormal de l'installation, notamment en cas d'incendie, de perte d'int\u00e9grit\u00e9 d'un a\u00e9rog\u00e9n\u00e9rateur ou d'entr\u00e9e en survitesse."
+                },
+                {
+                  "text": "L'exploitant tient \u00e0 jour la liste de ces \u00e9quipements de s\u00e9curit\u00e9, pr\u00e9cisant leurs fonctionnalit\u00e9s, leurs fr\u00e9quences de tests et les op\u00e9rations de maintenance destin\u00e9es \u00e0 garantir leur efficacit\u00e9 dans le temps."
+                },
+                {
+                  "text": "Selon une fr\u00e9quence qui ne peut exc\u00e9der un an, l'exploitant proc\u00e8de au contr\u00f4le de ces \u00e9quipements de s\u00e9curit\u00e9 afin de s'assurer de leur bon fonctionnent."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8100BF5b6DFC",
+              "outer_alineas": [
+                {
+                  "text": "La liste des \u00e9quipements de s\u00e9curit\u00e9 ainsi que les r\u00e9sultats de l'ensemble des contr\u00f4les pr\u00e9vus par le pr\u00e9sent article sont consign\u00e9s dans le registre de maintenance vis\u00e9 \u00e0 l'article 19."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "IV."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 18"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B6Ea38DA391F",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant dispose d'un manuel d'entretien de l'installation dans lequel sont pr\u00e9cis\u00e9es la nature et les fr\u00e9quences des op\u00e9rations de maintenance qui doivent \u00eatre effectu\u00e9es afin d'assurer le bon fonctionnement de l'installation, ainsi que les modalit\u00e9s de r\u00e9alisation des tests et des contr\u00f4les de s\u00e9curit\u00e9, notamment ceux vis\u00e9s par le pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "L'exploitant tient \u00e0 jour, pour son installation, un registre dans lequel sont consign\u00e9es les op\u00e9rations de maintenance qui ont \u00e9t\u00e9 effectu\u00e9es, leur nature, les d\u00e9faillances constat\u00e9es et les op\u00e9rations pr\u00e9ventives et correctives engag\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 19",
+          "sections": [],
+          "title": {
+            "text": "Article 19"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cEc7457D8f4A",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant \u00e9limine ou fait \u00e9liminer les d\u00e9chets produits dans des conditions propres \u00e0 garantir les int\u00e9r\u00eats mentionn\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilis\u00e9es pour cette \u00e9limination sont r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 cet effet."
+            },
+            {
+              "text": "Le br\u00fblage des d\u00e9chets \u00e0 l'air libre est interdit."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 20",
+          "sections": [],
+          "title": {
+            "text": "Article 20"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6Fa82047dAa3",
+          "outer_alineas": [
+            {
+              "text": "Les d\u00e9chets non dangereux (d\u00e9finis \u00e0 l'article R. 541-8 du code de l'environnement) et non souill\u00e9s par des produits toxiques ou polluants sont r\u00e9cup\u00e9r\u00e9s, valoris\u00e9s ou \u00e9limin\u00e9s dans des installations autoris\u00e9es."
+            },
+            {
+              "text": "Les seuls modes d'\u00e9limination autoris\u00e9s pour les d\u00e9chets d'emballage sont la valorisation par r\u00e9emploi, recyclage ou toute autre action visant \u00e0 obtenir des mat\u00e9riaux utilisables ou de l'\u00e9nergie. Cette disposition n'est pas applicable aux d\u00e9tenteurs de d\u00e9chets d'emballage qui en produisent un volume hebdomadaire inf\u00e9rieur \u00e0 1 100 litres et qui les remettent au service de collecte et de traitement des collectivit\u00e9s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "Article 21"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 4 : Exploitation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "D512DE1036ec",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "dbd3a927d6Ec",
+          "outer_alineas": [
+            {
+              "text": "Des consignes de s\u00e9curit\u00e9 sont \u00e9tablies et port\u00e9es \u00e0 la connaissance du personnel en charge de l'exploitation et de la maintenance. Ces consignes indiquent :"
+            },
+            {
+              "text": "- les proc\u00e9dures d'arr\u00eat d'urgence et de mise en s\u00e9curit\u00e9 de l'installation ;"
+            },
+            {
+              "text": "- les limites de s\u00e9curit\u00e9 de fonctionnement et d'arr\u00eat (notamment pour les d\u00e9fauts de structures des pales et du m\u00e2t, pour les limites de fonctionnement des dispositifs de secours notamment les batteries, pour les d\u00e9fauts de serrages des brides) ;"
+            },
+            {
+              "text": "- les pr\u00e9cautions \u00e0 prendre avec l'emploi et le stockage de produits incompatibles ;"
+            },
+            {
+              "text": "- les proc\u00e9dures d'alertes avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d'intervention de l'\u00e9tablissement, des services d'incendie et de secours ;"
+            },
+            {
+              "text": "- le cas \u00e9ch\u00e9ant, les informations \u00e0 transmettre aux services de secours externes (proc\u00e9dures \u00e0 suivre par les personnels afin d'assurer l'acc\u00e8s \u00e0 l'installation aux services d'incendie et de secours et de faciliter leur intervention)."
+            },
+            {
+              "text": "Les consignes de s\u00e9curit\u00e9 indiquent \u00e9galement les mesures \u00e0 mettre en \u0153uvre afin de maintenir les installations en s\u00e9curit\u00e9 dans les situations suivantes : survitesse, conditions de gel, orages, tremblements de terre, haubans rompus ou rel\u00e2ch\u00e9s, d\u00e9faillance des freins, balourd du rotor, fixations d\u00e9tendues, d\u00e9fauts de lubrification, temp\u00eates de sables, incendie ou inondation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2011-07-13",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 22",
+          "sections": [],
+          "title": {
+            "text": "Article 22"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "B15F29EB1cC3",
+          "outer_alineas": [
+            {
+              "text": "En cas de d\u00e9tection d'un fonctionnement anormal notamment en cas d'incendie ou d'entr\u00e9e en survitesse d'un a\u00e9rog\u00e9n\u00e9rateur, l'exploitant ou une personne qu'il aura d\u00e9sign\u00e9 et form\u00e9 est en mesure :"
+            },
+            {
+              "text": "- de mettre en \u0153uvre les proc\u00e9dures d'arr\u00eat d'urgence mentionn\u00e9es \u00e0 l'article 22 dans un d\u00e9lai maximal de 60 minutes suivant l'entr\u00e9e en fonctionnement anormal de l'a\u00e9rog\u00e9n\u00e9rateur ;"
+            },
+            {
+              "text": "- de transmettre l'alerte aux services d'urgence comp\u00e9tents dans un d\u00e9lai de 15 minutes suivant l'entr\u00e9e en fonctionnement anormal de l'a\u00e9rog\u00e9n\u00e9rateur."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2011-07-13",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 23",
+          "sections": [],
+          "title": {
+            "text": "Article 23"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "16C7CFc7FAAA",
+          "outer_alineas": [
+            {
+              "text": "Chaque a\u00e9rog\u00e9n\u00e9rateur est dot\u00e9 de moyens de lutte et de pr\u00e9vention contre les cons\u00e9quences d'un incendie appropri\u00e9s aux risques et conformes aux normes en vigueur, compos\u00e9 a minima de deux extincteurs plac\u00e9s \u00e0 l'int\u00e9rieur de l'a\u00e9rog\u00e9n\u00e9rateur, au sommet et au pied de celui-ci. Ils sont positionn\u00e9s de fa\u00e7on bien visible et facilement accessibles. Les agents d'extinction sont appropri\u00e9s aux risques \u00e0 combattre. Cette disposition ne s'applique pas aux a\u00e9rog\u00e9n\u00e9rateurs ne disposant pas d'acc\u00e8s \u00e0 l'int\u00e9rieur du m\u00e2t."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2011-07-13",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 24",
+          "sections": [],
+          "title": {
+            "text": "Article 24"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "04Cbf2A90DB9",
+          "outer_alineas": [
+            {
+              "text": "Chaque a\u00e9rog\u00e9n\u00e9rateur est \u00e9quip\u00e9 d'un syst\u00e8me permettant de d\u00e9tecter ou de d\u00e9duire la formation de glace sur les pales de l'a\u00e9rog\u00e9n\u00e9rateur. En cas de formation importante de glace, l'a\u00e9rog\u00e9n\u00e9rateur est mis \u00e0 l'arr\u00eat dans un d\u00e9lai maximal de 60 minutes. L'exploitant d\u00e9finit une proc\u00e9dure de red\u00e9marrage de l'a\u00e9rog\u00e9n\u00e9rateur en cas d'arr\u00eat automatique li\u00e9 \u00e0 la pr\u00e9sence de glace sur les pales permettant de pr\u00e9venir la projection de glace. Cette proc\u00e9dure figure parmi les consignes de s\u00e9curit\u00e9 mentionn\u00e9es \u00e0 l'article 22."
+            },
+            {
+              "text": "Lorsqu'un r\u00e9f\u00e9rentiel technique permettant de d\u00e9terminer l'importance de glace form\u00e9e n\u00e9cessitant l'arr\u00eat de l'a\u00e9rog\u00e9n\u00e9rateur est reconnu par le ministre des installations class\u00e9es, l'exploitant respecte les r\u00e8gles pr\u00e9vues par ce r\u00e9f\u00e9rentiel."
+            },
+            {
+              "text": "Cet article n'est pas applicable aux installations pour lesquelles l'exploitant d\u00e9montre, notamment sur la base de donn\u00e9es m\u00e9t\u00e9orologiques ou de caract\u00e9ristiques techniques des a\u00e9rog\u00e9n\u00e9rateurs, que l'installation n'est pas susceptible de g\u00e9n\u00e9rer un risque de projection de glace."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 25",
+          "sections": [],
+          "title": {
+            "text": "Article 25"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 5 : Risques"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "BRUIT_VIBRATIONS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "A34c08555f7d",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "74A54e7A5d99",
+          "outer_alineas": [
+            {
+              "text": "L'installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l'origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage."
+            },
+            {
+              "text": "Les \u00e9missions sonores \u00e9mises par l'installation ne sont pas \u00e0 l'origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d'une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "NIVEAU DE BRUIT AMBIANT EXISTANT\ndans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e\nincluant le bruit de l'installation"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\u00c9MERGENCE ADMISSIBLE POUR LA P\u00c9RIODE\nallant de 7 heures \u00e0 22 heures"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 0,
+                        "content": {
+                          "text": "\u00c9MERGENCE ADMISSIBLE POUR LA P\u00c9RIODE\nallant de 22 heures \u00e0 7 heures"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Sup \u00e0 35 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "5 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "3 dB (A)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "Les valeurs d'\u00e9mergence mentionn\u00e9es ci-dessus peuvent \u00eatre augment\u00e9es d'un terme correctif en dB (A), fonction de la dur\u00e9e cumul\u00e9e d'apparition du bruit de l'installation \u00e9gal \u00e0 :"
+            },
+            {
+              "text": "Trois pour une dur\u00e9e sup\u00e9rieure \u00e0 vingt minutes et inf\u00e9rieure ou \u00e9gale \u00e0 deux heures ;"
+            },
+            {
+              "text": "Deux pour une dur\u00e9e sup\u00e9rieure \u00e0 deux heures et inf\u00e9rieure ou \u00e9gale \u00e0 quatre heures ;"
+            },
+            {
+              "text": "Un pour une dur\u00e9e sup\u00e9rieure \u00e0 quatre heures et inf\u00e9rieure ou \u00e9gale \u00e0 huit heures ;"
+            },
+            {
+              "text": "Z\u00e9ro pour une dur\u00e9e sup\u00e9rieure \u00e0 huit heures."
+            },
+            {
+              "text": "En outre, le niveau de bruit maximal est fix\u00e9 \u00e0 70 dB (A) pour la p\u00e9riode jour et de 60 dB (A) pour la p\u00e9riode nuit. Ce niveau de bruit est mesur\u00e9 en n'importe quel point du p\u00e9rim\u00e8tre de mesure du bruit d\u00e9fini \u00e0 l'article 2. Lorsqu'une zone \u00e0 \u00e9mergence r\u00e9glement\u00e9e se situe \u00e0 l'int\u00e9rieur du p\u00e9rim\u00e8tre de mesure du bruit, le niveau de bruit maximal est alors contr\u00f4l\u00e9 pour chaque a\u00e9rog\u00e9n\u00e9rateur de l'installation \u00e0 la distance R d\u00e9finie \u00e0 l'article 2. Cette disposition n'est pas applicable si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+            },
+            {
+              "text": "Dans le cas o\u00f9 le bruit particulier de l'\u00e9tablissement est \u00e0 tonalit\u00e9 marqu\u00e9e au sens du point 1.9 de l'annexe \u00e0 l'arr\u00eat\u00e9 du 23 janvier 1997 susvis\u00e9, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d'apparition ne peut exc\u00e9der 30 % de la dur\u00e9e de fonctionnement de l'\u00e9tablissement dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+            },
+            {
+              "text": "Lorsque plusieurs installations class\u00e9es, soumises \u00e0 autorisation au titre de rubriques diff\u00e9rentes, sont exploit\u00e9es par un m\u00eame exploitant sur un m\u00eame site, le niveau de bruit global \u00e9mis par ces installations respecte les valeurs limites ci-dessus."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 26",
+          "sections": [],
+          "title": {
+            "text": "Article 26"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "DF76cfb53641",
+          "outer_alineas": [
+            {
+              "text": "Les v\u00e9hicules de transport, les mat\u00e9riels de manutention et les engins de chantier utilis\u00e9s \u00e0 l'int\u00e9rieur de l'installation sont conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores. En particulier, les engins de chantier sont conformes \u00e0 un type homologu\u00e9."
+            },
+            {
+              "text": "L'usage de tous appareils de communication par voie acoustique (par exemple sir\u00e8nes, avertisseurs, haut-parleurs), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d'incidents graves ou d'accidents."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 27",
+          "sections": [],
+          "title": {
+            "text": "Article 27"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "43F707A593A7",
+          "outer_alineas": [
+            {
+              "text": "Lorsque des mesures sont effectu\u00e9es pour v\u00e9rifier le respect des pr\u00e9sentes dispositions, elles sont effectu\u00e9es selon les dispositions de la norme NF 31-114 dans sa version en vigueur six mois apr\u00e8s la publication du pr\u00e9sent arr\u00eat\u00e9 ou \u00e0 d\u00e9faut selon les dispositions de la norme NFS 31-114 dans sa version de juillet 2011."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 28",
+          "sections": [],
+          "title": {
+            "text": "Article 28"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2E848b9b9bCA",
+          "outer_alineas": [
+            {
+              "text": "A modifi\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "- Arr\u00eat\u00e9 du 23 janvier 1997"
+            },
+            {
+              "text": "  Art. 1"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 29",
+          "sections": [],
+          "title": {
+            "text": "Article 29"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4D3B201ADdFF",
+          "outer_alineas": [
+            {
+              "text": "A modifi\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "- Arr\u00eat\u00e9 du 2 f\u00e9vrier 1998"
+            },
+            {
+              "text": "  Art. 1"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 30",
+          "sections": [],
+          "title": {
+            "text": "Article 30"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 6 : Bruit"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "FIN_EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0Eccb6b62a39",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3D1F4E2D168b",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 29",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5CCaC5A5826A",
+              "outer_alineas": [
+                {
+                  "text": "Les op\u00e9rations de d\u00e9mant\u00e8lement et de remise en \u00e9tat pr\u00e9vues \u00e0 l'article R. 515-106 du code de l'environnement comprennent :"
+                },
+                {
+                  "text": "- le d\u00e9mant\u00e8lement des installations de production d'\u00e9lectricit\u00e9, des postes de livraison ainsi que les c\u00e2bles dans un rayon de 10 m\u00e8tres autour des a\u00e9rog\u00e9n\u00e9rateurs et des postes de livraison ;"
+                },
+                {
+                  "text": "- l'excavation de la totalit\u00e9 des fondations jusqu'\u00e0 la base de leur semelle, \u00e0 l'exception des \u00e9ventuels pieux. Par d\u00e9rogation, la partie inf\u00e9rieure des fondations peut \u00eatre maintenue dans le sol sur la base d'une \u00e9tude adress\u00e9e au pr\u00e9fet d\u00e9montrant que le bilan environnemental du d\u00e9caissement total est d\u00e9favorable, sans que la profondeur excav\u00e9e ne puisse \u00eatre inf\u00e9rieure \u00e0 2 m\u00e8tres dans les terrains \u00e0 usage forestier au titre du document d'urbanisme opposable et 1 m dans les autres cas. Les fondations excav\u00e9es sont remplac\u00e9es par des terres de caract\u00e9ristiques comparables aux terres en place \u00e0 proximit\u00e9 de l'installation ;"
+                },
+                {
+                  "text": "- la remise en \u00e9tat du site avec le d\u00e9caissement des aires de grutage et des chemins d'acc\u00e8s sur une profondeur de 40 centim\u00e8tres et le remplacement par des terres de caract\u00e9ristiques comparables aux terres \u00e0 proximit\u00e9 de l'installation, sauf si le propri\u00e9taire du terrain sur lequel est sise l'installation souhaite leur maintien en l'\u00e9tat."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 29",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c7c8B5BedE7C",
+              "outer_alineas": [
+                {
+                  "text": "Les d\u00e9chets de d\u00e9molition et de d\u00e9mant\u00e8lement sont r\u00e9utilis\u00e9s, recycl\u00e9s, valoris\u00e9s, ou \u00e0 d\u00e9faut \u00e9limin\u00e9s dans les fili\u00e8res d\u00fbment autoris\u00e9es \u00e0 cet effet."
+                },
+                {
+                  "text": "Au 1er juillet 2022, au minimum 90 % de la masse totale des a\u00e9rog\u00e9n\u00e9rateurs d\u00e9mantel\u00e9s, fondations incluses, lorsque la totalit\u00e9 des fondations sont excav\u00e9es, ou 85 % lorsque l'excavation des fondations fait l'objet d'une d\u00e9rogation pr\u00e9vue par le I, doivent \u00eatre r\u00e9utilis\u00e9s ou recycl\u00e9s."
+                },
+                {
+                  "text": "Au 1er juillet 2022, au minimum, 35 % de la masse des rotors doivent \u00eatre r\u00e9utilis\u00e9s ou recycl\u00e9es."
+                },
+                {
+                  "text": "Les a\u00e9rog\u00e9n\u00e9rateurs dont le dossier d'autorisation complet est d\u00e9pos\u00e9 apr\u00e8s les dates suivantes ainsi que les a\u00e9rog\u00e9n\u00e9rateurs mis en service apr\u00e8s cette m\u00eame date dans le cadre d'une modification notable d'une installation existante, doivent avoir au minimum :"
+                },
+                {
+                  "text": "- apr\u00e8s le 1er janvier 2024, 95 % de leur masse totale, tout ou partie des fondations incluses, r\u00e9utilisable ou recyclable ;"
+                },
+                {
+                  "text": "- apr\u00e8s le 1er janvier 2023, 45 % de la masse de leur rotor r\u00e9utilisable ou recyclable ;"
+                },
+                {
+                  "text": "- apr\u00e8s le 1er janvier 2025, 55 % de la masse de leur rotor r\u00e9utilisable ou recyclable."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 29",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 29"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 7 : D\u00e9mant\u00e8lement"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3Fb6cfb122af",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9D22Dbc8fb46",
+          "outer_alineas": [
+            {
+              "text": "Le montant des garanties financi\u00e8res mentionn\u00e9es \u00e0 l'article R. 515-101 du code de l'environnement est d\u00e9termin\u00e9 selon les dispositions de l'annexe I du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 30",
+          "sections": [],
+          "title": {
+            "text": "Article 30"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "27F53e4Babb9",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant actualise tous les cinq ans le montant de la garantie financi\u00e8re, par application de la formule mentionn\u00e9e en annexe II au pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 31",
+          "sections": [],
+          "title": {
+            "text": "Article 31"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b7A9CebcbF03",
+          "outer_alineas": [
+            {
+              "text": "L'arr\u00eat\u00e9 pr\u00e9fectoral fixe le montant de la garantie financi\u00e8re."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 32",
+          "sections": [],
+          "title": {
+            "text": "Article 32"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section 8 : Garanties financi\u00e8res"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fbBFe5b85A24",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "425fF9406cAc",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "36aC68bf00aD",
+              "outer_alineas": [
+                {
+                  "text": "Le montant initial de la garantie financi\u00e8re d'une installation correspond \u00e0 la somme du co\u00fbt unitaire forfaitaire (Cu) de chaque a\u00e9rog\u00e9n\u00e9rateur composant cette installation :"
+                },
+                {
+                  "text": "M = \u2211 (Cu)"
+                },
+                {
+                  "text": "o\u00f9 :"
+                },
+                {
+                  "text": "-M est le montant initial de la garantie financi\u00e8re d'une installation ;"
+                },
+                {
+                  "text": "-Cu est le co\u00fbt unitaire forfaitaire d'un a\u00e9rog\u00e9n\u00e9rateur, calcul\u00e9 selon les dispositions du II de l'annexe I du pr\u00e9sent arr\u00eat\u00e9. Il correspond aux op\u00e9rations de d\u00e9mant\u00e8lement et de remise en \u00e9tat d'un site apr\u00e8s exploitation pr\u00e9vues \u00e0 l'article R. 515-36 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fbEa4F6D8efd",
+              "outer_alineas": [
+                {
+                  "text": "Le co\u00fbt unitaire forfaitaire d'un a\u00e9rog\u00e9n\u00e9rateur (Cu) est fix\u00e9 par les formules suivantes :"
+                },
+                {
+                  "text": "a) lorsque la puissance unitaire install\u00e9e de l'a\u00e9rog\u00e9n\u00e9rateur est inf\u00e9rieure ou \u00e9gale \u00e0 2 MW :"
+                },
+                {
+                  "text": "Cu = 50 000"
+                },
+                {
+                  "text": "b) lorsque sa puissance unitaire install\u00e9e de l'a\u00e9rog\u00e9n\u00e9rateur est sup\u00e9rieure \u00e0 2 MW :"
+                },
+                {
+                  "text": "Cu = 50 000 + 10 000 * (P-2)"
+                },
+                {
+                  "text": "o\u00f9 :"
+                },
+                {
+                  "text": "-Cu est le montant initial de la garantie financi\u00e8re d'un a\u00e9rog\u00e9n\u00e9rateur ;"
+                },
+                {
+                  "text": "-P est la puissance unitaire install\u00e9e de l'a\u00e9rog\u00e9n\u00e9rateur, en m\u00e9gawatt (MW)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dFf3ee0AbE4F",
+              "outer_alineas": [
+                {
+                  "text": "En cas de renouvellement de toute ou partie de l'installation, le montant initial de la garantie financi\u00e8re d'une installation est r\u00e9actualis\u00e9 en fonction de la puissance des nouveaux a\u00e9rog\u00e9n\u00e9rateurs. La r\u00e9actualisation fait l'objet d'un arr\u00eat\u00e9 pr\u00e9fectoral pris dans les formes de l'article L. 181-14 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe I - CALCUL DU MONTANT INITIAL DE LA GARANTIE FINANCI\u00c8RE"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "BF6DDD2EdF6f",
+          "outer_alineas": [
+            {
+              "text": "Vous pouvez consulter l'int\u00e9gralit\u00e9 du texte avec ses images \u00e0 partir de l'extrait du Journal officiel \u00e9lectronique authentifi\u00e9 accessible \u00e0 l'adresse suivante :"
+            },
+            {
+              "text": " https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000042056014"
+            },
+            {
+              "text": "o\u00f9"
+            },
+            {
+              "text": "Mn est le montant exigible \u00e0 l'ann\u00e9e n."
+            },
+            {
+              "text": "M est le montant initial de la garantie financi\u00e8re de l'installation."
+            },
+            {
+              "text": "Indexn est l'indice TP01 en vigueur \u00e0 la date d'actualisation du montant de la garantie."
+            },
+            {
+              "text": "Indexo est l'indice TP01 en vigueur au 1er janvier 2011, fix\u00e9 \u00e0 102,1807 calcul\u00e9 sur la base 20."
+            },
+            {
+              "text": "TVA est le taux de la taxe sur la valeur ajout\u00e9e applicable aux travaux de construction \u00e0 la date d'actualisation de la garantie."
+            },
+            {
+              "text": "TVAo est le taux de la taxe sur la valeur ajout\u00e9e au 1er janvier 2011, soit 19,60 %."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II",
+          "sections": [],
+          "title": {
+            "text": "Annexe II - FORMULE D'ACTUALISATION DES CO\u00dbTS"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 26/08/11 relatif aux installations de production d'\u00e9lectricit\u00e9 utilisant l'\u00e9nergie m\u00e9canique du vent au sein d'une installation soumise \u00e0 autorisation au titre de la rubrique 2980 de la l\u00e9gislation des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": []
+}

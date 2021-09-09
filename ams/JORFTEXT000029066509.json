@@ -1,0 +1,1961 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/30953",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": [
+      "Applicable seulement aux installations class\u00e9es Seveso."
+    ]
+  },
+  "classements": [],
+  "classements_with_alineas": [],
+  "date_of_signature": "2014-05-26",
+  "id": "JORFTEXT000029066509",
+  "is_transverse": true,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029066509",
+  "nickname": "Seveso",
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "dbBf3f07ba04",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions relatives \u00e0 la pr\u00e9vention des accidents majeurs impliquant des substances ou m\u00e9langes dangereux pr\u00e9sents dans les installations class\u00e9es mentionn\u00e9es \u00e0 l'article L. 515-32 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fDFeDeD0b9da",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "95DEde81d3ea",
+          "outer_alineas": [
+            {
+              "text": "Aux fins du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "Etablissement : ensemble du site plac\u00e9 sous le contr\u00f4le d'un exploitant o\u00f9 des substances dangereuses se trouvent dans une ou plusieurs installations, y compris les infrastructures ou les activit\u00e9s communes ou connexes ; les \u00e9tablissements sont soit des \u00e9tablissements seuil bas, soit des \u00e9tablissements seuil haut."
+            },
+            {
+              "text": "Etablissement seuil haut : un \u00e9tablissement r\u00e9pondant aux dispositions de l'article L. 515-36 du code de l'environnement."
+            },
+            {
+              "text": "Etablissement seuil bas : un \u00e9tablissement relevant de l'article 1er et ne r\u00e9pondant pas aux dispositions de l'article L. 515-36."
+            },
+            {
+              "text": "Etablissement voisin : un \u00e9tablissement relevant de l'article L. 515-32 du code de l'environnement situ\u00e9 \u00e0 une telle proximit\u00e9 d'un autre \u00e9tablissement relevant dudit article qu'il accro\u00eet le risque ou les cons\u00e9quences d'un accident majeur."
+            },
+            {
+              "text": "Accident majeur : un \u00e9v\u00e9nement tel qu'une \u00e9mission, un incendie ou une explosion d'importance majeure r\u00e9sultant de d\u00e9veloppements incontr\u00f4l\u00e9s survenus au cours de l'exploitation, entra\u00eenant, pour les int\u00e9r\u00eats vis\u00e9s au L. 511-1 du code de l'environnement, des cons\u00e9quences graves, imm\u00e9diates ou diff\u00e9r\u00e9es, et faisant intervenir une ou plusieurs substances ou des m\u00e9langes dangereux."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre Ier : D\u00e9finitions"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "73FFa9fF638B",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c3a006ff7EdA",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6c825DDa0bC8",
+              "outer_alineas": [
+                {
+                  "text": "Conform\u00e9ment aux dispositions de l'article R. 515-86 du code de l'environnement, l'exploitant proc\u00e8de au recensement r\u00e9gulier des substances ou m\u00e9langes dangereux susceptibles d'\u00eatre pr\u00e9sents dans son \u00e9tablissement en se r\u00e9f\u00e9rant aux classes, cat\u00e9gories et mentions de dangers correspondantes, ou aux substances nomm\u00e9ment d\u00e9sign\u00e9es dans le tableau annex\u00e9 \u00e0 l'article R. 511-9 du code de l'environnement."
+                },
+                {
+                  "text": "La notification de ce recensement comprend les informations suivantes :"
+                },
+                {
+                  "text": "1. Le nom ou la raison sociale de l'\u00e9tablissement :"
+                },
+                {
+                  "text": "a) S'il s'agit d'une personne physique : nom, pr\u00e9noms et domicile ;"
+                },
+                {
+                  "text": "b) S'il s'agit d'une personne morale : d\u00e9nomination ou raison sociale, forme juridique, adresse du si\u00e8ge social."
+                },
+                {
+                  "text": "2. L'adresse compl\u00e8te de l'\u00e9tablissement."
+                },
+                {
+                  "text": "3. Le nom, la fonction, les coordonn\u00e9es t\u00e9l\u00e9phoniques et la t\u00e9l\u00e9copie du responsable de l'\u00e9tablissement."
+                },
+                {
+                  "text": "4. Le cas \u00e9ch\u00e9ant, le num\u00e9ro SIRET."
+                },
+                {
+                  "text": "5. Une adresse courriel \u00e0 laquelle des messages pourront \u00eatre envoy\u00e9s."
+                },
+                {
+                  "text": "6. L'activit\u00e9 de l'\u00e9tablissement."
+                },
+                {
+                  "text": "7. Le cas \u00e9ch\u00e9ant, le code NAF de l'\u00e9tablissement."
+                },
+                {
+                  "text": "8. La liste des substances, m\u00e9langes, familles de substances ou familles de m\u00e9langes dangereux susceptibles d'\u00eatre pr\u00e9sents dans l'\u00e9tablissement, class\u00e9s sur la base de leurs classes, cat\u00e9gories et mentions de dangers. Pour chaque substance ou m\u00e9lange, famille de substances ou famille de m\u00e9langes : la forme physique (liquide, solide, gaz) et la quantit\u00e9 maximale susceptible d'\u00eatre pr\u00e9sente."
+                },
+                {
+                  "text": "L'exploitant tient le pr\u00e9fet inform\u00e9 du r\u00e9sultat de ce recensement selon les modalit\u00e9s fix\u00e9es \u00e0 l'article 4."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "960BFBFdeb99",
+              "outer_alineas": [
+                {
+                  "text": "S'il ne remet pas concomitamment ou n'a pas remis une \u00e9tude de dangers, l'exploitant pr\u00e9cise par ailleurs par \u00e9crit au pr\u00e9fet la description sommaire de l'environnement imm\u00e9diat du site, en particulier les \u00e9l\u00e9ments susceptibles d'\u00eatre \u00e0 l'origine ou d'aggraver un accident majeur par effet domino, ainsi que les informations disponibles sur les sites industriels et \u00e9tablissements voisins, zones et am\u00e9nagements pouvant \u00eatre impliqu\u00e9s dans de tels effets domino."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 3"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6776ecAF8DdE",
+          "outer_alineas": [
+            {
+              "text": "Le r\u00e9sultat du recensement est renseign\u00e9 par l'exploitant dans une base de donn\u00e9es \u00e9lectronique."
+            },
+            {
+              "text": "Lorsque le recensement est effectu\u00e9 au 31 d\u00e9cembre de l'ann\u00e9e concern\u00e9e, dans le cadre de l'article L. 515-32 du code de l'environnement, il est proc\u00e9d\u00e9 \u00e0 l'actualisation de la base de donn\u00e9es \u00e9lectronique au plus tard le 15 f\u00e9vrier de l'ann\u00e9e suivante."
+            },
+            {
+              "text": "Une base de donn\u00e9es sp\u00e9cifique est constitu\u00e9e par le minist\u00e8re de la d\u00e9fense pour les installations mentionn\u00e9es \u00e0 l'article R. 517-1 du code de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [],
+          "title": {
+            "text": "Article 4"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bdaa75EE004C",
+          "outer_alineas": [
+            {
+              "text": "La politique de pr\u00e9vention des accidents majeurs pr\u00e9vue \u00e0 l'article R. 515-87 du code de l'environnement est d\u00e9crite par l'exploitant dans un document maintenu \u00e0 jour et tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Les \u00e9l\u00e9ments des rapports de visites de risques qui portent sur les constats et sur les recommandations issues de l'analyse des risques men\u00e9e par l'assureur dans l'\u00e9tablissement, sont \u00e9galement tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Les diff\u00e9rents op\u00e9rateurs et intervenants dans l'\u00e9tablissement, y compris le personnel des entreprises ext\u00e9rieures, re\u00e7oivent une formation sur les risques des installations, la conduite \u00e0 tenir en cas d'incident ou d'accident et, s'ils y contribuent, sur la mise en \u0153uvre des moyens d'intervention. Des personnes d\u00e9sign\u00e9es par l'exploitant sont entra\u00een\u00e9es \u00e0 la man\u0153uvre des moyens de secours."
+            },
+            {
+              "text": "Pour les \u00e9tablissements seuil bas, l'\u00e9laboration d'un plan d'op\u00e9ration interne est obligatoire \u00e0 compter du 1er janvier 2023 ; le plan d'op\u00e9ration interne est test\u00e9 \u00e0 des intervalles n'exc\u00e9dant pas trois ans et mis \u00e0 jour, si n\u00e9cessaire."
+            },
+            {
+              "text": "Pour les \u00e9tablissements vis\u00e9s par l'article L. 515-32 du code de l'environnement, le plan d'op\u00e9ration interne comprend notamment :"
+            },
+            {
+              "text": "- les dispositions permettant de mener les premiers pr\u00e9l\u00e8vements environnementaux, \u00e0 l'int\u00e9rieur et \u00e0 l'ext\u00e9rieur du site, lorsque les conditions d'acc\u00e8s aux milieux le permettent. Le plan d'op\u00e9ration interne pr\u00e9cise :"
+            },
+            {
+              "text": "- les substances recherch\u00e9es dans les diff\u00e9rents milieux et les raisons pour lesquelles ces substances et ces milieux ont \u00e9t\u00e9 choisis ;"
+            },
+            {
+              "text": "- les \u00e9quipements de pr\u00e9l\u00e8vement \u00e0 mobiliser, par substance et milieux ;"
+            },
+            {
+              "text": "- les personnels comp\u00e9tents ou organismes habilit\u00e9s \u00e0 mettre en \u0153uvre ces \u00e9quipements et \u00e0 analyser les pr\u00e9l\u00e8vements selon des protocoles adapt\u00e9s aux substances \u00e0 rechercher."
+            },
+            {
+              "text": "L'exploitant justifie de la disponibilit\u00e9 des personnels ou organismes et des \u00e9quipements dans des d\u00e9lais ad\u00e9quats en cas de n\u00e9cessit\u00e9. Les \u00e9quipements peuvent \u00eatre mutualis\u00e9s entre plusieurs \u00e9tablissements sous r\u00e9serve que des conventions le pr\u00e9voyant explicitement, tenues \u00e0 disposition de l'inspection des installations class\u00e9es, soient \u00e9tablies \u00e0 cet effet et que leur mise en \u0153uvre soit compatible avec les cin\u00e9tiques de d\u00e9veloppement des ph\u00e9nom\u00e8nes dangereux. Dans le cas de prestations externes, les contrats correspondants le pr\u00e9voyant explicitement sont tenus \u00e0 disposition de l'inspection des installations class\u00e9es ;"
+            },
+            {
+              "text": "- les moyens et m\u00e9thodes pr\u00e9vus, en ce qui concerne l'exploitant, pour la remise en \u00e9tat et le nettoyage de l'environnement apr\u00e8s un accident majeur."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "af3FFAaFFcdA",
+          "outer_alineas": [
+            {
+              "text": "Les exploitants des \u00e9tablissements seuil haut et seuil bas fournissent au pr\u00e9fet les \u00e9l\u00e9ments lui permettant de remplir les obligations ressortant de l'article L. 515-34 du code de l'environnement relatif \u00e0 l'information du public."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "84B1cE76f4eE",
+          "outer_alineas": [
+            {
+              "text": "L'annexe IV du pr\u00e9sent arr\u00eat\u00e9 pr\u00e9cise les cat\u00e9gories d'informations mises en permanence \u00e0 la disposition du public par voie \u00e9lectronique en application de l'article R. 515-89. Cette disposition n'est pas applicable pour les installations mentionn\u00e9es \u00e0 l'article R. 517-1 du code de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6-1",
+          "sections": [],
+          "title": {
+            "text": "Article 6-1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "01eEF4f211C7",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d0bc3aF489Ea",
+              "outer_alineas": [
+                {
+                  "text": "L'\u00e9tude de dangers justifie que l'exploitant met en \u0153uvre les mesures de ma\u00eetrise du risque internes \u00e0 l'\u00e9tablissement, dont le co\u00fbt n'est pas disproportionn\u00e9 par rapport aux b\u00e9n\u00e9fices attendus, en application des dispositions de l'article R. 515-90 du code de l'environnement. L'annexe II du pr\u00e9sent arr\u00eat\u00e9 pr\u00e9cise les crit\u00e8res d'application de cette d\u00e9marche."
+                },
+                {
+                  "text": "L'\u00e9tude de dangers mentionne le nom des r\u00e9dacteurs et/ou des organismes ayant particip\u00e9 \u00e0 son \u00e9laboration. Elle d\u00e9montre par ailleurs qu'une politique de pr\u00e9vention des accidents majeurs et, pour les \u00e9tablissements vis\u00e9s \u00e0 l'article L. 515-36 du code de l'environnement, qu'un syst\u00e8me de gestion de la s\u00e9curit\u00e9 sont mis en \u0153uvre de fa\u00e7on appropri\u00e9e. En outre, pour les \u00e9tablissements vis\u00e9s aux articles L. 515-36 et R. 181-54 du code de l'environnement, elle d\u00e9montre qu'un plan d'op\u00e9ration interne est mis en \u0153uvre de fa\u00e7on appropri\u00e9e."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 1.",
+              "sections": [],
+              "title": {
+                "text": "1. G\u00e9n\u00e9ralit\u00e9s."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8580CC5E4B2D",
+              "outer_alineas": [
+                {
+                  "text": "L'analyse de risques, au sens de l'article L. 512-1 du code de l'environnement, constitue une d\u00e9marche d'identification, de ma\u00eetrise des risques r\u00e9alis\u00e9e sous la responsabilit\u00e9 de l'exploitant. Elle d\u00e9crit les sc\u00e9narios qui conduisent aux ph\u00e9nom\u00e8nes dangereux et accidents potentiels. Aucun sc\u00e9nario ne doit \u00eatre ignor\u00e9 ou exclu sans justification pr\u00e9alable explicite."
+                },
+                {
+                  "text": "Cette d\u00e9marche d'analyse de risques vise principalement \u00e0 qualifier ou \u00e0 quantifier le niveau de ma\u00eetrise des risques, en \u00e9valuant les mesures de s\u00e9curit\u00e9 mises en place par l'exploitant, ainsi que les dispositifs et dispositions d'exploitation, techniques, humains ou organisationnels, qui concourent \u00e0 cette ma\u00eetrise."
+                },
+                {
+                  "text": "Elle porte sur l'ensemble des modes de fonctionnement envisageables pour les installations, y compris les phases transitoires, les interventions, les marches d\u00e9grad\u00e9es pr\u00e9visibles, susceptibles d'affecter la s\u00e9curit\u00e9, de mani\u00e8re proportionn\u00e9e aux risques ou lorsque les dangers sont importants."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 2.",
+              "sections": [],
+              "title": {
+                "text": "2. Analyse de risques."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fBd61be9A3c5",
+              "outer_alineas": [
+                {
+                  "text": "L'\u00e9tude de dangers que l'exploitant remet \u00e0 l'administration contient les principaux \u00e9l\u00e9ments de l'analyse de risques, sans la reproduire. L'\u00e9tude de dangers d\u00e9crit les mesures de conception, les mesures d'ordre technique et les mesures d'organisation et de gestion pertinentes propres \u00e0 r\u00e9duire la probabilit\u00e9 et/ou les effets des ph\u00e9nom\u00e8nes dangereux et \u00e0 agir sur leur cin\u00e9tique. Elle justifie (\u00e0 partir d'\u00e9l\u00e9ments techniques ou par d\u00e9monstration d'un co\u00fbt disproportionn\u00e9 par rapport aux b\u00e9n\u00e9fices attendus) les \u00e9ventuels \u00e9carts par rapport aux r\u00e9f\u00e9rentiels professionnels de bonnes pratiques reconnus, lorsque ces derniers existent ou, \u00e0 d\u00e9faut, par rapport aux informations disponibles sur les meilleures pratiques. Elle contient par ailleurs a minima les informations pr\u00e9vues \u00e0 l'annexe III."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 3.",
+              "sections": [],
+              "title": {
+                "text": "3. Elaboration de l'\u00e9tude de dangers en fonction des conclusions de l'analyse de risques."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eBe1d8Bac3bb",
+              "outer_alineas": [
+                {
+                  "text": "L'\u00e9tude de dangers contient, dans un paragraphe sp\u00e9cifique, le positionnement des accidents potentiels susceptibles d'affecter les personnes \u00e0 l'ext\u00e9rieur de l'\u00e9tablissement selon la grille de l'annexe III du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Dans l'\u00e9tude de dangers, l'exploitant explicite, le cas \u00e9ch\u00e9ant, la relation entre la grille figurant en annexe III du pr\u00e9sent arr\u00eat\u00e9 et celles, \u00e9ventuellement diff\u00e9rentes, utilis\u00e9es dans son analyse de risques."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7 4.",
+              "sections": [],
+              "title": {
+                "text": "4. Pr\u00e9sentation des accidents dans l'\u00e9tude de dangers en termes de couple probabilit\u00e9-gravit\u00e9 des cons\u00e9quences sur les personnes."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 7"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre II : Dispositions communes"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3CF35D1C1bFd",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "41F4ac1d4677",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant met en place dans l'\u00e9tablissement un syst\u00e8me de gestion de la s\u00e9curit\u00e9 applicable \u00e0 toutes les installations susceptibles de g\u00e9n\u00e9rer des accidents majeurs en application de l'article L. 515-40 du code de l'environnement. Le syst\u00e8me de gestion de la s\u00e9curit\u00e9 est conforme aux dispositions mentionn\u00e9es en annexe I au pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "L'exploitant met en \u0153uvre les proc\u00e9dures et actions pr\u00e9vues par le syst\u00e8me de gestion de la s\u00e9curit\u00e9, conform\u00e9ment \u00e0 l'article R. 515-99 du code de l'environnement."
+            },
+            {
+              "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les diff\u00e9rents documents mentionn\u00e9s \u00e0 l'annexe I du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "69962a55df51",
+          "outer_alineas": [
+            {
+              "text": "L'annexe V du pr\u00e9sent arr\u00eat\u00e9 pr\u00e9cise les donn\u00e9es et les informations devant figurer dans le plan d'op\u00e9ration interne en application de l'article R. 515-100."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8-1",
+          "sections": [],
+          "title": {
+            "text": "Article 8-1"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre III : Dispositions compl\u00e9mentaires  applicables aux \u00e9tablissements seuil haut"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "D3ED1dd7051b",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "19fCaA2cF2E1",
+          "outer_alineas": [
+            {
+              "text": "La liste des produits de d\u00e9composition susceptibles d'\u00eatre \u00e9mis en cas d'incendie, vis\u00e9e au c du 2 du I de l'annexe III est adress\u00e9e au pr\u00e9fet lors de l'\u00e9laboration, de la r\u00e9vision ou de la mise \u00e0 jour d'une \u00e9tude de dangers, et lorsque cette \u00e9tude est soumise au r\u00e9examen vis\u00e9 \u00e0 l'article R. 515-98, au plus tard le 30 juin 2025. Le plan d'op\u00e9ration interne est mis \u00e0 jour dans le m\u00eame d\u00e9lai."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "01E281B9948F",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 entre en vigueur le 1er juin 2015."
+            },
+            {
+              "text": "A abrog\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "-Arr\u00eat\u00e9 du 10 mai 2000 "
+            },
+            {
+              "text": "Art. 1, Sct. Chapitre Ier : D\u00e9finitions., Art. 2, Sct. Chapitre II : Dispositions applicables \u00e0 tous les \u00e9tablissements., Art. 3, Art. 4, Art. 5, Sct. Chapitre III : Dispositions applicables aux \u00e9tablissements vis\u00e9s \u00e0 l'article 1er, paragraphes 1.2.1 et 1.2.2., Art. 6, Sct. Chapitre IV : Dispositions applicables aux \u00e9tablissements vis\u00e9s \u00e0 l'article 1er, paragraphe 1.2.3., Art. 7, Art. 7-1Art. 8, Sct. Chapitre V : Modalit\u00e9s d'application., Art. 9, Art. 10, Art. 11, Sct. Annexes, Art. Annexe I, Art. Annexe II, Art. Annexe III, Art. Annexe IV, Art. Annexe V "
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations ayant fait l'objet d'un certificat de projet en application de l'ordonnance n\u00b0 2014-356 du 20 mars 2014 relative \u00e0 l'exp\u00e9rimentation d'un certificat de projet et du d\u00e9cret n\u00b0 2014-358 du 20 mars 2014 relatif \u00e0 l'exp\u00e9rimentation d'un certificat de projet."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "12f50bec88Cb",
+          "outer_alineas": [
+            {
+              "text": "La directrice g\u00e9n\u00e9rale de la pr\u00e9vention des risques est charg\u00e9e de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre IV : Modalit\u00e9s d'application"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "7aefd515eADd",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a60b1CeE249b",
+          "outer_alineas": [
+            {
+              "text": "Le syst\u00e8me de gestion est proportionn\u00e9 aux risques, aux activit\u00e9s industrielles et \u00e0 la complexit\u00e9 de l'organisation dans l'\u00e9tablissement et repose sur l'\u00e9valuation des risques. Il int\u00e8gre la partie du syst\u00e8me de gestion g\u00e9n\u00e9ral incluant la structure organisationnelle, les responsabilit\u00e9s, les pratiques, les proc\u00e9dures, les proc\u00e9d\u00e9s et les ressources qui permettent de d\u00e9terminer et de mettre en \u0153uvre la politique de pr\u00e9vention des accidents majeurs."
+            },
+            {
+              "text": "Le syst\u00e8me de gestion de la s\u00e9curit\u00e9 pr\u00e9cise, par des dispositions sp\u00e9cifiques, les situations ou aspects suivants de l'activit\u00e9 :"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AB32F1afc02D",
+              "outer_alineas": [
+                {
+                  "text": "Les fonctions des personnels associ\u00e9s \u00e0 la pr\u00e9vention et au traitement des accidents majeurs, \u00e0 tous les niveaux de l'organisation, sont d\u00e9crites, ainsi que les mesures prises pour sensibiliser \u00e0 la d\u00e9marche de progr\u00e8s continu."
+                },
+                {
+                  "text": "Les besoins en mati\u00e8re de formation des personnels associ\u00e9s \u00e0 la pr\u00e9vention des accidents majeurs sont identifi\u00e9s. L'organisation de la formation ainsi que la d\u00e9finition et l'ad\u00e9quation du contenu de cette formation sont explicit\u00e9es."
+                },
+                {
+                  "text": "Le personnel des entreprises ext\u00e9rieures travaillant sur le site mais susceptible d'\u00eatre impliqu\u00e9 dans la pr\u00e9vention et le traitement d'un accident majeur est identifi\u00e9. Les modalit\u00e9s d'interface avec ce personnel sont explicit\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.",
+              "sections": [],
+              "title": {
+                "text": "1. Organisation, formation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "D1b94Be5E3B7",
+              "outer_alineas": [
+                {
+                  "text": "li\u00e9s aux accidents majeurs"
+                },
+                {
+                  "text": "Des proc\u00e9dures sont mises en \u0153uvre pour permettre une identification syst\u00e9matique des risques d'accident majeur susceptibles de se produire en toute configuration d'exploitation des installations."
+                },
+                {
+                  "text": "Ces proc\u00e9dures doivent permettre d'appr\u00e9cier les possibilit\u00e9s d'occurrence et d'\u00e9valuer la gravit\u00e9 des accidents identifi\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.",
+              "sections": [],
+              "title": {
+                "text": "2. Identification et \u00e9valuation des risques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9a6a87EF666d",
+              "outer_alineas": [
+                {
+                  "text": "Des proc\u00e9dures et des instructions sont mises en \u0153uvre pour permettre la ma\u00eetrise des proc\u00e9d\u00e9s et l'exploitation des installations en s\u00e9curit\u00e9. Les phases de mise \u00e0 l'arr\u00eat et de d\u00e9marrage des installations, d'arr\u00eat, de m\u00eame que les op\u00e9rations d'entretien et de maintenance, m\u00eame sous-trait\u00e9es, font l'objet de telles proc\u00e9dures."
+                },
+                {
+                  "text": "Les informations disponibles sur les meilleures pratiques sont prises en compte afin de r\u00e9duire le risque de d\u00e9faillance du syst\u00e8me."
+                },
+                {
+                  "text": "Le syst\u00e8me de gestion de la s\u00e9curit\u00e9 d\u00e9finit \u00e9galement les actions mises en \u0153uvre pour ma\u00eetriser les risques li\u00e9s au vieillissement des \u00e9quipements mis en place dans l'\u00e9tablissement et \u00e0 la corrosion."
+                },
+                {
+                  "text": "Elles permettent a minima :"
+                },
+                {
+                  "text": "- le recensement des \u00e9quipements vis\u00e9s par la section I de l'arr\u00eat\u00e9 du 4 octobre 2010 relatif \u00e0 la pr\u00e9vention des risques accidentels au sein des installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation ; le rencensement des r\u00e9servoirs vis\u00e9s \u00e0 l'article 29 de l'arr\u00eat\u00e9 du 3 octobre 2010 relatif au stockage en r\u00e9servoirs a\u00e9riens manufactur\u00e9s de liquides inflammables exploit\u00e9s dans un stockage soumis \u00e0 autorisation au titre des rubriques 4330, 4331, 4722, 4734 et 1436 de la l\u00e9gislation des installations class\u00e9es pour la protection de l'environnement ; le rencensement des tuyauteries et r\u00e9cipients vis\u00e9s par l'arr\u00eat\u00e9 du 15 mars 2000 relatif aux \u00e9quipements sous pression et"
+                },
+                {
+                  "text": "- pour chaque \u00e9quipement identifi\u00e9, l'\u00e9laboration d'un dossier contenant : l'\u00e9tat initial de l'\u00e9quipement, la pr\u00e9sentation de la strat\u00e9gie mise en place pour le contr\u00f4le de l'\u00e9tat de l'\u00e9quipement (modalit\u00e9s, fr\u00e9quence, m\u00e9thodes, etc.) et pour la d\u00e9termination des suites \u00e0 donner \u00e0 ces contr\u00f4les (m\u00e9thodologie d'analyse des r\u00e9sultats, crit\u00e8res de d\u00e9clenchement d'actions correctives de r\u00e9paration ou de remplacement, etc.). Ces \u00e9l\u00e9ments de la strat\u00e9gie sont justifi\u00e9s, en fonction des modes de d\u00e9gradation envisageables, le cas \u00e9ch\u00e9ant, par simple r\u00e9f\u00e9rence aux parties du guide professionnel reconnu par le ministre charg\u00e9 de l'environnement sur la base desquelles ils ont \u00e9t\u00e9 \u00e9tablis."
+                },
+                {
+                  "text": "Pour chaque \u00e9quipement identifi\u00e9, en application des actions mises en \u0153uvre pour ma\u00eetriser les risques li\u00e9s au vieillissement et \u00e0 la corrosion, les r\u00e9sultats des contr\u00f4les et les suites donn\u00e9es \u00e0 ces contr\u00f4les sont trac\u00e9s, notamment les mesures prises pour faire face aux probl\u00e8mes identifi\u00e9s ainsi que les interventions \u00e9ventuellement men\u00e9es."
+                },
+                {
+                  "text": "Ces dossiers ou une copie de ces dossiers sont tenus \u00e0 la disposition de l'inspection des installations class\u00e9es. Ils sont rassembl\u00e9s ou peuvent \u00eatre imprim\u00e9s de mani\u00e8re \u00e0 \u00eatre mis \u00e0 disposition rapidement lors d'un contr\u00f4le de l'inspection des installations class\u00e9es."
+                },
+                {
+                  "text": "Lorsque le recensement ou les dossiers mentionn\u00e9s ci-dessus sont \u00e9tablis sur la base d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement, les r\u00e9visions du guide sont prises en compte par l'exploitant dans le d\u00e9lai fix\u00e9 par ces r\u00e9visions ou par la d\u00e9cision minist\u00e9rielle de modification du guide, le cas \u00e9ch\u00e9ant."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.",
+              "sections": [],
+              "title": {
+                "text": "3. Ma\u00eetrise des proc\u00e9d\u00e9s, ma\u00eetrise d'exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6ac56b5fADCE",
+              "outer_alineas": [
+                {
+                  "text": "Des proc\u00e9dures sont mises en \u0153uvre pour les modifications apport\u00e9es aux installations et aux proc\u00e9d\u00e9s et pour la conception de nouvelles installations ou de nouveaux proc\u00e9d\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.",
+              "sections": [],
+              "title": {
+                "text": "4. Conception et gestion des modifications"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eEffD8dBEcfF",
+              "outer_alineas": [
+                {
+                  "text": "En coh\u00e9rence avec les proc\u00e9dures du point 2 (Identification et \u00e9valuation des risques d'accidents majeurs) et du point 3 (Ma\u00eetrise des proc\u00e9d\u00e9s, ma\u00eetrise d'exploitation), des proc\u00e9dures sont mises en \u0153uvre pour la gestion des situations d'urgence."
+                },
+                {
+                  "text": "Leur articulation avec les plans d'op\u00e9ration interne pr\u00e9vus \u00e0 l'article L. 515-41 du code de l'environnement est assur\u00e9e."
+                },
+                {
+                  "text": "Ces proc\u00e9dures font l'objet :"
+                },
+                {
+                  "text": "- d'une formation sp\u00e9cifique dispens\u00e9e \u00e0 l'ensemble du personnel concern\u00e9 travaillant dans l'\u00e9tablissement, y compris le personnel d'entreprises ext\u00e9rieures appel\u00e9 \u00e0 intervenir momentan\u00e9ment dans l'\u00e9tablissement ;"
+                },
+                {
+                  "text": "- de tests de mise en \u0153uvre sous forme d'exercice, et, si n\u00e9cessaire, d'am\u00e9nagements."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.",
+              "sections": [],
+              "title": {
+                "text": "5. Gestion des situations d'urgence"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E7dFB4ae5C30",
+              "outer_alineas": [
+                {
+                  "text": "Des proc\u00e9dures sont mises en \u0153uvre en vue d'une \u00e9valuation permanente du respect des objectifs fix\u00e9s par l'exploitant dans le cadre de sa politique de pr\u00e9vention des accidents majeurs et de son syst\u00e8me de gestion de la s\u00e9curit\u00e9. Des m\u00e9canismes d'investigation et de correction en cas de non-respect sont mis en place."
+                },
+                {
+                  "text": "Les proc\u00e9dures englobent le syst\u00e8me de notification des accidents majeurs ou des accidents \u00e9vit\u00e9s de justesse, notamment lorsqu'il y a eu des d\u00e9faillances des mesures de pr\u00e9vention, les enqu\u00eates faites \u00e0 ce sujet et le suivi, en s'inspirant des exp\u00e9riences du pass\u00e9."
+                },
+                {
+                  "text": "Les proc\u00e9dures peuvent \u00e9galement inclure des indicateurs de performance, tels que les indicateurs de performance en mati\u00e8re de s\u00e9curit\u00e9 et d'autres indicateurs utiles."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.",
+              "sections": [],
+              "title": {
+                "text": "6. Surveillance des performances"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "44dE6cAD8009",
+              "outer_alineas": [
+                {
+                  "text": "Des proc\u00e9dures sont mises en \u0153uvre en vue de l'\u00e9valuation p\u00e9riodique syst\u00e9matique de la politique de pr\u00e9vention des accidents majeurs et de l'efficacit\u00e9 et de l'ad\u00e9quation du syst\u00e8me de gestion de la s\u00e9curit\u00e9."
+                },
+                {
+                  "text": "L'analyse document\u00e9e est men\u00e9e par la direction : r\u00e9sultats de la politique mise en place, syst\u00e8me de gestion de la s\u00e9curit\u00e9 et mise \u00e0 jour, y compris prise en consid\u00e9ration et int\u00e9gration des modifications n\u00e9cessaires mentionn\u00e9es par l'audit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.",
+              "sections": [],
+              "title": {
+                "text": "7. Audits et revues de direction"
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe I - SYST\u00c8ME DE GESTION DE LA S\u00c9CURIT\u00c9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5aDbe36395fb",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B64A78B00756",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9marche de ma\u00eetrise, par l'exploitant de l'\u00e9tablissement, des risques accidentels vis-\u00e0-vis de la sant\u00e9 publique et de l'environnement consiste \u00e0 r\u00e9duire autant que possible la probabilit\u00e9 des ph\u00e9nom\u00e8nes dangereux potentiels ou la gravit\u00e9 des accidents qui leur sont associ\u00e9s, compte tenu de l'\u00e9tat des connaissances et des pratiques et de la vuln\u00e9rabilit\u00e9 de l'environnement de l'installation, dans le respect des dispositions de l'article R. 512-9 du code de l'environnement."
+                },
+                {
+                  "text": "A cette fin, l'exploitant analyse les mesures de ma\u00eetrise du risque envisageables et met en \u0153uvre celles dont le co\u00fbt n'est pas disproportionn\u00e9 par rapport aux b\u00e9n\u00e9fices attendus, soit en termes de s\u00e9curit\u00e9 globale de l'installation, soit en termes de s\u00e9curit\u00e9 pour les int\u00e9r\u00eats vis\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement."
+                },
+                {
+                  "text": "La d\u00e9marche d\u00e9coule des principes suivants :"
+                },
+                {
+                  "text": "- la priorit\u00e9 est accord\u00e9e \u00e0 la pr\u00e9vention des risques \u00e0 la source, tant au moment de la conception de l'activit\u00e9 industrielle que de son fonctionnement ;"
+                },
+                {
+                  "text": "- les accidents les plus fr\u00e9quents ne doivent avoir de cons\u00e9quences que n\u00e9gligeables ;"
+                },
+                {
+                  "text": "- les accidents aux cons\u00e9quences les plus graves ne doivent pouvoir se produire qu'\u00e0 des fr\u00e9quences aussi faibles que raisonnablement possible ;"
+                },
+                {
+                  "text": "- la priorit\u00e9 est accord\u00e9e \u00e0 la r\u00e9duction des risques les plus importants, tant au moment de la conception des installations que tout au long de leur vie."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II 1.",
+              "sections": [],
+              "title": {
+                "text": "1. Principes g\u00e9n\u00e9raux"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f5b9eFAA0908",
+              "outer_alineas": [
+                {
+                  "text": "Dans son \u00e9tude de dangers, l'exploitant pr\u00e9cise les mesures de ma\u00eetrise des risques mises en \u0153uvre, ainsi que les raisons de ce choix."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II 2.",
+              "sections": [],
+              "title": {
+                "text": "2. Pr\u00e9requis et limites de la d\u00e9marche de ma\u00eetrise des risques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ceF1853F4DBc",
+              "outer_alineas": [
+                {
+                  "text": "pouvant causer des accidents dans l'\u00e9tablissement"
+                },
+                {
+                  "text": "Certains \u00e9v\u00e9nements externes pouvant provoquer des accidents majeurs peuvent ne pas \u00eatre pris en compte dans l'\u00e9tude de dangers et notamment, en l'absence de r\u00e8gles ou instructions sp\u00e9cifiques, les \u00e9v\u00e9nements suivants :"
+                },
+                {
+                  "text": "- chute de m\u00e9t\u00e9orite ;"
+                },
+                {
+                  "text": "- s\u00e9ismes d'amplitude sup\u00e9rieure aux s\u00e9ismes maximums de r\u00e9f\u00e9rence \u00e9ventuellement corrig\u00e9s de facteurs, tels que d\u00e9finis par la r\u00e9glementation, applicables aux installations class\u00e9es consid\u00e9r\u00e9es ;"
+                },
+                {
+                  "text": "- crues d'amplitude sup\u00e9rieure \u00e0 la crue de r\u00e9f\u00e9rence, selon les r\u00e8gles en vigueur ;"
+                },
+                {
+                  "text": "- \u00e9v\u00e9nements climatiques d'intensit\u00e9 sup\u00e9rieure aux \u00e9v\u00e9nements historiquement connus ou pr\u00e9visibles pouvant affecter l'installation, selon les r\u00e8gles en vigueur ;"
+                },
+                {
+                  "text": "- chute d'avion hors des zones de proximit\u00e9 d'a\u00e9roport ou a\u00e9rodrome ;"
+                },
+                {
+                  "text": "- rupture de barrage de classe A ou B au sens de l'article R. 214-112 du code de l'environnement ou d'une digue de classe A, B ou C au sens de l'article R. 214-113 de ce m\u00eame code ;"
+                },
+                {
+                  "text": "- actes de malveillance."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II 3.",
+              "sections": [],
+              "title": {
+                "text": "3. Limites de prise en compte de certains \u00e9v\u00e9nements externes"
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe II - D\u00c9MARCHE DE MA\u00ceTRISE DES RISQUES"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1257b1c5ddaD",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe III",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "555C12dF3CD4",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III I.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "fA7b018DBd47",
+                  "outer_alineas": [
+                    {
+                      "text": "a) Description de l'\u00e9tablissement et de son environnement comprenant la situation g\u00e9ographique, les donn\u00e9es m\u00e9t\u00e9orologiques, g\u00e9ologiques, hydrographiques et, le cas \u00e9ch\u00e9ant, son historique ;"
+                    },
+                    {
+                      "text": "b) Recensement des installations et autres activit\u00e9s au sein de l'\u00e9tablissement qui peuvent repr\u00e9senter un danger d'accident majeur ;"
+                    },
+                    {
+                      "text": "c) Sur la base des informations disponibles, recensement des \u00e9tablissements voisins, ainsi que des sites non couverts par le pr\u00e9sent arr\u00eat\u00e9, zones et am\u00e9nagements susceptibles d'\u00eatre \u00e0 l'origine, ou d'accro\u00eetre le risque ou les cons\u00e9quences d'un accident majeur et d'effets domino ;"
+                    },
+                    {
+                      "text": "d) Description des zones o\u00f9 un accident majeur peut survenir."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe III I. 1.",
+                  "sections": [],
+                  "title": {
+                    "text": "1. Pr\u00e9sentation de l'environnement de l'\u00e9tablissement :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "d5ff39474dC4",
+                  "outer_alineas": [
+                    {
+                      "text": "a) Description des principales activit\u00e9s et productions des parties de l'\u00e9tablissement qui sont importantes du point de vue de la s\u00e9curit\u00e9, des sources de risque d'accidents majeurs et des conditions dans lesquelles cet accident majeur pourrait survenir, accompagn\u00e9e d'une description des mesures pr\u00e9ventives pr\u00e9vues ;"
+                    },
+                    {
+                      "text": "b) Description des proc\u00e9d\u00e9s, notamment les modes op\u00e9ratoires, en tenant compte, le cas \u00e9ch\u00e9ant, des informations disponibles sur les meilleures pratiques ;"
+                    },
+                    {
+                      "text": "c) Description des substances dangereuses :"
+                    },
+                    {
+                      "text": "i) Inventaire des substances dangereuses comprenant :"
+                    },
+                    {
+                      "text": "- l'identification des substances dangereuses : d\u00e9signation chimique, num\u00e9ro CAS, d\u00e9signation dans la nomenclature de l'IUCPA ;"
+                    },
+                    {
+                      "text": "- la quantit\u00e9 maximale de substances dangereuses pr\u00e9sentes ou susceptibles d'\u00eatre pr\u00e9sentes ;"
+                    },
+                    {
+                      "text": "ii) Caract\u00e9ristiques physiques, chimiques, toxicologiques et indication des dangers, aussi bien imm\u00e9diats que diff\u00e9r\u00e9s, pour la sant\u00e9 humaine ou l'environnement ;"
+                    },
+                    {
+                      "text": "iii) Comportement physique ou chimique dans les conditions normales d'utilisation ou dans les conditions accidentelles pr\u00e9visibles."
+                    },
+                    {
+                      "text": "En particulier, post\u00e9rieurement au 1er janvier 2023, l'\u00e9tude de dangers ou sa mise \u00e0 jour mentionne les types de produits de d\u00e9composition susceptibles d'\u00eatre \u00e9mis en cas d'incendie important, incluant le cas \u00e9ch\u00e9ant les contributions imputables aux conditions et aux lieux de stockage (contenants, b\u00e2timents, etc.). Ces produits de d\u00e9composition sont hi\u00e9rarchis\u00e9s en fonction des quantit\u00e9s susceptibles d'\u00eatre lib\u00e9r\u00e9es et de leur toxicit\u00e9, y compris environnementale. Des guides m\u00e9thodologiques professionnels reconnus par le ministre charg\u00e9 des installations class\u00e9es peuvent pr\u00e9ciser les conditions de mise en \u0153uvre de cette obligation et, le cas \u00e9ch\u00e9ant, de ses cons\u00e9quences sur le plan d'op\u00e9ration interne."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": [
+                      " La liste des produits de d\u00e9composition susceptibles d'\u00eatre \u00e9mis en cas d'incendie, vis\u00e9e au c), est adress\u00e9e au pr\u00e9fet lors de l'\u00e9laboration, de la r\u00e9vision ou de la mise \u00e0 jour d'une \u00e9tude de dangers, et lorsque cette \u00e9tude est soumise au r\u00e9examen vis\u00e9 \u00e0 l'article R. 515-98, au plus tard le 30 juin 2025. Le plan d'op\u00e9ration interne est mis \u00e0 jour dans le m\u00eame d\u00e9lai. [Article 9]"
+                    ]
+                  },
+                  "reference_str": "Annexe III I. 2.",
+                  "sections": [],
+                  "title": {
+                    "text": "2. Description de l'installation :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "7A9B0B85acc9",
+                  "outer_alineas": [
+                    {
+                      "text": "a) Description d\u00e9taill\u00e9e des sc\u00e9narios d'accidents majeurs possibles et de leurs probabilit\u00e9s ou conditions d'occurrence comprenant le r\u00e9sum\u00e9 des \u00e9v\u00e9nements pouvant jouer un r\u00f4le dans le d\u00e9clenchement de chacun de ces sc\u00e9narios, que les causes soient d'origine interne ou externe \u00e0 l'installation ; en particulier, que les causes soient :"
+                    },
+                    {
+                      "text": "i) Des causes op\u00e9rationnelles ;"
+                    },
+                    {
+                      "text": "ii) Externes, par exemple par effets domino ou du fait de sites non couverts par la pr\u00e9sente directive, zones et am\u00e9nagements susceptibles d'\u00eatre \u00e0 l'origine, ou d'accro\u00eetre le risque ou les cons\u00e9quences d'un accident majeur ;"
+                    },
+                    {
+                      "text": "ii) Des causes naturelles, par exemple s\u00e9ismes ou inondations ;"
+                    },
+                    {
+                      "text": "b) Evaluation de l'\u00e9tendue et de la gravit\u00e9 des cons\u00e9quences des accidents majeurs r\u00e9pertori\u00e9s, y compris cartes, images ou, le cas \u00e9ch\u00e9ant, descriptions \u00e9quivalentes faisant appara\u00eetre les zones susceptibles d'\u00eatre concern\u00e9es par de tels accidents impliquant l'\u00e9tablissement ;"
+                    },
+                    {
+                      "text": "c) Inventaire des accidents et incidents pass\u00e9s impliquant les m\u00eames substances et les m\u00eames proc\u00e9d\u00e9s, examen des enseignements tir\u00e9s de ces \u00e9v\u00e9nements et r\u00e9f\u00e9rence explicite \u00e0 des mesures sp\u00e9cifiques prises pour \u00e9viter ces accidents ;"
+                    },
+                    {
+                      "text": "d) Description des param\u00e8tres techniques et \u00e9quipements install\u00e9s pour la s\u00e9curit\u00e9 des installations."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe III I. 3.",
+                  "sections": [],
+                  "title": {
+                    "text": "3. Identification et analyse des risques d'accident et moyens de pr\u00e9vention :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "acd08edfB898",
+                  "outer_alineas": [
+                    {
+                      "text": "a) Description des \u00e9quipements mis en place dans l'installation pour limiter les cons\u00e9quences d'accidents majeurs pour la sant\u00e9 publique et l'environnement, notamment les syst\u00e8mes de d\u00e9tection/protection, les dispositifs techniques visant \u00e0 limiter l'ampleur des rejets accidentels, y compris les dispositifs de pulv\u00e9risation d'eau, les \u00e9crans de vapeur, les cuves et bassins de captage ou de collecte d'urgence, les vannes d'arr\u00eat, les syst\u00e8mes de neutralisation et les syst\u00e8mes de r\u00e9tention des eaux d'incendie ;"
+                    },
+                    {
+                      "text": "b) Organisation de l'alerte et de l'intervention ;"
+                    },
+                    {
+                      "text": "Description des moyens mobilisables internes ou externes ; description de toute mesure technique et non technique utile pour la r\u00e9duction des cons\u00e9quences d'un accident majeur."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe III I. 4.",
+                  "sections": [],
+                  "title": {
+                    "text": "4. Mesures de protection et d'intervention pour limiter les cons\u00e9quences d'un accident majeur :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "DdCE1Ce65a78",
+                  "outer_alineas": [
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 5,
+                                "content": {
+                                  "text": "PROBABILIT\u00c9 D'OCCURRENCE\n(sens croissant de E vers A)"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Gravit\u00e9 des cons\u00e9quences sur les personnes expos\u00e9es au risque"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "E"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "D"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "C"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "B"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "A"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "D\u00e9sastreux"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Catastrophique"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Important"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "S\u00e9rieux"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "Mod\u00e9r\u00e9"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": ""
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    },
+                    {
+                      "text": "Nota. - Probabilit\u00e9 et gravit\u00e9 sont \u00e9valu\u00e9es conform\u00e9ment \u00e0 l'arr\u00eat\u00e9 minist\u00e9riel du 29 septembre 2005 relatif \u00e0 l'\u00e9valuation et \u00e0 la prise en compte de la probabilit\u00e9 d'occurrence, de la cin\u00e9tique, de l'intensit\u00e9 des effets et de la gravit\u00e9 des cons\u00e9quences des accidents potentiels dans les \u00e9tudes de dangers des installations class\u00e9es soumises \u00e0 autorisation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe III I. 5.",
+                  "sections": [],
+                  "title": {
+                    "text": "5. Grille de pr\u00e9sentation des accidents potentiels en termes de couple probabilit\u00e9-gravit\u00e9 des cons\u00e9quences sur les personnes :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "I. - Dispositions communes"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4A3981304e99",
+              "outer_alineas": [
+                {
+                  "text": "pour les seuls \u00e9tablissements seuil haut"
+                },
+                {
+                  "text": "Informations sur le syst\u00e8me de gestion et l'organisation de l'\u00e9tablissement en vue de la pr\u00e9vention des accidents majeurs."
+                },
+                {
+                  "text": "Ces informations couvrent les \u00e9l\u00e9ments indiqu\u00e9s \u00e0 l'annexe II."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III II.",
+              "sections": [],
+              "title": {
+                "text": "II. - Informations compl\u00e9mentaires"
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe III - INFORMATIONS MINIMALES DEVANT \u00caTRE CONTENUES DANS LES \u00c9TUDES DE DANGERS"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eD80d7b89ab1",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe IV",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eeaeCAdb592C",
+              "outer_alineas": [
+                {
+                  "text": "Pour tous les \u00e9tablissements couverts par le champ du pr\u00e9sent arr\u00eat\u00e9 :"
+                },
+                {
+                  "text": "1. Le nom ou la d\u00e9nomination sociale de l'exploitant et l'adresse compl\u00e8te de l'\u00e9tablissement concern\u00e9 ;"
+                },
+                {
+                  "text": "2. La confirmation que l'\u00e9tablissement est soumis aux dispositions r\u00e9glementaires mentionn\u00e9es \u00e0 la section 9, chapitre V, titre Ier du livre V du code de l'environnement, qu'il a fait l'objet d'une autorisation conform\u00e9ment \u00e0 l'article L. 511-2 du code de l'environnement et qu'il a pr\u00e9sent\u00e9 une \u00e9tude de dangers pr\u00e9vue \u00e0 l'article L. 181-25 du code de l'environnement ;"
+                },
+                {
+                  "text": "3. Une explication, donn\u00e9e en termes simples, de la ou des activit\u00e9s de l'\u00e9tablissement ;"
+                },
+                {
+                  "text": "4. La d\u00e9nomination commune ou la classe et cat\u00e9gorie de danger des substances dangereuses concern\u00e9es se trouvant dans l'\u00e9tablissement qui pourraient donner lieu \u00e0 un accident majeur, avec indication de leurs principales caract\u00e9ristiques dangereuses dans des termes simples ;"
+                },
+                {
+                  "text": "5. Des informations g\u00e9n\u00e9rales sur la fa\u00e7on dont le public concern\u00e9 sera averti, si n\u00e9cessaire ; des informations ad\u00e9quates sur le comportement appropri\u00e9 \u00e0 adopter en cas d'accident majeur ou l'indication de l'endroit o\u00f9 ces informations peuvent \u00eatre consult\u00e9es \u00e9lectroniquement ;"
+                },
+                {
+                  "text": "6. La date de la derni\u00e8re inspection et des informations sur l'endroit o\u00f9 il est possible d'obtenir, sur demande, des informations plus d\u00e9taill\u00e9es sur l'inspection et le plan d'inspection qui y est li\u00e9, sous r\u00e9serve des dispositions des articles L. 124-4 et L. 515-35 du code de l'environnement ;"
+                },
+                {
+                  "text": "7. Les pr\u00e9cisions relatives aux modalit\u00e9s d'obtention de toute autre information pertinente, sous r\u00e9serve des dispositions des articles L. 124-4, L. 124-5 et L. 515-35 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe IV",
+              "sections": [],
+              "title": {
+                "text": "PARTIE 1 :"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ebce50dA49bD",
+              "outer_alineas": [
+                {
+                  "text": "Pour les \u00e9tablissements seuil haut, outre les informations vis\u00e9es \u00e0 la partie 1 de la pr\u00e9sente annexe :"
+                },
+                {
+                  "text": "1. Des informations g\u00e9n\u00e9rales relatives \u00e0 la nature des dangers li\u00e9s aux accidents majeurs, y compris leurs effets potentiels sur la sant\u00e9 humaine et l'environnement et un r\u00e9sum\u00e9 des principaux types de sc\u00e9narios d'accidents majeurs et des mesures de ma\u00eetrise des dangers permettant d'y faire face ;"
+                },
+                {
+                  "text": "2. La confirmation de l'obligation qui est faite \u00e0 l'exploitant de prendre des mesures ad\u00e9quates sur le site et notamment de prendre contact avec les services d'urgence pour faire face \u00e0 des accidents majeurs et en limiter le plus possible les effets ;"
+                },
+                {
+                  "text": "3. Des informations ad\u00e9quates sur le plan particulier d'intervention \u00e9tabli pour lutter contre les \u00e9ventuels effets hors site d'un accident. Ces informations devraient inclure des conseils recommandant de suivre les instructions et de r\u00e9pondre aux demandes des services d'urgence en cas d'accident ;"
+                },
+                {
+                  "text": "4. Les documents relatifs \u00e0 l'existence et la nature du risque, ses cons\u00e9quences pr\u00e9visibles pour les personnes, les biens et l'environnement, aux mesures pr\u00e9vues pour alerter, prot\u00e9ger et secourir et aux consignes de s\u00e9curit\u00e9 \u00e0 adopter en cas d'urgence mentionn\u00e9s \u00e0 l'article R. 741-30 du code de la s\u00e9curit\u00e9 int\u00e9rieure ;"
+                },
+                {
+                  "text": "5. Le cas \u00e9ch\u00e9ant, des informations indiquant si l'\u00e9tablissement se trouve \u00e0 proximit\u00e9 du territoire d'un autre Etat membre susceptible de subir les effets transfrontaliers d'un accident majeur conform\u00e9ment \u00e0 la convention de la Commission \u00e9conomique des Nations unies pour l'Europe sur les effets transfronti\u00e8res des accidents industriels."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe IV",
+              "sections": [],
+              "title": {
+                "text": "PARTIE 2 :"
+              }
+            }
+          ],
+          "title": {
+            "text": "Annexe IV - \u00c9L\u00c9MENTS D'INFORMATION \u00c0 COMMUNIQUER AU PUBLIC PAR LE PR\u00c9FET EN APPLICATION DE L'ARTICLE R. 515-89"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "f3A7dE1c8F21",
+          "outer_alineas": [
+            {
+              "text": "a) Nom ou fonction des personnes habilit\u00e9es \u00e0 d\u00e9clencher des proc\u00e9dures d'urgence et de la personne responsable des mesures d'att\u00e9nuation sur le site et de leur coordination ;"
+            },
+            {
+              "text": "b) Nom ou fonction du responsable des liaisons avec l'autorit\u00e9 responsable du plan particulier d'intervention ;"
+            },
+            {
+              "text": "c) Pour chaque situation ou \u00e9v\u00e9nement pr\u00e9visible qui pourrait jouer un r\u00f4le d\u00e9terminant dans le d\u00e9clenchement d'un accident majeur, description des mesures \u00e0 prendre pour ma\u00eetriser cette situation ou cet \u00e9v\u00e9nement et pour en limiter les cons\u00e9quences, cette description devant s'\u00e9tendre \u00e0 l'\u00e9quipement de s\u00e9curit\u00e9 et aux ressources disponibles ;"
+            },
+            {
+              "text": "d) Mesures visant \u00e0 limiter les risques pour les personnes se trouvant sur le site, y compris syst\u00e8me d'alerte et conduite \u00e0 tenir lors du d\u00e9clenchement de l'alerte ;"
+            },
+            {
+              "text": "e) Dispositions prises pour que, en cas d'incident, l'autorit\u00e9 responsable du d\u00e9clenchement du plan particulier d'intervention soit inform\u00e9e rapidement, type d'informations \u00e0 fournir imm\u00e9diatement et mesures concernant la communication d'informations plus d\u00e9taill\u00e9es au fur et \u00e0 mesure qu'elles deviennent disponibles ;"
+            },
+            {
+              "text": "f) Dispositions visant, en situation d'urgence, \u00e0 guider les services d'urgence externes sur le site et \u00e0 mettre \u00e0 leur disposition les informations facilitant l'efficacit\u00e9 de leur intervention ;"
+            },
+            {
+              "text": "g) Au besoin, dispositions prises pour former le personnel aux t\u00e2ches dont il sera cens\u00e9 s'acquitter et, le cas \u00e9ch\u00e9ant, coordonner cette action avec les services d'urgence externes ;"
+            },
+            {
+              "text": "h) Dispositions visant \u00e0 soutenir les mesures d'att\u00e9nuation prises hors site ;"
+            },
+            {
+              "text": "i) Dispositions permettant de mener les premiers pr\u00e9l\u00e8vements environnementaux, dont les m\u00e9thodes de pr\u00e9l\u00e8vement appropri\u00e9es, et les analyses comme indiqu\u00e9 \u00e0 l'article 5 du pr\u00e9sent arr\u00eat\u00e9, en ad\u00e9quation avec les types de produits de d\u00e9composition mentionn\u00e9s au I de l'annexe III. Ce point est applicable aux plans d'op\u00e9ration interne ou \u00e0 leurs mises \u00e0 jour post\u00e9rieurs au 1er janvier 2023."
+            },
+            {
+              "text": "j) Moyens et m\u00e9thodes pr\u00e9vus, en ce qui concerne l'exploitant, pour la remise en \u00e9tat et le nettoyage de l'environnement apr\u00e8s un accident majeur comme indiqu\u00e9 \u00e0 l'article 5 du pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe V",
+          "sections": [],
+          "title": {
+            "text": "Annexe V - DONN\u00c9ES ET INFORMATIONS DEVANT FIGURER DANS LE PLAN D'OP\u00c9RATION INTERNE, OU DANS SA MISE \u00c0 JOUR POST\u00c9RIEURE AU 31 D\u00c9CEMBRE 2021"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 26/05/14 relatif \u00e0 la pr\u00e9vention des accidents majeurs dans les installations class\u00e9es mentionn\u00e9es \u00e0 la section 9, chapitre V, titre Ier du livre V du code de l'environnement"
+  },
+  "visa": [
+    {
+      "text": "Vu la directive 2012/18/UE du Parlement europ\u00e9en et du Conseil du 4 juillet 2012 relative \u00e0 la ma\u00eetrise des dangers li\u00e9s aux accidents majeurs impliquant des substances dangereuses, modifiant puis abrogeant la directive 96/82/CE du Conseil ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, notamment le titre Ier du livre V ;"
+    },
+    {
+      "text": "Vu l'avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques en date du 3 juillet 2013 ;"
+    },
+    {
+      "text": "Vu les observations formul\u00e9es lors de la consultation publique r\u00e9alis\u00e9e du 1er juin 2013 au 25 juin 2013, "
+    }
+  ]
+}

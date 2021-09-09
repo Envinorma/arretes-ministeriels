@@ -1,0 +1,2139 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/4529",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2780",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2780"
+    }
+  ],
+  "date_of_signature": "2008-04-22",
+  "id": "JORFTEXT000018800981",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018800981",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "9CacF9AF5904",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d0FC75bA339c",
+          "outer_alineas": [
+            {
+              "text": "1. Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions techniques applicables aux installations de compostage soumises \u00e0 autorisation au titre de la rubrique 2780, ou connexes d'une installation soumise \u00e0 autorisation effectuant du compostage dans des quantit\u00e9s sup\u00e9rieures au seuil d'autorisation de la rubrique 2780. L'objet de ces installations est la production de compost destin\u00e9 \u00e0 \u00eatre utilis\u00e9 comme mati\u00e8re fertilisante ou support de culture ou \u00e0 \u00eatre \u00e9pandu."
+            },
+            {
+              "text": "Il ne concerne pas l'\u00e9puration d'effluents aqueux ou de d\u00e9chets liquides."
+            },
+            {
+              "text": "Dans le cas d'une installation de m\u00e9thanisation, le pr\u00e9sent arr\u00eat\u00e9 ne vise pas non plus la phase de mise au repos sur place de la mati\u00e8re solide r\u00e9siduelle apr\u00e8s m\u00e9thanisation (digestat). L'\u00e9tape du proc\u00e9d\u00e9 de m\u00e9thanisation correspondant \u00e0 cette mise au repos est alors r\u00e9glement\u00e9e par l'arr\u00eat\u00e9 autorisant l'installation en cause."
+            },
+            {
+              "text": "2. Est interdite dans les installations de compostage l'admission des d\u00e9chets suivants :"
+            },
+            {
+              "text": "- d\u00e9chets dangereux au sens de l'article R. 541-8 du code de l'environnement susvis\u00e9 ;"
+            },
+            {
+              "text": "- sous-produits animaux de cat\u00e9gorie 1 tels que d\u00e9finis \u00e0 l'article 4 du r\u00e8glement (CE) n\u00b0 1774/2002 ;"
+            },
+            {
+              "text": "- bois termit\u00e9s ;"
+            },
+            {
+              "text": "- d\u00e9chets contenant un ou plusieurs radionucl\u00e9ides dont l'activit\u00e9 ou la concentration ne peut \u00eatre n\u00e9glig\u00e9e du point de vue de la radioprotection."
+            },
+            {
+              "text": "L'admission des d\u00e9chets d'activit\u00e9 de soins \u00e0 risques infectieux et assimil\u00e9s, m\u00eame apr\u00e8s pr\u00e9traitement par d\u00e9sinfection, est interdite dans les installations de compostage."
+            },
+            {
+              "text": "3. Le pr\u00e9sent arr\u00eat\u00e9 vise \u00e0 encadrer les incidences environnementales des installations susvis\u00e9es. Ses dispositions s'appliquent sans pr\u00e9judice de l'application d'autres r\u00e9glementations applicables, et notamment :"
+            },
+            {
+              "text": "- du r\u00e8glement (CE) n\u00b0 1774/2002 modifi\u00e9 du 3 octobre 2002 \u00e9tablissant des r\u00e8gles sanitaires applicables aux sous-produits animaux non destin\u00e9s \u00e0 la consommation humaine,"
+            },
+            {
+              "text": "- de l'arr\u00eat\u00e9 du 12 f\u00e9vrier 2003 modifi\u00e9 relatif aux prescriptions applicables aux installations class\u00e9es soumises \u00e0 autorisation sous la rubrique 2731."
+            },
+            {
+              "text": "En particulier, les installations compostant des sous-produits animaux tels que d\u00e9finis par le r\u00e8glement (CE) n\u00b0 1774/2002 doivent respecter les dispositions d\u00e9finies par ledit r\u00e8glement et obtenir, le cas \u00e9ch\u00e9ant, un agr\u00e9ment conform\u00e9ment aux prescriptions d\u00e9finies par le ministre charg\u00e9 de l'agriculture par l'arr\u00eat\u00e9 du 1er septembre 2003 pris en application de l'article L. 226-3 du code rural. Les composts obtenus \u00e0 partir de sous-produits animaux, qu'ils soient mis sur le march\u00e9, utilis\u00e9s pour la fabrication de mati\u00e8re fertilisante ou de support de culture ou \u00e9pandus, doivent satisfaire aux crit\u00e8res microbiologiques d\u00e9finis dans ce r\u00e8glement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1er",
+          "sections": [],
+          "title": {
+            "text": "Article 1er"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5c5fc0e1B4FD",
+          "outer_alineas": [
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "- Installation existante : installation de traitement par compostage autoris\u00e9e avant la date de publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel, ou dont la demande d'autorisation d'exploiter a \u00e9t\u00e9 d\u00e9pos\u00e9e avant cette date. \u00bb"
+            },
+            {
+              "text": "- Compostage : proc\u00e9d\u00e9 biologique a\u00e9robie contr\u00f4l\u00e9 avec mont\u00e9e en temp\u00e9rature, qui permet l'hygi\u00e9nisation et la stabilisation par d\u00e9gradation/r\u00e9organisation de la mati\u00e8re organique et conduit \u00e0 l'obtention d'un compost utilisable comme amendement ou engrais organique."
+            },
+            {
+              "text": "- Lot : une quantit\u00e9 de produits fabriqu\u00e9e dans un seul \u00e9tablissement sur un m\u00eame site de production en utilisant des param\u00e8tres de production uniformes et qui est identifi\u00e9e de fa\u00e7on \u00e0 en permettre le rappel ou le retraitement si n\u00e9cessaire."
+            },
+            {
+              "text": "- Andain : d\u00e9p\u00f4t longitudinal de mati\u00e8re organique en fermentation form\u00e9 lors du proc\u00e9d\u00e9 de compostage, que le proc\u00e9d\u00e9 se d\u00e9roule en milieu ouvert ou ferm\u00e9."
+            },
+            {
+              "text": "- Fraction fermentescible des ordures m\u00e9nag\u00e8res (FFOM) : d\u00e9chets d'aliments et d\u00e9chets biod\u00e9gradables tels que d\u00e9finis \u00e0 l'article 1er de l'arr\u00eat\u00e9 du 9 septembre 1997 susvis\u00e9 provenant des m\u00e9nages."
+            },
+            {
+              "text": "- Denr\u00e9es non consommables : aliments qui ne sont plus destin\u00e9s \u00e0 la consommation humaine notamment pour des raisons commerciales ou en raison de d\u00e9fauts de fabrication ou d'emballage et qui ne sont pas contenus dans la fraction fermentescible des ordures m\u00e9nag\u00e8res."
+            },
+            {
+              "text": "- Rebuts de fabrication de produits destin\u00e9s \u00e0 la consommation humaine : d\u00e9chets d'aliments d\u00e9riv\u00e9s de la fabrication des produits destin\u00e9s \u00e0 la consommation humaine."
+            },
+            {
+              "text": "- Concentration d'odeur (ou niveau d'odeur) : niveau de dilution qu'il faut appliquer \u00e0 un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un \u00e9chantillon de population. Elle s'exprime en unit\u00e9 d'odeur europ\u00e9enne par m\u00b3 (uoE/m\u00b3). Elle est obtenue suivant la norme NF EN 13 725."
+            },
+            {
+              "text": "- D\u00e9bit d'odeur : produit du d\u00e9bit d'air rejet\u00e9 exprim\u00e9 en m\u00b3/h par la concentration d'odeur. Il s'exprime en unit\u00e9 d'odeur europ\u00e9enne par heure (uoE/h)."
+            },
+            {
+              "text": "- Retour au sol : usage d'amendement ou de fertilisation des sols ; regroupe la destination des composts mis sur le march\u00e9 et celle des d\u00e9chets \u00e9pandus sur terrain agricole dans le cadre d'un plan d'\u00e9pandage."
+            },
+            {
+              "text": "- Mati\u00e8re : substance ou mat\u00e9riau organique, ind\u00e9pendamment de son statut de produit fini ou de d\u00e9chet au sens des r\u00e9glementations aff\u00e9rentes."
+            },
+            {
+              "text": "- Les mati\u00e8res produites par l'installation sont de deux cat\u00e9gories :"
+            },
+            {
+              "text": "1. Les produits finis, correspondant aux mati\u00e8res fertilisantes et supports de culture conformes \u00e0 une norme rendue d'application obligatoire ou b\u00e9n\u00e9ficiant d'une homologation, d'une autorisation provisoire de vente ou d'une autorisation de distribution pour exp\u00e9rimentation ;"
+            },
+            {
+              "text": "2. Les d\u00e9chets, parmi lesquels :"
+            },
+            {
+              "text": "- 2 a : les mati\u00e8res interm\u00e9diaires, destin\u00e9es \u00e0 \u00eatre utilis\u00e9es comme mati\u00e8re premi\u00e8re dans une autre installation class\u00e9e, en vue de la production des produits finis vis\u00e9s ci-dessus. Elles doivent respecter au minimum les teneurs limites d\u00e9finies dans la norme NFU 44-051 en ce qui concerne les \u00e9l\u00e9ments traces m\u00e9talliques, compos\u00e9s traces organiques, inertes et impuret\u00e9s ;"
+            },
+            {
+              "text": "- 2 b : les d\u00e9chets compost\u00e9s \u00bb destin\u00e9s \u00e0 l'enfouissement ou au retour au sol apr\u00e8s \u00e9pandage ;"
+            },
+            {
+              "text": "- 2 c : les autres d\u00e9chets produits par l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre I\u00a0: d\u00e9finitions et champ d\u2019application"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "B17c8d574ADD",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "DISPOSITIONS_GENERALES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5b5Ea2e0BDD4",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E52aa5b4Ea0D",
+              "outer_alineas": [
+                {
+                  "text": "1. Une installation de compostage comprend au minimum :"
+                },
+                {
+                  "text": "- une aire* (ou \u00e9quipement d\u00e9di\u00e9) de r\u00e9ception/tri/contr\u00f4le des mati\u00e8res entrantes ;"
+                },
+                {
+                  "text": "- une aire* (ou \u00e9quipement d\u00e9di\u00e9) de stockage des mati\u00e8res entrantes, adapt\u00e9e \u00e0 la nature de celles-ci ;"
+                },
+                {
+                  "text": "- une aire* (ou \u00e9quipement d\u00e9di\u00e9) de pr\u00e9paration, le cas \u00e9ch\u00e9ant ;"
+                },
+                {
+                  "text": "- une aire* (ou \u00e9quipement d\u00e9di\u00e9) de fermentation a\u00e9robie ;"
+                },
+                {
+                  "text": "- une aire* (ou \u00e9quipement d\u00e9di\u00e9) de maturation ;"
+                },
+                {
+                  "text": "- une aire (ou \u00e9quipement d\u00e9di\u00e9) d'affinage/criblage/formulation, le cas \u00e9ch\u00e9ant ;"
+                },
+                {
+                  "text": "- une aire de stockage des composts et d\u00e9chets stabilis\u00e9s avant exp\u00e9dition, le cas \u00e9ch\u00e9ant."
+                },
+                {
+                  "text": "A l'exception de celles qui sont abrit\u00e9es dans un b\u00e2timent ferm\u00e9, ces diff\u00e9rentes aires sont situ\u00e9es \u00e0 8 m\u00e8tres au moins des limites de propri\u00e9t\u00e9 du site."
+                },
+                {
+                  "text": "L'arr\u00eat\u00e9 pr\u00e9fectoral peut pr\u00e9voir un nombre minimal d'aires inf\u00e9rieur dans le cas du compostage de d\u00e9jections animales."
+                },
+                {
+                  "text": "2. L'installation n'est pas implant\u00e9e dans le p\u00e9rim\u00e8tre de protection rapproch\u00e9 d'un captage d'eau destin\u00e9e \u00e0 la consommation humaine."
+                },
+                {
+                  "text": "L'installation est implant\u00e9e de mani\u00e8re \u00e0 ce que les diff\u00e9rentes aires et \u00e9quipements mentionn\u00e9s au 1 soient situ\u00e9s :"
+                },
+                {
+                  "text": "- \u00e0 au moins 50 m\u00e8tres des habitations occup\u00e9es par des tiers, stades ou terrains de camping agr\u00e9\u00e9s ainsi que des zones destin\u00e9es \u00e0 l'habitation par des documents d'urbanisme opposables aux tiers, \u00e9tablissements recevant du public, \u00e0 l'exception de ceux en lien avec la collecte ou le traitement des d\u00e9chets. Cette distance minimale est port\u00e9e de 50 \u00e0 200 m\u00e8tres pour les aires signal\u00e9es avec un ast\u00e9risque (*) au 1 du pr\u00e9sent article lorsqu'elles ne sont pas ferm\u00e9es, avec traitement des effluents gazeux, et \u00e0 100 m\u00e8tres pour lesdites aires d'installations compostant des effluents d'\u00e9levage connexes de l'\u00e9tablissement qui les a produits. La distance minimale de 200 m\u00e8tres s'applique \u00e9galement aux installations, ferm\u00e9es ou non, qui traitent des d\u00e9chets comportant des mati\u00e8res d'origine animale autres que les ordures m\u00e9nag\u00e8res r\u00e9siduelles, la FFOM, les d\u00e9chets d'aliments de la restauration, les d\u00e9jections animales et les mati\u00e8res stercoraires ;"
+                },
+                {
+                  "text": "- \u00e0 au moins 35 m\u00e8tres des puits et forages ext\u00e9rieurs au site, des sources, des aqueducs en \u00e9coulement libre, des rivages, des berges des cours d'eau, de toute installation souterraine ou semi-enterr\u00e9e utilis\u00e9e pour le stockage des eaux destin\u00e9es \u00e0 l'alimentation en eau potable, \u00e0 des industries agroalimentaires, ou \u00e0 l'arrosage des cultures mara\u00eech\u00e8res ou hydroponiques ;"
+                },
+                {
+                  "text": "- \u00e0 au moins 200 m\u00e8tres des lieux publics de baignade et des plages ;"
+                },
+                {
+                  "text": "- \u00e0 au moins 500 m\u00e8tres des piscicultures et des zones conchylicoles."
+                },
+                {
+                  "text": "L'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation peut pr\u00e9voir des distances minimales d'implantation par rapport aux lieux publics de baignade, plages et piscicultures plus faibles sous r\u00e9serve qu'une telle modification n'ait pas d'impact sur la qualit\u00e9 des eaux des zones concern\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-autorisation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2008-05-17",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "Article 3"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0E0b6A4dD0Ed",
+              "outer_alineas": [
+                {
+                  "text": "Le site doit \u00eatre clos \u00e0 une hauteur minimale de 2 m\u00e8tres de mani\u00e8re \u00e0 interdire toute entr\u00e9e non autoris\u00e9e \u00e0 l'int\u00e9rieur du site. Cette disposition ne s'applique toutefois pas aux installations connexes d'un \u00e9levage compostant ses propres effluents."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [],
+              "title": {
+                "text": "Article 4"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d346Ac208F9b",
+              "outer_alineas": [
+                {
+                  "text": "L'acc\u00e8s aux diff\u00e9rentes aires de l'installation telles que mentionn\u00e9es \u00e0 l'article 3 est con\u00e7u de fa\u00e7on \u00e0 permettre l'intervention des services d'incendie et de secours. Les b\u00e2timents \u00e9ventuels sont desservis, sur au moins une face, par une voie carrossable. Une surface au moins \u00e9quivalente \u00e0 celle de l'andain de fermentation ou de maturation le plus important est maintenue libre en permanence dans l'enceinte de l'installation pour faciliter l'extinction en cas d'incendie."
+                },
+                {
+                  "text": "En cas de local ferm\u00e9, une des fa\u00e7ades est \u00e9quip\u00e9e d'ouvrants permettant le passage de sauveteurs \u00e9quip\u00e9s."
+                },
+                {
+                  "text": "Les voies de circulation, les pistes et voies d'acc\u00e8s sont nettement d\u00e9limit\u00e9es, maintenues en \u00e9tat de propret\u00e9 et d\u00e9gag\u00e9es de tout objet susceptible de g\u00eaner la circulation. L'exploitant fixe les r\u00e8gles de circulation et de stationnement applicables \u00e0 l'int\u00e9rieur de son installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5",
+              "sections": [],
+              "title": {
+                "text": "Article 5"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AfBFAFc7a06E",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant prend les dispositions appropri\u00e9es qui permettent d'int\u00e9grer l'installation dans le paysage."
+                },
+                {
+                  "text": "L'ensemble de l'installation est entretenu et maintenu en permanence en \u00e9tat de propret\u00e9. Les op\u00e9rations de nettoyage et d'entretien sont men\u00e9es de fa\u00e7on \u00e0 \u00e9viter toute nuisance et tout risque sanitaire."
+                },
+                {
+                  "text": "L'exploitant prend les mesures n\u00e9cessaires pour lutter contre les prolif\u00e9rations d'insectes et de rongeurs et pour \u00e9viter le d\u00e9veloppement de la v\u00e9g\u00e9tation sur les tas de compost, et ce sans alt\u00e9ration de ceux-ci. Les abords de l'installation, plac\u00e9s sous le contr\u00f4le de l'exploitant, sont am\u00e9nag\u00e9s et maintenus en bon \u00e9tat de propret\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 6",
+              "sections": [],
+              "title": {
+                "text": "Article 6"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bDdefB6a1b6c",
+              "outer_alineas": [
+                {
+                  "text": "Toutes les aires mentionn\u00e9es \u00e0 l'article 3 sont imperm\u00e9ables et \u00e9quip\u00e9es de fa\u00e7on \u00e0 pouvoir recueillir les eaux de ruissellement y ayant transit\u00e9, les jus et les \u00e9ventuelles eaux de proc\u00e9d\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7",
+              "sections": [],
+              "title": {
+                "text": "Article 7"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bbb269747F44",
+              "outer_alineas": [
+                {
+                  "text": "L'entreposage des d\u00e9chets et mati\u00e8res entrants doit se faire de mani\u00e8re s\u00e9par\u00e9e de celui des composts, selon leur nature, sur les aires identifi\u00e9es r\u00e9serv\u00e9es \u00e0 cet effet. Les produits finis et d\u00e9chets destin\u00e9s \u00e0 un retour au sol doivent \u00eatre stock\u00e9s par lots afin d'en assurer la tra\u00e7abilit\u00e9."
+                },
+                {
+                  "text": "Tout entreposage \u00e0 l'air libre de mati\u00e8res pulv\u00e9rulentes, tr\u00e8s odorantes ou fortement \u00e9volutives est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 8",
+              "sections": [],
+              "title": {
+                "text": "Article 8"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c1CaD0c4744E",
+              "outer_alineas": [
+                {
+                  "text": "Si des produits tels que filtres, produits de neutralisation, liquides inhibiteurs ou produits absorbants sont utilis\u00e9s de mani\u00e8re courante ou occasionnelle pour pr\u00e9venir ou traiter les nuisances odorantes, l'exploitant dispose de r\u00e9serves suffisantes de ces produits."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9",
+              "sections": [],
+              "title": {
+                "text": "Article 9"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre I\u00a0: Dispositions g\u00e9n\u00e9rales"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1F5Bb1dAa93c",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "DdCE282Ae4c7",
+              "outer_alineas": [
+                {
+                  "text": "Sont admissibles dans un centre de compostage pour la production de compost destin\u00e9 \u00e0 la mise sur le march\u00e9 ou \u00e0 l'\u00e9pandage les seuls d\u00e9chets et mati\u00e8res pr\u00e9sentant un int\u00e9r\u00eat pour les sols ou la nutrition des plantes ou pour le bon d\u00e9roulement du processus de compostage."
+                },
+                {
+                  "text": "Certains d\u00e9chets, susceptibles d'\u00e9voluer en ana\u00e9robie et de g\u00e9n\u00e9rer des nuisances odorantes, doivent, d\u00e8s que possible, le cas \u00e9ch\u00e9ant apr\u00e8s fragmentation, \u00eatre m\u00e9lang\u00e9s avec des produits pr\u00e9sentant des caract\u00e9ristiques compl\u00e9mentaires (structurant, carbon\u00e9, sec), dont l'installation doit disposer en quantit\u00e9 suffisante."
+                },
+                {
+                  "text": "L'arr\u00eat\u00e9 d'autorisation fixe la liste des natures de d\u00e9chets et de mati\u00e8res que l'exploitant est autoris\u00e9 \u00e0 admettre dans son installation de compostage ."
+                },
+                {
+                  "text": "Toute admission envisag\u00e9e par l'exploitant de d\u00e9chets ou de mati\u00e8res d'une nature diff\u00e9rente de celle mentionn\u00e9e dans l'arr\u00eat\u00e9 d'autorisation susceptible d'entra\u00eener un changement notable des \u00e9l\u00e9ments des dossiers de demande d'autorisation initiale est port\u00e9e \u00e0 la connaissance du pr\u00e9fet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 10",
+              "sections": [],
+              "title": {
+                "text": "Article 10"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ADaDa2eeF1d6",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant d'une installation de compostage \u00e9labore un ou des cahiers des charges pour d\u00e9finir la qualit\u00e9 des d\u00e9chets admissibles. Avant la premi\u00e8re admission d'un d\u00e9chet dans son installation et en vue d'en v\u00e9rifier l'admissibilit\u00e9, l'exploitant demande au producteur du d\u00e9chet ou \u00e0 la collectivit\u00e9 en charge de la collecte une information pr\u00e9alable sur la nature et l'origine du d\u00e9chet et sa conformit\u00e9 par rapport au cahier des charges. Cette information pr\u00e9alable est renouvel\u00e9e tous les ans et conserv\u00e9e au moins trois ans par l'exploitant."
+                },
+                {
+                  "text": "Dans le cas du compostage de boues d'\u00e9puration destin\u00e9es \u00e0 un retour au sol, l'information pr\u00e9alable pr\u00e9cise \u00e9galement :"
+                },
+                {
+                  "text": "- la description du proc\u00e9d\u00e9 conduisant \u00e0 la production de boues ;"
+                },
+                {
+                  "text": "- pour les boues urbaines, le recensement des effluents non domestiques trait\u00e9s par le proc\u00e9d\u00e9 d\u00e9crit ;"
+                },
+                {
+                  "text": "- une liste des contaminants susceptibles d'\u00eatre pr\u00e9sents en quantit\u00e9 significative dans les boues au regard des installations raccord\u00e9es au r\u00e9seau de collecte dont les eaux sont trait\u00e9es par la station d'\u00e9puration ;"
+                },
+                {
+                  "text": "- une caract\u00e9risation de ces boues au regard des substances pour lesquelles des valeurs limites sont fix\u00e9es par l'arr\u00eat\u00e9 du 8 janvier 1998 susvis\u00e9, r\u00e9alis\u00e9e selon la fr\u00e9quence indiqu\u00e9e dans ledit arr\u00eat\u00e9."
+                },
+                {
+                  "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es le recueil des cahiers des charges et des informations pr\u00e9alables qui lui ont \u00e9t\u00e9 adress\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 11",
+              "sections": [],
+              "title": {
+                "text": "Article 11"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "C3eeBeC5CEfE",
+              "outer_alineas": [
+                {
+                  "text": "Chaque admission de mati\u00e8res et de d\u00e9chets donne lieu \u00e0 une pes\u00e9e pr\u00e9alable hors site ou lors de l'admission et \u00e0 un contr\u00f4le visuel \u00e0 l'arriv\u00e9e sur le site."
+                },
+                {
+                  "text": "Une estimation des quantit\u00e9s entrantes peut faire office de pes\u00e9e si l'installation ne re\u00e7oit qu'une seule cat\u00e9gorie de d\u00e9chets d'un seul producteur, si elle traite moins de 5000 t / an de d\u00e9chets ou dans le cas o\u00f9 les seuls d\u00e9chets compost\u00e9s sont des d\u00e9jections animales avec \u00e9ventuellement des d\u00e9chets verts."
+                },
+                {
+                  "text": "Toute admission de d\u00e9chets autres que des d\u00e9jections animales ou des d\u00e9chets v\u00e9g\u00e9taux fait l'objet d'un contr\u00f4le de non-radioactivit\u00e9 du chargement."
+                },
+                {
+                  "text": "Toute admission de d\u00e9chets ou de mati\u00e8res donne lieu \u00e0 un enregistrement de :"
+                },
+                {
+                  "text": "- la date de r\u00e9ception, l'identit\u00e9 du transporteur et les quantit\u00e9s re\u00e7ues ;"
+                },
+                {
+                  "text": "- l'identit\u00e9 du producteur des d\u00e9chets ou de la collectivit\u00e9 en charge de leur collecte et leur origine avec la r\u00e9f\u00e9rence de l'information pr\u00e9alable correspondante ;"
+                },
+                {
+                  "text": "- pour les boues issues du traitement des eaux us\u00e9es, les r\u00e9sultats des analyses aux fr\u00e9quences pr\u00e9vues par l'arr\u00eat\u00e9 du 8 janvier 1998 permettant d'attester de leur conformit\u00e9 aux limites de qualit\u00e9 exig\u00e9es par ce texte ;"
+                },
+                {
+                  "text": "- la nature et les caract\u00e9ristiques des d\u00e9chets re\u00e7us avec le code correspondant de la nomenclature figurant \u00e0 l'annexe II de l'article R. 541-8 du code de l'environnement ;"
+                },
+                {
+                  "text": "- la date pr\u00e9visionnelle de fin de traitement, correspondant \u00e0 la date d'entr\u00e9e du compost ou du d\u00e9chet stabilis\u00e9 sur l'aire de stockage des mati\u00e8res trait\u00e9es."
+                },
+                {
+                  "text": "Les livraisons refus\u00e9es sont \u00e9galement signal\u00e9es dans ce registre, avec mention des motifs de refus et de la destination des d\u00e9chets refus\u00e9s indiqu\u00e9e par le producteur ou la collectivit\u00e9 en charge de la collecte de ces d\u00e9chets."
+                },
+                {
+                  "text": "Cette disposition relative \u00e0 l'enregistrement des mati\u00e8res ne s'applique pas aux effluents produits par un \u00e9levage dont l'installation de compostage est connexe."
+                },
+                {
+                  "text": "Les registres d'admission sont archiv\u00e9s pendant une dur\u00e9e minimale de dix ans en cas de retour au sol des composts ou des d\u00e9chets et trois ans dans les autres cas. Ces registres sont tenus \u00e0 la disposition de l'inspection des installations class\u00e9es et, le cas \u00e9ch\u00e9ant, des autorit\u00e9s de contr\u00f4les vis\u00e9es \u00e0 l'article L. 255-9 du code rural."
+                },
+                {
+                  "text": "Le m\u00e9lange de divers d\u00e9chets ou le retour en t\u00eate des composts dans le seul but de diluer les polluants ou ind\u00e9sirables est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 12",
+              "sections": [],
+              "title": {
+                "text": "Article 12"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre II\u00a0: Admission des intrants"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7fC57aB6fcea",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "a0151719aC86",
+              "outer_alineas": [
+                {
+                  "text": "Le proc\u00e9d\u00e9 de compostage d\u00e9bute par une phase de fermentation a\u00e9robie de la mati\u00e8re, avec a\u00e9ration de la mati\u00e8re obtenue par retournements et/ou par a\u00e9ration forc\u00e9e. Cette phase a\u00e9robie est conduite selon les dispositions indiqu\u00e9es \u00e0 l'annexe I."
+                },
+                {
+                  "text": "Le temps de s\u00e9jour des mati\u00e8res en cours de fermentation a\u00e9robie compost\u00e9es dans la zone correspondante est au minimum de trois semaines, dur\u00e9e pouvant \u00eatre r\u00e9duite \u00e0 deux semaines en cas d'a\u00e9ration forc\u00e9e."
+                },
+                {
+                  "text": "A l'issue de la phase a\u00e9robie, le compost sont dirig\u00e9s vers la zone de maturation."
+                },
+                {
+                  "text": "L'exploitant fixe les conditions et les moyens de contr\u00f4le permettant d'\u00e9viter l'apparition de conditions ana\u00e9robies au niveau du stockage des mati\u00e8res entrantes ou lors des phases de fermentation ou de maturation. La hauteur maximale des tas et andains de mati\u00e8res fermentescibles lors de ces phases est \u00e0 cet effet limit\u00e9e \u00e0 3 m\u00e8tres. La hauteur peut \u00eatre port\u00e9e \u00e0 5 m\u00e8tres si l'exploitant d\u00e9montre que cette hauteur n'entra\u00eene pas de nuisances et n'a pas d'effet n\u00e9faste sur la qualit\u00e9 du compost."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "Article 13"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d591c2bd9cdD",
+              "outer_alineas": [
+                {
+                  "text": "L'aire de stockage des composts finis est dimensionn\u00e9e de fa\u00e7on \u00e0 permettre le stockage de l'ensemble des composts fabriqu\u00e9s pendant une dur\u00e9e correspondant \u00e0 la plus importante p\u00e9riode pendant laquelle les sorties de site ne sont pas possibles, sauf si l'exploitant dispose de possibilit\u00e9s suffisantes de stockage sur un autre site."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 14",
+              "sections": [],
+              "title": {
+                "text": "Article 14"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8fCCaf40A875",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant d'une installation de production de compost destin\u00e9 \u00e0 un retour au sol (compost mis sur le march\u00e9 ou \u00e9pandu, mati\u00e8re interm\u00e9diaire telle que d\u00e9finie \u00e0 l'article 2) instaure une gestion par lots s\u00e9par\u00e9s de fabrication, depuis la constitution des andains jusqu'\u00e0 la cession du compost. Il indique dans son dossier de demande d'autorisation l'organisation mise en place pour respecter cette gestion par lots. Il tient \u00e0 jour un document de suivi par lot sur lequel il reporte toutes les informations utiles concernant la conduite de la d\u00e9gradation des mati\u00e8res et de l'\u00e9volution biologique du compostage et permettant de faire le lien entre les mati\u00e8res entrantes et les mati\u00e8res sortantes apr\u00e8s compostage."
+                },
+                {
+                  "text": "Lorsqu'elles sont pertinentes en fonction du proc\u00e9d\u00e9 mis en \u0153uvre, les informations suivantes sont en particulier report\u00e9es sur ce document :"
+                },
+                {
+                  "text": "- nature et origine des produits ou d\u00e9chets constituant le lot ;"
+                },
+                {
+                  "text": "- rapport C/ N, taille des particules des d\u00e9chets entrants ;"
+                },
+                {
+                  "text": "- mesures de temp\u00e9rature et d'humidit\u00e9 relev\u00e9es en diff\u00e9rents points au cours du processus (la surveillance du taux d'humidit\u00e9 dans l'andain n'est pas applicable aux proc\u00e9d\u00e9s confin\u00e9s lorsque des probl\u00e8mes sanitaires ou de s\u00e9curit\u00e9 ont \u00e9t\u00e9 mis en \u00e9vidence. Dans ce cas, il est possible de contr\u00f4ler le taux d'humidit\u00e9 avant de charger les d\u00e9chets dans l'unit\u00e9 de compostage confin\u00e9, puis de moduler ce taux \u00e0 la sortie des d\u00e9chets de l'unit\u00e9 de compostage confin\u00e9) ;"
+                },
+                {
+                  "text": "- dates des retournements ou p\u00e9riodes d'a\u00e9ration et des arrosages \u00e9ventuels des andains, ou informations sur l'a\u00e9ration de l'andain (par exemple, concentration d'O2 ou de CO2 dans l'andain, temp\u00e9rature des flux d'air en cas d'a\u00e9ration forc\u00e9e) ;"
+                },
+                {
+                  "text": "- porosit\u00e9, hauteur et largeur des andains. \u00bb"
+                },
+                {
+                  "text": "Les mesures de temp\u00e9rature sont r\u00e9alis\u00e9es conform\u00e9ment \u00e0 l'annexe I. La dur\u00e9e du compostage doit \u00eatre indiqu\u00e9e pour chaque lot."
+                },
+                {
+                  "text": "Ce document de suivi est r\u00e9guli\u00e8rement mis \u00e0 jour, archiv\u00e9 et tenu \u00e0 la disposition de l'inspection des installations class\u00e9es pour une dur\u00e9e minimale de dix ans en cas de retour au sol des composts ou des d\u00e9chets."
+                },
+                {
+                  "text": "Les anomalies de proc\u00e9d\u00e9 et les non-conformit\u00e9s des produits finis doivent \u00eatre relev\u00e9es et analys\u00e9es afin de recevoir un traitement n\u00e9cessaire au retour d'exp\u00e9rience de la m\u00e9thode d'exploitation."
+                },
+                {
+                  "text": "Le pr\u00e9fet peut toutefois adapter les dispositions ci-dessus dans le cas du compostage de d\u00e9jections animales."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 15",
+              "sections": [],
+              "title": {
+                "text": "Article 15"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre III\u00a0: Exploitation et d\u00e9roulement du proc\u00e9d\u00e9 de compostage"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6cFbdBa3dde9",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ea037Fc341eB",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice de l'application des dispositions des articles L. 255-1 \u00e0 L. 255-11 du code rural et des articles L. 214-1 et L. 214-2 du code de la consommation relatifs aux mati\u00e8res fertilisantes et supports de culture, l'exploitant tient les justificatifs relatifs \u00e0 la conformit\u00e9 de chaque lot de produits finis tels que d\u00e9finis \u00e0 l'article 2 du pr\u00e9sent arr\u00eat\u00e9 \u00e0 la disposition de l'inspection des installations class\u00e9es et des autorit\u00e9s de contr\u00f4le charg\u00e9es des articles L. 255-1 \u00e0 L. 255-11 du code rural."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 16",
+              "sections": [],
+              "title": {
+                "text": "Article 16"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bef9b8e6fdDD",
+              "outer_alineas": [
+                {
+                  "text": "Pour chaque mati\u00e8re interm\u00e9diaire telle que d\u00e9finie \u00e0 l'article 2, l'exploitant doit respecter au minimum les teneurs limites d\u00e9finies dans la norme NFU 44-051 concernant les \u00e9l\u00e9ments traces m\u00e9talliques, compos\u00e9s traces organiques, inertes et impuret\u00e9s. Il tient les justificatifs relatifs \u00e0 la conformit\u00e9 de chaque lot \u00e0 la disposition de l'inspection des installations class\u00e9es et des autorit\u00e9s de contr\u00f4le charg\u00e9es des articles L. 255-1 \u00e0 L. 255-11 du code rural."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 17",
+              "sections": [],
+              "title": {
+                "text": "Article 17"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "7EcF461A8C9a",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant tient \u00e0 jour un registre de sortie distinguant les produits finis et les mati\u00e8res interm\u00e9diaires et mentionnant :"
+                },
+                {
+                  "text": "- la date d'enl\u00e8vement de chaque lot ;"
+                },
+                {
+                  "text": "- les masses et caract\u00e9ristiques correspondantes ;"
+                },
+                {
+                  "text": "- le ou les destinataires et les masses correspondantes."
+                },
+                {
+                  "text": "Ce registre de sortie est archiv\u00e9 pendant une dur\u00e9e minimale de dix ans et tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et, le cas \u00e9ch\u00e9ant, des autorit\u00e9s de contr\u00f4les charg\u00e9es des articles L. 255-1 \u00e0 L. 255-11 du code rural."
+                },
+                {
+                  "text": "Le cahier d'\u00e9pandage tel que pr\u00e9vu par l'arr\u00eat\u00e9 du 7 f\u00e9vrier 2005 susvis\u00e9 peut tenir lieu de registre de sortie."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18",
+              "sections": [],
+              "title": {
+                "text": "Article 18"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre IV\u00a0: Devenir des mati\u00e8res trait\u00e9es"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "BF702AA0Bd04",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2cEbc918c6C0",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant prend les dispositions n\u00e9cessaires lors de la conception, la construction et l'exploitation de l'installation pour limiter les nuisances, notamment olfactives, et les risques de pollutions accidentelles de l'air, de l'eau ou des sols."
+                },
+                {
+                  "text": "Il veille notamment \u00e0 assurer l'a\u00e9ration n\u00e9cessaire des mati\u00e8res trait\u00e9es pour \u00e9viter leur d\u00e9gradation ana\u00e9robie \u00e0 tous les stades de leur pr\u00e9sence sur le site. Il prend les dispositions n\u00e9cessaires pour \u00e9viter la stagnation prolong\u00e9e de boues en fond de bassins de r\u00e9tention des eaux de ruissellement."
+                },
+                {
+                  "text": "L'exploitant adopte toutes dispositions n\u00e9cessaires pour pr\u00e9venir et limiter les envols de poussi\u00e8res et autres mati\u00e8res en mettant en place si n\u00e9cessaire des \u00e9crans de v\u00e9g\u00e9tation autour de l'installation et des syst\u00e8mes d'aspersion, de b\u00e2chage ou de brise-vent pour les \u00e9quipements ou stockages situ\u00e9s en ext\u00e9rieur."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "Article 19"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ae1a71D923ab",
+              "outer_alineas": [
+                {
+                  "text": "Dans les zones vuln\u00e9rables, d\u00e9limit\u00e9es en application des articles R. 211-75\u00e0 R. 211-78 du code de l'environnement, les dispositions fix\u00e9es par les programmes d'actions \u00e0 mettre en \u0153uvre en vue de la protection des eaux contre la pollution par les nitrates d'origine agricole pr\u00e9vus aux articles R. 211-80\u00e0 R. 211-83 du code de l'environnement sont applicables \u00e0 l'installation. \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19-1",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "e1AfF4e22ECC",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 19-1",
+                  "sections": [],
+                  "title": {
+                    "text": "Section I\u00a0: Stockage de liquides"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 19-1"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BfC51c91dFEA",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions des articles 10 et 11 de l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 susvis\u00e9 relatives au stockage de liquides susceptibles de cr\u00e9er une pollution sont applicables aux installations vis\u00e9es \u00e0 l'article 1er du pr\u00e9sent arr\u00eat\u00e9 si elles stockent de tels liquides."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 20",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "24784757961a",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 20",
+                  "sections": [],
+                  "title": {
+                    "text": "Section II\u00a0: Effluents liquides"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 20"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "551672dD4099",
+              "outer_alineas": [
+                {
+                  "text": "En cas de rejet dans le milieu naturel, hors plan d'\u00e9pandage, des effluents provenant des aires ou \u00e9quipements mentionn\u00e9s au 1 de l'article 3, le r\u00e9seau de collecte des effluents permet de s\u00e9parer les eaux r\u00e9siduaires pollu\u00e9es des eaux pluviales qui ne sont pas entr\u00e9es en contact avec les d\u00e9chets ou le compost."
+                },
+                {
+                  "text": "Toutes dispositions sont prises pour \u00e9viter l'entr\u00e9e des eaux de ruissellement en provenance de l'ext\u00e9rieur du site et l'accumulation des eaux pluviales sur les aires vis\u00e9es \u00e0 l'article 3."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 21",
+              "sections": [],
+              "title": {
+                "text": "Article 21"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BCCB758dc66E",
+              "outer_alineas": [
+                {
+                  "text": "Les effluents recueillis sont recycl\u00e9s dans l'installation pour l'arrosage ou l'humidification des andains lorsque c'est n\u00e9cessaire. A d\u00e9faut, et lorsqu'ils ne font pas l'objet d'un \u00e9pandage, ils sont trait\u00e9s de la fa\u00e7on suivante :"
+                },
+                {
+                  "text": "- les eaux de toiture peuvent \u00eatre directement rejet\u00e9es dans le milieu naturel sous r\u00e9serve du respect des valeurs d\u00e9finies \u00e0 l'annexe II. La conformit\u00e9 des eaux rejet\u00e9es aux objectifs de qualit\u00e9 du cours d'eau r\u00e9cepteur ou aux normes de rejet d\u00e9finies \u00e0 l'annexe II est v\u00e9rifi\u00e9e p\u00e9riodiquement par l'exploitant ;"
+                },
+                {
+                  "text": "- les autres eaux pluviales qui ne sont pas entr\u00e9es en contact avec les d\u00e9chets ou avec le compost peuvent \u00eatre rejet\u00e9es dans le milieu naturel au moins apr\u00e8s passage dans un d\u00e9canteur-d\u00e9shuileur, ou dans le r\u00e9seau pluvial desservant l'installation, s'il existe. La conformit\u00e9 des eaux rejet\u00e9es aux objectifs de qualit\u00e9 du cours d'eau r\u00e9cepteur ou aux normes de rejet d\u00e9finies \u00e0 l'annexe II est v\u00e9rifi\u00e9e par l'exploitant \u00e0 une fr\u00e9quence au moins semestrielle ;"
+                },
+                {
+                  "text": "- les eaux r\u00e9siduaires et pluviales pollu\u00e9es sont dirig\u00e9es vers un bassin de r\u00e9tention, dont la capacit\u00e9 est dimensionn\u00e9e en fonction de l'\u00e9tude d'impact. Les eaux ainsi collect\u00e9es ne peuvent \u00eatre rejet\u00e9es, le cas \u00e9ch\u00e9ant apr\u00e8s traitement, que si elles respectent a minima les valeurs limites d\u00e9finies \u00e0 l'annexe II. L'arr\u00eat\u00e9 d'autorisation fixe la fr\u00e9quence \u00e0 laquelle l'exploitant effectue la surveillance de la qualit\u00e9 de ces rejets."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 22",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "E3DaabcC3EAF",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 22",
+                  "sections": [],
+                  "title": {
+                    "text": "Section III\u00a0: D\u00e9chets produits par l'installation"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 22"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E4EA96aaC3Ae",
+              "outer_alineas": [
+                {
+                  "text": "Toutes dispositions sont prises pour limiter les quantit\u00e9s des autres d\u00e9chets produits au sens du 2 c de l'article 2, et pour favoriser le recyclage ou la valorisation des mati\u00e8res conform\u00e9ment \u00e0 la r\u00e9glementation."
+                },
+                {
+                  "text": "Les mati\u00e8res qui ne peuvent pas \u00eatre valoris\u00e9es sont \u00e9limin\u00e9es dans des installations habilit\u00e9es \u00e0 les recevoir dans des conditions fix\u00e9es par la r\u00e9glementation en vigueur."
+                },
+                {
+                  "text": "L'installation dispose d'un emplacement d\u00e9di\u00e9 \u00e0 l'entreposage des d\u00e9chets dangereux susceptibles d'\u00eatre extraits des d\u00e9chets destin\u00e9s au compostage."
+                },
+                {
+                  "text": "Les d\u00e9chets produits par l'installation sont stock\u00e9s dans des conditions pr\u00e9venant les risques d'accident et de pollution (combustion, r\u00e9actions ou \u00e9manations dangereuses, envols, infiltrations dans le sol, odeurs...) et \u00e9vacu\u00e9s r\u00e9guli\u00e8rement."
+                },
+                {
+                  "text": "L'exploitant tient \u00e0 jour un registre des lots de d\u00e9chets destin\u00e9s \u00e0 un retour au sol produits par l'exploitation, sur lequel il reporte :"
+                },
+                {
+                  "text": "- le type de d\u00e9chet ;"
+                },
+                {
+                  "text": "- l'indication de chaque lot de d\u00e9chets ;"
+                },
+                {
+                  "text": "- les masses et caract\u00e9ristiques correspondantes ;"
+                },
+                {
+                  "text": "- les dates d'enl\u00e8vement et les destinataires de chaque lot de d\u00e9chets et les masses correspondantes."
+                },
+                {
+                  "text": "Ce registre est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                },
+                {
+                  "text": "Le cahier d'\u00e9pandage tel que pr\u00e9vu par l'arr\u00eat\u00e9 du 7 f\u00e9vrier 2005 susvis\u00e9 peut tenir lieu de registre des lots."
+                },
+                {
+                  "text": "L'exploitant doit pouvoir prouver qu'il \u00e9limine tous ses d\u00e9chets et notamment ses d\u00e9chets compost\u00e9s en conformit\u00e9 avec la r\u00e9glementation. Si les d\u00e9chets compost\u00e9s ou stabilis\u00e9s sont destin\u00e9s \u00e0 l'\u00e9pandage sur terres agricoles, celui-ci fait l'objet d'un plan d'\u00e9pandage dans le respect des conditions vis\u00e9es \u00e0 la section IV \" Epandage \" de l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 modifi\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 23",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "C44AAeEF0eb4",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 23",
+                  "sections": [],
+                  "title": {
+                    "text": "Section IV\u00a0: Odeurs et poussi\u00e8res"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 23"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6b948fab72Cf",
+              "outer_alineas": [
+                {
+                  "text": "Les poussi\u00e8res, gaz et compos\u00e9s odorants produits par les sources odorantes sont, dans la mesure du possible, capt\u00e9s \u00e0 la source et canalis\u00e9s."
+                },
+                {
+                  "text": "Les effluents gazeux canalis\u00e9s sont achemin\u00e9s avant rejet vers une installation d'\u00e9puration des gaz."
+                },
+                {
+                  "text": "Dans le cas de sources potentielles d'odeurs de grande surface non confin\u00e9es (aire de stockage, andains, bassin de r\u00e9tention des eaux...), celles-ci sont implant\u00e9es et exploit\u00e9es de mani\u00e8re \u00e0 minimiser la g\u00eane pour le voisinage. L'exploitant adapte ses activit\u00e9s en plein air aux conditions m\u00e9t\u00e9orologiques et climatiques, notamment il ne r\u00e9alise pas d'op\u00e9rations susceptibles de provoquer de forts envols de poussi\u00e8res ou de nuisances odorantes (formation d'andains, retournement, criblage, broyage) lors de grands vents ou lorsque les vents sont orient\u00e9s vers des r\u00e9cepteurs sensibles, et les andains sont positionn\u00e9s de fa\u00e7on \u00e0 limiter la dispersion des polluants (notamment, la plus faible surface possible est expos\u00e9e aux vents dominants, et les andains sont plac\u00e9s de pr\u00e9f\u00e9rence aux endroits du site o\u00f9 l'altitude est la plus basse), ou l'exploitant utilise des membranes de couverture semi-perm\u00e9ables. \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 24",
+              "sections": [],
+              "title": {
+                "text": "Article 24"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eF42AE0EeC23",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des valeurs limites d'\u00e9missions d\u00e9finies par l'arr\u00eat\u00e9 du 17 d\u00e9cembre 2019 relatif aux meilleures techniques disponibles (MTD) applicables \u00e0 certaines installations de traitement de d\u00e9chets relevant du r\u00e9gime de l'autorisation et de la directive IED, \u00bb les rejets canalis\u00e9s dans l'atmosph\u00e8re, mesur\u00e9s dans des conditions normalis\u00e9es, contiennent moins de :"
+                },
+                {
+                  "text": "- 5 mg/Nm3 d'hydrog\u00e8ne sulfur\u00e9 (H2S) sur gaz sec si le flux d\u00e9passe 50 g/h ;"
+                },
+                {
+                  "text": "- 50 mg/Nm3 d'ammoniac (NH3) sur gaz sec si le flux d\u00e9passe 100 g/h."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 25",
+              "sections": [],
+              "title": {
+                "text": "Article 25"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ca51Ff4cd568",
+              "outer_alineas": [
+                {
+                  "text": "I. Pour les installations nouvelles, l'\u00e9tude d'impact figurant au dossier de demande d'autorisation d'exploiter \u00e9tablit la liste des principales sources d'\u00e9missions odorantes vers l'ext\u00e9rieur, qu'elles soient continues ou discontinues, et mentionne le d\u00e9bit d'odeur correspondant. Elle comprend une \u00e9tude de dispersion atmosph\u00e9rique qui prend en compte les conditions locales de dispersion des polluants gazeux et permet de d\u00e9terminer les d\u00e9bits d'odeur \u00e0 ne pas d\u00e9passer pour permettre de respecter l'objectif de qualit\u00e9 de l'air mentionn\u00e9 au paragraphe suivant et d'assurer l'absence de g\u00eane olfactive notable aux riverains. L'\u00e9tude d'impact \u00e9tablit \u00e9galement l'\u00e9tat initial de la situation olfactive de l'environnement du site."
+                },
+                {
+                  "text": "Le d\u00e9bit d'odeur rejet\u00e9, tel qu'il est \u00e9valu\u00e9 par l'\u00e9tude d'impact, doit \u00eatre compatible avec l'objectif suivant de qualit\u00e9 de l'air ambiant : la concentration d'odeur imputable \u00e0 l'installation telle qu'elle est \u00e9valu\u00e9e dans l'\u00e9tude d'impact au niveau des zones d'occupation humaine list\u00e9es \u00e0 l'article 3 (habitations occup\u00e9es par des tiers, stades ou terrains de camping agr\u00e9\u00e9s ainsi que zones destin\u00e9es \u00e0 l'habitation par des documents d'urbanisme opposables aux tiers, \u00e9tablissements recevant du public \u00e0 l'exception de ceux en lien avec la collecte et le traitement des d\u00e9chets) dans un rayon de 3 000 m\u00e8tres des limites cl\u00f4tur\u00e9es de l'installation ne doit pas d\u00e9passer la limite de 5 uoE /m\u00b3 plus de 175 heures par an, soit une fr\u00e9quence de d\u00e9passement de 2 %. Ces p\u00e9riodes de d\u00e9passement int\u00e8grent les pannes \u00e9ventuelles des \u00e9quipements de compostage et de traitement des compos\u00e9s odorants, qui sont con\u00e7us pour que leurs dur\u00e9es d'indisponibilit\u00e9 soient aussi r\u00e9duites que possible."
+                },
+                {
+                  "text": "II. Les exploitants des installations existantes \u00e9tablissent la liste des principales sources odorantes, qu'elles soient continues ou discontinues et, apr\u00e8s caract\u00e9risation de celles-ci, r\u00e9alisent une \u00e9tude de dispersion pour v\u00e9rifier que leur installation respecte l'objectif de qualit\u00e9 de l'air mentionn\u00e9 ci-dessus. En cas de non-respect de la limite de 5 uoE /m\u00b3 dans les conditions mentionn\u00e9es \u00e0 l'alin\u00e9a pr\u00e9c\u00e9dent, les am\u00e9liorations n\u00e9cessaires pour atteindre cet objectif de qualit\u00e9 de l'air doivent \u00eatre apport\u00e9es \u00e0 l'installation ou \u00e0 ses modalit\u00e9s d'exploitation."
+                },
+                {
+                  "text": "L'\u00e9tude de dispersion est r\u00e9alis\u00e9e aux frais de l'exploitant et sous sa responsabilit\u00e9 par un organisme comp\u00e9tent. Elle n'est toutefois pas obligatoire lorsque le d\u00e9bit d'odeur global de l'installation ne d\u00e9passe pas la valeur de 20 millions d'unit\u00e9s d'odeur europ\u00e9ennes par heure en Conditions normalis\u00e9es pour l'olfactom\u00e9trie (20.106 uoE/h) ou lorsque l'environnement de l'installation pr\u00e9sente une sensibilit\u00e9 particuli\u00e8rement faible."
+                },
+                {
+                  "text": "III. Pour les installations connexes d'un \u00e9levage, les dispositions applicables en mati\u00e8re de ma\u00eetrise des nuisances olfactives sont celles pr\u00e9vues dans l'arr\u00eat\u00e9 du 7 f\u00e9vrier 2005 susvis\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 26",
+              "sections": [],
+              "title": {
+                "text": "Article 26"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E52f041e5FdD",
+              "outer_alineas": [
+                {
+                  "text": "L'arr\u00eat\u00e9 pr\u00e9fectoral fixe la fr\u00e9quence \u00e0 laquelle sont r\u00e9alis\u00e9s les contr\u00f4les effectifs des d\u00e9bits d'odeurs. Ces contr\u00f4les peuvent \u00eatre plus fr\u00e9quents au cours de l'ann\u00e9e qui suit la mise en service de l'installation ou en cas de plaintes de riverains."
+                },
+                {
+                  "text": "En tant que de besoin, le pr\u00e9fet peut prescrire la r\u00e9alisation d'un programme de surveillance renforc\u00e9e permettant :"
+                },
+                {
+                  "text": "- soit de suivre un indice de g\u00eane, de nuisance ou de confort olfactif renseign\u00e9 par la population au voisinage de l'installation ;"
+                },
+                {
+                  "text": "- soit de qualifier, par des mesures d'intensit\u00e9 odorante, l'\u00e9volution du niveau global de l'impact olfactif de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 27",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "a3Cf1Ad0D96D",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 27",
+                  "sections": [],
+                  "title": {
+                    "text": "Section V\u00a0: Bruit et vibrations"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 27"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4A0cCfB661a0",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions des articles 47 et 48 de l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 susvis\u00e9 en mati\u00e8re d'\u00e9missions sonores et de vibrations m\u00e9caniques sont applicables aux installations vis\u00e9es \u00e0 l'article 1er du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 28",
+              "sections": [],
+              "title": {
+                "text": "Article 28"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre V\u00a0: Pr\u00e9vention des nuisances et des risques d'accident"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cdc1B7adE1D1",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "da89CfcE358d",
+              "outer_alineas": [
+                {
+                  "text": "Les installations de pr\u00e9l\u00e8vement d'eau dans le milieu naturel ou dans un r\u00e9seau public sont munies de dispositifs de mesure totalisateurs de la quantit\u00e9 d'eau pr\u00e9lev\u00e9e. Ces dispositifs sont relev\u00e9s toutes les semaines si le d\u00e9bit moyen pr\u00e9lev\u00e9 dans le milieu naturel est sup\u00e9rieur \u00e0 10 m\u00b3/j. Le r\u00e9sultat de ces mesures est enregistr\u00e9 et tenu \u00e0 la disposition de l'inspecteur des installations class\u00e9es pendant une dur\u00e9e minimale de cinq ans."
+                },
+                {
+                  "text": "Le raccordement \u00e0 une nappe d'eau ou au r\u00e9seau public de distribution d'eau potable est muni d'un dispositif \u00e9vitant tout retour d'eau de l'installation exploit\u00e9e vers la nappe ou le r\u00e9seau public. Ce dispositif est contr\u00f4l\u00e9 au moins une fois par an."
+                },
+                {
+                  "text": "L'usage du r\u00e9seau d'eau incendie est strictement r\u00e9serv\u00e9 aux sinistres, aux exercices de secours et aux op\u00e9rations d'entretien ou de maintien hors gel de ce r\u00e9seau."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 29",
+              "sections": [],
+              "title": {
+                "text": "Article 29"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ddb9f5a0CC3F",
+              "outer_alineas": [
+                {
+                  "text": "Toutes dispositions doivent \u00eatre prises pour limiter les pr\u00e9l\u00e8vements d'eau, qu'elle provienne du milieu naturel ou du r\u00e9seau public, notamment par utilisation des eaux pluviales, sans compromettre le bon d\u00e9roulement du compostage et dans le respect des dispositions des articles 21 et 22."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30",
+              "sections": [],
+              "title": {
+                "text": "Article 30"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre VI\u00a0: Pr\u00e9l\u00e8vements et consommation d'eau"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "145CeBc8cEa3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bC19E3abe5b0",
+              "outer_alineas": [
+                {
+                  "text": "Les prescriptions du pr\u00e9sent chapitre sont applicables aux installations traitant des sous-produits animaux de cat\u00e9gorie 2 tels que des cadavres d'animaux ou des saisies d'abattoirs mais autres que les mati\u00e8res list\u00e9es au ii) du e de l'article 13 du r\u00e8glement (CE) n\u00b0 1069/2009 du Parlement europ\u00e9en et du Conseil du 21 octobre 2009 \u00e9tablissant des r\u00e8gles sanitaires applicables aux sous-produits animaux et produits d\u00e9riv\u00e9s non destin\u00e9s \u00e0 la consommation humaine et abrogeant le r\u00e8glement (CE) n\u00b0 1774/2002"
+                },
+                {
+                  "text": "Ces installations sont tenues d'avoir un agr\u00e9ment sanitaire tel que pr\u00e9vu par ce r\u00e8glement pour l'unit\u00e9 de st\u00e9rilisation, au sens du r\u00e8glement (UE) n\u00b0 142/2011 de la Commission du 25 f\u00e9vrier 2011, des sous-produits animaux et pour l'unit\u00e9 de compostage apr\u00e8s st\u00e9rilisation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-1",
+              "sections": [],
+              "title": {
+                "text": "Article 30-1"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c0D9e197aa92",
+              "outer_alineas": [
+                {
+                  "text": "Les \u00e9quipements de r\u00e9ception, d'entreposage et de traitement par st\u00e9rilisation des sous-produits animaux sont implant\u00e9s \u00e0 au moins 200 m\u00e8tres des locaux et habitations habituellement occup\u00e9s par des tiers, des stades ou des terrains de camping agr\u00e9\u00e9s (\u00e0 l'exception des terrains de camping \u00e0 la ferme) ainsi que des zones destin\u00e9es \u00e0 l'habitation par des documents d'urbanisme opposables aux tiers. Cette distance d'implantation n'est toutefois pas applicable aux \u00e9quipements d'entreposage confin\u00e9s et r\u00e9frig\u00e9r\u00e9s."
+                },
+                {
+                  "text": "Le cas \u00e9ch\u00e9ant, le parc de stationnement des v\u00e9hicules de transport des sous-produits animaux est install\u00e9 \u00e0 au moins 100 m\u00e8tres des habitations occup\u00e9es par des tiers."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-autorisation",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2008-05-17",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-2",
+              "sections": [],
+              "title": {
+                "text": "Article 30-2"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9E1daeFAe181",
+              "outer_alineas": [
+                {
+                  "text": "La r\u00e9ception et l'entreposage des sous-produits animaux se font dans un b\u00e2timent ferm\u00e9 ou par tout dispositif \u00e9vitant leur mise \u00e0 l'air libre pendant ces op\u00e9rations. Les mesures de limitation des d\u00e9gagements d'odeurs \u00e0 proximit\u00e9 de l'\u00e9tablissement comportent notamment l'installation de portes d'acc\u00e8s escamotables automatiquement ou de dispositif \u00e9quivalent."
+                },
+                {
+                  "text": "Les aires de r\u00e9ception et d'entreposage sont \u00e9tanches et am\u00e9nag\u00e9es de telle sorte que les jus d'\u00e9coulement des sous-produits animaux ne puissent rejoindre directement le milieu naturel et soient collect\u00e9s en vue de leur traitement conform\u00e9ment aux dispositions de l'article 30-8."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-3",
+              "sections": [],
+              "title": {
+                "text": "Article 30-3"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d5e2DEff7FcC",
+              "outer_alineas": [
+                {
+                  "text": "L'entreposage avant traitement ne d\u00e9passe pas vingt-quatre heures \u00e0 temp\u00e9rature ambiante. Ce d\u00e9lai peut \u00eatre allong\u00e9 si les mati\u00e8res sont maintenues \u00e0 une temp\u00e9rature inf\u00e9rieure \u00e0 7 \u00b0C. Dans ce cas, le traitement d\u00e9marre imm\u00e9diatement apr\u00e8s la sortie de l'enceinte de stockage. La capacit\u00e9 des locaux est compatible avec le d\u00e9lai de traitement et permet de faire face aux arr\u00eats inopin\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-4",
+              "sections": [],
+              "title": {
+                "text": "Article 30-4"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BFa0bEABD7cF",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositifs d'entreposage des sous-produits animaux sont construits en mat\u00e9riaux imperm\u00e9ables, r\u00e9sistants aux chocs, faciles \u00e0 nettoyer et \u00e0 d\u00e9sinfecter en totalit\u00e9."
+                },
+                {
+                  "text": "Le sol de ces locaux est \u00e9tanche, r\u00e9sistant au passage des \u00e9quipements et v\u00e9hicules de d\u00e9chargement des d\u00e9chets et con\u00e7u de fa\u00e7on \u00e0 faciliter l'\u00e9coulement des jus d'\u00e9gouttage et des eaux de nettoyage vers des installations de collecte de ces effluents."
+                },
+                {
+                  "text": "Les locaux sont correctement \u00e9clair\u00e9s et permettent une protection des d\u00e9chets contre les intemp\u00e9ries et la chaleur. Ils sont maintenus dans un bon \u00e9tat de propret\u00e9 et font l'objet d'un nettoyage au moins deux fois par semaine."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-5",
+              "sections": [],
+              "title": {
+                "text": "Article 30-5"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bfcE3ece5aCD",
+              "outer_alineas": [
+                {
+                  "text": "L'installation dispose d'\u00e9quipements ad\u00e9quats pour nettoyer et d\u00e9sinfecter les r\u00e9cipients ou conteneurs dans lesquels les sous-produits animaux sont r\u00e9ceptionn\u00e9s ainsi que les v\u00e9hicules dans lesquels ils sont transport\u00e9s. Ces mat\u00e9riels sont nettoy\u00e9s et lav\u00e9s apr\u00e8s chaque usage et d\u00e9sinfect\u00e9s r\u00e9guli\u00e8rement et au minimum une fois par semaine. Les roues des v\u00e9hicules de transport sont d\u00e9sinfect\u00e9es apr\u00e8s chaque utilisation."
+                },
+                {
+                  "text": "Les bennes ou conteneurs utilis\u00e9s pour le transport de ces mati\u00e8res sont \u00e9tanches aux liquides et ferm\u00e9s le temps du transport."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-6",
+              "sections": [],
+              "title": {
+                "text": "Article 30-6"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b10e7564e06A",
+              "outer_alineas": [
+                {
+                  "text": "Les gaz issus du traitement de st\u00e9rilisation des sous-produits animaux sont collect\u00e9s et dirig\u00e9s par des circuits r\u00e9alis\u00e9s dans des mat\u00e9riaux r\u00e9sistant \u00e0 la corrosion vers des installations de traitement. Ils sont \u00e9pur\u00e9s avant rejet \u00e0 l'atmosph\u00e8re. Les prescriptions des articles 25 et 26 du pr\u00e9sent arr\u00eat\u00e9 leur sont applicables."
+                },
+                {
+                  "text": "La hauteur de la chemin\u00e9e, qui ne peut \u00eatre inf\u00e9rieure \u00e0 10 m\u00e8tres, est fix\u00e9e par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-7",
+              "sections": [],
+              "title": {
+                "text": "Article 30-7"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c6AFafAB4eb7",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions suivantes sont applicables aux eaux ayant \u00e9t\u00e9 en contact avec les sous-produits animaux ou avec des surfaces susceptibles d'\u00eatre souill\u00e9es par ceux-ci."
+                },
+                {
+                  "text": "Les effluents de l'unit\u00e9 de st\u00e9rilisation sont \u00e9pur\u00e9s, de fa\u00e7on \u00e0 respecter les valeurs limites de rejet d\u00e9finies \u00e0 l'annexe I du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Leur concentration en mati\u00e8res grasses est inf\u00e9rieure \u00e0 15 mg/l."
+                },
+                {
+                  "text": "Les installations situ\u00e9es \u00e0 l'amont de celles r\u00e9serv\u00e9es au compostage sont \u00e9quip\u00e9es de dispositifs de pr\u00e9traitement des effluents pour retenir et recueillir les mati\u00e8res solides, assurant que la taille des particules pr\u00e9sentes dans les effluents qui passent au travers de ces dispositifs n'est pas sup\u00e9rieure \u00e0 6 mm."
+                },
+                {
+                  "text": "Tout broyage ou mac\u00e9ration pouvant faciliter le passage de mati\u00e8res animales contenues dans les effluents au-del\u00e0 du stade de pr\u00e9traitement est interdit."
+                },
+                {
+                  "text": "Les mati\u00e8res recueillies par les dispositifs de pr\u00e9traitement sont des sous-produits animaux de cat\u00e9gorie 2. Elles sont \u00e9limin\u00e9es ou valoris\u00e9es conform\u00e9ment \u00e0 la r\u00e9glementation en vigueur. \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 30-8",
+              "sections": [],
+              "title": {
+                "text": "Article 30-8"
+              }
+            }
+          ],
+          "title": {
+            "text": "Chapitre VII : Compostage de sous-produits animaux de cat\u00e9gorie 2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre II\u00a0: Prescriptions applicables"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "B6889E433b04",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EFd5b6c4Fa6b",
+          "outer_alineas": [
+            {
+              "text": "I. Les dispositions introduites par l'arr\u00eat\u00e9 du 27 juillet 2012 modifiant l'arr\u00eat\u00e9 du 22 avril 2008 sont applicables aux installations existantes \u00e0 compter du 1er octobre 2012, \u00e0 l'exception, pour les installations existantes avant cette date, des dispositions des articles 3 et 30-2 de l'arr\u00eat\u00e9 du 22 avril 2008 modifi\u00e9es par l'arr\u00eat\u00e9 du 27 juillet 2012. Ces derni\u00e8res sont toutefois applicables, dans le cas d'une extension d'installation existante avant le 1er octobre 2012, \u00e0 ses nouveaux \u00e9quipements et b\u00e2timents ou nouvelles aires."
+            },
+            {
+              "text": "II. Les dispositions introduites par l'arr\u00eat\u00e9 du 27 mai 2021 modifiant l'arr\u00eat\u00e9 du 22 avril 2008 sont applicables :"
+            },
+            {
+              "text": "- au lendemain de la date de publication de l'arr\u00eat\u00e9 du 27 mai 2021 aux installations autoris\u00e9es apr\u00e8s le 17 ao\u00fbt 2018, ainsi qu'aux installations autoris\u00e9es avant le 18 ao\u00fbt 2018 dont les conclusions sur les meilleures techniques disponibles relatives \u00e0 la rubrique principale pr\u00e9vues \u00e0 l'article R. 515-61 du code de l'environnement sont celles de la d\u00e9cision d'ex\u00e9cution 2018/1147, au 17 ao\u00fbt 2022 ;"
+            },
+            {
+              "text": "- aux installations de compostage soumises \u00e0 autorisation, autoris\u00e9es avant le 18 ao\u00fbt 2018, dont les conclusions sur les meilleures techniques disponibles relatives \u00e0 la rubrique principale pr\u00e9vues \u00e0 l'article R. 515-61 ne sont pas celles de la d\u00e9cision d'ex\u00e9cution 2018/1147, dans les conditions suivantes :"
+            },
+            {
+              "text": "a) A compter du 17 ao\u00fbt 2022, lorsque la parution au Journal officiel de l'Union europ\u00e9enne de la d\u00e9cision d'ex\u00e9cution \u00e9tablissant les conclusions sur les meilleures techniques disponibles relatives \u00e0 la rubrique principale pr\u00e9vues \u00e0 l'article R. 515-61 est intervenue entre le 18 ao\u00fbt 2016 et le 17 ao\u00fbt 2018 ;"
+            },
+            {
+              "text": "b) Quatre ans apr\u00e8s la parution au Journal officiel de l'Union europ\u00e9enne de la d\u00e9cision d'ex\u00e9cution \u00e9tablissant les conclusions sur les meilleures techniques disponibles relatives \u00e0 la rubrique principale pr\u00e9vues \u00e0 l'article R. 515-61, lorsque la parution de cette d\u00e9cision d'ex\u00e9cution est post\u00e9rieure au 18 ao\u00fbt 2018."
+            },
+            {
+              "text": "A la date pr\u00e9vue par le pr\u00e9sent article, l'exploitant met en \u0153uvre les meilleures techniques disponibles telles que d\u00e9crites au pr\u00e9sent arr\u00eat\u00e9 ou garantissant un niveau de protection de l'environnement \u00e9quivalent dans les conditions fix\u00e9es au II de l'article R. 515-62, sauf si l'arr\u00eat\u00e9 pr\u00e9fectoral fixe des prescriptions particuli\u00e8res en application de l'article R. 515-63. \u00bb"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 31",
+          "sections": [],
+          "title": {
+            "text": "Article 31"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "A636F90A6cAF",
+          "outer_alineas": [
+            {
+              "text": "Le directeur de la pr\u00e9vention des pollutions et des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 32",
+          "sections": [],
+          "title": {
+            "text": "Article 32"
+          }
+        }
+      ],
+      "title": {
+        "text": "Titre III\u00a0: Modalit\u00e9s d\u2019application"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "8B80e9a6a16A",
+      "outer_alineas": [
+        {
+          "text": "Les normes de transformation indiqu\u00e9es dans la pr\u00e9sente annexe ne sont pas applicables aux installations qui mettent en \u0153uvre un traitement par lombri-compostage."
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "PROC\u00c9D\u00c9"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "PROCESS"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "Compostage avec a\u00e9ration par retournements."
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "Trois semaines de fermentation a\u00e9robie au minimum. Au moins trois retournements. Trois jours au moins entre chaque retournement. 55 \u00b0C au moins pendant une dur\u00e9e minimale totale de soixante-douze heures."
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "Compostage en a\u00e9ration forc\u00e9e."
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "Deux semaines de fermentation a\u00e9robie au minimum. Au moins un retournement (op\u00e9ration de retournement apr\u00e8s fermentation a\u00e9robie suivie d'une remont\u00e9e de temp\u00e9rature \u00e0 50 \u00b0C pendant vingt-quatre heures). 55 \u00b0C au moins pendant une dur\u00e9e minimale totale de soixante-douze heures."
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        },
+        {
+          "text": "La mesure des temp\u00e9ratures se fait, pour chaque lot, conform\u00e9ment aux bonnes pratiques en vigueur (par exemple par sondes dispos\u00e9es tous les 5 \u00e0 10 m\u00e8tres \u00e0 des profondeurs situ\u00e9es entre 0,7 et 1,5 m\u00e8tre) et \u00e0 une fr\u00e9quence d'au moins trois mesures par semaine pendant le d\u00e9but de la phase de fermentation a\u00e9robie."
+        },
+        {
+          "text": "Lorsque la ventilation du m\u00e9lange en fermentation est r\u00e9alis\u00e9e par aspiration \u00e0 travers l'andain, la temp\u00e9rature enregistr\u00e9e est la temp\u00e9rature moyenne de l'air extrait sous l'andain."
+        },
+        {
+          "text": "Outre les conditions minimales ci-dessus, le compostage des sous-produits animaux respecte \u00e9galement les exigences d\u00e9finies par le r\u00e8glement (CE) n\u00b0 1069/2009 du Parlement europ\u00e9en et du Conseil du 21 octobre 2009 \u00e9tablissant des r\u00e8gles sanitaires applicables aux sous-produits animaux et produits d\u00e9riv\u00e9s non destin\u00e9s \u00e0 la consommation humaine et abrogeant le r\u00e8glement (CE) n\u00b0 1774/2002."
+        },
+        {
+          "text": "Sur la base d'une \u00e9tude justifiant une performance \u00e9quivalente en termes de pr\u00e9vention des nuisances et des risques et de qualit\u00e9 du compostage, des m\u00e9thodes alternatives pourront \u00eatre accept\u00e9es."
+        },
+        {
+          "text": "Pour les sous-produits animaux, l'hygi\u00e9nisation \u00e0 l'aide de param\u00e8tres de conversion normalis\u00e9s ou de tous param\u00e8tres autres que norm\u00e9s tels que pr\u00e9vus dans l'annexe V du r\u00e8glement (UE) n\u00b0 142/2011 de la Commission du 25 f\u00e9vrier 2011 peut \u00eatre utilis\u00e9e d\u00e8s lors qu'un agr\u00e9ment sanitaire a \u00e9t\u00e9 d\u00e9livr\u00e9 en autorisant lesdits param\u00e8tres. \u00bb"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I\u00a0:",
+      "sections": [],
+      "title": {
+        "text": "Annexe I\u00a0: Normes de transformation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "37da9E5Ac804",
+      "outer_alineas": [
+        {
+          "text": "Ces valeurs limites s'appliquent sans pr\u00e9judice des valeurs limites d'\u00e9missions d\u00e9finies par l'arr\u00eat\u00e9 du 17 d\u00e9cembre 2019 relatif aux meilleures techniques disponibles (MTD) applicables \u00e0 certaines installations de traitement de d\u00e9chets relevant du r\u00e9gime de l'autorisation et de la directive IED. \u00bb Sans pr\u00e9judice des autorisations de d\u00e9versement dans le r\u00e9seau public (art. L. 1331-10 du code de la sant\u00e9 publique), les rejets d'eaux r\u00e9siduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes contr\u00f4l\u00e9es, sauf stipulation contraire de la norme, sur effluent brut non d\u00e9cant\u00e9 et non filtr\u00e9, sans dilution pr\u00e9alable ou m\u00e9lange avec d'autres effluents. Ces valeurs limites doivent \u00eatre respect\u00e9es en moyenne sur 24 heures et aucune valeur instantan\u00e9e ne doit d\u00e9passer le double des valeurs limites de concentration."
+        },
+        {
+          "text": "a) Dans tous les cas, avant rejet au milieu naturel ou dans un r\u00e9seau d'assainissement collectif :"
+        },
+        {
+          "text": "- pH (NFT 90 008) : 5,5 - 8,5 (9,5 en cas de neutralisation \u00e0 la chaux) ;"
+        },
+        {
+          "text": "- temp\u00e9rature : < 30 \u00b0C."
+        },
+        {
+          "text": "b) Dans le cas de rejet dans un r\u00e9seau d'assainissement collectif muni d'une station d'\u00e9puration :"
+        },
+        {
+          "text": "- mati\u00e8res en suspension (NFT 90 105) : < 600 mg/l ;"
+        },
+        {
+          "text": "- DCO (NFT 90 101) : < 2 000 mg/l ;"
+        },
+        {
+          "text": "- DBO5 (NFT 90 103) : < 800 mg/l ;"
+        },
+        {
+          "text": "- azote total, exprim\u00e9 en N : < 150 mg/l ;"
+        },
+        {
+          "text": "- phosphore total, exprim\u00e9 en P (NF T 90 023) : < 50 mg/l."
+        },
+        {
+          "text": "Dans le cas de convention sign\u00e9e avec le gestionnaire de la station d'\u00e9puration, les valeurs de rejet indiqu\u00e9es dans la convention peuvent se substituer aux valeurs pr\u00e9cit\u00e9es."
+        },
+        {
+          "text": "c) Dans le cas de rejet dans le milieu naturel, les objectifs de qualit\u00e9 des cours d'eau doivent \u00eatre pris en compte quand ils existent. Au minimum, les rejets ne peuvent d\u00e9passer les valeurs suivantes :"
+        },
+        {
+          "text": "- mati\u00e8res en suspension (NFT 90 105) : < 100 mg/l (150 mg/l en cas d'\u00e9puration par lagunage) ;"
+        },
+        {
+          "text": "- DCO (NFT 90 101) : < 300 mg/l ;"
+        },
+        {
+          "text": "- DBO5 (NFT 90 103) : < 100 mg/l ;"
+        },
+        {
+          "text": "- azote total, exprim\u00e9 en N : < 30 mg/l ;"
+        },
+        {
+          "text": "- phosphore total, exprim\u00e9 en P : < 10 mg/l."
+        },
+        {
+          "text": "d) Polluants sp\u00e9cifiques : avant rejet dans le milieu naturel ou dans un r\u00e9seau d'assainissement collectif urbain :"
+        },
+        {
+          "text": "- hydrocarbures totaux (NFT 90 114) : \u00b8 10 mg/l ;"
+        },
+        {
+          "text": "- plomb (NF T 90-027) : < 0,5 mg/l ;"
+        },
+        {
+          "text": "- chrome (NF EN 1233) : < 0,5 mg/l ;"
+        },
+        {
+          "text": "- cuivre (NF T 90 022) : < 0,5 mg/l ;"
+        },
+        {
+          "text": "- zinc et compos\u00e9s (FD T 90 112) : < 2 mg/l."
+        },
+        {
+          "text": "e) Pour les installations relevant de la directive 96/61/CE du Conseil du 24 septembre 1996 relative \u00e0 la pr\u00e9vention et \u00e0 la r\u00e9duction int\u00e9gr\u00e9es de la pollution, les valeurs limites de rejet sont fix\u00e9es sur la base des meilleures techniques disponibles."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe II\u00a0:",
+      "sections": [],
+      "title": {
+        "text": "Annexe II\u00a0: Valeurs limites de rejet des eaux r\u00e9siduaires"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 22/04/08 fixant les r\u00e8gles techniques auxquelles doivent satisfaire les installations de compostage soumises \u00e0 autorisation en application du titre Ier du livre V du code de l'environnement"
+  },
+  "visa": []
+}

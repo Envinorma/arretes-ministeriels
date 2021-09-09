@@ -1,0 +1,3505 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/4003",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": "3",
+      "regime": "D",
+      "rubrique": "1414",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [
+        "3"
+      ],
+      "regime": "D",
+      "rubrique": "1414"
+    }
+  ],
+  "date_of_signature": "2010-08-30",
+  "id": "JORFTEXT000022865723",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022865723",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E2F65065f8c2",
+      "outer_alineas": [
+        {
+          "text": "Les installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1414-3 (Installations de remplissage ou de distribution de gaz inflammables liqu\u00e9fi\u00e9s : installations de remplissage de r\u00e9servoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes de s\u00e9curit\u00e9 (jauges et soupapes) sont soumises aux dispositions de l'annexe I. Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1er",
+      "sections": [],
+      "title": {
+        "text": "Article 1er"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ba3E93D2c70D",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions de l'annexe I sont applicables :"
+        },
+        {
+          "text": "\t- aux installations d\u00e9clar\u00e9es post\u00e9rieurement \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois ;"
+        },
+        {
+          "text": "\t- aux installations existantes r\u00e9guli\u00e8rement d\u00e9clar\u00e9es avant cette date selon les d\u00e9lais mentionn\u00e9s \u00e0 l'annexe II. Les prescriptions auxquelles les installations existantes sont d\u00e9j\u00e0 soumises demeurent applicables jusqu'\u00e0 l'entr\u00e9e en vigueur de ces dispositions."
+        },
+        {
+          "text": "Les dispositions de l'annexe I sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un \u00e9tablissement qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fc22076df5cB",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9fet peut, pour une installation donn\u00e9e, modifier par arr\u00eat\u00e9 les dispositions des annexes dans les conditions pr\u00e9vues aux articles L. 512-12 et R. 512-52 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "04AA6BfDCfFf",
+      "outer_alineas": [
+        {
+          "text": "L'arr\u00eat\u00e9 du 24 ao\u00fbt 1998 relatif aux prescriptions applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1414 : Installations de remplissage ou de distribution de gaz inflammables liqu\u00e9fi\u00e9s est abrog\u00e9 \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "dBAc2B2b09EF",
+      "outer_alineas": [
+        {
+          "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        },
+        {
+          "text": "Fait \u00e0 Paris, le 30 ao\u00fbt 2010."
+        },
+        {
+          "text": "Pour le ministre et par d\u00e9l\u00e9gation :"
+        },
+        {
+          "text": "\tLe directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques,"
+        },
+        {
+          "text": "\tL. Michel"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [],
+      "title": {
+        "text": "Article 5"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "1BEBA5D5A3C3",
+      "outer_alineas": [
+        {
+          "text": "D\u00e9finitions"
+        },
+        {
+          "text": "\" Station-service \" : toute installation o\u00f9 les carburants sont transf\u00e9r\u00e9s de r\u00e9servoirs de stockage fixes vers les r\u00e9servoirs \u00e0 carburant de v\u00e9hicules \u00e0 moteur, de bateaux ou d\u2019a\u00e9ronefs."
+        },
+        {
+          "text": "\" Libre-service surveill\u00e9 \" : une installation peut \u00eatre consid\u00e9r\u00e9e comme \u00e9tant en libre-service surveill\u00e9 lorsque le transfert du produit est effectu\u00e9 sous la surveillance directe ou indirecte d\u2019un personnel d\u2019exploitation de permanence, pr\u00e9sent sur le site, connaissant le fonctionnement des installations et capable de mettre en oeuvre les moyens de premi\u00e8re intervention en mati\u00e8re d\u2019incendie et de protection de l\u2019environnement. L\u2019installation est consid\u00e9r\u00e9e en libre-service surveill\u00e9 seulement si la personne effectuant le transfert de produit est distincte de la personne assurant la surveillance."
+        },
+        {
+          "text": "\" Libre-service sans surveillance \" : installations en libre-service autres que celles consid\u00e9r\u00e9es comme surveill\u00e9es."
+        },
+        {
+          "text": "Ne sont pas consid\u00e9r\u00e9es comme \u00e9tant en libre-service les installations de remplissage et d\u2019avitaillement dont l\u2019acc\u00e8s et l\u2019usage des installations sont strictement r\u00e9serv\u00e9s \u00e0 un personnel sp\u00e9cialement form\u00e9 \u00e0 cet effet et aux risques des produits manipul\u00e9s."
+        },
+        {
+          "text": "\u00ab \u201c Aire de distribution \u201d : surface accessible \u00e0 la circulation des v\u00e9hicules englobant les zones situ\u00e9es \u00e0 moins de 1,5 m\u00e8tre de la paroi des appareils de distribution et sur 2,2 m\u00e8tres dans le sens de la circulation. Ces valeurs sont port\u00e9es respectivement \u00e0 3 m\u00e8tres et 4 m\u00e8tres dans le cas de la distribution de gaz naturel liqu\u00e9fi\u00e9 (GNL). \u00bb"
+        },
+        {
+          "text": "\u00ab \u201c R\u00e9cipient \u00e0 pression transportable \u201d : r\u00e9cipient couvert par la section 11 du chapitre VII du titre V du livre V du code de l'environnement : bouteilles, tubes, f\u00fbts \u00e0 pression \u2026 Les camions citernes ne sont pas consid\u00e9r\u00e9s comme des r\u00e9cipients \u00e0 pression transportables au sens du pr\u00e9sent arr\u00eat\u00e9. \u00bb"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "DISPOSITIONS_GENERALES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a5E8118fdd44",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 1.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "020Ef33F8fb3",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.1.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "AECad3069C28",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 1.1.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "1.1.1. Conformit\u00e9 de l\u2019installation \u00e0 la d\u00e9claration"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "326389438995",
+                  "outer_alineas": [
+                    {
+                      "text": "Les installations d\u00e9clar\u00e9es apr\u00e8s le 1er octobre 1998 au titre de la rubrique n\u00b01414-3 sont soumises \u00e0 des contr\u00f4les p\u00e9riodiques par des organismes agr\u00e9\u00e9s dans les conditions d\u00e9finies par les articles R. 512-55 \u00e0 R. 512-60 du code de l'environnement."
+                    },
+                    {
+                      "text": "Ces contr\u00f4les ont pour objet de v\u00e9rifier la conformit\u00e9 de l\u2019installation aux prescriptions rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par le terme : \" objet du contr\u00f4le \", \u00e9ventuellement modifi\u00e9es par arr\u00eat\u00e9 pr\u00e9fectoral, lorsqu\u2019elles lui sont applicables."
+                    },
+                    {
+                      "text": "Les prescriptions dont le non-respect constitue une non-conformit\u00e9 majeure entra\u00eenant l\u2019information du pr\u00e9fet dans les conditions pr\u00e9vues \u00e0 l\u2019article R. 512-59-1 sont rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par la mention : \" le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure \"."
+                    },
+                    {
+                      "text": "L\u2019exploitant conserve le rapport de visite que l\u2019organisme agr\u00e9\u00e9 lui adresse dans le dossier installations class\u00e9es pr\u00e9vu au point 1.4. Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l\u2019objet du contr\u00f4le, l\u2019exploitant met en oeuvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "1998-01-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 1.1.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "1.1.2. Contr\u00f4le p\u00e9riodique"
+                  }
+                }
+              ],
+              "title": {
+                "text": "1.1. Conformit\u00e9 de l'installation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1a8Cfe2aDDF4",
+              "outer_alineas": [
+                {
+                  "text": "Toute modification apport\u00e9e par le d\u00e9clarant \u00e0 l\u2019installation, \u00e0 son mode d\u2019exploitation ou \u00e0 son voisinage, entra\u00eenant un changement notable des \u00e9l\u00e9ments du dossier de d\u00e9claration initiale, est port\u00e9e, avant sa r\u00e9alisation, \u00e0 la connaissance du pr\u00e9fet qui peut exiger une nouvelle d\u00e9claration."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.2.",
+              "sections": [],
+              "title": {
+                "text": "1.2. Modifications"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1A96EF28DA71",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9claration pr\u00e9cise les mesures prises relatives aux conditions d\u2019utilisation, d\u2019\u00e9puration et d\u2019\u00e9vacuation des eaux r\u00e9siduaires et des \u00e9manations de toutes natures ainsi que d\u2019\u00e9limination des d\u00e9chets et r\u00e9sidus en vue de respecter les dispositions du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.3.",
+              "sections": [],
+              "title": {
+                "text": "1.3. Justification du respect des prescriptions de l'arr\u00eat\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1B2777e46AEf",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+                },
+                {
+                  "text": "\t- le dossier de d\u00e9claration ;"
+                },
+                {
+                  "text": "\t- les plans tenus \u00e0 jour ;"
+                },
+                {
+                  "text": "\t- la preuve de d\u00e9p\u00f4t de la d\u00e9claration et les prescriptions g\u00e9n\u00e9rales ;"
+                },
+                {
+                  "text": "\t- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l\u2019installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l\u2019environnement, s\u2019il y en a ;"
+                },
+                {
+                  "text": "\t- les r\u00e9sultats des derni\u00e8res mesures sur les effluents et le bruit, les rapports des visites ;"
+                },
+                {
+                  "text": "\t- les documents pr\u00e9vus aux diff\u00e9rents articles du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Ce dossier est tenu \u00e0 la disposition de l\u2019inspection des installations class\u00e9es."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sentation de la preuve de d\u00e9p\u00f4t de la d\u00e9claration et des prescriptions g\u00e9n\u00e9rales ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sentation des plans \u00e0 jour d\u2019\u00e9ventuelles modifications (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sentation des arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l\u2019installation, s\u2019il y en a."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.4.",
+              "sections": [],
+              "title": {
+                "text": "1.4. Dossier installation class\u00e9e"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ADDCa103EdCA",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant d\u2019une installation est tenu de d\u00e9clarer dans les meilleurs d\u00e9lais \u00e0 l\u2019inspection des installations class\u00e9es les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature \u00e0 porter atteinte aux int\u00e9r\u00eats mentionn\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement."
+                },
+                {
+                  "text": "Un registre rassemblant l\u2019ensemble des d\u00e9clarations faites au titre du pr\u00e9sent article est tenu \u00e0 jour et mis, sur demande, \u00e0 la disposition de l\u2019inspecteur des installations class\u00e9es et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.5.",
+              "sections": [],
+              "title": {
+                "text": "1.5. D\u00e9claration d'accident ou de pollution accidentelle"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1e3ed6e2c4F3",
+              "outer_alineas": [
+                {
+                  "text": "Lorsque l\u2019installation change d\u2019exploitant, le nouvel exploitant ou son repr\u00e9sentant en fait la d\u00e9claration au pr\u00e9fet dans le mois qui suit la prise en charge de l\u2019exploitation. Cette d\u00e9claration mentionne, s\u2019il s\u2019agit d\u2019une personne physique, les nom, pr\u00e9noms et domicile du nouvel exploitant et, s\u2019il s\u2019agit d\u2019une personne morale, sa d\u00e9nomination ou sa raison sociale, sa forme juridique, l\u2019adresse de son si\u00e8ge social ainsi que la qualit\u00e9 du signataire de la d\u00e9claration."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.6.",
+              "sections": [],
+              "title": {
+                "text": "1.6. Changement d'exploitant"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "679EfE1B190e",
+              "outer_alineas": [
+                {
+                  "text": "Lors de la cessation compl\u00e8te ou partielle de l\u2019activit\u00e9 au titre de laquelle elle \u00e9tait d\u00e9clar\u00e9e, l\u2019exploitant en informe le pr\u00e9fet au moins un mois avant l\u2019arr\u00eat. La notification de l\u2019exploitant indique les mesures de remise en \u00e9tat pr\u00e9vues ou r\u00e9alis\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.7.",
+              "sections": [],
+              "title": {
+                "text": "1.7. Cessation d'activit\u00e9"
+              }
+            }
+          ],
+          "title": {
+            "text": "1. Dispositions g\u00e9n\u00e9rales"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Dc4bEe1ddFfa",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 2.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eaE1256CE9Fd",
+              "outer_alineas": [
+                {
+                  "text": "a) \u00ab L'installation est implant\u00e9e de telle fa\u00e7on que les distances minimales suivantes, mesur\u00e9es horizontalement \u00e0 partir des parois des appareils de distribution, sont observ\u00e9es ;"
+                },
+                {
+                  "text": "\u00ab - vingt m\u00e8tres d'un \u00e9tablissement recevant du public de la premi\u00e8re \u00e0 la 4e cat\u00e9gorie ;"
+                },
+                {
+                  "text": "\t\u00ab - sept m\u00e8tres d'un \u00e9tablissement recevant du public de la 5e cat\u00e9gorie (magasin de vente d\u00e9pendant de l'installation, par exemple). Pour les appareils de distribution de GNL, cette distance est r\u00e9duite \u00e0 six m\u00e8tres."
+                },
+                {
+                  "text": "\u00ab Dans le cas particulier d'un appareil de distribution nautique, les distances susmentionn\u00e9es sont respectivement port\u00e9es \u00e0 :"
+                },
+                {
+                  "text": "\t\u00ab - vingt-huit m\u00e8tres au lieu de vingt m\u00e8tres ;"
+                },
+                {
+                  "text": "\t\u00ab - dix m\u00e8tres au lieu de six et sept m\u00e8tres. \u00bb"
+                },
+                {
+                  "text": "b)\u00a0 \u00ab Une distance minimale de neuf m\u00e8tres entre les parois des appareils de distribution et les limites de propri\u00e9t\u00e9 est observ\u00e9e. Pour les appareils de distribution de GNL, cette distance est r\u00e9duite \u00e0 six m\u00e8tres. Dans le cas particulier d'un appareil de distribution nautique, ces distances sont port\u00e9es \u00e0 treize m\u00e8tres."
+                },
+                {
+                  "text": "\u00ab Ces distances minimales sont r\u00e9duites \u00e0 cinq m\u00e8tres si la limite de propri\u00e9t\u00e9 est une voie de communication publique. Dans le cas particulier d'un appareil de distribution nautique, cette distance est port\u00e9e \u00e0 sept m\u00e8tres."
+                },
+                {
+                  "text": "\u00ab Les distances minimales suivantes, mesur\u00e9es horizontalement \u00e0 partir des parois des appareils de distribution, sont \u00e9galement observ\u00e9es :"
+                },
+                {
+                  "text": "\t\u00ab - cinq m\u00e8tres des issues ou ouvertures des locaux administratifs ou techniques de l'installation."
+                },
+                {
+                  "text": "\u00ab Pour les appareils de distribution de GNL, cette distance est port\u00e9e \u00e0 six m\u00e8tres ; cette disposition est applicable aux installations d\u00e9clar\u00e9es apr\u00e8s le 1er janvier 2020. Dans le cas particulier d'un appareil de distribution nautique, cette distance est port\u00e9e \u00e0 sept m\u00e8tres :"
+                },
+                {
+                  "text": "\t\u00ab - cinq m\u00e8tres des parois des appareils de distribution d'hydrocarbures liquides. Dans le cas particulier d'un appareil de distribution nautique, cette distance est port\u00e9e \u00e0 sept m\u00e8tres. Cette distance n'est toutefois pas exig\u00e9e si les deux conditions suivantes sont r\u00e9unies :"
+                },
+                {
+                  "text": "\t\u00a0\u00a0\u00a0\u00a0 * les parties hydrauliques des appareils de distribution de gaz inflammable liqu\u00e9fi\u00e9 et d'hydrocarbures liquides sont s\u00e9par\u00e9es par une cloison m\u00e9tallique assurant une bonne \u00e9tanch\u00e9it\u00e9. Si la paroi des appareils est \u00e9tanche, elle peut jouer le r\u00f4le de cloison m\u00e9tallique ;"
+                },
+                {
+                  "text": "\t\u00a0\u00a0\u00a0\u00a0 * la distribution simultan\u00e9e d'hydrocarbures liquides et de gaz inflammable liqu\u00e9fi\u00e9 du m\u00eame c\u00f4t\u00e9 de l'\u00eelot tel que d\u00e9fini au point 2.12 est impossible ;"
+                },
+                {
+                  "text": "\t\u00ab - dix m\u00e8tres des aires de stockage de r\u00e9cipients \u00e0 pression transportables de gaz inflammable liqu\u00e9fi\u00e9. Pour les installations d\u00e9clar\u00e9es avant le 1er janvier 2020, si la quantit\u00e9 stock\u00e9e est inf\u00e9rieure \u00e0 6T, cette distance est r\u00e9duite \u00e0 6 m\u00e8tres ;"
+                },
+                {
+                  "text": "\t\u00ab - neuf m\u00e8tres des orifices de remplissage, des \u00e9vents et des parois d'un r\u00e9servoir a\u00e9rien d'hydrocarbures liquides, ou cinq m\u00e8tres des orifices de remplissage et des \u00e9vents d'un r\u00e9servoir enterr\u00e9 d'hydrocarbures liquides. Pour les appareils de distribution de GNL, cette distance est r\u00e9duite \u00e0 cinq m\u00e8tres. Dans le cas particulier d'un appareil de distribution nautique, cette distance est port\u00e9e \u00e0 treize m\u00e8tres ;"
+                },
+                {
+                  "text": "\t\u00ab - neuf m\u00e8tres des orifices de remplissage, des orifices d'\u00e9vacuation \u00e0 l'air libre des soupapes et des parois d'un r\u00e9servoir a\u00e9rien de gaz inflammable liqu\u00e9fi\u00e9, ou cinq m\u00e8tres des orifices de remplissage et des orifices d'\u00e9vacuation \u00e0 l'air libre des soupapes d'un r\u00e9servoir enterr\u00e9 ou sous talus de gaz inflammable liqu\u00e9fi\u00e9. Pour les appareils de distribution de GNL, cette distance est r\u00e9duite \u00e0 cinq m\u00e8tres. Dans le cas particulier d'un appareil de distribution nautique, cette distance est port\u00e9e \u00e0 treize m\u00e8tres. Ces distances peuvent \u00eatre r\u00e9duites \u00e0 deux m\u00e8tres cinquante lorsqu'un mur REI 120 est plac\u00e9 entre l'appareil de distribution et le r\u00e9servoir, \u00e0 deux m\u00e8tres maximum de la paroi de ce dernier. Ce mur doit \u00eatre d'au moins deux m\u00e8tres cinquante de haut et quatre m\u00e8tres de long, et d\u00e9passer d'au moins cinquante centim\u00e8tres \u00e0 la fois la hauteur du r\u00e9servoir et, de part et d'autre, la longueur de la paroi du r\u00e9servoir orient\u00e9e vers l'appareil de distribution. \u00bb"
+                },
+                {
+                  "text": "c) Dans le cas particulier d'un appareil de distribution privatif \u00ab autre que celui distribuant du GNL \u00bb, la distance par rapport aux parois d'un r\u00e9servoir a\u00e9rien de gaz inflammable liqu\u00e9fi\u00e9 peut \u00eatre de quatre m\u00e8tres et de six m\u00e8tres par rapport aux bouches de remplissage et aux orifices d'\u00e9vacuation \u00e0 l'air libre des soupapes de ce r\u00e9servoir, si l'appareil satisfait en plus les conditions suivantes :"
+                },
+                {
+                  "text": "\t- ses parois sont s\u00e9par\u00e9es par une distance minimale de quinze m\u00e8tres des limites de propri\u00e9t\u00e9s et voies de communication publiques ;"
+                },
+                {
+                  "text": "\t- il est s\u00e9par\u00e9 du r\u00e9servoir par un \u00e9cran r\u00e9alis\u00e9 en mat\u00e9riaux de classe A1 ou A2s1d0 et disposant des propri\u00e9t\u00e9s REI120 ;"
+                },
+                {
+                  "text": "\t- il est situ\u00e9 sur un \u00eelot sp\u00e9cifiquement d\u00e9di\u00e9 au gaz inflammable liqu\u00e9fi\u00e9 ;"
+                },
+                {
+                  "text": "\t-\u00a0 il est associ\u00e9 \u00e0 une seule aire de remplissage ;"
+                },
+                {
+                  "text": "\t- le r\u00e9servoir de stockage qui lui est associ\u00e9 est d'une capacit\u00e9 telle qu'il n'est pas soumis \u00e0 la l\u00e9gislation des installations class\u00e9es pour la protection de l'environnement."
+                },
+                {
+                  "text": "\tLes distances d'\u00e9loignement pr\u00e9vues aux points 2.1.A et 2.1.B sont respect\u00e9es entre les \u00e9l\u00e9ments internes aux limites du site pendant toute la dur\u00e9e d'exploitation de l'installation."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les \u00e9tablissements recevant du public internes aux limites du site (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les limites de propri\u00e9t\u00e9 (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et une voie de communication publique (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les issues ou ouvertures de locaux administratifs ou techniques de l\u2019installation (le non-respect de ce point rel\u00e8ve d\u2019une nonconformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les parois des appareils de distribution d\u2019hydrocarbures liquides, sinon v\u00e9rifier la pr\u00e9sence d\u2019une cloison m\u00e9tallique s\u00e9parant les appareils de distribution de gaz inflammable liqu\u00e9fi\u00e9 et d\u2019hydrocarbures liquides et v\u00e9rifier que la distribution simultan\u00e9e d\u2019hydrocarbures liquides et de gaz inflammable liqu\u00e9fi\u00e9 du m\u00eame c\u00f4t\u00e9 de l\u2019\u00eelot, tel que d\u00e9fini au point 2.12 de la pr\u00e9sente annexe, n\u2019est pas possible (le nonrespect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et \u00ab les aires de stockage de r\u00e9cipients \u00e0 pression transportables de gaz inflammable liqu\u00e9fi\u00e9 \u00bb (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les \u00e9vents et les parois d\u2019un r\u00e9servoir a\u00e9rien d\u2019hydrocarbures liquides (le nonrespect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les \u00e9vents d\u2019un r\u00e9servoir enterr\u00e9 d\u2019hydrocarbures (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les orifices d\u2019\u00e9vacuation \u00e0 l\u2019air libre des soupapes et les parois d\u2019un r\u00e9servoir a\u00e9rien de gaz inflammable liqu\u00e9fi\u00e9 (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les orifices d\u2019\u00e9vacuation \u00e0 l\u2019air libre des soupapes d\u2019un r\u00e9servoir enterr\u00e9 ou sous talus de gaz inflammable liqu\u00e9fi\u00e9 (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": [
+                      0,
+                      1,
+                      2,
+                      3,
+                      4,
+                      5,
+                      6,
+                      7,
+                      8,
+                      9,
+                      10,
+                      11,
+                      12,
+                      13,
+                      14,
+                      15,
+                      16,
+                      17,
+                      18,
+                      20,
+                      21,
+                      22,
+                      23,
+                      24,
+                      25,
+                      26,
+                      27,
+                      28,
+                      29,
+                      30,
+                      31,
+                      32,
+                      33,
+                      34
+                    ],
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "1998-01-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.1.",
+              "sections": [],
+              "title": {
+                "text": "2.1. R\u00e8gles d'implantation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9EA1E768ea45",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant prend les dispositions n\u00e9cessaires pour satisfaire \u00e0 l\u2019esth\u00e9tique du site. L\u2019ensemble du site est maintenu en bon \u00e9tat de propret\u00e9 (peinture, plantations, engazonnement...)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "1998-01-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.2.",
+              "sections": [],
+              "title": {
+                "text": "2.2. Int\u00e9gration dans le paysage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eEe87f4B9c4B",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019installation n\u2019est pas surmont\u00e9e de locaux occup\u00e9s par des tiers ou habit\u00e9s."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- l\u2019installation n\u2019est pas surmont\u00e9e de locaux occup\u00e9s par des tiers ou habit\u00e9s (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "1998-01-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.3.",
+              "sections": [],
+              "title": {
+                "text": "2.3. Interdiction d'habitations au-dessus des installations"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6CE2ED71da64",
+              "outer_alineas": [
+                {
+                  "text": "Les appareils de distribution et les \u00ab aires de distribution \u00bb qui leur sont associ\u00e9es ne peuvent \u00eatre situ\u00e9s qu\u2019en plein air, ou sous une structure de plain-pied, ouverte au minimum sur un c\u00f4t\u00e9 et recouverte par une toiture couvrant totalement ou partiellement l\u2019\u00ab aire de distribution \u00bb."
+                },
+                {
+                  "text": "Si cette structure comporte au moins deux parois lat\u00e9rales, un espace libre d\u2019au minimum vingt centim\u00e8tres de haut entre les parois et le sol et entre les parois et la toiture est assur\u00e9 afin de permettre une ventilation permanente et naturelle de l\u2019air et du gaz inflammable liqu\u00e9fi\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "1998-01-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.4.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "AaEa2948a781",
+                  "outer_alineas": [
+                    {
+                      "text": "Les mat\u00e9riaux utilis\u00e9s pour cette structure sont de classe A1 ou A2 s1 d0 selon NF EN 13501-1 (incombustible)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.4.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.4.1. R\u00e9action au feu"
+                  }
+                }
+              ],
+              "title": {
+                "text": "2.4. Comportement au feu des b\u00e2timents"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "C0dB5C01EaB6",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019installation dispose en permanence d\u2019un acc\u00e8s pour permettre l\u2019intervention des services d\u2019incendie et de secours."
+                },
+                {
+                  "text": "On entend par \"acc\u00e8s \u00e0 l\u2019installation\" une ouverture reliant la voie publique et l\u2019int\u00e9rieur du site, suffisamment dimensionn\u00e9e pour permettre l\u2019entr\u00e9e des engins de secours."
+                },
+                {
+                  "text": "Les v\u00e9hicules dont la pr\u00e9sence est li\u00e9e \u00e0 l\u2019exploitation de l\u2019\u00e9tablissement stationnent sans occasionner de g\u00eane pour l\u2019accessibilit\u00e9 des engins des services d\u2019incendie et de secours depuis les voies de circulation externes \u00e0\u00a0 l\u2019installation, m\u00eame en dehors des heures d\u2019exploitation et d\u2019ouverture de l\u2019installation."
+                },
+                {
+                  "text": "L\u2019installation permet l\u2019\u00e9vacuation rapide des v\u00e9hicules en cas d\u2019incendie."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "1998-01-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.5.",
+              "sections": [],
+              "title": {
+                "text": "2.5. Accessibilit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cd6e6be6dD66",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.6.",
+              "sections": [],
+              "title": {
+                "text": "2.6. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "067bE08E70AA",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.7.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "A828dAF0e8eB",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019exploitant tient \u00e0 la disposition de l\u2019inspection des installations class\u00e9es les \u00e9l\u00e9ments justifiant que ses installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux r\u00e8gles en vigueur, entretenues en bon \u00e9tat et v\u00e9rifi\u00e9es."
+                    },
+                    {
+                      "text": "Les canalisations \u00e9lectriques ne sont pas une cause possible d\u2019inflammation et sont convenablement prot\u00e9g\u00e9es contre les chocs, contre la propagation des flammes et contre l\u2019action des produits pr\u00e9sents dans la partie de l\u2019installation en cause."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence de rapport justifiant que les installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux r\u00e8gles en vigueur, entretenues en bon \u00e9tat et v\u00e9rifi\u00e9es."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.7.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.7.1. Conception et suivi des installations \u00e9lectriques"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "ddec7D52C9B6",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019installation \u00e9lectrique comporte un dispositif de coupure g\u00e9n\u00e9rale permettant d\u2019interrompre, en cas de fausse manoeuvre, d\u2019incident ou d\u2019inobservation des consignes de s\u00e9curit\u00e9, l\u2019ensemble du circuit \u00e9lectrique, \u00e0 l\u2019exception des \u00ab syst\u00e8mes de surveillance et de secours \u00bb non susceptibles de provoquer une explosion, et permettant d\u2019obtenir l\u2019arr\u00eat total de la distribution et la mise en s\u00e9curit\u00e9 de l\u2019installation."
+                    },
+                    {
+                      "text": "Plus sp\u00e9cifiquement, pour un appareil de distribution privatif, son d\u00e9clenchement agit sur la vanne de sectionnement aval du groupe de pompage mentionn\u00e9e au point 2.13."
+                    },
+                    {
+                      "text": "Un essai du bon fonctionnement du dispositif de coupure g\u00e9n\u00e9rale est r\u00e9alis\u00e9 au moins une fois par an."
+                    },
+                    {
+                      "text": "La commande de ce dispositif est plac\u00e9e en un endroit facilement accessible \u00e0 tout moment au responsable de l\u2019exploitation de l\u2019installation."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence d\u2019un dispositif de coupure g\u00e9n\u00e9rale (le non-respect de ce point rel\u00e8ve d\u2019une nonconformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sentation du justificatif attestant de la r\u00e9alisation de l\u2019essai annuel de bon fonctionnement (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    },
+                    {
+                      "text": "2.7.2.1. Prescriptions compl\u00e9mentaires pour le cas d\u2019une exploitation en libre-service sans surveillance"
+                    },
+                    {
+                      "text": "\u00ab Le dispositif de coupure g\u00e9n\u00e9rale peut \u00eatre actionn\u00e9 \u00e0 partir d'au moins deux commandes positionn\u00e9es :"
+                    },
+                    {
+                      "text": "\t\u00ab - pour la premi\u00e8re, \u00e0 proximit\u00e9 de l'appareil de distribution ;"
+                    },
+                    {
+                      "text": "\t\u00ab - pour la deuxi\u00e8me, \u00e0 proximit\u00e9 de la commande manuelle doublant le dispositif de d\u00e9clenchement automatique de lutte fixe contre l'incendie permettant l'arr\u00eat des pompes et la fermeture des \u00e9lectrovannes ; ou \u00e0 proximit\u00e9 du r\u00e9servoir alimentant l'appareil de distribution."
+                    },
+                    {
+                      "text": "\u00ab La man\u0153uvre du dispositif de coupure g\u00e9n\u00e9rale d\u00e9clenche une alarme retransmise \u00e0 la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1. La remise en service de l'installation ne peut se faire qu'apr\u00e8s constat de l'absence de risque par le responsable."
+                    },
+                    {
+                      "text": "\u00ab Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t\u00ab - pr\u00e9sence de deux commandes d'actionnement du dispositif de coupure g\u00e9n\u00e9rale (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure). \u00bb"
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.7.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.7.2. Dispositif de coupure g\u00e9n\u00e9rale"
+                  }
+                }
+              ],
+              "title": {
+                "text": "2.7. Installations \u00e9lectriques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f82A32841b8A",
+              "outer_alineas": [
+                {
+                  "text": "Les \u00e9quipements m\u00e9talliques (r\u00e9servoirs, cuves, canalisations) sont mis \u00e0 la terre conform\u00e9ment \u00ab aux normes applicables \u00e0 la date d'installation \u00bb, compte tenu notamment de la nature explosive ou inflammable des produits."
+                },
+                {
+                  "text": "Sous r\u00e9serve des imp\u00e9ratifs techniques qui peuvent r\u00e9sulter de la mise en place de dispositifs de protection cathodique, les installations fixes de transfert de gaz inflammables liqu\u00e9fi\u00e9s ainsi que les charpentes et enveloppes m\u00e9talliques seront reli\u00e9es \u00e9lectriquement entre elles ainsi qu\u2019\u00e0 une prise de terre unique. La continuit\u00e9 des liaisons pr\u00e9sente une r\u00e9sistance inf\u00e9rieure \u00e0 1 ohm et la r\u00e9sistance de la prise de terre sera inf\u00e9rieure \u00e0 10 ohms."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.8.",
+              "sections": [],
+              "title": {
+                "text": "2.8. Mise \u00e0 la terre des \u00e9quipements"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0d24cA8Ef65c",
+              "outer_alineas": [
+                {
+                  "text": "La disposition du sol s\u2019oppose \u00e0 une accumulation \u00e9ventuelle de gaz inflammables liqu\u00e9fi\u00e9s en tout point o\u00f9 leur pr\u00e9sence serait une source de danger ou cause d\u2019aggravation de danger (ouvertures de caves, fosses, trous d\u2019homme, passages de c\u00e2bles \u00e9lectriques en sol, caniveaux, regards, bouches d\u2019\u00e9gout par exemple), et particuli\u00e8rement dans les parties vis\u00e9es au point 4.3."
+                },
+                {
+                  "text": "\u00ab Le sol de l'aire de distribution est \u00e9tanche, A1 (incombustible) ou en rev\u00eatement bitumineux du type routier et dispos\u00e9 ou con\u00e7u de telle sorte que des produits liquides r\u00e9pandus accidentellement ne puissent l'atteindre ou puissent \u00eatre recueillis afin d'\u00eatre r\u00e9cup\u00e9r\u00e9s et recycl\u00e9s ou, en cas d'impossibilit\u00e9, trait\u00e9s conform\u00e9ment au point 5.5 et au titre 7. \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.9.",
+              "sections": [],
+              "title": {
+                "text": "2.9. R\u00e9tention de l'installation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EaCc70C9e9c9",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.10.",
+              "sections": [],
+              "title": {
+                "text": "2.10. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2797cBEAfea2",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.11.",
+              "sections": [],
+              "title": {
+                "text": "2.11. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F4A4bC2fc93b",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.12.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "B1Aa0721FBa0",
+                  "outer_alineas": [
+                    {
+                      "text": "Les pistes, les chenaux et les aires de stationnement des v\u00e9hicules ou des bateaux en attente de remplissage sont dispos\u00e9s de fa\u00e7on que les v\u00e9hicules ou les bateaux puissent \u00e9voluer en marche avant."
+                    },
+                    {
+                      "text": "Les pistes et les chenaux d\u2019acc\u00e8s ne sont pas en impasse. Toutefois pour les appareils de distribution privatifs alimentant les chariots \u00e9l\u00e9vateurs de l\u2019\u00e9tablissement, lorsque l\u2019espace disponible pour la circulation des chariots ne leur permet pas d\u2019\u00e9voluer exclusivement en marche avant, les pistes d\u2019acc\u00e8s en impasse sont admises, sous r\u00e9serve que :"
+                    },
+                    {
+                      "text": "\t- l\u2019appareil de distribution ne soit pas plac\u00e9 dans l\u2019axe de marche du chariot ;"
+                    },
+                    {
+                      "text": "\t- un dispositif m\u00e9canique au sol (rail, haricot en b\u00e9ton, plots, par exemple), infranchissable transversalement par le chariot, guide l\u2019acc\u00e8s \u00e0 l\u2019appareil de distribution en marche arri\u00e8re exclusivement, de sorte que le chariot \u00e9volue parall\u00e8lement \u00e0 celui-ci lorsqu\u2019il atteint l\u2019\u00ab aire de distribution \u00bb;"
+                    },
+                    {
+                      "text": "\t- des but\u00e9es d\u2019arr\u00eat soient implant\u00e9es ;"
+                    },
+                    {
+                      "text": "\t- le remplissage ne soit effectu\u00e9 que chariot vide de chargement ;"
+                    },
+                    {
+                      "text": "\t- une protection m\u00e9canique ad\u00e9quate contre les heurts des objets manutentionn\u00e9s dans l\u2019environnement imm\u00e9diat de l\u2019appareil de distribution soit assur\u00e9e."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019am\u00e9nagement et de la construction des appareils de distribution (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": [
+                          1,
+                          6,
+                          5,
+                          4,
+                          3,
+                          2
+                        ],
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "1998-01-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.12.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.12.1. Am\u00e9nagement de l'acc\u00e8s aux appareils de distribution"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "85DFF4ada2E2",
+                  "outer_alineas": [
+                    {
+                      "text": "\u00ab Pour chaque appareil de distribution de r\u00e9servoirs de chariots de manutention, une aire de distribution est mat\u00e9rialis\u00e9e sur le sol."
+                    },
+                    {
+                      "text": "\u00ab Deux aires de distribution associ\u00e9es \u00e0 la distribution de gaz inflammable liqu\u00e9fi\u00e9 sont distantes d'au moins d'un m\u00e8tre. Plusieurs appareils de distribution peuvent \u00eatre associ\u00e9s \u00e0 une unique aire de distribution. \u00bb"
+                    },
+                    {
+                      "text": "Dans le cas particulier d\u2019appareil de distribution nautique, une zone de remplissage centr\u00e9e sur l\u2019appareil de distribution est clairement mat\u00e9rialis\u00e9e sur trois m\u00e8tres de la berge ou du ponton obligatoirement solidaire de celle-ci. Tant que possible, et ce en fonction des caract\u00e9ristiques des bateaux \u00e0 alimenter et sans pr\u00e9judice de la r\u00e9glementation en vigueur relative \u00e0 la circulation sur les voies navigables, cette zone est identifi\u00e9e dans l\u2019eau par deux dispositifs ad\u00e9quats au moins (par exemple : bou\u00e9es) plac\u00e9s \u00e0 une distance minimum de 3 m\u00e8tres de la berge ou du ponton, de sorte qu\u2019une \u00ab aire de distribution \u00bb rectangulaire soit d\u00e9finie. La signalisation de ces dispositifs est conforme aux normes ou r\u00e8glements en vigueur et indique l\u2019interdiction de passage dans l\u2019\u00ab aire de distribution \u00bb"
+                    },
+                    {
+                      "text": "\ten dehors de l\u2019utilisation de l\u2019appareil de distribution de gaz inflammables liqu\u00e9fi\u00e9s. Deux bollards (i.e. bornes d\u2019amarrage) au moins, correctement dimensionn\u00e9s au vu des caract\u00e9ristiques des bateaux \u00e0 remplir, sont mis en place de part et d\u2019autre de la zone de remplissage, sur la berge ou le ponton."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.12.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.12.2. Am\u00e9nagement de l'\u00ab aire de distribution \u00bb"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "173AbD3F8280",
+                  "outer_alineas": [
+                    {
+                      "text": "\u00ab Les socles des appareils de distribution sont ancr\u00e9s et prot\u00e9g\u00e9s contre les heurts de v\u00e9hicules, par exemple au moyen d'\u00eelots d'au moins 0,15 m\u00e8tre de hauteur, de bornes ou de butoirs de roues. \u00bb Le socle et l'\u00eelot peuvent \u00eatre ventil\u00e9s dans le cas particulier d'une installation de l'appareil sur ponton pour la distribution nautique. Si l'appareil de distribution est implant\u00e9 sur un \u00eelot sp\u00e9cifique aux gaz inflammables liqu\u00e9fi\u00e9s, il est dispos\u00e9 de telle sorte qu'un espace libre de 0,50 m\u00e8tre au minimum est am\u00e9nag\u00e9 entre l'appareil et les v\u00e9hicules ? le cas \u00e9ch\u00e9ant, le bateau ? situ\u00e9s sur l'aire de distribution."
+                    },
+                    {
+                      "text": "Chacune des extr\u00e9mit\u00e9s de l\u2019\u00eelot est \u00e9quip\u00e9e d\u2019un moyen de protection contre les heurts des v\u00e9hicules (bornes, arceaux de s\u00e9curit\u00e9, butoirs de roues par exemple). L\u2019appareil de distribution nautique est de plus prot\u00e9g\u00e9 m\u00e9caniquement de fa\u00e7on \u00e0 \u00e9viter tout heurt avec un \u00e9ventuel bateau en marche incidente. Lorsque, de plus, celui-ci est implant\u00e9 sur ponton, ce dernier est rendu inaccessible \u00e0 tout v\u00e9hicule par des moyens appropri\u00e9s, l\u2019\u00eelot n\u2019est pas requis et le socle, solidaire du ponton, peut \u00eatre ventil\u00e9."
+                    },
+                    {
+                      "text": "L\u2019habillage des parties de l\u2019appareil de distribution o\u00f9 interviennent des gaz inflammables liqu\u00e9fi\u00e9s (unit\u00e9 de filtration, d\u00e9gazage, mesurage, etc.) doit \u00eatre en mat\u00e9riaux de classe A1 ou, \u00e0 d\u00e9faut, de classe A2 s1 d0. La carrosserie des appareils de distribution doit comporter des orifices de ventilation haute et basse, dimensionn\u00e9s de mani\u00e8re \u00e0 obtenir une ventilation efficace, \u00e9vitant toute accumulation de gaz inflammables."
+                    },
+                    {
+                      "text": "L\u2019appareil de distribution nautique de gaz inflammables liqu\u00e9fi\u00e9s et ses accessoires sont conformes aux normes en vigueur en ce qui concerne leur r\u00e9sistance \u00e0 la corrosion en milieu marin ou fluvial."
+                    },
+                    {
+                      "text": "Toute perte d\u2019\u00e9nergie de commande des appareillages \u00e9lectriques ou de pilotage des vannes automatiques engendre la mise en s\u00e9curit\u00e9 de l\u2019\u00e9l\u00e9ment concern\u00e9."
+                    },
+                    {
+                      "text": "Dans le cas de paiement par billets, toutes dispositions sont prises pour que les actes de malveillance \u00e9ventuels n\u2019aient pas de cons\u00e9quence sur les appareils de distribution."
+                    },
+                    {
+                      "text": "\u00ab Pour les installations autres que celles distribuant du GNL, le volume en gaz inflammable liqu\u00e9fi\u00e9 d\u00e9livr\u00e9 par op\u00e9ration par les appareils de distribution en libre-service sans surveillance est limit\u00e9 \u00e0 120 litres de gaz inflammable liqu\u00e9fi\u00e9."
+                    },
+                    {
+                      "text": "\u00ab Pour les installations distribuant du GNL, la quantit\u00e9 d\u00e9livr\u00e9e par op\u00e9ration par les appareils de distribution en libre-service sans surveillance est limit\u00e9e \u00e0 400 kilogrammes. \u00bb"
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": [
+                          0
+                        ],
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "1998-01-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 2.12.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.12.3. Construction des appareils de distribution"
+                  }
+                }
+              ],
+              "title": {
+                "text": "2.12. Am\u00e9nagement et construction des appareils de distribution"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fc1e4065fE9f",
+              "outer_alineas": [
+                {
+                  "text": "Si le groupe de pompage destin\u00e9 au transfert de carburant liqu\u00e9fi\u00e9 entre le r\u00e9servoir de stockage et les appareils de distribution est en fosse, celle-ci est ma\u00e7onn\u00e9e et prot\u00e9g\u00e9e contre les intemp\u00e9ries."
+                },
+                {
+                  "text": "De plus, une ventilation m\u00e9canique \u00e0 laquelle est asservi le fonctionnement de la ou des pompes (ou tout autre proc\u00e9d\u00e9 pr\u00e9sentant les m\u00eames garanties) est install\u00e9e pour \u00e9viter l\u2019accumulation de vapeurs inflammables. \u00c0 d\u00e9faut, la ventilation m\u00e9canique peut \u00eatre remplac\u00e9e par au moins deux appareils de contr\u00f4le de la teneur en gaz, \u00ab plac\u00e9s judicieusement en fonction des caract\u00e9ristiques du gaz \u00e0 d\u00e9tecter \u00bb, auxquels est asservi un dispositif d\u2019arr\u00eat des pompes et la fermeture des \u00e9lectrovannes permettant d\u2019isoler le circuit de distribution et la tuyauterie de distribution du r\u00e9servoir de stockage, \u00ab d\u00e8s que la teneur d\u00e9passe au plus 25 % de la limite inf\u00e9rieure d'explosivit\u00e9, et d\u00e9clenchant dans ce cas une alarme permettant d'avertir la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1. Ces d\u00e9tecteurs sont maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s une fois par an. Une consigne d\u00e9crit les actions \u00e0 mettre en \u0153uvre en cas de d\u00e9clenchement de la d\u00e9tection. \u00bb."
+                },
+                {
+                  "text": "L\u2019acc\u00e8s au dispositif de pompage et \u00e0 ses vannes de sectionnement est ais\u00e9 pour le personnel d\u2019exploitation."
+                },
+                {
+                  "text": "Dans le cas d\u2019une installation en libre-service sans surveillance, le d\u00e9clenchement des alarmes et syst\u00e8mes de d\u00e9tection pr\u00e9cit\u00e9s est retransmis, afin d\u2019aviser \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb. La remise en service de l\u2019installation ne peut se faire qu\u2019apr\u00e8s constat de l\u2019absence de risque par le responsable."
+                },
+                {
+                  "text": "\u00ab Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\u00ab Effectivit\u00e9 d'une ventilation m\u00e9canique ou, \u00e0 d\u00e9faut, pr\u00e9sence d'au moins deux d\u00e9tecteurs contr\u00f4lant la teneur en gaz, plac\u00e9s judicieusement en fonction des caract\u00e9ristiques du gaz \u00e0 d\u00e9tecter (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure). \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 2.13.",
+              "sections": [],
+              "title": {
+                "text": "2.13. Installations connexes"
+              }
+            }
+          ],
+          "title": {
+            "text": "2. Implantation - am\u00e9nagement"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5AF1e1ADCbBa",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5dC6feAcD59D",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitation se fait sous la surveillance, directe ou indirecte, d\u2019une personne nomm\u00e9ment d\u00e9sign\u00e9e par l\u2019exploitant et ayant une connaissance de la conduite de l\u2019installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.1.",
+              "sections": [],
+              "title": {
+                "text": "3.1. Surveillance de l'exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "CcC2266aA1Dd",
+              "outer_alineas": [
+                {
+                  "text": "Sauf dans le cas d\u2019une exploitation en libre-service, l\u2019utilisation des appareils de distribution de gaz inflammables liqu\u00e9fi\u00e9s est assur\u00e9e par un agent d\u2019exploitation nomm\u00e9ment d\u00e9sign\u00e9 par l\u2019exploitant et ayant une connaissance de la conduite de l\u2019installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l\u2019installation."
+                },
+                {
+                  "text": "Dans le cas d\u2019une exploitation en libre-service, un agent d\u2019exploitation ou une soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e est en mesure d\u2019intervenir rapidement en cas d\u2019alarme."
+                },
+                {
+                  "text": "La distribution nautique de gaz inflammables liqu\u00e9fi\u00e9s en libre-service est interdite."
+                },
+                {
+                  "text": "Une formation du personnel lui permet :"
+                },
+                {
+                  "text": "\t- d\u2019\u00eatre sensibilis\u00e9 aux risques inh\u00e9rents \u00e0 ce type d\u2019installation ;"
+                },
+                {
+                  "text": "\t- de v\u00e9rifier r\u00e9guli\u00e8rement le bon fonctionnement des divers \u00e9quipements pour la pr\u00e9vention des risques ;"
+                },
+                {
+                  "text": "\t- de prendre les dispositions n\u00e9cessaires sur le plan pr\u00e9ventif et de mettre en oeuvre, en cas de besoin, les actions les plus appropri\u00e9es."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- l\u2019utilisation des appareils de distribution de gaz inflammables liqu\u00e9fi\u00e9s est assur\u00e9e par un agent d\u2019exploitation (sauf cas d\u2019exploitation en libre-service) ;"
+                },
+                {
+                  "text": "\t- la distribution nautique de gaz inflammables liqu\u00e9fi\u00e9s en libre-service est interdite ;"
+                },
+                {
+                  "text": "\t- en cas d\u2019exploitation en libre-service, possibilit\u00e9 d\u2019intervention d\u2019un agent d\u2019exploitation ou de la soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e en cas d\u2019alarme ;"
+                },
+                {
+                  "text": "\t- en cas d\u2019exploitation en libre-service, pr\u00e9sence d\u2019un dispositif permettant d\u2019alerter l\u2019agent d\u2019exploitation ou la soci\u00e9t\u00e9 de t\u00e9l\u00e9surveillance."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.2.",
+              "sections": [],
+              "title": {
+                "text": "3.2. Contr\u00f4le de l'utilisation des appareils de distribution"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1155cbDA118d",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant a \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l\u2019installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9."
+                },
+                {
+                  "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages portent en caract\u00e8res tr\u00e8s lisibles le nom des produits et, s\u2019il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l\u2019\u00e9tiquetage des substances et pr\u00e9parations chimiques dangereuses."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.3.",
+              "sections": [],
+              "title": {
+                "text": "3.3. Connaissance des produits - Etiquetage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9cd0cFDE8EB2",
+              "outer_alineas": [
+                {
+                  "text": "Les installations de distribution sont maintenues propres et r\u00e9guli\u00e8rement nettoy\u00e9es, notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res. Le mat\u00e9riel de nettoyage est adapt\u00e9 aux risques pr\u00e9sent\u00e9s par les produits et poussi\u00e8res."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.4.",
+              "sections": [],
+              "title": {
+                "text": "3.4. Propret\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6e3cbA3C4aaf",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant est en mesure de fournir une estimation de la quantit\u00e9 de gaz inflammables liqu\u00e9fi\u00e9s d\u00e9tenu dans le(s) r\u00e9servoir(s) ainsi qu\u2019un bilan \"quantit\u00e9s r\u00e9ceptionn\u00e9es \u2013 quantit\u00e9s d\u00e9livr\u00e9es\", auxquels est annex\u00e9 un plan g\u00e9n\u00e9ral des stockages. Cette information est tenue \u00e0 la disposition de l\u2019inspection des installations class\u00e9es, des services d\u2019incendie et de secours et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.5.",
+              "sections": [],
+              "title": {
+                "text": "3.5. Etat des stocks de gaz inflammables liqu\u00e9fi\u00e9s"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AdAbC15Fac10",
+              "outer_alineas": [
+                {
+                  "text": "Les installations \u00e9lectriques sont entretenues et maintenues en bon \u00e9tat et sont contr\u00f4l\u00e9es, apr\u00e8s leur installation ou leur modification, par une personne comp\u00e9tente. La p\u00e9riodicit\u00e9, l\u2019objet et l\u2019\u00e9tendue des v\u00e9rifications des installations \u00e9lectriques ainsi que le contenu des rapports relatifs auxdites v\u00e9rifications sont fix\u00e9s par l'arr\u00eat\u00e9 du 10 octobre 2000 susvis\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.6.",
+              "sections": [],
+              "title": {
+                "text": "3.6. V\u00e9rification p\u00e9riodique des installations \u00e9lectriques"
+              }
+            }
+          ],
+          "title": {
+            "text": "3. Exploitation-entretien"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a0FCAdE39615",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 4.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "D536FF053BC6",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des dispositions du code du travail, et si n\u00e9cessaire dans le cadre de l\u2019exploitation, des mat\u00e9riels de protection individuelle adapt\u00e9s aux risques pr\u00e9sent\u00e9s par l\u2019installation et permettant l\u2019intervention en cas de sinistre sont conserv\u00e9s \u00e0 proximit\u00e9 de l\u2019installation et du lieu d\u2019utilisation."
+                },
+                {
+                  "text": "Ces mat\u00e9riels sont entretenus en bon \u00e9tat et v\u00e9rifi\u00e9s p\u00e9riodiquement. Le personnel est form\u00e9 \u00e0 l\u2019emploi de ces mat\u00e9riels."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.1.",
+              "sections": [],
+              "title": {
+                "text": "4.1. Protection individuelle"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8Fa2eF6EE2aB",
+              "outer_alineas": [
+                {
+                  "text": "a) L\u2019installation est dot\u00e9e de moyens de secours contre l\u2019incendie appropri\u00e9s aux risques et conformes aux normes en vigueur, notamment ;"
+                },
+                {
+                  "text": "\t- d\u2019un syst\u00e8me d\u2019alarme incendie (ou tout moyen permettant d\u2019alerter les services d\u2019incendie et de secours, dans le cas des installations sans surveillance) ;"
+                },
+                {
+                  "text": "\t- sur chaque \u00eelot de distribution, d\u2019un syst\u00e8me manuel commandant, en cas d\u2019incident, une alarme optique ou sonore ;"
+                },
+                {
+                  "text": "\t- d\u2019un dispositif permettant de rappeler \u00e0 tout instant aux tiers les consignes de s\u00e9curit\u00e9 et les conduites \u00e0 tenir en cas de danger ou d\u2019incident, au besoin par l\u2019interm\u00e9diaire d\u2019un ou de plusieurs haut-parleurs ;"
+                },
+                {
+                  "text": "\t- de deux extincteurs \u00e0 poudre polyvalente homologu\u00e9s 21 A233 B et C \u00ab ou \u00e9quivalent \u00bb situ\u00e9s \u00e0 moins de 20 m\u00e8tres des appareils de distribution, pour chaque groupe d\u2019appareils comprenant de un \u00e0 trois appareils. Ces extincteurs peuvent \u00eatre pris en compte pour la protection du stockage si la distance entre celui-ci et les extincteurs est au plus \u00e9gale \u00e0 vingt m\u00e8tres ;"
+                },
+                {
+                  "text": "\t- pour chaque \u00eelot de distribution, d\u2019un extincteur homologu\u00e9 233 B \u00ab ou \u00e9quivalent \u00bb;"
+                },
+                {
+                  "text": "\t- pour chaque local technique, d\u2019un extincteur homologu\u00e9 233 B \u00ab ou \u00e9quivalent \u00bb;"
+                },
+                {
+                  "text": "\t- pour le tableau \u00e9lectrique, d\u2019un extincteur \u00e0 gaz carbonique (2 kilogrammes)."
+                },
+                {
+                  "text": "b) A l\u2019exclusion des installations situ\u00e9es sur le m\u00eame site qu\u2019une installation relevant de la rubrique 1435 r\u00e9guli\u00e8rement mise en service avant le 17 avril 2010 \u00ab ou d\u00e9clar\u00e9e au titre de la rubrique 4718-2 \u00bb, les installations nouvelles de remplissage ou de distribution de gaz inflammables liqu\u00e9fi\u00e9s et associ\u00e9es \u00e0 au moins un r\u00e9servoir a\u00e9rien de gaz inflammables liqu\u00e9fi\u00e9s sont dot\u00e9es ;"
+                },
+                {
+                  "text": "\t- d\u2019un ou de plusieurs appareils d\u2019incendie (prise d\u2019eau, poteaux, par exemple) d\u2019un r\u00e9seau public ou priv\u00e9, d\u2019un d\u00e9bit minimal de 60 m3/h pendant une dur\u00e9e d\u2019au moins deux heures, situ\u00e9 \u00e0 moins de 200 m\u00e8tres de l\u2019installation ;"
+                },
+                {
+                  "text": "\t- d\u2019un ou de plusieurs appareils d\u2019incendie (prise d\u2019eau, poteaux, par exemple) d\u2019un r\u00e9seau public ou priv\u00e9, situ\u00e9 \u00e0 moins de 100 m\u00e8tres de l\u2019installation. Ces appareils peuvent \u00eatre confondus, d\u00e8s lors que celui ou ceux situ\u00e9 \u00e0 moins de 100 m\u00e8tres respectent le d\u00e9bit minimal exig\u00e9 durant deux heures."
+                },
+                {
+                  "text": "Les installations associ\u00e9es uniquement \u00e0 un ou plusieurs r\u00e9servoirs enterr\u00e9s sont dot\u00e9es :"
+                },
+                {
+                  "text": "\t- d\u2019un ou de plusieurs appareils d\u2019incendie (prise d\u2019eau, poteaux, par exemple) d\u2019un r\u00e9seau public ou priv\u00e9 situ\u00e9s \u00e0 moins de 200 m\u00e8tres de l\u2019installation."
+                },
+                {
+                  "text": "A d\u00e9faut, une r\u00e9serve d\u2019eau, propre au site, et destin\u00e9e \u00e0 l\u2019extinction, est accessible en toutes circonstances. Elle aura recueilli l\u2019avis des services d\u00e9partementaux d\u2019incendie et de secours."
+                },
+                {
+                  "text": "Ces prescriptions ne s\u2019appliquent pas aux installations privatives de distribution."
+                },
+                {
+                  "text": "c) Les installations fonctionnant en libre-service sans surveillance sont \u00e9quip\u00e9es de dispositifs automatiques fixes de lutte contre l\u2019incendie et de fermeture des \u00e9lectrovannes situ\u00e9es sur les tuyauteries d\u2019alimentation en \u00ab phase liquide des \u00bb gaz inflammables liqu\u00e9fi\u00e9s permettant d\u2019isoler totalement le circuit de distribution et la tuyauterie de distribution du r\u00e9servoir de stockage. Le d\u00e9clenchement du dispositif de lutte fixe contre l\u2019incendie entra\u00eene obligatoirement la fermeture des \u00e9lectrovannes."
+                },
+                {
+                  "text": "\u00ab Une vanne situ\u00e9e au plus pr\u00e8s du r\u00e9servoir doit pouvoir \u00eatre ferm\u00e9e par un dispositif d\u00e9clench\u00e9 manuellement. Ce dispositif est d'acc\u00e8s facile pour la personne en charge de la surveillance, les services de secours et le fournisseur de gaz. \u00bb"
+                },
+                {
+                  "text": "Une commande de mise en oeuvre manuelle d\u2019acc\u00e8s facile double le dispositif de d\u00e9clenchement automatique fixe de lutte contre l\u2019incendie et de fermeture automatique des \u00e9lectrovannes. Cette commande est install\u00e9e en dehors de l\u2019\u00ab aire de distribution \u00bb, en un endroit accessible \u00ab \u00e0 la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb ainsi qu\u2019\u00e0 toute autre personne."
+                },
+                {
+                  "text": "Cette commande engendre la fermeture de l\u2019\u00e9lectrovanne situ\u00e9e en amont du flexible de remplissage et de l\u2019\u00e9lectrovanne situ\u00e9e en aval du stockage. Le syst\u00e8me de fermeture manuelle de chacune de ces deux vannes est clairement identifi\u00e9 par un \u00e9criteau."
+                },
+                {
+                  "text": "d) Conform\u00e9ment aux r\u00e9f\u00e9rentiels en vigueur et au moins une fois par an, tous les dispositifs sont entretenus par un technicien comp\u00e9tent et leur bon fonctionnement v\u00e9rifi\u00e9. Les rapports d\u2019entretien et de v\u00e9rification sont tenus \u00e0 la disposition de l\u2019inspection des installations class\u00e9es et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+                },
+                {
+                  "text": "Le personnel est form\u00e9 \u00e0 l\u2019utilisation des moyens de lutte contre l\u2019incendie \u00ab et \u00e0 la conduite \u00e0 tenir en cas d'incendie \u00bb."
+                },
+                {
+                  "text": "Dans le cas d\u2019une installation en libre-service sans surveillance, la mise en service du dispositif automatique de lutte fixe contre l\u2019incendie et de fermeture des \u00e9lectrovannes est retransmise afin d\u2019aviser \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb. La remise en service de l\u2019installation ne peut se faire qu\u2019apr\u00e8s constat de l\u2019absence de risque et de retour aux conditions normales d\u2019exploitation par le responsable."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence et accessibilit\u00e9 des dispositifs \u00e9num\u00e9r\u00e9s aux points A \u00e0 C ci-dessus (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des rapports d\u2019entretien et de v\u00e9rification annuels (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.2.",
+              "sections": [],
+              "title": {
+                "text": "4.2. Moyens de secours contre l'incendie"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9bdCd99a8d91",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant recense et signale par un panneau conventionnel, sous sa responsabilit\u00e9, les parties de l\u2019installation qui, en raison des caract\u00e9ristiques qualitatives et quantitatives des mati\u00e8res mises en oeuvre, stock\u00e9es, utilis\u00e9es ou produites, sont susceptibles d\u2019\u00eatre \u00e0 l\u2019origine d\u2019un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l\u2019environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l\u2019installation."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sentation du document de recensement ;"
+                },
+                {
+                  "text": "\t- affichage de la signal\u00e9tique risque."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.3.",
+              "sections": [],
+              "title": {
+                "text": "4.3. Localisation des risques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1ff09bE07b7B",
+              "outer_alineas": [
+                {
+                  "text": "\u00ab Dans les parties de l'installation mentionn\u00e9es \u00e0 l'article 4.3 et recens\u00e9es comme pouvant \u00eatre \u00e0 l'origine d'une explosion, les appareils et syst\u00e8mes de protection destin\u00e9s \u00e0 \u00eatre utilis\u00e9s en atmosph\u00e8res explosibles sont conformes aux dispositions des articles R. 557-7-1 \u00e0 R. 557-7-9 du code de l'environnement. L'exploitant tient \u00e0 jour leur inventaire, et dispose des justificatifs de conformit\u00e9. \u00bb"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.4.",
+              "sections": [],
+              "title": {
+                "text": "4.4. Mat\u00e9riel \u00e9lectrique de s\u00e9curit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1ef272a03C43",
+              "outer_alineas": [
+                {
+                  "text": "Dans les parties de l\u2019installation pr\u00e9sentant des risques d\u2019incendie ou d\u2019explosion, il est interdit d\u2019apporter du feu sous une forme quelconque, sauf pour la r\u00e9alisation de travaux ayant fait l\u2019objet d\u2019un \"permis de feu\". Cette interdiction est affich\u00e9e en caract\u00e8res apparents en limite de zone."
+                },
+                {
+                  "text": "Les prescriptions que doit observer l\u2019usager sont affich\u00e9es soit en caract\u00e8res lisibles, soit au moyen de pictogrammes, et ce au niveau de chaque appareil de distribution. Elles concernent notamment l\u2019interdiction de fumer, d\u2019utiliser un t\u00e9l\u00e9phone portable (le t\u00e9l\u00e9phone doit \u00eatre \u00e9teint), d\u2019approcher un appareil pouvant provoquer un feu nu ainsi que l\u2019obligation d\u2019arr\u00eat du moteur et l\u2019interdiction de remplissage de bouteilles."
+                },
+                {
+                  "text": "A titre exceptionnel, le br\u00fblage de gaz inflammable liqu\u00e9fi\u00e9 \u00e0 l\u2019air libre est autoris\u00e9, lors d\u2019op\u00e9rations de maintenance ou de mise en s\u00e9curit\u00e9 de l\u2019installation de distribution. Ces op\u00e9rations sont effectu\u00e9es conform\u00e9ment \u00e0 des proc\u00e9dures pr\u00e9\u00e9tablies."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.5.",
+              "sections": [],
+              "title": {
+                "text": "4.5. Interdiction des feux"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6692eEE6d1e6",
+              "outer_alineas": [
+                {
+                  "text": "Tous les travaux de r\u00e9paration ou d\u2019am\u00e9nagement effectu\u00e9s par une entreprise ext\u00e9rieure pr\u00e9sentant des risques sp\u00e9cifiques (emploi d\u2019une flamme ou d\u2019une source chaude, purge des circuits...) ne peuvent \u00eatre effectu\u00e9s qu\u2019apr\u00e8s \u00e9tablissement d\u2019un \" plan de pr\u00e9vention \" et \u00e9ventuellement la d\u00e9livrance d\u2019un \" permis de feu \"et en respectant une consigne particuli\u00e8re. Ces permis sont d\u00e9livr\u00e9s apr\u00e8s analyse des risques li\u00e9s aux travaux et d\u00e9finition des mesures appropri\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.6.",
+              "sections": [],
+              "title": {
+                "text": "4.6. Plan de pr\u00e9vention et permis de feu"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "35a7d4f64Db2",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice des dispositions du code du travail, des consignes pr\u00e9cisant les modalit\u00e9s d\u2019application des dispositions du pr\u00e9sent arr\u00eat\u00e9 sont \u00e9tablies, tenues \u00e0 jour et affich\u00e9es dans les lieux fr\u00e9quent\u00e9s par le personnel. Ces consignes indiquent notamment :"
+                },
+                {
+                  "text": "\t- l\u2019interdiction d\u2019apporter du feu sous une forme quelconque, dans les parties de l\u2019installation vis\u00e9es au point 4.3 ;"
+                },
+                {
+                  "text": "\t- l\u2019obligation du \"permis d\u2019intervention\" ou du \"permis de feu\" pour les parties de l\u2019installation vis\u00e9es au point 4.3 ;"
+                },
+                {
+                  "text": "\t- les proc\u00e9dures d\u2019arr\u00eat d\u2019urgence et de mise en s\u00e9curit\u00e9 de l\u2019installation (\u00e9lectricit\u00e9, r\u00e9seaux de fluides) ;"
+                },
+                {
+                  "text": "\t- les mesures \u00e0 prendre en cas de fuite sur un r\u00e9cipient ou une canalisation contenant du gaz inflammable sous forme liquide ou gazeuse ;"
+                },
+                {
+                  "text": "\t- les moyens d\u2019extinction \u00e0 utiliser en cas d\u2019incendie ;"
+                },
+                {
+                  "text": "\t- la proc\u00e9dure d\u2019alerte avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d\u2019intervention de l\u2019\u00e9tablissement, des services d\u2019incendie et de secours, etc. ;"
+                },
+                {
+                  "text": "\t- les mesures de s\u00e9curit\u00e9 \u00e0 respecter (en particulier l\u2019interdiction de stocker des mati\u00e8res inflammables autres que celles qui sont pr\u00e9vues dans les parties de l\u2019installation vis\u00e9es au point 4.3.)."
+                },
+                {
+                  "text": "Les prescriptions \u00e0 observer par le client de l\u2019installation sont affich\u00e9es soit en caract\u00e8re lisibles, soit au moyen de pictogrammes au niveau de l\u2019appareil de distribution. Elles concernent notamment :"
+                },
+                {
+                  "text": "\t- les consignes de s\u00e9curit\u00e9 \u00e0 suivre en cas de situation anormale ;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction de fumer ;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction d\u2019utiliser des t\u00e9l\u00e9phones cellulaires ;"
+                },
+                {
+                  "text": "\t- l\u2019obligation d\u2019arr\u00eater le moteur et de couper le contact du v\u00e9hicule ;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction de remplir des r\u00e9servoirs mobiles \u00ab autres que les r\u00e9servoirs alimentant des moteurs ou autres appareils d'utilisation pourvus d'organes de s\u00e9curit\u00e9 (jauge et soupape)\u00a0 \u00bb;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction de proc\u00e9der lui-m\u00eame au remplissage du v\u00e9hicule."
+                },
+                {
+                  "text": "S\u2019agissant des installations en libre-service, \u00e0 l\u2019exception du dernier tiret, ces consignes de s\u00e9curit\u00e9 sont affich\u00e9es \u00e0 l\u2019attention du client et transmises, le cas \u00e9ch\u00e9ant, \u00e0 \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb."
+                },
+                {
+                  "text": "\u00ab La personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb est en mesure de rappeler \u00e0 tout moment aux usagers les consignes de s\u00e9curit\u00e9."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- affichage des consignes de s\u00e9curit\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.7.",
+              "sections": [],
+              "title": {
+                "text": "4.7. Consignes de s\u00e9curit\u00e9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Cec3f49dc4AC",
+              "outer_alineas": [
+                {
+                  "text": "Les op\u00e9rations comportant des manipulations dangereuses et la conduite des installations (d\u00e9marrage et arr\u00eat, fonctionnement normal, entretien...) font l\u2019objet de consignes d\u2019exploitation \u00e9crites. Ces consignes pr\u00e9voient notamment :"
+                },
+                {
+                  "text": "\t- les modes op\u00e9ratoires ;"
+                },
+                {
+                  "text": "\t- la fr\u00e9quence de contr\u00f4le des dispositifs de s\u00e9curit\u00e9 et de traitement des pollutions et nuisances g\u00e9n\u00e9r\u00e9es ;"
+                },
+                {
+                  "text": "\t- les instructions de maintenance et de nettoyage."
+                },
+                {
+                  "text": "Les consignes d\u2019exploitation pr\u00e9voient notamment l\u2019obligation pour l\u2019agent d\u2019exploitation, avant de fermer la station, de couper l\u2019alimentation \u00e9lectrique g\u00e9n\u00e9rale de la station ou de l\u2019ensemble des installations destin\u00e9es \u00e0 la distribution du gaz inflammable liqu\u00e9fi\u00e9 (mise en s\u00e9curit\u00e9) et de fermer les robinets d\u2019isolement du ou des r\u00e9servoirs de stockage par rapport \u00e0 l\u2019installation de distribution."
+                },
+                {
+                  "text": "Dans le cas d\u2019une exploitation en libre-service, le mode op\u00e9ratoire est affich\u00e9 \u00e0 l\u2019attention des personnes qui effectuent le remplissage. Il reprend, notamment, les indications suivantes report\u00e9es dans l\u2019ordre chronologique propre \u00e0 la station :"
+                },
+                {
+                  "text": "\t- branchement du raccord d\u2019extr\u00e9mit\u00e9 du flexible (pistolet) ;"
+                },
+                {
+                  "text": "\t- actionnement du dispositif \u00ab homme mort \u00bb ;"
+                },
+                {
+                  "text": "\t- d\u00e9branchement du pistolet."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sentation des consignes d\u2019exploitation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.8.",
+              "sections": [],
+              "title": {
+                "text": "4.8. Consignes d'exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ADAA3B56cFE6",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.9.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f441004D9DAA",
+                  "outer_alineas": [
+                    {
+                      "text": "Ces canalisations sont enterr\u00e9es \u00ab ou plac\u00e9es en caniveau \u00bb de fa\u00e7on \u00e0 les prot\u00e9ger des chocs m\u00e9caniques. Dans le cas des installations d\u00e9clar\u00e9es avant le 1er octobre 1998 et dans le cas d\u2019un appareil de distribution privatif r\u00e9pondant aux crit\u00e8res particuliers \u00e9nonc\u00e9s \u00e0 l\u2019avant-dernier paragraphe du point 2.1.B, les canalisations peuvent \u00eatre a\u00e9riennes pour autant qu\u2019elles soient efficacement prot\u00e9g\u00e9es contre les chocs m\u00e9caniques."
+                    },
+                    {
+                      "text": "La liaison des canalisations avec l\u2019appareil de distribution s\u2019effectue sous l\u2019appareil."
+                    },
+                    {
+                      "text": "\u00ab Les canalisations de liaison entre les r\u00e9servoirs de stockage de GNL et les distributeurs sont adapt\u00e9s aux sollicitations thermiques auxquelles elles peuvent \u00eatre soumises (isolant thermique, lyres de dilatation etc.). \u00bb"
+                    },
+                    {
+                      "text": "D\u2019autre part, elles comportent un point faible (raccord cassant) destin\u00e9 \u00e0 se rompre en cas d\u2019arrachement accidentel de l\u2019appareil et, dans le cas de la distribution nautique n\u00e9cessitant un ponton, un deuxi\u00e8me point faible, dans le sol de la berge au niveau de la jonction berge-ponton, destin\u00e9 \u00e0 se rompre en cas d\u2019arrachement du ponton. Des dispositifs automatiques, plac\u00e9s de part et d\u2019autre de ce (ces deux) point(s) faible(s), interrompent tout d\u00e9bit liquide ou gazeux en cas de rupture. En amont, ces dispositifs sont doubl\u00e9s par des vannes, plac\u00e9es sous le niveau du sol, et, le cas \u00e9ch\u00e9ant, sous le socle de l\u2019appareil de distribution implant\u00e9 sur ponton, dont une \u2013 deux dans le cas d\u2019un appareil de distribution nautique implant\u00e9 sur ponton \u2013 au moins est \u00e0 s\u00e9curit\u00e9 positive et asservie au dispositif d\u2019arr\u00eat d\u2019urgence pr\u00e9vu aux points 2.7.2, 4.9.6 et 4.9.7. Elles sont \u00e9galement commandables manuellement."
+                    },
+                    {
+                      "text": "Lorsque l\u2019\u00eelot mentionn\u00e9 au point 2.12.3 est constitu\u00e9 par un massif en b\u00e9ton avec fondations, le niveau sup\u00e9rieur du massif en b\u00e9ton peut \u00eatre assimil\u00e9 au niveau du sol susmentionn\u00e9 et les dispositifs de s\u00e9curit\u00e9 peuvent \u00eatre log\u00e9s dans le massif en b\u00e9ton."
+                    },
+                    {
+                      "text": "Lorsque l\u2019appareil est aliment\u00e9 par une canalisation fonctionnant en refoulement, l\u2019installation est \u00e9quip\u00e9e d\u2019un dispositif de s\u00e9curit\u00e9 arr\u00eatant automatiquement l\u2019arriv\u00e9e de produit en cas d\u2019incendie ou de renversement accidentel du distributeur."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.1. Canalisations de liaison entre l'appareil de distribution et le r\u00e9servoir \u00e0 partir duquel il est aliment\u00e9"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "c5485bAfFE9f",
+                  "outer_alineas": [
+                    {
+                      "text": "Le raccordement du flexible au v\u00e9hicule ou au bateau et le remplissage du r\u00e9servoir ne s\u2019effectuent qu\u2019\u00e0 l\u2019aplomb de l\u2019\u00ab aire de distribution \u00bb."
+                    },
+                    {
+                      "text": "Pr\u00e9alablement \u00e0 la connexion du flexible pour l\u2019op\u00e9ration de remplissage, l\u2019agent d\u2019exploitation s\u2019assure du bon arrimage du bateau aux dispositifs pr\u00e9vus au point 2.12.2."
+                    },
+                    {
+                      "text": "Le remplissage de r\u00e9servoirs de v\u00e9hicules terrestres \u00e0 partir d\u2019un appareil de distribution nautique est interdit."
+                    },
+                    {
+                      "text": "L\u2019appareil de distribution est verrouill\u00e9 en dehors des op\u00e9rations de remplissage et ne peut \u00eatre d\u00e9verrouill\u00e9 que par l\u2019agent d\u2019exploitation ou apr\u00e8s autorisation du syst\u00e8me de paiement, dans le cas d\u2019une installation en libre-service sans surveillance."
+                    },
+                    {
+                      "text": "L\u2019agent d\u2019exploitation ou le responsable de l\u2019exploitation consigne sur un registre l\u2019ensemble des anomalies qui lui sont signal\u00e9es."
+                    },
+                    {
+                      "text": "\u00c0 la fin de chaque remplissage, l\u2019appareil de distribution se verrouille automatiquement apr\u00e8s remise du pistolet dans son support, ou apr\u00e8s une temporisation dont la dur\u00e9e est adapt\u00e9e aux conditions d\u2019exploitation de l\u2019installation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.2. Remplissage des r\u00e9servoirs"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "C69ADB3490aa",
+                  "outer_alineas": [
+                    {
+                      "text": "\u00ab Le flexible comporte :"
+                    },
+                    {
+                      "text": "\t\u00ab - un raccord cassant \u00e0 l'une de ses extr\u00e9mit\u00e9s r\u00e9sistant aux sollicitations thermiques auxquelles il peut \u00eatre soumis ;"
+                    },
+                    {
+                      "text": "\t\u00ab - un raccord d\u00e9bo\u00eetable destin\u00e9 \u00e0 se d\u00e9tacher en cas de traction anormale sur le flexible. Cette disposition est applicable dans le cas de la distribution de GNL \u00e0 partir du 1er janvier 2021 ;"
+                    },
+                    {
+                      "text": "\t\u00ab - en amont et en aval des points faibles pr\u00e9cit\u00e9s, un dispositif automatique qui, en cas de rupture, arr\u00eate le d\u00e9bit en amont et emp\u00eache la vidange \u00e0 l'air libre du produit contenu en aval."
+                    },
+                    {
+                      "text": "\u00ab Le raccord d\u00e9bo\u00eetable peut \u00eatre remplac\u00e9 par un ou des dispositifs assurant le m\u00eame niveau de s\u00e9curit\u00e9."
+                    },
+                    {
+                      "text": "\u00ab Le pistolet est muni d'un dispositif automatique qui, lors du remplissage, interdit le d\u00e9bit si le pistolet n'est pas raccord\u00e9 \u00e0 l'orifice de remplissage du r\u00e9servoir du v\u00e9hicule."
+                    },
+                    {
+                      "text": "\u00ab Dans les cas autres que la distribution de GNL, la longueur du flexible est inf\u00e9rieure ou \u00e9gale \u00e0 cinq m\u00e8tres, et son volume int\u00e9rieur est inf\u00e9rieur ou \u00e9gal \u00e0 1,1 litre, sauf dans le cas de la distribution nautique, o\u00f9 sa longueur maximum est de huit m\u00e8tres et son volume int\u00e9rieur inf\u00e9rieur ou \u00e9gal \u00e0 1,76 litre."
+                    },
+                    {
+                      "text": "\u00ab Dans le cas du GNL, la longueur du flexible est inf\u00e9rieure ou \u00e9gale \u00e0 trois m\u00e8tres cinquante, et son volume int\u00e9rieur est inf\u00e9rieur ou \u00e9gal \u00e0 1,7 litre, sauf dans le cas de la distribution nautique o\u00f9 sa longueur maximum est de huit m\u00e8tres et son volume int\u00e9rieur inf\u00e9rieur ou \u00e9gal \u00e0 3,9 litre."
+                    },
+                    {
+                      "text": "\u00ab Dans tous les cas, les flexibles sont con\u00e7us et contr\u00f4l\u00e9s conform\u00e9ment aux normes en vigueur. Ils sont entretenus en bon \u00e9tat de fonctionnement, inspect\u00e9s visuellement toutes les semaines et sont remplac\u00e9s apr\u00e8s toute d\u00e9gradation et \u00e0 minima dans les fr\u00e9quences d\u00e9finies par les normes en vigueur."
+                    },
+                    {
+                      "text": "\u00ab Les flexibles sont \u00e9quip\u00e9s de dispositifs appropri\u00e9s emp\u00eachant que le flexible ne subisse une usure due \u00e0 un contact r\u00e9p\u00e9t\u00e9 ou prolong\u00e9 avec le sol, et, dans le cas de la distribution nautique, qu'il ne puisse se trouver comprim\u00e9 entre le bateau et la berge ou le ponton (interposition de pneus, bou\u00e9es, etc.)."
+                    },
+                    {
+                      "text": "\u00ab Les rapports d'entretien et de v\u00e9rification seront tenus \u00e0 la disposition de l'inspection des installations class\u00e9es et de l'organisme de contr\u00f4les p\u00e9riodiques."
+                    },
+                    {
+                      "text": "\u00ab Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t\u00ab - pr\u00e9sence d'un raccord cassant, d'un raccord d\u00e9bo\u00eetable ou tout autre dispositif assurant le m\u00eame niveau de s\u00e9curit\u00e9, et d'un dispositif automatique qui, en cas de rupture, arr\u00eate le d\u00e9bit en amont et emp\u00eache la vidange \u00e0 l'air libre du produit contenu en aval (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t\u00ab - \u00e9tat et date de remplacement des flexibles (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t\u00ab - non-frottement au sol de flexibles (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t\u00ab - pr\u00e9sence des rapports d'entretien. \u00bb"
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.3. Flexible d'alimentation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "2Abe934F2AE4",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019appareil de distribution est \u00e9quip\u00e9 d\u2019un interrupteur de remplissage de type \"homme mort\" qui commande une vanne \u00e0 s\u00e9curit\u00e9 positive diff\u00e9rente de celle mentionn\u00e9e au point 4.9.1 ci-dessus, plac\u00e9e \u00e0 l\u2019amont du flexible et qui, en cas d\u2019interruption de sollicitation, arr\u00eate imm\u00e9diatement le remplissage en cours en imposant la fermeture de l\u2019ensemble des vannes plac\u00e9es sur le circuit liquide de l\u2019appareil de distribution."
+                    },
+                    {
+                      "text": "Dans le cas particulier d\u2019un appareil de distribution privatif, d\u00e9pourvu de mesureur, il est permis que l\u2019interrupteur de remplissage susd\u00e9crit commande de fa\u00e7on identique la vanne \u00e0 s\u00e9curit\u00e9 positive mentionn\u00e9e au point 4.9.1 ci-dessus."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.4. Interrupteur de remplissage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "bb6CdeEc6BCc",
+                  "outer_alineas": [
+                    {
+                      "text": "\u00ab Un organe limitant le d\u00e9bit de remplissage \u00e0 4,8 m\u00e8tres cubes par heure est install\u00e9 \u00e0 l'amont du flexible. Dans le cas du GNL, ce dispositif limite le d\u00e9bit \u00e0 9,6 m\u00e8tres cubes par heure. A chaque interruption de remplissage, un syst\u00e8me assure l'arr\u00eat du groupe motopompe, s'il existe, apr\u00e8s temporisation. \u00bb"
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.5. Organe limiteur de d\u00e9bit"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "82DAC1CcdeEE",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019appareil de distribution est \u00e9quip\u00e9 d\u2019un dispositif d\u2019arr\u00eat d\u2019urgence \u00e0 proximit\u00e9 de l\u2019appareil, permettant d\u2019alerter instantan\u00e9ment l\u2019agent d\u2019exploitation et de provoquer la coupure de l\u2019ensemble des installations destin\u00e9es \u00e0 la distribution de gaz inflammable liqu\u00e9fi\u00e9, assurant ainsi leur mise en s\u00e9curit\u00e9."
+                    },
+                    {
+                      "text": "L\u2019agent d\u2019exploitation peut commander \u00e0 tout moment, depuis un point de contr\u00f4le de la station, le fonctionnement de l\u2019appareil de distribution."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence du dispositif d\u2019arr\u00eat d\u2019urgence (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.6.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.6. Prestations compl\u00e9mentaires pour le cas d'une exploitation en libre-service"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "F65afCB7F7Cc",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019appareil de distribution est \u00e9quip\u00e9 :"
+                    },
+                    {
+                      "text": "\t- d\u2019un dispositif d\u2019arr\u00eat d\u2019urgence situ\u00e9 \u00e0 proximit\u00e9 de l\u2019appareil et permettant d\u2019alerter instantan\u00e9ment \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb et de provoquer la coupure de l\u2019ensemble des installations destin\u00e9es \u00e0 la distribution de gaz inflammables liqu\u00e9fi\u00e9s, assurant ainsi leur mise en s\u00e9curit\u00e9 ;"
+                    },
+                    {
+                      "text": "\t\u00ab - d'un syst\u00e8me de d\u00e9tection de gaz install\u00e9 de mani\u00e8re \u00e0 pouvoir d\u00e9tecter toute fuite de gaz dans les meilleurs d\u00e9lais. La d\u00e9tection de gaz inflammable \u00e0 une concentration sup\u00e9rieure \u00e0 un seuil au plus \u00e9gal \u00e0 25 % de la limite inf\u00e9rieure d'explosivit\u00e9 (LIE) entra\u00eene automatiquement l'arr\u00eat de la distribution et la mise en s\u00e9curit\u00e9 de l'installation. Cette disposition peut \u00eatre remplac\u00e9e par la disposition suivante : la d\u00e9tection de gaz inflammable \u00e0 une concentration sup\u00e9rieure \u00e0 un seuil au plus \u00e9gal \u00e0 20 % de la LIE, entra\u00eene automatiquement une alarme retransmise \u00e0 la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1. La d\u00e9tection de gaz inflammable \u00e0 une concentration sup\u00e9rieure \u00e0 un seuil au plus \u00e9gal \u00e0 40 % de la LIE, entra\u00eene automatiquement l'arr\u00eat de la distribution et la mise en s\u00e9curit\u00e9 de l'installation. La mise en d\u00e9faut du syst\u00e8me de d\u00e9tection entra\u00eene \u00e9galement la mise en s\u00e9curit\u00e9 de l'installation. \u00bb"
+                    },
+                    {
+                      "text": "\t- d\u2019un dispositif de communication permettant d\u2019alerter imm\u00e9diatement \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb de l\u2019installation."
+                    },
+                    {
+                      "text": "Le d\u00e9clenchement de ces dispositifs permet d\u2019alerter instantan\u00e9ment \u00ab la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 \u00bb, de d\u00e9clencher une alarme sonore et de provoquer la coupure de l\u2019ensemble des installations destin\u00e9es \u00e0 la distribution de gaz inflammables liqu\u00e9fi\u00e9s assurant ainsi leur mise en s\u00e9curit\u00e9."
+                    },
+                    {
+                      "text": "\u00ab Une commande de mise en \u0153uvre manuelle d'acc\u00e8s facile double le dispositif permettant de provoquer la coupure de l'ensemble des installations destin\u00e9es \u00e0 la distribution de gaz inflammables liqu\u00e9fi\u00e9s. Cette commande est install\u00e9e en dehors de l'aire de distribution, en un endroit accessible \u00e0 la personne d\u00e9sign\u00e9e par l'exploitant d\u00e9finie au 3.1 ainsi qu'\u00e0 toute autre personne. Un \u00e9criteau en permet la localisation pr\u00e9cise. Cette commande d\u00e9clenche l'isolement du circuit de distribution et de la tuyauterie de distribution du r\u00e9servoir de stockage. \u00bb"
+                    },
+                    {
+                      "text": "La remise en service de l\u2019installation ne peut se faire qu\u2019apr\u00e8s constat de l\u2019absence de risque et de retour aux conditions normales d\u2019exploitation par le responsable."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence du dispositif d\u2019arr\u00eat d\u2019urgence pr\u00e9vu par l\u2019article (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence du syst\u00e8me de d\u00e9tection de gaz pr\u00e9vu par l\u2019article (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence du dispositif de communication (le non-respect de ce point rel\u00e8ve d\u2019une nonconformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence et positionnement du dispositif de commande de fermeture manuelle pr\u00e9vu par l\u2019article (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence de l\u2019\u00e9criteau localisant pr\u00e9cis\u00e9ment la commande du syst\u00e8me de fermeture."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.7.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.7. Prescriptions compl\u00e9mentaires pour le cas d'une exploitation en libre-service sans surveillance sur site"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "3a66758beFB3",
+                  "outer_alineas": [
+                    {
+                      "text": "Sous la responsabilit\u00e9 de l\u2019exploitant, le fonctionnement de tous les \u00e9quipements de s\u00e9curit\u00e9 fait l\u2019objet d\u2019une v\u00e9rification au moins annuelle."
+                    },
+                    {
+                      "text": "Par ailleurs, un contr\u00f4le visuel de l\u2019ensemble des installations a\u00e9riennes li\u00e9es \u00e0 la distribution de gaz inflammable liqu\u00e9fi\u00e9 est men\u00e9 r\u00e9guli\u00e8rement et au moins une fois par mois, pour s\u2019assurer notamment de l\u2019absence de corrosion sur les \u00e9quipements et du bon \u00e9tat g\u00e9n\u00e9ral des flexibles et des pistolets."
+                    },
+                    {
+                      "text": "Ces contr\u00f4les sont consign\u00e9s dans un livret tenu \u00e0 la disposition de l\u2019inspection des installations class\u00e9es."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- pr\u00e9sence des rapports d\u2019entretien."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.9.8.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.9.8. Contr\u00f4le des \u00e9quipements de s\u00e9curit\u00e9 relatifs aux gaz inflammables liqu\u00e9fi\u00e9s"
+                  }
+                }
+              ],
+              "title": {
+                "text": "4.9. Dispositifs de s\u00e9curit\u00e9 sur l'installation"
+              }
+            }
+          ],
+          "title": {
+            "text": "4. Risques"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "E4A2de989a14",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 5.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dd32f2B0DA4A",
+              "outer_alineas": [
+                {
+                  "text": "Les conditions de pr\u00e9l\u00e8vements et de rejets li\u00e9s au fonctionnement de l\u2019installation sont compatibles avec les objectifs du SDAGE (sch\u00e9ma directeur d\u2019am\u00e9nagement et de gestion des eaux)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.1.",
+              "sections": [],
+              "title": {
+                "text": "5.1. Compatibilit\u00e9 avec le SDAGE"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "C648C7f1AD41",
+              "outer_alineas": [
+                {
+                  "text": "Si des ouvrages li\u00e9s au fonctionnement de l\u2019installation n\u00e9cessitent, au titre de la loi sur l\u2019eau, une autorisation, ils font alors l\u2019objet d\u2019une instruction s\u00e9par\u00e9e, sauf si les dispositions sp\u00e9cifiques \u00e0 appliquer \u00e0 ces ouvrages figurent dans la pr\u00e9sente annexe."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.2.",
+              "sections": [],
+              "title": {
+                "text": "5.2. Connexit\u00e9 avec des ouvrages soumis \u00e0 la nomenclature eau"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "3D44Decd9CA7",
+              "outer_alineas": [
+                {
+                  "text": "Les installations de pr\u00e9l\u00e8vement d\u2019eau dans le milieu naturel sont munies de dispositifs de mesure totalisateurs de la quantit\u00e9 d\u2019eau pr\u00e9lev\u00e9e. Ces mesures sont r\u00e9guli\u00e8rement relev\u00e9es et le r\u00e9sultat est enregistr\u00e9 et tenu \u00e0 la disposition de l\u2019inspection des installations class\u00e9es et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+                },
+                {
+                  "text": "Le raccordement \u00e0 une nappe d\u2019eau ou au r\u00e9seau public de distribution d\u2019eau potable est muni d\u2019un dispositif \u00e9vitant en toute circonstance le retour d\u2019eau pouvant \u00eatre pollu\u00e9e."
+                },
+                {
+                  "text": "L\u2019usage du r\u00e9seau d\u2019eau incendie est strictement r\u00e9serv\u00e9 aux sinistres, aux exercices de secours et aux op\u00e9rations d\u2019entretien ou de maintien hors gel de ce r\u00e9seau."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.3.",
+              "sections": [],
+              "title": {
+                "text": "5.3. Pr\u00e9l\u00e8vements"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B5bF87dd5C3a",
+              "outer_alineas": [
+                {
+                  "text": "Toutes dispositions sont prises pour limiter la consommation d\u2019eau."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.4.",
+              "sections": [],
+              "title": {
+                "text": "5.4. Consommation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bcEE1ccEdf88",
+              "outer_alineas": [
+                {
+                  "text": "Le r\u00e9seau de collecte est de type s\u00e9paratif permettant d\u2019isoler les eaux r\u00e9siduaires pollu\u00e9es des eaux pluviales non susceptibles d\u2019\u00eatre pollu\u00e9es."
+                },
+                {
+                  "text": "Les points de rejet des eaux r\u00e9siduaires sont en nombre aussi r\u00e9duit que possible et am\u00e9nag\u00e9s pour permettre un pr\u00e9l\u00e8vement ais\u00e9 d\u2019\u00e9chantillon et l\u2019installation d\u2019un dispositif de mesure du d\u00e9bit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.5.",
+              "sections": [],
+              "title": {
+                "text": "5.5. R\u00e9seau de collecte"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6DF367Cc22Dc",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.6.",
+              "sections": [],
+              "title": {
+                "text": "5.6. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "a9a14Eaa7BA8",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.7.",
+              "sections": [],
+              "title": {
+                "text": "5.7. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4dDcfebC9D8D",
+              "outer_alineas": [
+                {
+                  "text": "Le rejet direct ou indirect m\u00eame apr\u00e8s \u00e9puration d\u2019eaux r\u00e9siduaires dans une nappe souterraine est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.8.",
+              "sections": [],
+              "title": {
+                "text": "5.8. Interdiction des rejets en nappe"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "859D8CbaE4Aa",
+              "outer_alineas": [
+                {
+                  "text": "Des dispositions sont prises pour qu\u2019il ne puisse pas y avoir en cas d\u2019accident (rupture de r\u00e9cipient, cuvette, etc.), d\u00e9versement de mati\u00e8res dangereuses dans les \u00e9gouts publics ou le milieu naturel. L\u2019\u00e9vacuation des effluents recueillis selon les dispositions du point 2.11 se fait comme des d\u00e9chets dans les conditions pr\u00e9vues au titre 7 ci-apr\u00e8s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.9.",
+              "sections": [],
+              "title": {
+                "text": "5.9. Pr\u00e9vention des pollutions accidentelles"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F5EC5E1f3995",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.10.",
+              "sections": [],
+              "title": {
+                "text": "5.10. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "285C3E7DFF64",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.11.",
+              "sections": [],
+              "title": {
+                "text": "5.11. (*)"
+              }
+            }
+          ],
+          "title": {
+            "text": "5. Eau"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "AIR_ODEURS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b0d6ddDb0eB2",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 6.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "795bEec534eb",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.1.",
+              "sections": [],
+              "title": {
+                "text": "6.1. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8389827aaEbF",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.2.",
+              "sections": [],
+              "title": {
+                "text": "6.2. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9a334c40ACba",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.3.",
+              "sections": [],
+              "title": {
+                "text": "6.3. (*)"
+              }
+            }
+          ],
+          "title": {
+            "text": "6. Air-odeurs"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DECHETS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "34b4f9CeF80e",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 7.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2E39cA256Ed5",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant \u00e9limine ou fait \u00e9liminer les d\u00e9chets produits, dans des conditions propres \u00e0 garantir les int\u00e9r\u00eats vis\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement. Il s\u2019assure que les installations utilis\u00e9es pour cette \u00e9limination sont r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 cet effet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.1.",
+              "sections": [],
+              "title": {
+                "text": "7.1. R\u00e9cup\u00e9ration - Recyclage - Elimination"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6FEdb19b4FDC",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant est tenu aux obligations de registre, de d\u00e9claration d\u2019\u00e9limination de d\u00e9chets et de bordereau de suivi dans les conditions fix\u00e9es par la r\u00e9glementation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.2.",
+              "sections": [],
+              "title": {
+                "text": "7.2. Contr\u00f4les des circuits"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6eD1C5E25Bdf",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.3.",
+              "sections": [],
+              "title": {
+                "text": "7.3. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "F5328fBB9116",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.4.",
+              "sections": [],
+              "title": {
+                "text": "7.4. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8CAED11f366B",
+              "outer_alineas": [
+                {
+                  "text": "Non concern\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.5.",
+              "sections": [],
+              "title": {
+                "text": "7.5. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BF3bDaAA9a03",
+              "outer_alineas": [
+                {
+                  "text": "Le br\u00fblage des d\u00e9chets \u00e0 l\u2019air libre est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 7.6.",
+              "sections": [],
+              "title": {
+                "text": "7.6. Br\u00fblage"
+              }
+            }
+          ],
+          "title": {
+            "text": "7. D\u00e9chets"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "BRUIT_VIBRATIONS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eB70B38a25CB",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 8.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eE3aa746c770",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l\u2019origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour la tranquillit\u00e9 de celui-ci."
+                },
+                {
+                  "text": "Les \u00e9missions sonores \u00e9mises par l\u2019installation ne sont pas \u00e0 l\u2019origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d\u2019une \u00e9mergence sup\u00e9rieure aux valeurs admissibles pr\u00e9cis\u00e9es dans le tableau suivant :"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "NIVEAU DE BRUIT\nambiant existant dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e\n(incluant le bruit de l\u2019installation)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "EMERGENCE ADMISSIBLE\npour la p\u00e9riode allant de 7 heures \u00e0 22 heures,\nsauf dimanches et jours f\u00e9ri\u00e9s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "EMERGENCE ADMISSIBLE\npour la p\u00e9riode allant de 22 heures \u00e0 7 heures,\nainsi que les dimanches et jours f\u00e9ri\u00e9s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Sup\u00e9rieur \u00e0 35 et inf\u00e9rieur ou \u00e9gal \u00e0 45 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "6 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "4 dB (A)"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "Sup\u00e9rieur \u00e0 45 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "5 dB (A)"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "3 dB (A)"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                },
+                {
+                  "text": "De plus, le niveau de bruit en limite de propri\u00e9t\u00e9 de l\u2019installation pas d\u00e9passe pas, lorsqu\u2019elle est en fonctionnement, 70 dB (A) pour la p\u00e9riode de jour et 60 dB (A) pour la p\u00e9riode de nuit, sauf bruit r\u00e9siduel d\u00e9passant cette limite."
+                },
+                {
+                  "text": "Dans le cas particulier de l\u2019\u00e9tablissement est \u00e0 tonalit\u00e9 marqu\u00e9e, au sens du point 1.9 de l'annexe de l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l\u2019environnement par les installations class\u00e9es pour la protection de l\u2019environnent, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d\u2019apparition ne peut exc\u00e9der 30 % de la dur\u00e9e de fonctionnement de l\u2019\u00e9tablissement dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+                },
+                {
+                  "text": "Lorsque plusieurs installations class\u00e9es soumises \u00e0 d\u00e9claration au titre de rubriques diff\u00e9rentes sont situ\u00e9es au sein d\u2019un m\u00eame \u00e9tablissement, le niveau de bruit global \u00e9mis par ces installations respecte les valeurs limites ci-dessus."
+                },
+                {
+                  "text": "\tSur demande de l\u2019inspection des installations class\u00e9es, des mesures de bruit pourront \u00eatre r\u00e9alis\u00e9es, aux frais de\u00a0 l\u2019exploitant, par une personne ou un organisme qualifi\u00e9, choisi apr\u00e8s accord de l\u2019inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.1.",
+              "sections": [],
+              "title": {
+                "text": "8.1. Valeurs limites de bruit"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "117CB87dbcA9",
+              "outer_alineas": [
+                {
+                  "text": "Les v\u00e9hicules de transport, les mat\u00e9riels de manutention et des engins de chantier utilis\u00e9s \u00e0 l\u2019int\u00e9rieur de l\u2019installation sont conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores. En particulier, les engins de chantier sont conformes \u00e0 un type homologu\u00e9."
+                },
+                {
+                  "text": "L\u2019usage de tout appareil de communication par voie acoustique (sir\u00e8nes, avertisseurs, hautparleurs, etc.), g\u00eanant pour le voisinage, est interdit, sauf si son emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d\u2019incidents graves ou d\u2019accidents."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.2.",
+              "sections": [],
+              "title": {
+                "text": "8.2. V\u00e9hicules - Engins de chantier"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "7B1D17AD2d98",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.3.",
+              "sections": [],
+              "title": {
+                "text": "8.3. (*)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5eb0857c8EBd",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 8.4.",
+              "sections": [],
+              "title": {
+                "text": "8.4. (*)"
+              }
+            }
+          ],
+          "title": {
+            "text": "8. Bruit et vibrations"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "FIN_EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1FCd6cB181d9",
+          "outer_alineas": [
+            {
+              "text": "Outre les dispositions pr\u00e9vues au point 1.7, l\u2019exploitant remet en \u00e9tat le site de sorte qu\u2019il ne s\u2019y manifeste plus aucun danger et inconv\u00e9nient. En particulier :"
+            },
+            {
+              "text": "\t- tous les produits dangereux ainsi que tous les d\u00e9chets sont valoris\u00e9s ou \u00e9vacu\u00e9s vers des installations d\u00fbment autoris\u00e9es ;"
+            },
+            {
+              "text": "\t- les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vid\u00e9es, nettoy\u00e9es, d\u00e9gaz\u00e9es et, le cas \u00e9ch\u00e9ant, d\u00e9contamin\u00e9es."
+            },
+            {
+              "text": "Elles sont si possible enlev\u00e9es, sinon elles sont neutralis\u00e9es par remplissage avec un solide inerte. Le produit utilis\u00e9 pour la neutralisation recouvre toute la surface de la paroi interne et poss\u00e8de une r\u00e9sistance \u00e0 terme suffisante pour emp\u00eacher l\u2019affaissement du sol en surface."
+            },
+            {
+              "text": "[*] Un mod\u00e8le a \u00e9t\u00e9 constitu\u00e9 pour la r\u00e9daction des arr\u00eat\u00e9s de prescriptions g\u00e9n\u00e9rales applicables aux installations soumises \u00e0 d\u00e9claration. Certaines dispositions de ce mod\u00e8le, qui ne se justifient pas pour les installations vis\u00e9es par la rubrique n\u00b0 1414-3 ont \u00e9t\u00e9 supprim\u00e9es. N\u00e9anmoins, la num\u00e9rotation a \u00e9t\u00e9 conserv\u00e9e pour permettre une homog\u00e9n\u00e9it\u00e9 entre les arr\u00eat\u00e9s de prescriptions g\u00e9n\u00e9rales de toutes les rubriques de la nomenclature. \u00bb"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 9.",
+          "sections": [],
+          "title": {
+            "text": "9. Remise en \u00e9tat en fin d'exploitation"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe I : Prescriptions g\u00e9n\u00e9rales et faisant l\u2019objet du contr\u00f4le p\u00e9riodique applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1414-3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "bDC7d6ee57fe",
+      "outer_alineas": [
+        {
+          "text": "(Arr\u00eat\u00e9 du 1er juillet 2013, article 8)"
+        },
+        {
+          "text": "Les dispositions de l'annexe I du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes, r\u00e9guli\u00e8rement d\u00e9clar\u00e9es avant le 1er octobre 1998 au titre de la rubrique 1414-3 de la nomenclature des installations class\u00e9es, selon les d\u00e9lais suivants :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "DATE DE PUBLICATION\nau Journal officiel + 6 mois"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 2,
+                    "content": {
+                      "text": "DATE DE PUBLICATION\nau Journal officiel + 1 an"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": true
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "1. Dispositions g\u00e9n\u00e9rales (\u00ab sauf 1.1.2 \u00bb).\n2.1. R\u00e8gles d'implantation : uniquement le troisi\u00e8me alin\u00e9a du C (\u00e9cran).\n2.7. Installations \u00e9lectriques (sauf 2.7.2.1).\n2.8. Mise \u00e0 la terre des \u00e9quipements.\n2.9. R\u00e9tention de l'installation.\n2.12. Am\u00e9nagement et construction des appareils de distribution (sauf deuxi\u00e8me alin\u00e9a du 2.12.1 et premier alin\u00e9a du 2.12.3).\n2.13. Installations connexes (sauf deuxi\u00e8me d\u00e9tecteur et asservissement des \u00e9lectrovannes).\n3. Exploitation-entretien.\n4. Risques (sauf alin\u00e9as 17, 19 et 22 du 4.2 et du 4.9.7).\n5. Eau.\n7. D\u00e9chets\n8. Bruit et vibrations.\n9. Remise en \u00e9tat."
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "2.7.2.1. Prescriptions compl\u00e9mentaires pour le cas d'une exploitation en libre-service sans surveillance, relatives aux dispositifs de coupure g\u00e9n\u00e9rale.\n2.13. Installations connexes (deuxi\u00e8me d\u00e9tecteur et asservissement des \u00e9lectrovannes).\n4.2. Moyens de secours contre l'incendie (alin\u00e9as 17, 19 et 22 relatifs aux dispositifs automatiques de lutte fixe contre l'incendie et de fermeture des \u00e9lectrovannes).\n4.9.7. Prescriptions compl\u00e9mentaires pour le cas d'une exploitation en libre-service sans surveillance sur site."
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        },
+        {
+          "text": "Les dispositions de l'annexe I du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes, r\u00e9guli\u00e8rement d\u00e9clar\u00e9es apr\u00e8s le 1er octobre 1998 au titre de la rubrique 1414-3 de la nomenclature des installations class\u00e9es, selon les d\u00e9lais suivants :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "DATE DE PUBLICATION\nau Journal officiel + 6 mois"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 2,
+                    "content": {
+                      "text": "DATE DE PUBLICATION\nau Journal officiel + 1 an"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": true
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "1. Dispositions g\u00e9n\u00e9rales.\n2. Implantation-am\u00e9nagement (sauf 2.7.2.1 et deuxi\u00e8me d\u00e9tecteur et asservissement des \u00e9lectrovannes de l'article 2.13).\n3. Exploitation-entretien.\n4. Risques (sauf alin\u00e9as 17, 19 et 22 du 4.2 et 4.9.7).\n5. Eau.\n7. D\u00e9chets.\n8. Bruit et vibrations.\n9. Remise en \u00e9tat."
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "2.7.2.1. Prescriptions compl\u00e9mentaires pour le cas d'une exploitation en libre-service sans surveillance, relatives aux dispositifs de coupure g\u00e9n\u00e9rale.\n2.13. Installations connexes (deuxi\u00e8me d\u00e9tecteur et asservissement des \u00e9lectrovannes).\n4.2. Moyens de secours contre l'incendie (alin\u00e9as 17, 19 et 22 relatifs aux dispositifs automatiques de lutte fixe contre l'incendie et de fermeture des \u00e9lectrovannes).\n4.9.7. Prescriptions compl\u00e9mentaires pour le cas d'une exploitation en libre-service sans surveillance sur site."
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe II",
+      "sections": [],
+      "title": {
+        "text": "Annexe II : Dispositions applicables aux installations existantes"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "8304DAad3C91",
+      "outer_alineas": [
+        {
+          "text": "(Abrog\u00e9e par l'article 8 de l'arr\u00eat\u00e9 du 1er juillet 2013)"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe III",
+      "sections": [],
+      "title": {
+        "text": "Annexe III : Prescriptions faisant l'objet des contr\u00f4les p\u00e9riodiques"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 30/08/10 relatif aux prescriptions applicables aux installations class\u00e9es pour la protection de l\u2019environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1414-3 : Installations de remplissage ou de distribution de gaz inflammables liqu\u00e9fi\u00e9s : installations de remplissage de r\u00e9servoirs alimentant des moteurs ou autres appareils d\u2019utilisation comportant des organes de s\u00e9curit\u00e9 (jauges et soupapes)"
+  },
+  "visa": []
+}

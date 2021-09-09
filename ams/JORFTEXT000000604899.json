@@ -1,0 +1,202 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/5031",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [],
+  "classements_with_alineas": [],
+  "date_of_signature": "2005-07-29",
+  "id": "JORFTEXT000000604899",
+  "is_transverse": true,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000604899",
+  "nickname": "Bordereau d\u00e9chets dangereux",
+  "sections": [
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4701aA128cdb",
+      "outer_alineas": [
+        {
+          "text": "Toute personne tenue d'\u00e9mettre un bordereau de suivi des d\u00e9chets dangereux en application de l' article R. 541-45 du code de l'environnement utilise le formulaire CERFA n\u00b0 12571 (1), sauf, d'une part, pour les d\u00e9chets dangereux contenant de l'amiante pour lesquels le formulaire CERFA n\u00b0 11861 (1) est utilis\u00e9 et, d'autre part, pour les d\u00e9chets de fluides frigorig\u00e8nes pour lesquels le formulaire CERFA n\u00b0 15497 (2) est utilis\u00e9. Lors de l'\u00e9laboration d'un nouveau bordereau suite \u00e0 regroupement de d\u00e9chets de fluides frigorig\u00e8nes, le formulaire CERFA n\u00b0 12571 (1) est toutefois utilis\u00e9."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "aD4Aa4E6c172",
+      "outer_alineas": [
+        {
+          "links": [
+            {
+              "content_size": 23,
+              "position": 128,
+              "target": "https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000594802&idArticle=JORFARTI000002042020&categorieLien=cid"
+            }
+          ],
+          "text": "Les collecteurs qui prennent en charge de petites quantit\u00e9s de d\u00e9chets dangereux relevant d'une m\u00eame rubrique de l'annexe II du d\u00e9cret du 18 avril 2002 susvis\u00e9 mais de provenances diff\u00e9rentes joignent en outre au bordereau qu'ils \u00e9mettent l'annexe 1 du formulaire CERFA n\u00b0 12571 d\u00fbment remplie."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0f4eBa907d4c",
+      "outer_alineas": [
+        {
+          "text": "Toute personne ayant transform\u00e9 des d\u00e9chets ou r\u00e9alis\u00e9 un traitement des d\u00e9chets aboutissant \u00e0 d'autres d\u00e9chets joint l'annexe 2 du formulaire CERFA n\u00b0 12571 d\u00fbment remplie au bordereau qu'elle \u00e9met lors de la r\u00e9exp\u00e9dition de ces d\u00e9chets vers une autre installation."
+        },
+        {
+          "text": "Cette obligation n'est pas applicable aux personnes ayant incin\u00e9r\u00e9 ou co\u00efncin\u00e9r\u00e9 des d\u00e9chets."
+        },
+        {
+          "text": "De m\u00eame, les personnes ayant transform\u00e9 ou r\u00e9alis\u00e9 un traitement de d\u00e9chets aboutissant \u00e0 des d\u00e9chets ne permettant plus d'identifier la provenance des d\u00e9chets initiaux sont dispens\u00e9s de cette obligation, \u00e0 condition que l'arr\u00eat\u00e9 fixant les prescriptions de leur installation pr\u00e9voie les cas de cette dispense."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "c0d0eCf6B2EB",
+      "outer_alineas": [
+        {
+          "text": "Les personnes transportant, entreposant, reconditionnant, transformant ou traitant des d\u00e9chets dangereux ainsi que les n\u00e9gociants de ces m\u00eames d\u00e9chets remplissent le bordereau aux endroits les concernant."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Fc6D854bEEDc",
+      "outer_alineas": [
+        {
+          "links": [
+            {
+              "content_size": 25,
+              "position": 1,
+              "target": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000468370&categorieLien=id"
+            }
+          ],
+          "text": "L'arr\u00eat\u00e9 du 4 janvier 1985 relatif au contr\u00f4le des circuits d'\u00e9limination de d\u00e9chets g\u00e9n\u00e9rateurs de nuisances est abrog\u00e9 \u00e0 compter du 1er d\u00e9cembre 2005."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [],
+      "title": {
+        "text": "Article 5"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "2C8Bda99E45f",
+      "outer_alineas": [
+        {
+          "text": "Le directeur de la pr\u00e9vention des pollutions et des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 6",
+      "sections": [],
+      "title": {
+        "text": "Article 6"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 29/07/05 fixant le formulaire du bordereau de suivi des d\u00e9chets dangereux mentionn\u00e9 \u00e0 l'article 4 du d\u00e9cret n\u00b0 2005-635 du 30 mai 2005"
+  },
+  "visa": []
+}

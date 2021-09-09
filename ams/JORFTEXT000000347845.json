@@ -1,0 +1,2912 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/5809",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2510",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2510"
+    }
+  ],
+  "date_of_signature": "1994-09-22",
+  "id": "JORFTEXT000000347845",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000347845",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "6e494eeBA3b8",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 fixe les prescriptions applicables :"
+        },
+        {
+          "text": "- aux exploitations de carri\u00e8res qui rel\u00e8vent du r\u00e9gime d'autorisation (rubrique 2510 de la nomenclature des installations class\u00e9es), \u00e0 l'exception des affouillements du sol ;"
+        },
+        {
+          "text": "- aux zones de stockage des d\u00e9chets d'extraction inertes issus de l'exploitation de la carri\u00e8re et des installations de traitement."
+        },
+        {
+          "text": "On entend par zone de stockage :"
+        },
+        {
+          "text": "- lorsque les d\u00e9chets d'extraction \u00e0 stocker sont non dangereux non inertes ou dangereux, les installations relevant de la rubrique 2720 de la nomenclature des installations class\u00e9es pour la protection de l'environnement ;"
+        },
+        {
+          "text": "- lorsque les d\u00e9chets d'extraction sont inertes un endroit choisi pour y d\u00e9poser des d\u00e9chets d'extraction solides ou liquides, en solution ou en suspension, pendant une p\u00e9riode sup\u00e9rieure \u00e0 trois ans, \u00e0 la condition que cet endroit soit \u00e9quip\u00e9 d'une digue, d'une structure de retenue, de confinement ou de toute autre structure utile ; ces installations comprennent \u00e9galement les terrils, les verses et les bassins."
+        },
+        {
+          "text": "Les d\u00e9chets d'extraction inertes, lorsqu'ils sont replac\u00e9s dans les trous d'excavation \u00e0 des fins de remise en \u00e9tat ou \u00e0 des fins de construction li\u00e9es au processus d'extraction des min\u00e9raux (pistes, voies de circulation, merlons...), ne sont pas vis\u00e9s par les dispositions applicables aux zones de stockage des d\u00e9chets d'extraction inertes du pr\u00e9sent arr\u00eat\u00e9."
+        },
+        {
+          "text": "On entend par d\u00e9chets d'extraction les d\u00e9chets provenant des industries extractives, tels que les r\u00e9sidus (c'est-\u00e0-dire les d\u00e9chets solides ou boueux subsistant apr\u00e8s le traitement des min\u00e9raux par divers proc\u00e9d\u00e9s), les st\u00e9riles et les morts-terrains (c'est-\u00e0-dire les roches d\u00e9plac\u00e9es pour atteindre le gisement de minerai ou de min\u00e9raux, y compris au stade de la pr\u00e9production) et la couche arable (c'est-\u00e0-dire la couche sup\u00e9rieure du sol)."
+        },
+        {
+          "text": "Ces d\u00e9chets sont consid\u00e9r\u00e9s comme des d\u00e9chets d'extraction inertes, au sens du pr\u00e9sent arr\u00eat\u00e9, s'ils satisfont aux crit\u00e8res fix\u00e9s \u00e0 l'annexe I du pr\u00e9sent arr\u00eat\u00e9."
+        },
+        {
+          "text": "L'arr\u00eat\u00e9 d'autorisation peut fixer, en tant que de besoin, des dispositions plus contraignantes que celles prescrites ci-apr\u00e8s."
+        },
+        {
+          "text": "Sauf mention expresse, sont soumises aux dispositions qui suivent, en ce qui concerne les carri\u00e8res, les exploitations \u00e0 ciel ouvert et les exploitations souterraines."
+        },
+        {
+          "text": "Les zones de stockage des d\u00e9chets d'extraction inertes sont r\u00e9alis\u00e9es et exploit\u00e9es en se fondant sur les performances des meilleures techniques disponibles \u00e9conomiquement acceptables (MTD) et en tenant compte de la vocation et de l'utilisation des milieux environnants ainsi que la gestion \u00e9quilibr\u00e9e de la ressource en eau."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DISPOSITIONS_GENERALES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0CAEbcACecbb",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "DC01FA3A14ac",
+          "outer_alineas": [
+            {
+              "text": "Les carri\u00e8res sont exploit\u00e9es et remises en \u00e9tat de mani\u00e8re \u00e0 limiter leur impact sur l'environnement, notamment par la mise en \u0153uvre de techniques propres."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8eab88c18F6c",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6496e5DF36B4",
+              "outer_alineas": [
+                {
+                  "text": "L'arr\u00eat\u00e9 d'autorisation mentionne :"
+                },
+                {
+                  "text": "- les nom, pr\u00e9noms, nationalit\u00e9 et adresse du b\u00e9n\u00e9ficiaire et, s'il s'agit d'une soci\u00e9t\u00e9, les renseignements en tenant lieu ;"
+                },
+                {
+                  "text": "- la ou les rubriques de la nomenclature des installations class\u00e9es pour la protection de l'environnement pour lesquelles l'autorisation est accord\u00e9e ;"
+                },
+                {
+                  "text": "- les tonnages maximaux annuels \u00e0 extraire et/ ou \u00e0 traiter ;"
+                },
+                {
+                  "text": "- les mesures pour pr\u00e9venir les pollutions et nuisances inh\u00e9rentes \u00e0 l'exploitation des installations ;"
+                },
+                {
+                  "text": "- la superficie, les limites territoriales et la r\u00e9f\u00e9rence cadastrale des terrains ;"
+                },
+                {
+                  "text": "- la dur\u00e9e de l'autorisation d'exploiter (laquelle ne s'applique pas, le cas \u00e9ch\u00e9ant, \u00e0 l'exploitation de l'installation de traitement) ;"
+                },
+                {
+                  "text": "- la ou les substances pour lesquelles l'autorisation est accord\u00e9e ;"
+                },
+                {
+                  "text": "- les modalit\u00e9s d'extraction et de remise en \u00e9tat du site (les plans de phasage des travaux et de remise en \u00e9tat du site sont annex\u00e9s \u00e0 l'arr\u00eat\u00e9 d'autorisation) ;"
+                },
+                {
+                  "text": "- dans le cas des zones de stockage des d\u00e9chets d'extraction inertes :"
+                },
+                {
+                  "text": "- les quantit\u00e9s de stockage maximales estim\u00e9es ;"
+                },
+                {
+                  "text": "- les zones pr\u00e9vues pour le stockage."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "3.1"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ca18d6BBff7F",
+              "outer_alineas": [
+                {
+                  "text": "Les rapports de surveillance et d'inspection ainsi que les documents relatifs \u00e0 l'autorisation sont conserv\u00e9s par l'exploitant de mani\u00e8re \u00e0 garantir le transfert appropri\u00e9 des informations, notamment en cas de changement d'exploitant pr\u00e9vu par l'article R. 181-47 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3",
+              "sections": [],
+              "title": {
+                "text": "3.2."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 3"
+          }
+        }
+      ],
+      "title": {
+        "text": "CHAPITRE Ier : Dispositions g\u00e9n\u00e9rales."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Fcca66960284",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CDDFA2BC14BE",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Dc4C509451d2",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant est tenu, avant le d\u00e9but de l'exploitation, de mettre en place sur chacune des voies d'acc\u00e8s au chantier des panneaux indiquant en caract\u00e8res apparents son identit\u00e9, la r\u00e9f\u00e9rence de l'autorisation, l'objet des travaux et l'adresse de la mairie o\u00f9 le plan de remise en \u00e9tat du site peut \u00eatre consult\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4",
+              "sections": [],
+              "title": {
+                "text": "Article 4"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "73C394Dc03DD",
+              "outer_alineas": [
+                {
+                  "text": "Pr\u00e9alablement \u00e0 la mise en exploitation des carri\u00e8res \u00e0 ciel ouvert, l'exploitant est tenu de placer :"
+                },
+                {
+                  "text": "1\u00b0 Des bornes en tous les points n\u00e9cessaires pour d\u00e9terminer le p\u00e9rim\u00e8tre de l'autorisation ;"
+                },
+                {
+                  "text": "2\u00b0 Le cas \u00e9ch\u00e9ant, des bornes de nivellement."
+                },
+                {
+                  "text": "Ces bornes doivent demeurer en place jusqu'\u00e0 l'ach\u00e8vement des travaux d'exploitation et de remise en \u00e9tat du site."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 5",
+              "sections": [],
+              "title": {
+                "text": "Article 5"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "15c6baD9DC3D",
+              "outer_alineas": [
+                {
+                  "text": "Lorsqu'il existe un risque pour les int\u00e9r\u00eats vis\u00e9s \u00e0 l'article L. 211-1 du code de l'environnement, un r\u00e9seau de d\u00e9rivation emp\u00eachant les eaux de ruissellement d'atteindre la zone en exploitation est mis en place \u00e0 la p\u00e9riph\u00e9rie de cette zone."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 6",
+              "sections": [],
+              "title": {
+                "text": "Article 6"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c45015E6dcaf",
+              "outer_alineas": [
+                {
+                  "text": "L'acc\u00e8s \u00e0 la voirie publique est am\u00e9nag\u00e9 de telle sorte qu'il ne cr\u00e9e pas de risque pour la s\u00e9curit\u00e9 publique."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7",
+              "sections": [],
+              "title": {
+                "text": "Article 7"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "7a4eaCAAEcd9",
+              "outer_alineas": [
+                {
+                  "text": "La mise en service de l'installation est r\u00e9put\u00e9e r\u00e9alis\u00e9e d\u00e8s qu'ont \u00e9t\u00e9 achev\u00e9s les am\u00e9nagements et \u00e9quipements tels qu'ils sont pr\u00e9cis\u00e9s aux articles 4 \u00e0 7, \u00e9ventuellement compl\u00e9t\u00e9s par des travaux pr\u00e9cis\u00e9s par l'arr\u00eat\u00e9 d'autorisation."
+                },
+                {
+                  "text": "L'exploitant notifie au pr\u00e9fet et au maire des communes concern\u00e9es la mise en service de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 8",
+              "sections": [],
+              "title": {
+                "text": "Article 8"
+              }
+            }
+          ],
+          "title": {
+            "text": "Section 1 : Am\u00e9nagements pr\u00e9liminaires."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cBafF3b598Ae",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Fd9d5beDB7BE",
+              "outer_alineas": [
+                {
+                  "text": "Sans pr\u00e9judice de la l\u00e9gislation en vigueur, le d\u00e9boisement et le d\u00e9frichage \u00e9ventuels des terrains sont r\u00e9alis\u00e9s progressivement, par phases correspondant aux besoins de l'exploitation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 9",
+              "sections": [],
+              "title": {
+                "text": "Article 9"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "DD9274c078b5",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 10",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Af7b39aAF50C",
+                  "outer_alineas": [
+                    {
+                      "text": "Le d\u00e9capage des terrains est limit\u00e9 au besoin des travaux d'exploitation."
+                    },
+                    {
+                      "text": "Le d\u00e9capage est r\u00e9alis\u00e9 de mani\u00e8re s\u00e9lective, de fa\u00e7on \u00e0 ne pas m\u00ealer les terres v\u00e9g\u00e9tales constituant l'horizon humif\u00e8re aux st\u00e9riles. L'horizon humif\u00e8re et les st\u00e9riles sont stock\u00e9s s\u00e9par\u00e9ment et r\u00e9utilis\u00e9s pour la remise en \u00e9tat des lieux."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 10 10.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "10.1. Technique de d\u00e9capage :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "7Ab4fBFd0D97",
+                  "outer_alineas": [
+                    {
+                      "text": "L'arr\u00eat\u00e9 d'autorisation fixe, le cas \u00e9ch\u00e9ant, la nature et la forme des informations \u00e0 fournir au service charg\u00e9 du patrimoine arch\u00e9ologique pr\u00e9alablement aux op\u00e9rations de d\u00e9capage ainsi que les d\u00e9lais d'information."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 10 10.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "10.2. Patrimoine arch\u00e9ologique :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 10"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "EAU"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "feeeeFbd2C2B",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 11",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "cbC4F38bdB2E",
+                  "outer_alineas": [
+                    {
+                      "text": "L'arr\u00eat\u00e9 d'autorisation fixe l'\u00e9paisseur d'extraction maximal et les cotes minimales NGF d'extraction."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "11.1. Epaisseur d'extraction :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "dC4DC0E3DFe2",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.2.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "EbaE7ddE1C15",
+                      "outer_alineas": [
+                        {
+                          "text": "Les extractions de mat\u00e9riaux dans le lit mineur des cours d'eau et dans les plans d'eau travers\u00e9s par des cours d'eau sont interdites."
+                        },
+                        {
+                          "text": "Le lit mineur d'un cours d'eau est l'espace d'\u00e9coulement des eaux form\u00e9 d'un chenal unique ou de plusieurs bras et de bancs de sables ou galets, recouvert par les eaux coulant \u00e0 pleins bords avant d\u00e9bordement."
+                        },
+                        {
+                          "text": "Si des extractions sont n\u00e9cessaires \u00e0 l'entretien d\u00fbment justifi\u00e9 ou \u00e0 l'am\u00e9nagement d'un cours d'eau ou d'un plan d'eau, elles sont alors consid\u00e9r\u00e9es comme un dragage."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 11 11.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "I."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "ea0B7911dB23",
+                      "outer_alineas": [
+                        {
+                          "text": "Les exploitations de carri\u00e8res en nappe alluviale dans le lit majeur ne doivent pas cr\u00e9er de risque de d\u00e9placement du lit mineur, faire obstacle \u00e0 l'\u00e9coulement des eaux superficielles ou aggraver les inondations."
+                        },
+                        {
+                          "text": "Les exploitations de carri\u00e8res de granulats sont interdites dans l'espace de mobilit\u00e9 du cours d'eau."
+                        },
+                        {
+                          "text": "L'espace de mobilit\u00e9 du cours d'eau est d\u00e9fini comme l'espace du lit majeur \u00e0 l'int\u00e9rieur duquel le lit mineur peut se d\u00e9placer. L'espace de mobilit\u00e9 est \u00e9valu\u00e9 par l'\u00e9tude d'impact en tenant compte de la connaissance de l'\u00e9volution historique du cours d'eau et de la pr\u00e9sence des ouvrages et am\u00e9nagements significatifs, \u00e0 l'exception des ouvrages et am\u00e9nagements \u00e0 caract\u00e8re provisoire, faisant obstacle \u00e0 la mobilit\u00e9 du lit mineur. Cette \u00e9valuation de l'espace de mobilit\u00e9 est conduite sur un secteur repr\u00e9sentatif du fonctionnement g\u00e9omorphologique du cours d'eau en amont et en aval du site de la carri\u00e8re, sur une longueur minimale totale de 5 kilom\u00e8tres."
+                        },
+                        {
+                          "text": "L'arr\u00eat\u00e9 d'autorisation fixe la distance minimale s\u00e9parant les limites de l'extraction des limites du lit mineur des cours d'eau ou des plans d'eau travers\u00e9s par un cours d'eau. Cette distance doit garantir la stabilit\u00e9 des berges. Elle ne peut \u00eatre inf\u00e9rieure \u00e0 50 m\u00e8tres vis-\u00e0-vis des cours d'eau ayant un lit mineur d'au moins 7,50 m\u00e8tres de largeur. Elle ne peut \u00eatre inf\u00e9rieure \u00e0 10 m\u00e8tres vis-\u00e0-vis des autres cours d'eau."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 11 11.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "II."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "11.2. Extraction en nappe alluviale :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "FF3eF732475F",
+                  "outer_alineas": [
+                    {
+                      "text": "Dans le cas o\u00f9 l'exploitation de la carri\u00e8re est conduite dans la nappe phr\u00e9atique, des mesures tendant au maintien de l'hydraulique et des caract\u00e9ristiques \u00e9cologiques du milieu sont prescrites. Le pompage de la nappe phr\u00e9atique pour le d\u00e9capage, l'exploitation et la remise en \u00e9tat des gisements de mat\u00e9riaux alluvionnaires est interdit, sauf autorisation expresse accord\u00e9e par l'arr\u00eat\u00e9 d'autorisation apr\u00e8s que l'\u00e9tude d'impact en a montr\u00e9 la n\u00e9cessit\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "11.3. Exploitation dans la nappe phr\u00e9atique :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "844DE2EfC73C",
+                  "outer_alineas": [
+                    {
+                      "text": "Dans le cas o\u00f9 l'abattage du gisement est r\u00e9alis\u00e9 avec des substances explosives, l'exploitant d\u00e9finit un plan de tir."
+                    },
+                    {
+                      "text": "L'exploitant prend en compte les effets des vibrations \u00e9mises dans l'environnement et assure la s\u00e9curit\u00e9 du public lors des tirs."
+                    },
+                    {
+                      "text": "Les tirs de mines ont lieu les jours ouvrables."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "11.4. Abattage \u00e0 l'explosif :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "49DaAFdD9A04",
+                  "outer_alineas": [
+                    {
+                      "text": "Les zones de stockage des d\u00e9chets d'extraction inertes  sont construites, g\u00e9r\u00e9es et entretenues de mani\u00e8re \u00e0 assurer leur stabilit\u00e9 physique et \u00e0 pr\u00e9venir toute pollution.L'exploitant assure un suivi des quantit\u00e9s et des caract\u00e9ristiques des mat\u00e9riaux stock\u00e9s, et \u00e9tablit un plan topographique permettant de localiser les zones de stockage temporaire correspondantes."
+                    },
+                    {
+                      "text": "L'arr\u00eat\u00e9 d'autorisation pr\u00e9voit, le cas \u00e9ch\u00e9ant, la mise en place d'un r\u00e9seau de surveillance de la qualit\u00e9 des sols, des eaux et la fr\u00e9quence des mesures \u00e0 r\u00e9aliser."
+                    },
+                    {
+                      "text": "Si l'\u00e9tude d'impact en montre la n\u00e9cessit\u00e9, l'arr\u00eat\u00e9 d'autorisation peut pr\u00e9voir que l'exploitant proc\u00e8de :"
+                    },
+                    {
+                      "text": "- au maintien de l'ind\u00e9pendance hydraulique des r\u00e9seaux de r\u00e9cup\u00e9ration des eaux d'infiltration des zones de stockage et \u00e0 une gestion s\u00e9parative des effluents ;"
+                    },
+                    {
+                      "text": "- \u00e0 la r\u00e9cup\u00e9ration et au traitement des lixiviats ;"
+                    },
+                    {
+                      "text": "- \u00e0 des analyses des eaux de ruissellement et des lixiviats, en fixant des param\u00e8tres et les substances \u00e0 analyser ainsi que la fr\u00e9quence des analyses."
+                    },
+                    {
+                      "text": "En cas de risques de perte d'int\u00e9grit\u00e9 des zones de stockage des d\u00e9chets d'extraction inertes  tels qu'\u00e9valu\u00e9s selon les dispositions de l'annexe VII de l'arr\u00eat\u00e9 minist\u00e9riel du 19 avril 2010 relatif \u00e0 la gestion des d\u00e9chets des industries extractives, l'exploitant devra respecter les prescriptions pr\u00e9vues aux articles 7 \u00e0 9 de l'arr\u00eat\u00e9 susmentionn\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "11.5. Stockage des d\u00e9chets d'extraction inertes  r\u00e9sultant de l'exploitation des carri\u00e8res :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "204E8dAABDBF",
+                  "outer_alineas": [
+                    {
+                      "text": "Pour les travaux \u00e0 ciel ouvert, l'exploitant doit d\u00e9finir la hauteur et la pente des gradins du front d'abattage en fonction de la nature et de la stabilit\u00e9 des terrains et de la m\u00e9thode d'exploitation."
+                    },
+                    {
+                      "text": "Les fronts et tas de d\u00e9blais ne doivent pas \u00eatre exploit\u00e9s de mani\u00e8re \u00e0 cr\u00e9er une instabilit\u00e9. Ils ne doivent pas comporter de surplombs."
+                    },
+                    {
+                      "text": "A moins que son profil ne comporte pas de pente sup\u00e9rieure \u00e0 45\u00b0, le front d'abattage doit \u00eatre constitu\u00e9 de gradins d'au plus 15 m\u00e8tres de hauteur verticale, sauf autorisation du pr\u00e9fet prise selon les formes pr\u00e9vues \u00e0 l'article R. 512-31 du code de l'environnement."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 11 11.6.",
+                  "sections": [],
+                  "title": {
+                    "text": "11.6. - Front d'abattage."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 11"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "FIN_EXPLOITATION"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "85FAeeDed3Ff",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 12",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "E260F8Be5aAc",
+                  "outer_alineas": [
+                    {
+                      "text": "En fin d'exploitation, tous les produits polluants ainsi que tous les d\u00e9chets sont valoris\u00e9s ou \u00e9limin\u00e9s vers des installations d\u00fbment autoris\u00e9es."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 12 12.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "12.1. Elimination des produits polluants en fin d'exploitation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Eb0ea8b963e1",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant est tenu de remettre en \u00e9tat le site affect\u00e9 par son activit\u00e9, compte tenu des caract\u00e9ristiques essentielles du milieu environnant. La remise en \u00e9tat du site doit \u00eatre achev\u00e9e au plus tard \u00e0 l'\u00e9ch\u00e9ance de l'autorisation, sauf dans le cas de renouvellement de l'autorisation d'exploiter."
+                    },
+                    {
+                      "text": "Elle comporte au minimum les dispositions suivantes :"
+                    },
+                    {
+                      "text": "- la mise en s\u00e9curit\u00e9 des fronts de taille ;"
+                    },
+                    {
+                      "text": "- le nettoyage de l'ensemble des terrains et, d'une mani\u00e8re g\u00e9n\u00e9rale, la suppression de toutes les structures n'ayant pas d'utilit\u00e9 apr\u00e8s la remise en \u00e9tat du site ;"
+                    },
+                    {
+                      "text": "- l'insertion satisfaisante de l'espace affect\u00e9 par l'exploitation dans le paysage, compte tenu de la vocation ult\u00e9rieure du site."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 12 12.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "12.2. Remise en \u00e9tat"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "9557bb00E707",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 12 12.3.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "FefC348BABd5",
+                      "outer_alineas": [
+                        {
+                          "text": "Le remblayage des carri\u00e8res est g\u00e9r\u00e9 de mani\u00e8re \u00e0 assurer la stabilit\u00e9 physique des terrains remblay\u00e9s. Il ne nuit pas \u00e0 la qualit\u00e9 du sol ainsi qu'\u00e0 la qualit\u00e9 et au bon \u00e9coulement des eaux."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 12 12.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "I."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "CBd7c5BF9Dbd",
+                      "outer_alineas": [
+                        {
+                          "text": "Les d\u00e9chets utilisables pour le remblayage sont :"
+                        },
+                        {
+                          "text": "- les d\u00e9chets d'extraction inertes, qu'ils soient internes ou externes, sous r\u00e9serve qu'ils soient compatibles avec le fond g\u00e9ochimique local ;"
+                        },
+                        {
+                          "text": "- les d\u00e9chets inertes externes \u00e0 l'exploitation de la carri\u00e8re s'ils respectent les conditions d'admission d\u00e9finies par l'arr\u00eat\u00e9 du 12 d\u00e9cembre 2014 susvis\u00e9, y compris le cas \u00e9ch\u00e9ant son article 6."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 12 12.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "II."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "DE7705AcE31f",
+                      "outer_alineas": [
+                        {
+                          "text": "Les apports ext\u00e9rieurs de d\u00e9chets sont accompagn\u00e9s d'un bordereau de suivi qui indique leur provenance, leur destination, leurs quantit\u00e9s, leurs caract\u00e9ristiques et les moyens de transport utilis\u00e9s et qui atteste la conformit\u00e9 des d\u00e9chets \u00e0 leur destination."
+                        },
+                        {
+                          "text": "L'exploitant tient \u00e0 jour un registre sur lequel sont r\u00e9pertori\u00e9s la provenance, les quantit\u00e9s, les caract\u00e9ristiques des d\u00e9chets ainsi que les moyens de transport utilis\u00e9s. Il tient \u00e0 jour \u00e9galement un plan topographique permettant de localiser les zones de remblais correspondant aux donn\u00e9es figurant sur le registre pr\u00e9cit\u00e9."
+                        },
+                        {
+                          "text": "L'exploitant s'assure, au cours de l'exploitation de la carri\u00e8re, que les d\u00e9chets inertes utilis\u00e9s pour le remblayage et la remise en \u00e9tat de la carri\u00e8re ou pour la r\u00e9alisation et l'entretien des pistes de circulation ne sont pas en mesure de d\u00e9grader les eaux superficielles et les eaux souterraines et les sols. L'exploitant \u00e9tudie et veille au maintien de la stabilit\u00e9 de ces d\u00e9p\u00f4ts."
+                        },
+                        {
+                          "text": "L'arr\u00eat\u00e9 d'autorisation fixe la nature, les modalit\u00e9s de tri et les conditions d'utilisation des d\u00e9chets ext\u00e9rieurs admis sur le site. Il pr\u00e9voit, le cas \u00e9ch\u00e9ant, la mise en place d'un r\u00e9seau de surveillance de la qualit\u00e9 des eaux souterraines et la fr\u00e9quence des mesures \u00e0 r\u00e9aliser."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 12 12.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "III."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "12.3. Remblayage de carri\u00e8re :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "41ef42B0edDf",
+                  "outer_alineas": [
+                    {
+                      "text": "Le remblayage de ces exploitations peut, outre les dispositions de l'article 12.3, \u00eatre r\u00e9alis\u00e9 \u00e0 l'aide :"
+                    },
+                    {
+                      "text": "- des rebuts de fabrication provenant des usines de production de pl\u00e2tre, de plaques ou de produits d\u00e9riv\u00e9s contenant du pl\u00e2tre et qui sont non recyclables dans des conditions technico-\u00e9conomiques acceptables ;"
+                    },
+                    {
+                      "text": "- des terres et mat\u00e9riaux ext\u00e9rieurs \u00e0 la carri\u00e8re contenant naturellement du gypse ou de l'anhydrite,"
+                    },
+                    {
+                      "text": "- des d\u00e9chets d'extraction internes \u00e0 la carri\u00e8re,"
+                    },
+                    {
+                      "text": "sous r\u00e9serve qu'ils respectent les conditions d'admission fix\u00e9es par l'arr\u00eat\u00e9 du 12 d\u00e9cembre 2014 susvis\u00e9, y compris le cas \u00e9ch\u00e9ant son article 6 ou que la concentration en contenu total des \u00e9l\u00e9ments mentionn\u00e9s \u00e0 l'annexe II de l'arr\u00eat\u00e9 du 12 d\u00e9cembre 2014 susvis\u00e9 reste inf\u00e9rieure \u00e0 celle du fond g\u00e9ochimique naturel de la carri\u00e8re."
+                    },
+                    {
+                      "text": "Les d\u00e9chets et produits pr\u00e9cit\u00e9s ne sont employ\u00e9s que dans les trous d'excavation \u00e0 des fins de remblayage."
+                    },
+                    {
+                      "text": "Ils sont \u00e9galement utilisables pour le remblayage des carri\u00e8res souterraines. Toutefois, dans le cas des rebuts de fabrication non recycl\u00e9s des sites de production, et afin d'assurer la stabilit\u00e9 physique des zones souterraines remblay\u00e9es, leur emploi est limit\u00e9, en masse, \u00e0 au plus 10 %."
+                    },
+                    {
+                      "text": "L'emploi des d\u00e9chets et produits pr\u00e9cit\u00e9s est interdit pour le remblayage des carri\u00e8res destin\u00e9es \u00e0 \u00eatre ennoy\u00e9es ou pour lesquelles un contact avec une nappe phr\u00e9atique est possible, en tenant compte du niveau des plus hautes eaux connu."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 12 12.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "12.4. Les dispositions du pr\u00e9sent paragraphe s'appliquent aux exploitations de carri\u00e8re de gypse ou d'anhydrite."
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 12"
+              }
+            }
+          ],
+          "title": {
+            "text": "Section 2 : Conduite des exploitations \u00e0 ciel ouvert."
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9ccf8ebFcdAe",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "03BCe16Cf01D",
+              "outer_alineas": [
+                {
+                  "text": "Durant les heures d'activit\u00e9, l'acc\u00e8s au site en exploitation est contr\u00f4l\u00e9. En dehors des heures ouvr\u00e9es, cet acc\u00e8s est interdit."
+                },
+                {
+                  "text": "L'acc\u00e8s de toute zone dangereuse est interdit par une cl\u00f4ture efficace ou tout autre dispositif \u00e9quivalent. Le danger est signal\u00e9 par des pancartes plac\u00e9es, d'une part, sur le ou les chemins d'acc\u00e8s aux abords des travaux et des zones de stockage des d\u00e9chets d'extraction inertes  r\u00e9sultant du fonctionnement des carri\u00e8res, d'autre part, \u00e0 proximit\u00e9 des zones cl\u00f4tur\u00e9es. Les dispositions ci-dessus sont applicables aux orifices des puits et aux ouvertures de galeries qui donnent acc\u00e8s aux travaux souterrains."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "Article 13"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6BD8213715Da",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 14",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "D16fEdc4cdE6",
+                  "outer_alineas": [
+                    {
+                      "text": "Les bords des excavations des carri\u00e8res \u00e0 ciel ouvert sont tenus \u00e0 distance horizontale d'au moins 10 m\u00e8tres des limites du p\u00e9rim\u00e8tre sur lequel porte l'autorisation ainsi que de l'emprise des \u00e9l\u00e9ments de la surface dont l'int\u00e9grit\u00e9 conditionne le respect de la s\u00e9curit\u00e9 et de la salubrit\u00e9 publiques."
+                    },
+                    {
+                      "text": "De plus, l'exploitation du gisement \u00e0 son niveau le plus bas est arr\u00eat\u00e9e \u00e0 compter du bord sup\u00e9rieur de la fouille \u00e0 une distance horizontale telle que la stabilit\u00e9 des terrains voisins ne soit pas compromise. Cette distance prend en compte la hauteur totale des excavations, la nature et l'\u00e9paisseur des diff\u00e9rentes couches pr\u00e9sentes sur toute cette hauteur."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 14 14.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "14.1. Exploitations \u00e0 ciel ouvert :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "5b7e7bFcc5BA",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant d'une carri\u00e8re souterraine, lorsque la profondeur de l'exploitation compt\u00e9e \u00e0 partir de la surface est inf\u00e9rieure \u00e0 100 m\u00e8tres, informe le pr\u00e9fet un mois avant que les travaux n'arrivent \u00e0 une distance horizontale de 50 m\u00e8tres des \u00e9l\u00e9ments de la surface \u00e0 prot\u00e9ger mentionn\u00e9s \u00e0 l'article 14-1 ci-dessus."
+                    },
+                    {
+                      "text": "Le pr\u00e9fet fixe, s'il y a lieu, les massifs de protection \u00e0 laisser en place ainsi que les conditions dans lesquelles ceux-ci peuvent, le cas \u00e9ch\u00e9ant, \u00eatre travers\u00e9s ou enlev\u00e9s ; il notifie sa d\u00e9cision \u00e0 l'exploitant dans le d\u00e9lai d'un mois \u00e0 compter de la date de la r\u00e9ception de l'information."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 14 14.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "14.2. Exploitations souterraines :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "94f69A9F5bB8",
+                  "outer_alineas": [
+                    {
+                      "text": "Le pr\u00e9fet peut, sur proposition de l'inspection des installations class\u00e9es et apr\u00e8s avoir \u00e9ventuellement consult\u00e9 les autres administrations int\u00e9ress\u00e9es, att\u00e9nuer ou renforcer les obligations r\u00e9sultant des articles 14-1 et 14-2 ci-dessus."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 14 14.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "14.3. Modification des distances limites et des zones de protection :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 14"
+              }
+            }
+          ],
+          "title": {
+            "text": "Section 3 : S\u00e9curit\u00e9 du public."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "15b209e9811F",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e819DE42f9Dc",
+              "outer_alineas": [
+                {
+                  "text": "Pour chaque carri\u00e8re \u00e0 ciel ouvert est \u00e9tabli un plan d'\u00e9chelle adapt\u00e9 \u00e0 sa superficie."
+                },
+                {
+                  "text": "Sur ce plan sont report\u00e9s :"
+                },
+                {
+                  "text": "- les limites du p\u00e9rim\u00e8tre sur lequel porte le droit d'exploiter ainsi que de ses abords, dans un rayon de 50 m\u00e8tres ;"
+                },
+                {
+                  "text": "- les bords de la fouille ;"
+                },
+                {
+                  "text": "- les courbes de niveau ou cotes d'altitude des points significatifs ;"
+                },
+                {
+                  "text": "- les zones remises en \u00e9tat ;"
+                },
+                {
+                  "text": "- la position des ouvrages vis\u00e9s \u00e0 l'article 14-1 ci-dessus et, s'il y a lieu, leur p\u00e9rim\u00e8tre de protection institu\u00e9 en vertu de r\u00e9glementations sp\u00e9ciales."
+                },
+                {
+                  "text": "Ce plan est mis \u00e0 jour au moins une fois par an."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 15",
+              "sections": [],
+              "title": {
+                "text": "Article 15 - Registres et plans de carri\u00e8res \u00e0 ciel ouvert"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "14bA4b5BAcFb",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 16",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "C1444DD9F6D3",
+                  "outer_alineas": [
+                    {
+                      "text": "Un plan de l'ensemble des travaux, \u00e0 l'\u00e9chelle du 1/2 000, du 1/2 500 ou du 1/5 000, est \u00e9tabli pour chaque carri\u00e8re souterraine. Ce plan indique les cotes des points principaux ainsi que les parties abandonn\u00e9es des travaux."
+                    },
+                    {
+                      "text": "Ce plan d'ensemble est mis \u00e0 jour au moins une fois tous les six mois."
+                    },
+                    {
+                      "text": "Un plan de surface et un registre d'avancement des travaux sont \u00e9galement \u00e9tablis et tenus \u00e0 jour par l'exploitant."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 16 16.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "16.1. Plans et registres :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "eF7DdeF4E49B",
+                  "outer_alineas": [
+                    {
+                      "text": "Les exploitants tiennent \u00e0 la disposition des propri\u00e9taires les plans des travaux souterrains effectu\u00e9s sous leur propri\u00e9t\u00e9 ou sous les abords de celle-ci, ainsi que le plan de la surface permettant de conna\u00eetre la situation desdits travaux."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 16 16.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "16.2. Communication des plans :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "Article 16 - Registres et plans de carri\u00e8res souterraines"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fAB27233aaDf",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant doit \u00e9tablir un plan de gestion des d\u00e9chets d'extraction r\u00e9sultant du fonctionnement de la carri\u00e8re. Ce plan est \u00e9tabli avant le d\u00e9but de l'exploitation, et a pour objectif de r\u00e9duire la quantit\u00e9 de d\u00e9chets en favorisant la valorisation mati\u00e8re, et de minimiser les effets nocifs en tenant compte de la gestion des d\u00e9chets d\u00e8s la phase de conception et lors du choix de la m\u00e9thode d'extraction et de traitement des min\u00e9raux."
+                },
+                {
+                  "text": "Le plan de gestion contient au moins les \u00e9l\u00e9ments suivants :"
+                },
+                {
+                  "text": "-la caract\u00e9risation des d\u00e9chets et une estimation des quantit\u00e9s totales de d\u00e9chets d'extraction qui seront stock\u00e9s durant la p\u00e9riode d'exploitation ;"
+                },
+                {
+                  "text": "-le lieu d'implantation envisag\u00e9 pour l'installation de gestion des d\u00e9chets et les autres lieux possibles ;"
+                },
+                {
+                  "text": "-la description de l'exploitation g\u00e9n\u00e9rant ces d\u00e9chets et des traitements ult\u00e9rieurs auxquels ils sont soumis ;"
+                },
+                {
+                  "text": "-en tant que de besoin, la description de la mani\u00e8re dont le d\u00e9p\u00f4t des d\u00e9chets peut affecter l'environnement et la sant\u00e9 humaine, ainsi que les mesures pr\u00e9ventives qu'il convient de prendre pour r\u00e9duire au minimum les incidences sur l'environnement ;"
+                },
+                {
+                  "text": "-la description des modalit\u00e9s d'\u00e9limination ou de valorisation de ces d\u00e9chets ;"
+                },
+                {
+                  "text": "-le plan propos\u00e9 en ce qui concerne la remise en \u00e9tat de la zone de stockage de d\u00e9chets ;"
+                },
+                {
+                  "text": "-les proc\u00e9dures de contr\u00f4le et de surveillance propos\u00e9es ;"
+                },
+                {
+                  "text": "-en tant que de besoin, les mesures de pr\u00e9vention de la d\u00e9t\u00e9rioration de la qualit\u00e9 de l'eau et en vue de pr\u00e9venir ou de r\u00e9duire au minimum la pollution de l'air et du sol ;"
+                },
+                {
+                  "text": "-une \u00e9tude de l'\u00e9tat du terrain de la zone de stockage susceptible de subir des dommages dus \u00e0 la zone de stockage de d\u00e9chets ;"
+                },
+                {
+                  "text": "-les \u00e9l\u00e9ments issus de l'\u00e9tude de danger propres \u00e0 pr\u00e9venir les risques d'accident majeur en conformit\u00e9 avec les dispositions pr\u00e9vues par l'arr\u00eat\u00e9 du 19 avril 2010 relatif \u00e0 la gestion des d\u00e9chets des industries extractives et applicable aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation et aux zones de stockage de d\u00e9chets d'extraction."
+                },
+                {
+                  "text": "Le plan de gestion est r\u00e9vis\u00e9 par l'exploitant tous les cinq ans et dans le cas d'une modification apport\u00e9e aux installations, \u00e0 leur mode d'utilisation ou d'exploitation et de nature \u00e0 entra\u00eener une modification substantielle des \u00e9l\u00e9ments du plan. Il est transmis au pr\u00e9fet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 16",
+              "sections": [],
+              "title": {
+                "text": "Article 16 bis"
+              }
+            }
+          ],
+          "title": {
+            "text": "Section 4 : Registres et plans."
+          }
+        }
+      ],
+      "title": {
+        "text": "CHAPITRE II : Dispositions particuli\u00e8res aux carri\u00e8res."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "90b4acb9bEab",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cFEafc7334BF",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant prend toutes les dispositions n\u00e9cessaires dans la conduite de l'exploitation pour limiter les risques de pollution des eaux, de l'air ou des sols et de nuisance par le bruit et les vibrations et l'impact visuel."
+            },
+            {
+              "text": "L'ensemble du site et ses abords plac\u00e9s sous le contr\u00f4le de l'exploitant sont maintenus en bon \u00e9tat de propret\u00e9. Les b\u00e2timents et installations sont entretenus en permanence."
+            },
+            {
+              "text": "Les voies de circulation internes et aires de stationnement des v\u00e9hicules sont am\u00e9nag\u00e9es et entretenues."
+            },
+            {
+              "text": "Les v\u00e9hicules sortant de l'installation ne doivent pas \u00eatre \u00e0 l'origine d'envols de poussi\u00e8res ni entra\u00eener de d\u00e9p\u00f4t de poussi\u00e8re ou de boue sur les voies de circulation publiques."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 17",
+          "sections": [],
+          "title": {
+            "text": "Article 17"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "91AF5Ee7aD7A",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 18",
+          "sections": [
+            {
+              "annotations": {
+                "topic": "EAU"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "CC1ea5dE94CE",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18 18.1.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "B2aDca5604BA",
+                  "outer_alineas": [
+                    {
+                      "text": "Le ravitaillement et l'entretien des engins de chantier sont r\u00e9alis\u00e9s sur une aire \u00e9tanche entour\u00e9e par un caniveau et reli\u00e9e \u00e0 un point bas \u00e9tanche permettant la r\u00e9cup\u00e9ration totale des eaux ou des liquides r\u00e9siduels."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "CfA5EAD1770a",
+                  "outer_alineas": [
+                    {
+                      "text": "Tout stockage d'un liquide susceptible de cr\u00e9er une pollution des eaux ou des sols est associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention dont le volume est au moins \u00e9gal \u00e0 la plus grande des deux valeurs suivantes :"
+                    },
+                    {
+                      "text": "100 % de la capacit\u00e9 du plus grand r\u00e9servoir ;"
+                    },
+                    {
+                      "text": "50 % de la capacit\u00e9 des r\u00e9servoirs associ\u00e9s."
+                    },
+                    {
+                      "text": "Cette disposition ne s'applique pas aux bassins de traitement des eaux r\u00e9siduaires."
+                    },
+                    {
+                      "text": "Lorsque le stockage est constitu\u00e9 exclusivement en r\u00e9cipients de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 250 litres, la capacit\u00e9 de r\u00e9tention peut \u00eatre r\u00e9duite \u00e0 20 % de la capacit\u00e9 totale des f\u00fbts associ\u00e9s sans \u00eatre inf\u00e9rieure \u00e0 1 000 litres ou \u00e0 la capacit\u00e9 totale lorsqu'elle est inf\u00e9rieure \u00e0 1 000 litres."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Aef6c406dca9",
+                  "outer_alineas": [
+                    {
+                      "text": "Les produits r\u00e9cup\u00e9r\u00e9s en cas d'accident ne peuvent \u00eatre rejet\u00e9s et doivent \u00eatre soit r\u00e9utilis\u00e9s, soit \u00e9limin\u00e9s comme les d\u00e9chets."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "III."
+                  }
+                }
+              ],
+              "title": {
+                "text": "18.1. Pr\u00e9vention des pollutions accidentelles :"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "76Bb9deea5AA",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 18 18.2.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Fd707ef883Aa",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.2.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "18.2.1. (Supprim\u00e9)"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "EAU"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "55c14aF8Dbe1",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant doit s'assurer que les installations zones de stockage des d\u00e9chets d'extraction inertes ne g\u00e9n\u00e8rent pas de d\u00e9t\u00e9rioration de la qualit\u00e9 des eaux. L'exploitant doit proc\u00e9der, si l'\u00e9tude d'impact en montre la n\u00e9cessit\u00e9, au traitement et au recyclage des eaux de ruissellement des installations de stockage des d\u00e9chets et des terres non pollu\u00e9es."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.2.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "18.2.2. Eaux de ruissellement des zones de stockage des d\u00e9chets d'extraction inertes :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "EAU"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "55a3def6956c",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 18 18.2.3.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "9BdAC3E4b3EA",
+                      "outer_alineas": [
+                        {
+                          "text": "- le pH est compris entre 5,5 et 8,5 ;"
+                        },
+                        {
+                          "text": "- la temp\u00e9rature est inf\u00e9rieure \u00e0 30 \u00b0C ;"
+                        },
+                        {
+                          "text": "- les mati\u00e8res en suspension totales (MEST) ont une concentration inf\u00e9rieure \u00e0 35 mg/l (norme NF T 90 105) ;"
+                        },
+                        {
+                          "text": "- la demande chimique en oxyg\u00e8ne sur effluent non d\u00e9cant\u00e9 (D.C.O.) a une concentration inf\u00e9rieure \u00e0 125 mg/l (norme NF T 90 101) ;"
+                        },
+                        {
+                          "text": "- les hydrocarbures ont une concentration inf\u00e9rieure \u00e0 10 mg/l (norme NF T 90 114)."
+                        },
+                        {
+                          "text": "Ces valeurs limites sont respect\u00e9es pour tout \u00e9chantillon pr\u00e9lev\u00e9 proportionnellement au d\u00e9bit sur vingt-quatre heures ; en ce qui concerne les mati\u00e8res en suspension, la demande chimique en oxyg\u00e8ne et les hydrocarbures, aucun pr\u00e9l\u00e8vement instantan\u00e9 ne doit d\u00e9passer le double de ces valeurs limites."
+                        },
+                        {
+                          "text": "Ces valeurs doivent \u00eatre compatibles avec les objectifs de qualit\u00e9 du milieu r\u00e9cepteur, les orientations du sch\u00e9ma d'am\u00e9nagement et de gestion des eaux et la vocation piscicole du milieu. Elles sont, le cas \u00e9ch\u00e9ant, rendues plus contraignantes."
+                        },
+                        {
+                          "text": "L'arr\u00eat\u00e9 d'autorisation peut, selon la nature des terrains exploit\u00e9s, imposer des valeurs limites sur d'autres param\u00e8tres."
+                        },
+                        {
+                          "text": "La modification de couleur du milieu r\u00e9cepteur, mesur\u00e9e en un point repr\u00e9sentatif de la zone de m\u00e9lange, ne doit pas d\u00e9passer 100 mg Pt/l."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 18 18.2.3. I.",
+                      "sections": [],
+                      "title": {
+                        "text": "I. - Les eaux canalis\u00e9es rejet\u00e9es dans le milieu naturel respectent les prescriptions suivantes :"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "5FD922BB56A7",
+                      "outer_alineas": [
+                        {
+                          "text": "Le ou les \u00e9missaires sont \u00e9quip\u00e9s d'un canal de mesure du d\u00e9bit et d'un dispositif de pr\u00e9l\u00e8vement."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 18 18.2.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "II."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "D0C48FaeA5cc",
+                      "outer_alineas": [
+                        {
+                          "text": "L'arr\u00eat\u00e9 d'autorisation pr\u00e9cise le milieu dans lequel le rejet est autoris\u00e9 ainsi que les conditions de rejet. Lorsque le rejet s'effectue dans un cours d'eau, il pr\u00e9cise le nom du cours d'eau, ainsi que le point kilom\u00e9trique du rejet."
+                        },
+                        {
+                          "text": "Il fixe la fr\u00e9quence des mesures du d\u00e9bit et des param\u00e8tres \u00e0 analyser."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Art. 18 18.2.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "III."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "18.2.3. Eaux rejet\u00e9es (eaux d'exhaure, eaux pluviales et eaux de nettoyage) :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "18.2. (Supprim\u00e9)"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 18"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "AIR_ODEURS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6A6De39B75c3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 19",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8bbED33e084c",
+              "outer_alineas": [
+                {
+                  "text": "Toutes les dispositions n\u00e9cessaires sont prises par l'exploitant pour que l'installation ne soit pas \u00e0 l'origine d'\u00e9missions de poussi\u00e8res susceptibles d'incommoder le voisinage et de nuire \u00e0 la sant\u00e9 et \u00e0 la s\u00e9curit\u00e9 publiques, et ce m\u00eame en p\u00e9riode d'inactivit\u00e9."
+                },
+                {
+                  "text": "Des dispositions particuli\u00e8res sont mises en \u0153uvre par l'exploitant, tant au niveau de la conception et de la construction que de l'exploitation de l'installation de mani\u00e8re \u00e0 limiter les \u00e9missions de poussi\u00e8res."
+                },
+                {
+                  "text": "Les dispositifs de limitation d'\u00e9mission des poussi\u00e8res r\u00e9sultant du fonctionnement de l'installation sont aussi complets et efficaces que possible."
+                },
+                {
+                  "text": "La conception de l'installation prend en compte l'ex\u00e9cution des op\u00e9rations de nettoyage et de maintenance dans les meilleures conditions d'hygi\u00e8ne et de s\u00e9curit\u00e9 pour les op\u00e9rateurs."
+                },
+                {
+                  "text": "En fonction de la granulom\u00e9trie des produits min\u00e9raux, les postes de chargement et de d\u00e9chargement sont \u00e9quip\u00e9s de dispositifs permettant de r\u00e9duire les \u00e9missions de poussi\u00e8res dans l'atmosph\u00e8re."
+                },
+                {
+                  "text": "Les dispositifs de r\u00e9duction des \u00e9missions de poussi\u00e8res sont r\u00e9guli\u00e8rement entretenus et les rapports d'entretien tenus \u00e0 disposition de l'inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.1."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fc85E8E6fbBB",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant prend les dispositions suivantes pour pr\u00e9venir et limiter les envols de poussi\u00e8res :"
+                },
+                {
+                  "text": "- les voies de circulation et les aires de stationnement des v\u00e9hicules et engins de l'installation sont am\u00e9nag\u00e9es et convenablement nettoy\u00e9es ;"
+                },
+                {
+                  "text": "- la vitesse des engins sur les pistes non rev\u00eatues est adapt\u00e9e ;"
+                },
+                {
+                  "text": "- les v\u00e9hicules sortant de l'installation n'entra\u00eenent pas de d\u00e9p\u00f4t de poussi\u00e8res ou de boue sur les voies publiques. Le cas \u00e9ch\u00e9ant, des dispositifs tels que le lavage des roues des v\u00e9hicules ou tout autre dispositif \u00e9quivalent sont pr\u00e9vues ;"
+                },
+                {
+                  "text": "- les transports des mat\u00e9riaux de granulom\u00e9trie inf\u00e9rieure ou \u00e9gale \u00e0 5 mm sortant de l'installation sont assur\u00e9s par bennes b\u00e2ch\u00e9es ou asperg\u00e9es ou par tout autre dispositif \u00e9quivalent ;"
+                },
+                {
+                  "text": "- les engins de foration des trous de mines doivent \u00eatre \u00e9quip\u00e9s d'un dispositif de d\u00e9poussi\u00e9rage."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.2."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b78a1cd90a2F",
+              "outer_alineas": [
+                {
+                  "text": "En ce qui concerne le contr\u00f4le des niveaux d'empoussi\u00e8rement, les modalit\u00e9s d'\u00e9chantillonnage sont d\u00e9finies de fa\u00e7on \u00e0 garantir la repr\u00e9sentativit\u00e9 des \u00e9chantillons pr\u00e9lev\u00e9s. Les modalit\u00e9s de pr\u00e9l\u00e8vements et de r\u00e9alisation des essais sont d\u00e9finies de fa\u00e7on \u00e0 assurer la justesse et la tra\u00e7abilit\u00e9 des r\u00e9sultats."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.3."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e3D9b98aA0E0",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19 19.4.",
+              "sections": [],
+              "title": {
+                "text": "19.4. (Abrog\u00e9)"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4ffef2EB8dc2",
+              "outer_alineas": [
+                {
+                  "text": "Les exploitants de carri\u00e8res, \u00e0 l'exception de celles exploit\u00e9es en eau, dont la production annuelle est sup\u00e9rieure \u00e0 150 000 tonnes \u00e9tablissent un plan de surveillance des \u00e9missions de poussi\u00e8res."
+                },
+                {
+                  "text": "Ce plan d\u00e9crit notamment les zones d'\u00e9mission de poussi\u00e8res, leur importance respective, les conditions m\u00e9t\u00e9orologiques et topographiques sur le site, le choix de la localisation des stations de mesure ainsi que leur nombre."
+                },
+                {
+                  "text": "Le plan de surveillance est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                },
+                {
+                  "text": "Pour les exploitations de carri\u00e8res, soumises \u00e0 un plan de surveillance des \u00e9missions de poussi\u00e8res en application du premier alin\u00e9a, implant\u00e9s sur un site nouveau, une premi\u00e8re campagne de mesures effectu\u00e9e dans le cadre de l'\u00e9tude d'impact avant le d\u00e9but effectif des travaux, permet d'\u00e9valuer l'\u00e9tat initial des retomb\u00e9es des poussi\u00e8res en limite du site."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.5."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ba67BBfeF33F",
+              "outer_alineas": [
+                {
+                  "text": "Le plan de surveillance comprend :"
+                },
+                {
+                  "text": "- au moins une station de mesure t\u00e9moin correspondant \u00e0 un ou plusieurs lieux non impact\u00e9s par l'exploitation de la carri\u00e8re (a) ;"
+                },
+                {
+                  "text": "- le cas \u00e9ch\u00e9ant, une ou plusieurs stations de mesure implant\u00e9es \u00e0 proximit\u00e9 imm\u00e9diate des premiers b\u00e2timents accueillant des personnes sensibles (centre de soins, cr\u00e8che, \u00e9cole) ou des premi\u00e8res habitations situ\u00e9s \u00e0 moins de 1 500 m\u00e8tres des limites de propri\u00e9t\u00e9s de l'exploitation, sous les vents dominants (b) ;"
+                },
+                {
+                  "text": "- une ou plusieurs stations de mesure implant\u00e9es en limite de site, sous les vents dominants (c)."
+                },
+                {
+                  "text": "Les campagnes de mesure durent trente jours et sont r\u00e9alis\u00e9es tous les trois mois."
+                },
+                {
+                  "text": "Si, \u00e0 l'issue de huit campagnes cons\u00e9cutives, les r\u00e9sultats sont inf\u00e9rieurs \u00e0 la valeur pr\u00e9vue au paragraphe 19.7 du pr\u00e9sent arr\u00eat\u00e9, la fr\u00e9quence trimestrielle deviendra semestrielle."
+                },
+                {
+                  "text": "Par la suite, si un r\u00e9sultat exc\u00e8de la valeur pr\u00e9vue au paragraphe 19.7 du pr\u00e9sent arr\u00eat\u00e9 et sauf situation exceptionnelle qui sera explicit\u00e9e dans le bilan annuel pr\u00e9vu au paragraphe 19.9 du pr\u00e9sent arr\u00eat\u00e9, la fr\u00e9quence redeviendra trimestrielle pendant huit campagnes cons\u00e9cutives, \u00e0 l'issue desquelles elle pourra \u00eatre revue dans les m\u00eames conditions."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.6."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FE701F9B44b7",
+              "outer_alineas": [
+                {
+                  "text": "Le suivi des retomb\u00e9es atmosph\u00e9riques totales est assur\u00e9 par jauges de retomb\u00e9es. Le respect de la norme NF X 43-014 (2017) dans la r\u00e9alisation de ce suivi est r\u00e9put\u00e9 r\u00e9pondre aux exigences r\u00e9glementaires mentionn\u00e9es au paragraphe 19.3 du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Les mesures des retomb\u00e9es atmosph\u00e9riques totales portent sur la somme des fractions solubles et insolubles. Elles sont exprim\u00e9es en mg/m2/jour."
+                },
+                {
+                  "text": "L'objectif \u00e0 atteindre est de 500 mg/m2/jour en moyenne annuelle glissante pour chacune des jauges install\u00e9es en point de type (b) du plan de surveillance."
+                },
+                {
+                  "text": "En cas de d\u00e9passement, et sauf situation exceptionnelle qui sera alors expliqu\u00e9e dans le bilan annuel pr\u00e9vu au paragraphe 19.9 du pr\u00e9sent arr\u00eat\u00e9, l'exploitant informe l'inspection des installations class\u00e9es et met en \u0153uvre rapidement des mesures correctives."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.7."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "D56eb583E8FF",
+              "outer_alineas": [
+                {
+                  "text": "Pour les installations de carri\u00e8res, soumises \u00e0 un plan de surveillance des \u00e9missions de poussi\u00e8res en application du premier alin\u00e9a du paragraphe 19.5 du pr\u00e9sent arr\u00eat\u00e9, la direction et la vitesse du vent, la temp\u00e9rature, et la pluviom\u00e9trie sont enregistr\u00e9es par une station de mesures sur le site de l'exploitation avec une r\u00e9solution horaire au minimum."
+                },
+                {
+                  "text": "La station m\u00e9t\u00e9orologique est install\u00e9e, maintenue et utilis\u00e9e selon les bonnes pratiques."
+                },
+                {
+                  "text": "Toutefois, pour les carri\u00e8res dont la surface n'est pas enti\u00e8rement situ\u00e9e sur le territoire d'une commune couverte par un plan de protection de l'atmosph\u00e8re, la mise en \u0153uvre d'une station m\u00e9t\u00e9orologique sur site peut \u00eatre remplac\u00e9e par l'abonnement \u00e0 des donn\u00e9es corrig\u00e9es en fonction du relief, de l'environnement et de la distance issues de la station m\u00e9t\u00e9o la plus repr\u00e9sentative \u00e0 proximit\u00e9 de la carri\u00e8re exploit\u00e9 par un fournisseur de services m\u00e9t\u00e9orologiques."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.8."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BC4Bca1E3b51",
+              "outer_alineas": [
+                {
+                  "text": "Chaque ann\u00e9e l'exploitant \u00e9tablit un bilan des mesures r\u00e9alis\u00e9es."
+                },
+                {
+                  "text": "Ce bilan annuel reprend les valeurs mesur\u00e9es. Elles sont comment\u00e9es sur la base de l'historique des donn\u00e9es, des valeurs limites, des valeurs de l'emplacement t\u00e9moin, des conditions m\u00e9t\u00e9orologiques et de l'activit\u00e9 et de l'\u00e9volution de l'installation. Il est transmis \u00e0 l'inspection des installations class\u00e9es au plus tard le 31 mars de l'ann\u00e9e suivante."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 19",
+              "sections": [],
+              "title": {
+                "text": "19.9."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 19"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F17af80B71C9",
+          "outer_alineas": [
+            {
+              "text": "Les installations sont pourvues d'\u00e9quipements de lutte contre l'incendie adapt\u00e9s et conformes aux normes en vigueur. Ces mat\u00e9riels sont maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 20",
+          "sections": [],
+          "title": {
+            "text": "Article 20"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DECHETS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "d6502feEee7A",
+          "outer_alineas": [
+            {
+              "text": "Toutes dispositions sont prises pour limiter les quantit\u00e9s de d\u00e9chets produits, notamment en effectuant toutes les op\u00e9rations de valorisation possibles. Les diverses cat\u00e9gories de d\u00e9chets sont collect\u00e9es s\u00e9par\u00e9ment puis valoris\u00e9es ou \u00e9limin\u00e9es vers des installations d\u00fbment autoris\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "Article 21"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "BRUIT_VIBRATIONS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bce0bd5C4E7b",
+          "outer_alineas": [
+            {
+              "text": "L'exploitation est men\u00e9e de mani\u00e8re \u00e0 ne pas \u00eatre \u00e0 l'origine de bruits a\u00e9riens ou de vibrations m\u00e9caniques susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une g\u00eane pour sa tranquillit\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 22",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Cfead7defaB1",
+              "outer_alineas": [
+                {
+                  "text": "En dehors des tirs de mines, les dispositions relatives aux \u00e9missions sonores des diff\u00e9rentes installations sont fix\u00e9es par l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l'environnement par les installations class\u00e9es pour la protection de l'environnement."
+                },
+                {
+                  "text": "Un contr\u00f4le des niveaux sonores est effectu\u00e9 d\u00e8s l'ouverture du site pour toutes les nouvelles exploitations et ensuite p\u00e9riodiquement, notamment lorsque les fronts de taille se rapprochent des zones habit\u00e9es.\"."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 22 22.1.",
+              "sections": [],
+              "title": {
+                "text": "22.1. Bruits :"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bb9dbDAA6aAE",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 22 22.2.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "dd2D6a9698E0",
+                  "outer_alineas": [
+                    {
+                      "text": "La fonction de pond\u00e9ration du signal mesur\u00e9 est une courbe continue d\u00e9finie par les points caract\u00e9ristiques suivants :"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "BANDE DE FR\u00c9QUENCE\nen Hz"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "POND\u00c9RATION\ndu signal"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "1"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "5"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "5"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "1"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "30"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "1"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "80"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "3/8"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    },
+                    {
+                      "text": "On entend par constructions avoisinantes les immeubles occup\u00e9s ou habit\u00e9s par des tiers ou affect\u00e9s \u00e0 toute autre activit\u00e9 humaine et les monuments."
+                    },
+                    {
+                      "text": "Pour les autres constructions, des valeurs limites plus \u00e9lev\u00e9es peuvent \u00eatre fix\u00e9es par l'arr\u00eat\u00e9 d'autorisation, apr\u00e8s \u00e9tude des effets des vibrations m\u00e9caniques sur ces constructions."
+                    },
+                    {
+                      "text": "Le respect de la valeur ci-dessus est v\u00e9rifi\u00e9 d\u00e8s les premiers tirs r\u00e9alis\u00e9s sur la carri\u00e8re, puis par campagnes p\u00e9riodiques dont la fr\u00e9quence est fix\u00e9e par l'arr\u00eat\u00e9 d'autorisation."
+                    },
+                    {
+                      "text": "En outre, le respect de la valeur limite est assur\u00e9 dans les constructions existantes \u00e0 la date de l'arr\u00eat\u00e9 d'autorisation et dans les immeubles construits apr\u00e8s cette date et implant\u00e9s dans les zones autoris\u00e9es \u00e0 la construction par des documents d'urbanisme opposables aux tiers publi\u00e9s \u00e0 la date de l'arr\u00eat\u00e9 d'autorisation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 22 22.2. I.",
+                  "sections": [],
+                  "title": {
+                    "text": "I. - Les tirs de mines ne doivent pas \u00eatre \u00e0 l'origine de vibrations susceptibles d'engendrer dans les constructions avoisinantes des vitesses particulaires pond\u00e9r\u00e9es sup\u00e9rieures \u00e0 10 mm/s mesur\u00e9es suivant les trois axes de la construction."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "96a61680EC8d",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 22 22.2. II.",
+                  "sections": [],
+                  "title": {
+                    "text": "II. - En dehors des tirs de mines, les prescriptions de la circulaire du 23 juillet 1986 relative aux vibrations m\u00e9caniques \u00e9mises dans l'environnement par les installations class\u00e9es pour la protection de l'environnement sont applicables."
+                  }
+                }
+              ],
+              "title": {
+                "text": "22.2. Vibrations :"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 22"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cbb5C6Cd140C",
+          "outer_alineas": [
+            {
+              "text": "L'arr\u00eat\u00e9 d'autorisation peut fixer les modes de transport des mat\u00e9riaux (voie routi\u00e8re, voie ferr\u00e9e, voie fluviale) au d\u00e9part de l'exploitation, pour totalit\u00e9 ou pour partie de la production."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 23",
+          "sections": [],
+          "title": {
+            "text": "Article 23"
+          }
+        }
+      ],
+      "title": {
+        "text": "CHAPITRE III : Pr\u00e9vention des pollutions."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0fccf1AbeF1A",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "D8ef86eb6fcb",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 24",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0BAbA9c9b6eB",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 s'appliquent aux carri\u00e8res dont l'autorisation (initiale ou d'extension) interviendra \u00e0 partir du 1er janvier 1995 ainsi qu'aux renouvellement d'autorisations de carri\u00e8res qui interviendront \u00e0 partir du 1er janvier 1996."
+                },
+                {
+                  "text": "Les dispositions de l'article 11.2.I sont d'effet imm\u00e9diat pour toute autorisation ou renouvellement d'autorisation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 24 24.1.",
+              "sections": [],
+              "title": {
+                "text": "24.1. Date d'application :"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f5dBA0EF5126",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 24 24.2.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "47B657e9dBae",
+                  "outer_alineas": [
+                    {
+                      "text": "Les dispositions des articles 4 \u00e0 7, 9, 10, 11.1, 11.4 et 12 \u00e0 22 du pr\u00e9sent arr\u00eat\u00e9 sont applicables \u00e0 compter du 1er janvier 1997 aux carri\u00e8res et aux installations de premier traitement des mat\u00e9riaux dont l'arr\u00eat\u00e9 d'autorisation aura \u00e9t\u00e9 publi\u00e9 entre le 1er janvier 1993 et le 1er janvier 1995 (et le 1er janvier 1996 pour les renouvellements)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 24 24.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "I."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "eD3Ef4628733",
+                  "outer_alineas": [
+                    {
+                      "text": "Les dispositions des articles 4 \u00e0 7, 9, 10, 11.1, 11.4 et 12 \u00e0 22 du pr\u00e9sent arr\u00eat\u00e9 sont applicables \u00e0 compter du 1er janvier 1999 aux carri\u00e8res et aux installations de premier traitement des mat\u00e9riaux dont l'arr\u00eat\u00e9 d'autorisation a \u00e9t\u00e9 publi\u00e9 avant le 1er janvier 1993."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Art. 24 24.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "II."
+                  }
+                }
+              ],
+              "title": {
+                "text": "24.2. Carri\u00e8res autoris\u00e9es :"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 24"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "49F6E0CcfbcE",
+          "outer_alineas": [
+            {
+              "text": "Des d\u00e9rogations aux dispositions du pr\u00e9sent arr\u00eat\u00e9 peuvent \u00eatre accord\u00e9es apr\u00e8s avis du    Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 25",
+          "sections": [],
+          "title": {
+            "text": "Article 25"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bF1aa65Cf223",
+          "outer_alineas": [
+            {
+              "text": "A l'article 1er de l'arr\u00eat\u00e9 minist\u00e9riel du 2 f\u00e9vrier 1998 relatif aux pr\u00e9l\u00e8vements et \u00e0 la consommation d'eau ainsi qu'aux rejets de toute nature des installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation, les mots : \" des carri\u00e8res \" sont remplac\u00e9s par les mots : \" des carri\u00e8res, des installations de premier traitement des mat\u00e9riaux de carri\u00e8res et des              zones de stockage des d\u00e9chets d'extraction inertes \"."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 26",
+          "sections": [],
+          "title": {
+            "text": "Article 26"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0EaaE59Aa9Ee",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 27",
+          "sections": [],
+          "title": {
+            "text": "Article 27"
+          }
+        }
+      ],
+      "title": {
+        "text": "CHAPITRE IV : Modalit\u00e9s d'application."
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "90eeF6849FF8",
+      "outer_alineas": [
+        {
+          "text": "D\u00e9chets d'extraction inertes :"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eC66e02f47ab",
+          "outer_alineas": [
+            {
+              "text": "Sont consid\u00e9r\u00e9s comme d\u00e9chets d'extraction inertes, au sens de cet arr\u00eat\u00e9, les d\u00e9chets r\u00e9pondant, \u00e0 court terme comme \u00e0 long terme, \u00e0 l'ensemble des crit\u00e8res suivants :"
+            },
+            {
+              "text": "- les d\u00e9chets ne sont susceptibles de subir aucune d\u00e9sint\u00e9gration ou dissolution significative, ni aucune autre modification significative, de nature \u00e0 produire des effets n\u00e9fastes sur l'environnement ou la sant\u00e9 humaine ;"
+            },
+            {
+              "text": "- les d\u00e9chets pr\u00e9sentent une teneur maximale en soufre sous forme de sulfure de 0, 1 %, ou les d\u00e9chets pr\u00e9sentent une teneur maximale en soufre sous forme de sulfure de 1 % et le ratio de neutralisation, d\u00e9fini comme le rapport du potentiel de neutralisation au potentiel de g\u00e9n\u00e9ration d'acide et d\u00e9termin\u00e9 au moyen d'un essai statique prEN 15875, est sup\u00e9rieur \u00e0 3 ;"
+            },
+            {
+              "text": "- les d\u00e9chets ne pr\u00e9sentent aucun risque d'autocombustion et ne sont pas inflammables ;"
+            },
+            {
+              "text": "- la teneur des d\u00e9chets, y compris celle des particules fines isol\u00e9es, en substances potentiellement dangereuses pour l'environnement ou la sant\u00e9 humaine, et particuli\u00e8rement en certains compos\u00e9s de As, Cd, Co, Cr, Cu, Hg, Mo, Ni, Pb, V et Zn, est suffisamment faible pour que le risque soit n\u00e9gligeable pour la sant\u00e9 humaine et pour l'environnement, tant \u00e0 court terme qu'\u00e0 long terme. Sont consid\u00e9r\u00e9es \u00e0 cet \u00e9gard comme suffisamment faibles pour que le risque soit n\u00e9gligeable pour la sant\u00e9 humaine et pour l'environnement les teneurs ne d\u00e9passant pas les seuils fix\u00e9s au niveau national pour les sites consid\u00e9r\u00e9s comme non pollu\u00e9s, ou les niveaux de fond naturels nationaux pertinents ;"
+            },
+            {
+              "text": "- les d\u00e9chets sont pratiquement exempts de produits, utilis\u00e9s pour l'extraction ou pour le traitement, qui sont susceptibles de nuire \u00e0 l'environnement ou \u00e0 la sant\u00e9 humaine."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [],
+          "title": {
+            "text": "1."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b818864AFdc8",
+          "outer_alineas": [
+            {
+              "text": "Des d\u00e9chets peuvent \u00eatre consid\u00e9r\u00e9s comme inertes sans qu'il soit proc\u00e9d\u00e9 \u00e0 des essais sp\u00e9cifiques d\u00e8s lors qu'il peut \u00eatre d\u00e9montr\u00e9 \u00e0 l'autorit\u00e9 comp\u00e9tente, sur la base des informations existantes ou de proc\u00e9dures ou sch\u00e9mas valid\u00e9s, que les crit\u00e8res d\u00e9finis au paragraphe 1 ont \u00e9t\u00e9 pris en compte de fa\u00e7on satisfaisante et qu'ils sont respect\u00e9s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [],
+          "title": {
+            "text": "2."
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe I"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 22/09/94 relatif aux exploitations de carri\u00e8res"
+  },
+  "visa": []
+}

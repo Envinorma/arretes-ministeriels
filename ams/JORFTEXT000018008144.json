@@ -1,0 +1,755 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/35412",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "4718",
+      "state": "ACTIVE"
+    },
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "1412",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "4718"
+    },
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "1412"
+    }
+  ],
+  "date_of_signature": "2008-01-02",
+  "id": "JORFTEXT000018008144",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018008144",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4e7baaddafFE",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux r\u00e9servoirs fixes manufactur\u00e9s de gaz inflammables liqu\u00e9fi\u00e9s, de capacit\u00e9 unitaire sup\u00e9rieure ou \u00e9gale \u00e0 50 tonnes, pr\u00e9sents au sein d'une installation class\u00e9e pour la protection de l'environnement relevant du r\u00e9gime de l'autorisation au titre de la rubrique 4718 de la nomenclature des installations class\u00e9es, \u00e0 l'exception des stockages r\u00e9frig\u00e9r\u00e9s ou cryog\u00e9niques."
+        },
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 ne concernent pas les cavit\u00e9s souterraines."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "a968B7d19c76",
+      "outer_alineas": [
+        {
+          "text": "Le surremplissage est pr\u00e9venu par un contr\u00f4le du niveau de la surface libre de la phase liquide. Ce niveau est mesur\u00e9 en continu. Le r\u00e9sultat de la mesure est mis \u00e0 la disposition de l'exploitant et de la personne en charge du remplissage."
+        },
+        {
+          "text": "Lors de l'approvisionnement en gaz inflammable liqu\u00e9fi\u00e9, le taux de remplissage du r\u00e9servoir ne d\u00e9passe pas 85 %. Il est d\u00e9fini pour pr\u00e9server un ciel gazeux suffisant afin de permettre toute expansion thermique naturelle pouvant survenir apr\u00e8s l'op\u00e9ration de remplissage. Pour les installations destin\u00e9es \u00e0 la fourniture de gaz inflammables liqu\u00e9fi\u00e9s aux utilisateurs finaux, ce taux peut \u00eatre diff\u00e9rent, il est fix\u00e9 dans l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation au regard des \u00e9l\u00e9ments figurant dans l'\u00e9tude de dangers."
+        },
+        {
+          "text": "Deux seuils de s\u00e9curit\u00e9 sont fix\u00e9s :"
+        },
+        {
+          "text": "\u2015 un seuil \u00ab haut \u00bb, lequel ne peut exc\u00e9der 90 % du volume du r\u00e9servoir ;"
+        },
+        {
+          "text": "\u2015 un seuil \u00ab tr\u00e8s haut \u00bb, lequel ne peut exc\u00e9der 95 % du volume du r\u00e9servoir."
+        },
+        {
+          "text": "Le franchissement de ces seuils est d\u00e9tect\u00e9 par des dispositifs ind\u00e9pendants de la mesure en continu pr\u00e9vue au premier paragraphe ci-dessus. Par des dispositifs d'asservissement appropri\u00e9s, le franchissement du niveau \u00ab haut \u00bb entra\u00eene l'arr\u00eat automatique de l'approvisionnement du r\u00e9servoir, sans temporisation, et l'information imm\u00e9diate de l'exploitant et de l'op\u00e9rateur effectuant la man\u0153uvre de remplissage."
+        },
+        {
+          "text": "Le franchissement du niveau \u00ab tr\u00e8s haut \u00bb actionne, outre les mesures pr\u00e9cit\u00e9es, la mise en \u0153uvre de l'arrosage du r\u00e9servoir."
+        },
+        {
+          "text": "La d\u00e9faillance de tout \u00e9l\u00e9ment de transmission et de traitement du signal constituant un mode de d\u00e9faillance commun entra\u00eene la fermeture de toutes les vannes sur les tuyauteries de chargement et l'information imm\u00e9diate de l'exploitant."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0C2133fC1e6A",
+      "outer_alineas": [
+        {
+          "text": "Chaque r\u00e9servoir est \u00e9quip\u00e9 en toutes circonstances, hormis pendant le temps de remplacement imm\u00e9diat pour entretien, de deux soupapes au moins, mont\u00e9es en parall\u00e8le et ayant une pression de lev\u00e9e au plus \u00e9gale \u00e0 la pression maximale en service."
+        },
+        {
+          "text": "Si n est le nombre de soupapes, l'exploitant s'assure que (n \u2015 1) soupapes peuvent \u00e9vacuer le gaz de telle sorte que la pression \u00e0 l'int\u00e9rieur du r\u00e9servoir n'exc\u00e8de jamais de plus de 10 % la pression maximale en service."
+        },
+        {
+          "text": "Chaque r\u00e9servoir est \u00e9quip\u00e9 d'un dispositif de mesure de pression."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "8bBdce66dEd8",
+      "outer_alineas": [
+        {
+          "text": "Afin de prot\u00e9ger les r\u00e9servoirs des \u00e9clats susceptibles d'\u00eatre produits en cas d'explosion sur un r\u00e9servoir voisin, les dispositions suivantes sont prises :"
+        },
+        {
+          "text": "\u2015 les r\u00e9servoirs cylindriques et wagons sont judicieusement orient\u00e9s par rapport aux autres r\u00e9servoirs les plus importants (absence de r\u00e9servoir important dans l'axe des r\u00e9servoirs cylindriques) ;"
+        },
+        {
+          "text": "\u2015 \u00e0 d\u00e9faut, l'exploitant mettra en place d'autres dispositifs dont la pertinence est justifi\u00e9e dans l'\u00e9tude de dangers."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-autorisation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2008-07-29",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "BAdFbaeAdCaF",
+      "outer_alineas": [
+        {
+          "text": "Le site est cl\u00f4tur\u00e9. La hauteur de la cl\u00f4ture n'est pas inf\u00e9rieure \u00e0 2,5 m\u00e8tres."
+        },
+        {
+          "text": "En dehors des heures d'exploitation, l'exploitant met en place une surveillance de l'installation, par gardiennage ou t\u00e9l\u00e9surveillance. En cas de d\u00e9tection de gaz ou de flamme telles que d\u00e9finies au I de l'article 7 et \u00e0 l'article 12, le gardien ou la t\u00e9l\u00e9surveillance transmet l'alerte \u00e0 une ou plusieurs personnes comp\u00e9tentes charg\u00e9es d'effectuer les actions n\u00e9cessaires pour mettre en s\u00e9curit\u00e9 les installations. Une proc\u00e9dure d\u00e9signe pr\u00e9alablement la ou les personne(s) comp\u00e9tente(s) et d\u00e9finit les modalit\u00e9s d'appel de ces personnes. Cette proc\u00e9dure pr\u00e9cise \u00e9galement les conditions d'appel des secours ext\u00e9rieurs au regard des informations disponibles."
+        },
+        {
+          "text": "L'exploitant d\u00e9finit par proc\u00e9dure les actions \u00e0 r\u00e9aliser par la ou les personne(s) comp\u00e9tente(s). Cette proc\u00e9dure pr\u00e9voit la mise en \u0153uvre des mesures rendues n\u00e9cessaires par la situation constat\u00e9e sur le site telles que :"
+        },
+        {
+          "text": "- l'appel des secours ext\u00e9rieurs s'il n'a pas d\u00e9j\u00e0 \u00e9t\u00e9 r\u00e9alis\u00e9 ;"
+        },
+        {
+          "text": "- les op\u00e9rations pr\u00e9vues au II de l'article 7, la mise en service des dispositifs d'arrosage lorsqu'ils existent et la fermeture des organes de sectionnement permettant de r\u00e9duire la quantit\u00e9 de gaz rejet\u00e9e, lorsque ces actions n'ont pas \u00e9t\u00e9 d\u00e9clench\u00e9es automatiquement ;"
+        },
+        {
+          "text": "- l'information des secours ext\u00e9rieurs sur les op\u00e9rations de mise en s\u00e9curit\u00e9 r\u00e9alis\u00e9es afin de permettre \u00e0 ceux-ci de d\u00e9finir les modalit\u00e9s de leur engagement ;"
+        },
+        {
+          "text": "- l'accueil des secours ext\u00e9rieurs."
+        },
+        {
+          "text": "Le d\u00e9lai d'arriv\u00e9e sur site de la ou des personne(s) comp\u00e9tente(s) est de trente minutes maximum suivant la d\u00e9tection de gaz ou de flamme. Au regard de la sensibilit\u00e9 des enjeux potentiellement impact\u00e9s autour du site tels que d\u00e9crits dans l'\u00e9tude de dangers, qui n\u00e9cessiterait de disposer d'une ou plusieurs personne(s) comp\u00e9tente(s) dans un d\u00e9lai moindre pour mettre en \u0153uvre les actions n\u00e9cessaires de mise en s\u00e9curit\u00e9 des installations, le pr\u00e9fet peut r\u00e9duire ce d\u00e9lai par arr\u00eat\u00e9 pr\u00e9fectoral."
+        },
+        {
+          "text": "L'exploitant tient \u00e0 disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments justifiant des comp\u00e9tences des personnes susceptibles d'intervenir en cas d'alerte et du respect du d\u00e9lai maximal d'arriv\u00e9e sur site."
+        },
+        {
+          "text": "L'exploitant tient \u00e0 la disposition des services de secours ext\u00e9rieurs les informations relatives au mode de surveillance mis en place ainsi que tout \u00e9l\u00e9ment issu de l'\u00e9tude de dangers du site leur permettant de d\u00e9finir leur plan d'intervention."
+        },
+        {
+          "text": "Les dispositions de l'article 516 des r\u00e8gles (premi\u00e8re partie) de l'arr\u00eat\u00e9 du 9 novembre 1972 susvis\u00e9 ne s'appliquent pas aux installations soumises aux prescriptions du pr\u00e9sent arr\u00eat\u00e9."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 5",
+      "sections": [],
+      "title": {
+        "text": "Article 5"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b04A439add6f",
+      "outer_alineas": [
+        {
+          "text": "Des d\u00e9tecteurs sont install\u00e9s afin de pouvoir d\u00e9tecter toute fuite de gaz dans les meilleurs d\u00e9lais. Leur implantation tient compte des caract\u00e9ristiques des gaz \u00e0 d\u00e9tecter, des risques de fuites, des risques d'inflammation et de la sensibilit\u00e9 de l'environnement. L'exploitant \u00e9tablit un plan de d\u00e9tection de gaz indiquant l'emplacement des capteurs et les appareils asservis \u00e0 ce syst\u00e8me."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 6",
+      "sections": [],
+      "title": {
+        "text": "Article 6"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "260eEA4aB4aF",
+      "outer_alineas": [
+        {
+          "text": "I. \u2015 En cas de d\u00e9tection de gaz inflammable \u00e0 une concentration sup\u00e9rieure \u00e0 20 % de la limite inf\u00e9rieure d'explosivit\u00e9 (LIE), les d\u00e9tecteurs agissent sur des alarmes perceptibles par les personnels concern\u00e9s."
+        },
+        {
+          "text": "II. \u2015 En cas de d\u00e9tection de gaz inflammable \u00e0 une concentration fix\u00e9e par l'exploitant, inf\u00e9rieure ou \u00e9gale \u00e0 50 % de la LIE, l'ensemble des installations de stockage est mis en \u00e9tat de s\u00e9curit\u00e9. Sauf justification contraire, cet \u00e9tat de s\u00e9curit\u00e9 consiste en la fermeture automatique des vannes sur les canalisations de transfert, en l'arr\u00eat des pompes, compresseurs, moteurs et alimentations en \u00e9nergie autres que ceux n\u00e9cessaires au fonctionnement des \u00e9quipements de s\u00e9curit\u00e9 et d'intervention."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 7",
+      "sections": [],
+      "title": {
+        "text": "Article 7"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "49C3BB9bc5f4",
+      "outer_alineas": [
+        {
+          "text": "Afin de limiter les quantit\u00e9s de produit rejet\u00e9es en cas de fuite et de mettre le r\u00e9servoir en s\u00e9curit\u00e9, toutes les lignes de circulation de gaz inflammable liqu\u00e9fi\u00e9 raccord\u00e9es directement \u00e0 la phase liquide du r\u00e9servoir (\u00e0 l'exclusion des lignes de purge et d'\u00e9chantillonnage) sont dot\u00e9es de deux organes de fermeture \u00e0 fonctionnement automatique et \u00e0 s\u00e9curit\u00e9 positive :"
+        },
+        {
+          "text": "\u2015 l'un est interne au r\u00e9servoir, sauf, pour ceux construits avant le 22 juin 1993 lorsque l'impossibilit\u00e9 technique de le mettre en place est justifi\u00e9e par l'exploitant. Ce syst\u00e8me de fermeture interne peut \u00eatre remplac\u00e9 par un dispositif externe \u00e9quip\u00e9 d'une protection thermique et m\u00e9canique \u00e9quivalente \u00e0 un syst\u00e8me interne et d\u00e9crite dans l'\u00e9tude de dangers ;"
+        },
+        {
+          "text": "\u2015 l'autre est \u00e0 s\u00e9curit\u00e9 positive et \u00e0 s\u00e9curit\u00e9 feu situ\u00e9 au plus pr\u00e8s de la paroi du r\u00e9servoir. Il est actionn\u00e9 automatiquement par le d\u00e9clenchement de la d\u00e9tection gaz pr\u00e9vue \u00e0 l'article 6 ou de la d\u00e9tection incendie pr\u00e9vue au dernier alin\u00e9a du pr\u00e9sent article. Cet organe est en outre man\u0153uvrable \u00e0 distance."
+        },
+        {
+          "text": "Les autres lignes, y compris les lignes de purge et d'\u00e9chantillonnage, sont dot\u00e9es d'un organe de fermeture \u00e0 s\u00e9curit\u00e9 positive et \u00e0 s\u00e9curit\u00e9 feu, diff\u00e9rent du robinet de purge et d'\u00e9chantillonnage et implant\u00e9 au plus pr\u00e8s de la paroi du r\u00e9servoir. Il est actionn\u00e9 automatiquement par le d\u00e9clenchement de la d\u00e9tection gaz pr\u00e9vue \u00e0 l'article 6 ou de la d\u00e9tection incendie pr\u00e9vue au dernier alin\u00e9a du pr\u00e9sent article. Cet organe est en outre man\u0153uvrable \u00e0 distance."
+        },
+        {
+          "text": "Les extr\u00e9mit\u00e9s des lignes de purge et d'\u00e9chantillonnage sont visibles depuis les robinets de purge et d'\u00e9chantillonnage et sont situ\u00e9es \u00e0 l'ext\u00e9rieur de la projection verticale du r\u00e9servoir sur le sol."
+        },
+        {
+          "text": "Les lignes de purge sont :"
+        },
+        {
+          "text": "\u2015 soit munies d'un sas et con\u00e7ues de mani\u00e8re \u00e0 \u00e9viter la formation d'hydrates ;"
+        },
+        {
+          "text": "\u2015 soit calorifug\u00e9es et r\u00e9chauff\u00e9es au moins sur la section entre le r\u00e9servoir et le robinet de purge compris."
+        },
+        {
+          "text": "La d\u00e9tection incendie se fait par la fonte d'un \u00e9l\u00e9ment fusible ou sur d\u00e9tection flamme."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 8",
+      "sections": [],
+      "title": {
+        "text": "Article 8"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4aEe1053EfCf",
+      "outer_alineas": [
+        {
+          "text": "Sauf am\u00e9nagement particulier justifi\u00e9 dans l'\u00e9tude de dangers emp\u00eachant la stagnation de gaz liqu\u00e9fi\u00e9 sous le r\u00e9servoir et permettant \u00e0 celui-ci de r\u00e9sister au flux thermique d'un feu de nappe \u00e0 proximit\u00e9, chaque r\u00e9servoir est dot\u00e9 d'un dispositif de r\u00e9tention r\u00e9pondant aux caract\u00e9ristiques suivantes :"
+        },
+        {
+          "text": "a) Sol en pente sous les r\u00e9servoirs ;"
+        },
+        {
+          "text": "b) R\u00e9ceptacle \u00e9loign\u00e9 des r\u00e9servoirs tel que le flux thermique d'un feu de cuvette ne soit pas pr\u00e9judiciable pour leur int\u00e9grit\u00e9. Ce r\u00e9ceptacle peut \u00eatre commun \u00e0 plusieurs r\u00e9servoirs, sauf incompatibilit\u00e9 entre produits ;"
+        },
+        {
+          "text": "c) Proximit\u00e9 des points de fuite potentiels telle que l'essentiel du gaz s'\u00e9coulant en phase liquide soit recueilli ;"
+        },
+        {
+          "text": "d) Capacit\u00e9 du r\u00e9ceptacle tenant compte des conclusions de l'\u00e9tude de dangers et au moins \u00e9gale \u00e0 20 % de la capacit\u00e9 du plus gros r\u00e9servoir desservi ;"
+        },
+        {
+          "text": "e) Surface aussi faible que possible du r\u00e9ceptacle pour limiter l'\u00e9vaporation."
+        },
+        {
+          "text": "Sur justification apport\u00e9e par l'exploitant, le pr\u00e9fet peut fixer des conditions diff\u00e9rentes de celles d\u00e9crites aux points a \u00e0 d ci-dessus mais r\u00e9pondant \u00e0 l'objectif de ma\u00eetrise d'une fuite en phase liquide sous le r\u00e9servoir."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 9",
+      "sections": [],
+      "title": {
+        "text": "Article 9"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "1BbBaEe439aE",
+      "outer_alineas": [
+        {
+          "text": "Pour les \u00e9tablissements autoris\u00e9s \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois faisant l'objet d'une modification, la distance \u00e0 la cl\u00f4ture des installations mettant en \u0153uvre des gaz inflammables liqu\u00e9fi\u00e9s \u2015 r\u00e9servoirs fixes, pompes et compresseurs, postes de transfert, canalisations contenant une phase liquide hors canalisations d'approvisionnement de l'\u00e9tablissement \u2015 n'est pas diminu\u00e9e."
+        },
+        {
+          "text": "Pour les \u00e9tablissements faisant l'objet d'une premi\u00e8re autorisation apr\u00e8s la date de parution du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9 de six mois, la distance s\u00e9parative entre la cl\u00f4ture et les installations mettant en \u0153uvre des gaz inflammables liqu\u00e9fi\u00e9s \u2015 r\u00e9servoirs fixes, pompes et compresseurs, postes de transfert, canalisations contenant une phase liquide hors canalisations d'approvisionnement de l'\u00e9tablissement \u2015 est au minimum de 50 m\u00e8tres."
+        },
+        {
+          "text": "Tant pour les \u00e9tablissements nouveaux que pour les \u00e9tablissements existants, la distance des r\u00e9servoirs \u00e0 la cl\u00f4ture est \u00e0 compter \u00e0 partir de l'enveloppe des \u00e9quipements sous pression."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 10",
+      "sections": [],
+      "title": {
+        "text": "Article 10"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ec4BfF6aE4d2",
+      "outer_alineas": [
+        {
+          "text": "Les r\u00e9servoirs sont prot\u00e9g\u00e9s des agressions thermiques."
+        },
+        {
+          "text": "Lorsque les r\u00e9servoirs sont a\u00e9riens et ne disposent pas d'une protection leur permettant de r\u00e9sister \u00e0 toutes les agressions thermiques d\u00e9crites dans l'\u00e9tude de dangers, ils sont prot\u00e9g\u00e9s par un syst\u00e8me d'application d'eau de refroidissement. Celui-ci assure un d\u00e9bit minimal uniforme de ruissellement d'eau de 10 litres par m\u00e8tre carr\u00e9 d'enveloppe et par minute, sur leur paroi. Tout \u00e9l\u00e9ment et tout \u00e9quipement n\u00e9cessaire au maintien de l'int\u00e9grit\u00e9 des r\u00e9servoirs b\u00e9n\u00e9ficie du m\u00eame niveau de protection."
+        },
+        {
+          "text": "Le dispositif d'arrosage est install\u00e9 en permanence sur le r\u00e9servoir et doit rester op\u00e9rationnel en cas de feu de cuvette."
+        },
+        {
+          "text": "Sur justification technique de l'exploitant, le pr\u00e9fet peut, par arr\u00eat\u00e9, r\u00e9duire le d\u00e9bit pr\u00e9cit\u00e9 sans toutefois que cette diminution n'exc\u00e8de 15 % de ce d\u00e9bit."
+        },
+        {
+          "text": "La r\u00e9serve d'eau de refroidissement du site est dimensionn\u00e9e sur le sc\u00e9nario le plus p\u00e9nalisant d\u00e9crit dans l'\u00e9tude de dangers avec une autonomie d'au moins deux heures. Le d\u00e9bit de refroidissement pr\u00e9cit\u00e9 doit pouvoir \u00eatre appliqu\u00e9 pendant au moins quatre heures. L'exploitant s'assure que tout dispositif ne permettant pas de fournir, pendant quatre heures, le d\u00e9bit correspondant peut \u00eatre secouru en temps utile pour permettre l'application du d\u00e9bit impos\u00e9 pendant cette dur\u00e9e de quatre heures. Les moyens n\u00e9cessaires \u00e0 ce secours peuvent \u00eatre des moyens externes tenus \u00e0 la disposition de l'\u00e9tablissement et dont l'exploitant s'assure r\u00e9guli\u00e8rement de l'efficacit\u00e9."
+        },
+        {
+          "text": "Le pr\u00e9fet peut prescrire un syst\u00e8me alternatif au syst\u00e8me d'application d'eau pr\u00e9vu aux deuxi\u00e8me, troisi\u00e8me et cinqui\u00e8me alin\u00e9as du pr\u00e9sent article, sous r\u00e9serve que :"
+        },
+        {
+          "text": "- le syst\u00e8me mis en place soit compos\u00e9 d'un dispositif de protection du r\u00e9servoir contre les agressions thermiques de type ignifuge, compl\u00e9t\u00e9 si n\u00e9cessaire par un dispositif d'application d'eau de refroidissement ;"
+        },
+        {
+          "text": "- l'exploitant justifie, dans son \u00e9tude de dangers ou dans un compl\u00e9ment \u00e0 celle-ci, que le syst\u00e8me install\u00e9 pr\u00e9sente une efficacit\u00e9 au moins \u00e9gale \u00e0 celle du dispositif d'application d'eau de refroidissement d\u00e9fini aux deuxi\u00e8me, troisi\u00e8me et cinqui\u00e8me alin\u00e9as du pr\u00e9sent article, sur une dur\u00e9e de quatre heures."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 11",
+      "sections": [],
+      "title": {
+        "text": "Article 11"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "86e2Ab0cecc6",
+      "outer_alineas": [
+        {
+          "text": "Chaque r\u00e9servoir vis\u00e9 au deuxi\u00e8me alin\u00e9a de l'article 11 est surveill\u00e9 par une d\u00e9tection de flamme. Le d\u00e9clenchement de la d\u00e9tection active la mise en service du syst\u00e8me de refroidissement lorsque celui-ci est mis en place en application des dispositions de l'article 11 ainsi qu'une alarme perceptible par le personnel concern\u00e9."
+        },
+        {
+          "text": "En outre l'arrosage de chaque r\u00e9servoir peut \u00eatre command\u00e9 \u00e0 distance et le d\u00e9bit d'arrosage peut \u00eatre modul\u00e9 \u00e0 partir d'un point o\u00f9 les op\u00e9rateurs sont en s\u00fbret\u00e9."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-autorisation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2008-07-29",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 12",
+      "sections": [],
+      "title": {
+        "text": "Article 12"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E9eA3301e77E",
+      "outer_alineas": [
+        {
+          "text": "Sur justification pr\u00e9sent\u00e9e par l'exploitant, le pr\u00e9fet peut prescrire des dispositions alternatives dans le cas des stockages li\u00e9s aux unit\u00e9s de fabrication en continu pour les dispositifs et asservissements pr\u00e9vus \u00e0 l'article 2, au II de l'article 7 et \u00e0 l'article 8."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 13",
+      "sections": [],
+      "title": {
+        "text": "Article 13"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "2bB1Cacb1e3a",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables \u00e0 toute installation autoris\u00e9e apr\u00e8s la date de publication du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois et \u00e0 tout stockage existant au sein d'un \u00e9tablissement relevant du r\u00e9gime de l'autorisation avec servitudes au titre de la rubrique 1412 de la nomenclature des installations class\u00e9es \u00e0 l'exception des stockages r\u00e9frig\u00e9r\u00e9s ou cryog\u00e9niques."
+        },
+        {
+          "text": "Pour les autres installations, l'article 10 est applicable \u00e0 la date de parution du pr\u00e9sent arr\u00eat\u00e9. Pour les autres articles, les d\u00e9lais d'application \u00e0 respecter sont dans le tableau ci-dessous :"
+        },
+        {
+          "table": {
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nD\u00c9LAIS"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n1 AN"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n2 ANS"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": -2,
+                    "content": {
+                      "text": "\n3 ANS"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": true
+              },
+              {
+                "cells": [
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\nArticles"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n5"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n2, 3, 6, 7 et 11"
+                    },
+                    "rowspan": 1
+                  },
+                  {
+                    "colspan": 1,
+                    "content": {
+                      "text": "\n8 et 9"
+                    },
+                    "rowspan": 1
+                  }
+                ],
+                "is_header": false
+              }
+            ]
+          },
+          "text": ""
+        },
+        {
+          "text": "Dans ce cas l'exploitant fournit au pr\u00e9fet au plus tard un an apr\u00e8s la publication du pr\u00e9sent arr\u00eat\u00e9 au Journal officiel un \u00e9ch\u00e9ancier des travaux \u00e0 effectuer."
+        },
+        {
+          "text": "Si les travaux n\u00e9cessitent une vidange et un d\u00e9gazage pr\u00e9alables, le pr\u00e9fet peut porter les d\u00e9lais pr\u00e9cit\u00e9s \u00e0 cinq ans au plus."
+        },
+        {
+          "text": "Si l'exploitant a apport\u00e9 la justification que le transfert du stockage ou sa suppression sont r\u00e9alis\u00e9s dans un d\u00e9lai de cinq ans au plus \u00e0 compter de la date de publication du pr\u00e9sent arr\u00eat\u00e9, le pr\u00e9fet peut \u00e9galement porter le d\u00e9lai de trois ans cit\u00e9 pr\u00e9c\u00e9demment \u00e0 cinq ans au plus."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 14",
+      "sections": [],
+      "title": {
+        "text": "Article 14"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "9D5ecB2cD4f7",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 abroge et remplace l'arr\u00eat\u00e9 du 10 mai 1993 relatif au stockage de gaz inflammables liqu\u00e9fi\u00e9s sous pression \u00e0 la date de publication du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 15",
+      "sections": [],
+      "title": {
+        "text": "Article 15"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "D8aC1a54ffbD",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 abroge l'arr\u00eat\u00e9 du 9 novembre 1989 modifi\u00e9 relatif aux conditions d'\u00e9loignement auxquelles est subordonn\u00e9e la d\u00e9livrance de l'autorisation des nouveaux r\u00e9servoirs de \u00ab gaz inflammables liqu\u00e9fi\u00e9s \u00bb \u00e0 la date de publication du pr\u00e9sent arr\u00eat\u00e9 augment\u00e9e de six mois."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 16",
+      "sections": [],
+      "title": {
+        "text": "Article 16"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C7299C4477ab",
+      "outer_alineas": [
+        {
+          "text": "Le directeur de la pr\u00e9vention des pollutions et des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 17",
+      "sections": [],
+      "title": {
+        "text": "Article 17"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 02/01/08 relatif aux r\u00e9servoirs fixes manufactur\u00e9s de gaz inflammables liqu\u00e9fi\u00e9s, de capacit\u00e9 unitaire sup\u00e9rieure ou \u00e9gale \u00e0 50 tonnes, pr\u00e9sents au sein d'une installation class\u00e9e pour la protection de l'environnement relevant du r\u00e9gime de l'autorisation au titre de la rubrique n\u00b0 4718 de la nomenclature des installations class\u00e9es, \u00e0 l'exception des stockages r\u00e9frig\u00e9r\u00e9s ou cryog\u00e9niques"
+  },
+  "visa": []
+}

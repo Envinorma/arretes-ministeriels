@@ -1,0 +1,2701 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/39978",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "D",
+      "rubrique": "2150",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "2150"
+    }
+  ],
+  "date_of_signature": "2017-11-21",
+  "id": "JORFTEXT000036074702",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036074702",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "E9f863Cd5AAc",
+      "outer_alineas": [
+        {
+          "text": "Les installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 2150 sont soumises aux dispositions de l'annexe I."
+        },
+        {
+          "text": "Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations ainsi que des sch\u00e9mas, plans et autres documents d'orientation et de planification approuv\u00e9s."
+        },
+        {
+          "text": "Les dispositions de l'annexe I sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un \u00e9tablissement qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "eFcaCCA8BC3E",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9fet peut, en application de l'article L. 512-10 du code de l'environnement, adapter aux circonstances locales, installation par installation, les prescriptions du pr\u00e9sent arr\u00eat\u00e9 dans les conditions pr\u00e9vues \u00e0 l'article R. 512-52 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4eE73F5Ed05A",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9sent arr\u00eat\u00e9 entre en vigueur \u00e0 la m\u00eame date que le d\u00e9cret n\u00b0 2017-1595 du 21 novembre 2017."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "fADadeD64EdF",
+      "outer_alineas": [
+        {
+          "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0FCE1Ac73C43",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ce8B31B5c9a8",
+          "outer_alineas": [
+            {
+              "text": "D\u00e9finitions"
+            },
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "\" Elevage \" : pr\u00e9sence ou d\u00e9tention d'insectes vivants (\u0153ufs, larves ou asticots (nom commun de la larve), pupes ou chrysalides, adultes ou imagos) ;"
+            },
+            {
+              "text": "\" Installation \" : les b\u00e2timents d'\u00e9levage, leurs annexes, et les b\u00e2timents dans lesquels se d\u00e9roulent les op\u00e9rations de r\u00e9ception, pr\u00e9paration (y compris le conditionnement), conservation, traitement et entreposage des insectes et du substrat utilis\u00e9 pour l'\u00e9levage ;"
+            },
+            {
+              "text": "\" B\u00e2timent d'\u00e9levage \" : locaux d'\u00e9levage et de pr\u00e9sence d'insectes vivants ;"
+            },
+            {
+              "text": "\" Annexes \" : toute structure annexe, notamment les locaux de pr\u00e9paration du substrat utilis\u00e9 pour l'\u00e9levage, les locaux de stockage des composants du substrat et d'aliments, le syst\u00e8me d'assainissement des substrats ayant servi \u00e0 l'\u00e9levage des insectes et des effluents (\u00e9vacuation, stockage, traitement), les locaux de transformation des insectes, les locaux de stockage des produits transform\u00e9s, \u2026 ;"
+            },
+            {
+              "text": "\" Sous-produits animaux \" : les sous-produits animaux au sens de l'article 3 du r\u00e8glement du 21 octobre 2009 susvis\u00e9, soit \" les cadavres entiers ou parties d'animaux, les produits d'origine animale ou d'autres produits obtenus \u00e0 partir d'animaux, qui ne sont pas destin\u00e9s \u00e0 la consommation humaine, y compris les ovocytes, les embryons et le sperme \" ;"
+            },
+            {
+              "text": "\" Effluents \" : d\u00e9jections liquides ou solides, fumiers et substrats ayant servi \u00e0 l'\u00e9levage d'insectes, eaux de pluie souill\u00e9es par des d\u00e9jections, fumiers et substrats usag\u00e9s, et eaux us\u00e9es issues de l'activit\u00e9 de l'installation ;"
+            },
+            {
+              "text": "\" Epandage \" : action m\u00e9canique d'application d'un effluent brut ou trait\u00e9 dans ou sur le sol ou son couvert v\u00e9g\u00e9tal ;"
+            },
+            {
+              "text": "\" Concentration d'odeur (ou niveau d'odeur) \" : niveau de dilution qu'il faut appliquer \u00e0 un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un \u00e9chantillon de population. Elle s'exprime en unit\u00e9 d'odeur europ\u00e9enne par m3 (uoE/m3). Elle est obtenue suivant la norme NF EN 13 725 ;"
+            },
+            {
+              "text": "\" D\u00e9bit d'odeur \" : produit du d\u00e9bit d'air rejet\u00e9 exprim\u00e9 en m\u00b3/h par la concentration d'odeur. Il s'exprime en unit\u00e9 d'odeur europ\u00e9enne par heure (uoE/h) ;"
+            },
+            {
+              "text": "\" Emergence \" : la diff\u00e9rence entre les niveaux de pression continus \u00e9quivalents pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l'absence du bruit g\u00e9n\u00e9r\u00e9 par l'installation) ;"
+            },
+            {
+              "text": "\" Habitation \" : local destin\u00e9 \u00e0 servir de r\u00e9sidence permanente ou temporaire \u00e0 des personnes ;"
+            },
+            {
+              "text": "\" Local habituellement habit\u00e9 par des tiers \" : local destin\u00e9 \u00e0 \u00eatre utilis\u00e9 couramment par des personnes (\u00e9tablissements recevant du public, bureau, magasin, atelier, \u2026)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I Art. -",
+          "sections": [
+            {
+              "annotations": {
+                "topic": "DISPOSITIONS_GENERALES"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1F5afdf21c48",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 1.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "DDCEfACb4FCa",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 1.1.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "F6EECa1340dA",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 1.1.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "1.1.1. Conformit\u00e9 de l'installation \u00e0 la d\u00e9claration"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "d36D1a31212B",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est soumise \u00e0 des contr\u00f4les p\u00e9riodiques par des organismes agr\u00e9\u00e9s dans les conditions d\u00e9finies par les articles R. 512-55 \u00e0 R. 512-60 du code de l'environnement."
+                        },
+                        {
+                          "text": "Ces contr\u00f4les ont pour objet de v\u00e9rifier la conformit\u00e9 de l'installation aux prescriptions rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par le terme \" Objet du contr\u00f4le \", \u00e9ventuellement modifi\u00e9es par arr\u00eat\u00e9 pr\u00e9fectoral, lorsqu'elles lui sont applicables. Le contenu de ces contr\u00f4les est pr\u00e9cis\u00e9 \u00e0 la fin de chaque point de la pr\u00e9sente annexe apr\u00e8s la mention \" Objet du contr\u00f4le \". Les prescriptions dont le non-respect constitue une non-conformit\u00e9 majeure entra\u00eenant l'information du pr\u00e9fet dans les conditions pr\u00e9vues \u00e0 l'article R. 512-59-1 sont rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par la mention \" le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure \"."
+                        },
+                        {
+                          "text": "Le d\u00e9lai maximal pour la r\u00e9alisation du premier contr\u00f4le est d\u00e9fini \u00e0 l'article R. 512-58 du code de l'environnement. L'exploitant conserve le rapport de visite que l'organisme agr\u00e9\u00e9 lui adresse dans le dossier installations class\u00e9es pr\u00e9vu au point 1.2. Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l'objet du contr\u00f4le, l'exploitant met en \u0153uvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en \u0153uvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 1.1.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "1.1.2. Contr\u00f4le p\u00e9riodique"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "1.1. Conformit\u00e9 de l'installation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "7534Eec4ea4c",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+                    },
+                    {
+                      "text": "- le dossier de d\u00e9claration ;"
+                    },
+                    {
+                      "text": "- les plans tenus \u00e0 jour ;"
+                    },
+                    {
+                      "text": "- le r\u00e9c\u00e9piss\u00e9 de d\u00e9claration et les prescriptions g\u00e9n\u00e9rales ;"
+                    },
+                    {
+                      "text": "- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l'environnement, s'il y en a ;"
+                    },
+                    {
+                      "text": "- les r\u00e9sultats des derni\u00e8res mesures sur les effluents et le bruit ;"
+                    },
+                    {
+                      "text": "- les documents pr\u00e9vus aux points 1.1.2, 2.2, 4.2 et 5.4 ci apr\u00e8s ;"
+                    },
+                    {
+                      "text": "- les dispositions pr\u00e9vues en cas de sinistre."
+                    },
+                    {
+                      "text": "Ce dossier est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- preuve du d\u00e9p\u00f4t de d\u00e9claration ;"
+                    },
+                    {
+                      "text": "- v\u00e9rification de la quantit\u00e9 d'insectes produits au regard de la quantit\u00e9 d'insectes d\u00e9clar\u00e9e ;"
+                    },
+                    {
+                      "text": "- v\u00e9rification que la quantit\u00e9 d'insectes produits est inf\u00e9rieure au seuil sup\u00e9rieur du r\u00e9gime d\u00e9claratif tel que d\u00e9fini \u00e0 l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence des prescriptions g\u00e9n\u00e9rales ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence des arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation, s'il y en a ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence de plans tenus \u00e0 jour."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 1.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "1.2. Dossier installation class\u00e9e"
+                  }
+                }
+              ],
+              "title": {
+                "text": "1. Dispositions g\u00e9n\u00e9rales"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "IMPLANTATION_AMENAGEMENT"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e6fF17dD184b",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 2.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "c1424ab9C5A9",
+                  "outer_alineas": [
+                    {
+                      "text": "Les b\u00e2timents d'\u00e9levage et leurs annexes sont implant\u00e9s \u00e0 une distance minimale de :"
+                    },
+                    {
+                      "text": "- 10 m\u00e8tres des limites de propri\u00e9t\u00e9 de l'installation ;"
+                    },
+                    {
+                      "text": "- 50 m\u00e8tres des habitations ou locaux habituellement occup\u00e9s par des tiers (\u00e0 l'exception des logements occup\u00e9s par des personnels de l'installation, des h\u00e9bergements et locations dont l'exploitant a la jouissance), des stades ou des terrains de camping agr\u00e9\u00e9s, ainsi que des zones destin\u00e9es \u00e0 l'habitation par des documents d'urbanisme opposables aux tiers. Lorsque le substrat utilis\u00e9 pour l'\u00e9levage n'est pas un sous-produit animal, cette distance est de 35 m\u00e8tres ;"
+                    },
+                    {
+                      "text": "- 35 m\u00e8tres des puits et forages, des sources, des aqueducs en \u00e9coulement libre, de toute installation souterraine ou semi-enterr\u00e9e utilis\u00e9e pour le stockage des eaux, que les eaux soient destin\u00e9es \u00e0 l'alimentation en eau potable ou \u00e0 l'arrosage des cultures mara\u00eech\u00e8res, des rivages, des berges des cours d'eau ;"
+                    },
+                    {
+                      "text": "- 50 m\u00e8tres des lieux de baignade d\u00e9clar\u00e9s et des plages, \u00e0 l'exception des piscines priv\u00e9es. Lorsque le substrat utilis\u00e9 pour l'\u00e9levage n'est pas un sous-produit animal, cette distance est de 35 m\u00e8tres."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- respect des distances d'isolement (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 2.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.1. R\u00e8gles d'implantation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "d60249A8542F",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments justifiant que ses installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux r\u00e8gles en vigueur."
+                    },
+                    {
+                      "text": "Les installations \u00e9lectriques sont entretenues en bon \u00e9tat et contr\u00f4l\u00e9es apr\u00e8s leur installation ou suite \u00e0 modification. Elles sont contr\u00f4l\u00e9es p\u00e9riodiquement par une personne comp\u00e9tente, conform\u00e9ment aux dispositions de la section 5 du chapitre VI du titre II de livre II de la quatri\u00e8me partie du code du travail relatives \u00e0 la v\u00e9rification des installations \u00e9lectriques."
+                    },
+                    {
+                      "text": "Les dispositions ci-dessus s'appliquent sans pr\u00e9judice des dispositions du code du travail."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 2.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.2. Installations \u00e9lectriques"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "a1f02a6acBE4",
+                  "outer_alineas": [
+                    {
+                      "text": "Tout stockage de produits liquides susceptibles de cr\u00e9er une pollution de l'eau ou du sol est associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention dont le volume est au moins \u00e9gal \u00e0 la plus grande des deux valeurs suivantes :"
+                    },
+                    {
+                      "text": "- 100 % de la capacit\u00e9 du plus grand r\u00e9servoir ;"
+                    },
+                    {
+                      "text": "- 50 % de la capacit\u00e9 globale des r\u00e9servoirs associ\u00e9s."
+                    },
+                    {
+                      "text": "Cette disposition ne s'applique pas aux bassins de traitement des eaux r\u00e9siduaires."
+                    },
+                    {
+                      "text": "Lorsque les stockages sont \u00e0 l'air libre, les r\u00e9tentions sont vid\u00e9es d\u00e8s que possible des eaux pluviales s'y versant."
+                    },
+                    {
+                      "text": "Les r\u00e9servoirs fixes sont munis de jauges de niveau et pour les stockages enterr\u00e9s de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autoris\u00e9 que dans des r\u00e9servoirs en fosse ma\u00e7onn\u00e9e ou assimil\u00e9s."
+                    },
+                    {
+                      "text": "Lorsque le stockage est constitu\u00e9 exclusivement de r\u00e9cipients de capacit\u00e9 unitaire inf\u00e9rieure ou \u00e9gale \u00e0 250 litres, admis au transport, le volume minimal de la r\u00e9tention est \u00e9gal soit \u00e0 la capacit\u00e9 totale des r\u00e9cipients si cette capacit\u00e9 est inf\u00e9rieure \u00e0 800 litres, soit \u00e0 20 % de la capacit\u00e9 totale ou 50 % dans le cas de liquides inflammables avec un minimum de 800 litres si cette capacit\u00e9 exc\u00e8de 800 litres."
+                    },
+                    {
+                      "text": "La capacit\u00e9 de r\u00e9tention est \u00e9tanche aux produits qu'elle pourrait contenir et r\u00e9siste \u00e0 l'action physique et chimique des fluides. Il en est de m\u00eame pour son dispositif d'obturation qui est maintenu ferm\u00e9 en conditions normales."
+                    },
+                    {
+                      "text": "L'\u00e9tanch\u00e9it\u00e9 du (ou des) r\u00e9servoir(s) doit pouvoir \u00eatre contr\u00f4l\u00e9e \u00e0 tout moment. Les r\u00e9servoirs ou r\u00e9cipients contenant des produits incompatibles ne sont pas associ\u00e9s \u00e0 une m\u00eame r\u00e9tention."
+                    },
+                    {
+                      "text": "Les produits r\u00e9cup\u00e9r\u00e9s en cas d'accident ne peuvent \u00eatre rejet\u00e9s que dans des conditions conformes au pr\u00e9sent arr\u00eat\u00e9 ou sont \u00e9limin\u00e9s comme les d\u00e9chets."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 2.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "2.3. Cuvettes de r\u00e9tention"
+                  }
+                }
+              ],
+              "title": {
+                "text": "2. Implantation - am\u00e9nagement"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "EXPLOITATION"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ba9bDde0bDa4",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 3.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "196AdBe5639D",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nomm\u00e9ment d\u00e9sign\u00e9e par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l'installation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.1. Surveillance de l'exploitation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "6aaD1A0DfB39",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant garde \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9. Il prend les dispositions n\u00e9cessaires pour respecter les pr\u00e9conisations desdites fiches (compatibilit\u00e9 des produits, stockage, emploi, lutte contre l'incendie)."
+                    },
+                    {
+                      "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages portent en caract\u00e8res tr\u00e8s lisibles le nom des produits et, s'il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l'\u00e9tiquetage des substances et m\u00e9langes dangereux."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2. Connaissance des produits - Etiquetage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "F2b0B73AE8Ab",
+                  "outer_alineas": [
+                    {
+                      "text": "Les locaux sont maintenus propres et r\u00e9guli\u00e8rement nettoy\u00e9s notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res. Le mat\u00e9riel de nettoyage est adapt\u00e9 aux risques pr\u00e9sent\u00e9s par les produits et poussi\u00e8res. Toutes pr\u00e9cautions sont prises pour \u00e9viter les risques d'envol."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.3. Propret\u00e9"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "74795F88E47b",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant tient \u00e0 jour un registre mentionnant en kg les quantit\u00e9s d'insectes produites chaque jour."
+                    },
+                    {
+                      "text": "Les quantit\u00e9s de substrats utilis\u00e9es et leurs natures sont \u00e9galement renseign\u00e9es."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- pr\u00e9sence d'un registre ;"
+                    },
+                    {
+                      "text": "- quantit\u00e9s d'insectes produites renseign\u00e9es et tenues \u00e0 jour (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- quantit\u00e9s de substrats utilis\u00e9es et leurs natures renseign\u00e9es et tenues \u00e0 jour (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.4. Registre d'exploitation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "368f39B6d96A",
+                  "outer_alineas": [
+                    {
+                      "text": "Toutes dispositions sont prises en permanence pour emp\u00eacher l'introduction et la pullulation des nuisibles et des insectes autres que les col\u00e9opt\u00e8res, dipt\u00e8res et orthopt\u00e8res \u00e9lev\u00e9s dans l'installation, ainsi que pour en assurer leur destruction."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.5. Pullulation des nuisibles et insectes"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "E3ca120bC11C",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 3.6.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "aA3Be16A25Ec",
+                      "outer_alineas": [
+                        {
+                          "text": "L'\u00e9levage, le transit et la manipulation d'insectes vivants sont r\u00e9alis\u00e9s dans des b\u00e2timents."
+                        },
+                        {
+                          "text": "L'\u00e9levage, le transit et la manipulation d'insectes vivants sont r\u00e9alis\u00e9s dans des \u00e9quipements ou r\u00e9cipients con\u00e7us, remplis et agenc\u00e9s de telle sorte que les insectes, \u00e0 tous les stades de vie, ne peuvent s'en \u00e9chapper par eux-m\u00eames."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- v\u00e9rification que l'\u00e9levage, le transit et la manipulation sont r\u00e9alis\u00e9s uniquement dans des b\u00e2timents (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.1."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "1a76dDaFDd0e",
+                      "outer_alineas": [
+                        {
+                          "text": "A l'int\u00e9rieur du b\u00e2timent, les sols et la partie basse des parois et supports des locaux d'\u00e9levage sont \u00e9tanches et ne pr\u00e9sentent pas d'anfractuosit\u00e9s ou de caches pour les insectes. Leur \u00e9tat de surface est con\u00e7u pour limiter la grimpe et la mobilit\u00e9 des insectes. Les parois des locaux d'\u00e9levage et de transit d'insectes vivants donnant sur l'ext\u00e9rieur du b\u00e2timent sont munies d'une plinthe d'au moins 7 cm de haut, joint\u00e9es au niveau du sol des locaux, pour emp\u00eacher tout passage d'insectes au niveau de ces parois."
+                        },
+                        {
+                          "text": "Au niveau de chacune des portes donnant sur l'ext\u00e9rieur, le sol \u00e0 l'ext\u00e9rieur du b\u00e2timent est rev\u00eatu de fa\u00e7on \u00e9tanche et ne comporte aucun lieu de cache pour les insectes sur une distance minimale de 1,5 m \u00e0 compter des montants de la porte."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la pr\u00e9sence d'une plinthe d'au moins 7 cm de haut joint\u00e9es au niveau du sol des locaux ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la pr\u00e9sence au niveau de chacune des portes donnant sur l'ext\u00e9rieur, d'un rev\u00eatement \u00e9tanche sur le sol \u00e0 l'ext\u00e9rieur du b\u00e2timent sur une distance minimale de 1,5 m \u00e0 compter des montants de la porte."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.2."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "ED8E8448cCA5",
+                      "outer_alineas": [
+                        {
+                          "text": "Si les b\u00e2timents pr\u00e9sentent des ouvertures (fen\u00eatres portes, syst\u00e8mes de ventilation, \u2026), toutes les dispositions sont prises pour \u00e9viter toute fuite d'insecte adulte volant \u00e0 l'ext\u00e9rieur des b\u00e2timents d'\u00e9levage."
+                        },
+                        {
+                          "text": "Dans les locaux dans lesquels sont pr\u00e9sents des insectes adultes, des moustiquaires ou tout dispositif d'efficacit\u00e9 \u00e9quivalente sont install\u00e9s de fa\u00e7on \u00e0 \u00e9viter toute fuite d'insecte adulte volant \u00e0 l'ext\u00e9rieur de ces locaux."
+                        },
+                        {
+                          "text": "Les syst\u00e8mes de ventilation des diff\u00e9rents locaux sont munis de grilles emp\u00eachant le passage des insectes adultes."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la pr\u00e9sence de dispositions permettant d'\u00e9viter toute fuite d'insecte (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la pr\u00e9sence, dans les locaux dans lesquels sont pr\u00e9sents des insectes adultes, de moustiquaires ou de tout dispositif d'efficacit\u00e9 \u00e9quivalente (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.3."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "B999e7b31352",
+                      "outer_alineas": [
+                        {
+                          "text": "Une proc\u00e9dure interne fixe les mesures \u00e0 prendre en cas de renversement d'un r\u00e9cipient ou d'un bac contenant des insectes au sein des locaux en vue de leur r\u00e9cup\u00e9ration. Si ces insectes ne peuvent rejoindre l'\u00e9levage, ils sont manipul\u00e9s dans des conditions garantissant leur destruction avant sortie des locaux."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- V\u00e9rification de la pr\u00e9sence d'une proc\u00e9dure."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.4."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "adeDB3ca994F",
+                      "outer_alineas": [
+                        {
+                          "text": "Les r\u00e9seaux de collecte des eaux us\u00e9es connect\u00e9es aux locaux d'\u00e9levage et de transit des insectes vivants sont \u00e9quip\u00e9s d'un ou plusieurs dispositifs \u00e9vitant toute circulation d'insectes vivants (y compris sous forme d'\u0153ufs) vers l'ext\u00e9rieur du site (par exemple filtration, choc thermique, traitement UV)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.5."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "D96cEEEb1f62",
+                      "outer_alineas": [
+                        {
+                          "text": "De fa\u00e7on g\u00e9n\u00e9rale, toutes les mesures sont prises pour garantir l'absence d'insectes vivants ou d'\u0153ufs au sein des produits, mati\u00e8res, d\u00e9chets et effluents sortant du site (hors transfert sp\u00e9cifique d'insectes vivants vers d'autres destinataires)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.6."
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "d7a0A86c6C09",
+                      "outer_alineas": [
+                        {
+                          "text": "Une proc\u00e9dure \u00e9crite d\u00e9taille les diff\u00e9rentes proc\u00e9dures disponibles et leurs modalit\u00e9s de mise en place (avec les d\u00e9lais de r\u00e9alisation correspondants) pour mettre fin plus vite \u00e0 une \u00e9ventuelle lib\u00e9ration d'insectes vers l'ext\u00e9rieur du site et proc\u00e9der \u00e0 l'\u00e9limination des insectes \u00e9chapp\u00e9s hors des b\u00e2timents (pi\u00e8ges, introduction de pr\u00e9dateurs qui peuvent \u00eatre des poules ou d'autres pr\u00e9dateurs, traitement insecticide en conformit\u00e9 avec les autorisations de mise sur le march\u00e9 de produits biocides)."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la pr\u00e9sence d'une proc\u00e9dure."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe I Art. - 3.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.6.7."
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "3.6. Pr\u00e9vention de la lib\u00e9ration d'insectes"
+                  }
+                }
+              ],
+              "title": {
+                "text": "3. Exploitation - entretien"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "RISQUES"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6eEB76A3EAE4",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 4.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "89530afFb1cE",
+                  "outer_alineas": [
+                    {
+                      "text": "L'installation est \u00e9quip\u00e9e de moyens de lutte contre l'incendie appropri\u00e9s aux risques notamment :"
+                    },
+                    {
+                      "text": "- d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des locaux, sur les aires ext\u00e9rieures et les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits stock\u00e9s ;"
+                    },
+                    {
+                      "text": "- d'un moyen permettant d'alerter les services d'incendie et de secours ;"
+                    },
+                    {
+                      "text": "- de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local."
+                    },
+                    {
+                      "text": "Ces mat\u00e9riels sont maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- pr\u00e9sence des extincteurs (au moins un) (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- implantation des extincteurs ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence d'un moyen d'alerte des services d'incendie et de secours ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence de plans de locaux, avec descriptions des dangers associ\u00e9s."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 4.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.1. Moyens de lutte contre l'incendie"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "d257b201FBaF",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant recense, sous sa responsabilit\u00e9, les parties de l'installation qui, en raison des caract\u00e9ristiques qualitatives et quantitatives des mati\u00e8res mises en \u0153uvre, stock\u00e9es, utilis\u00e9es ou produites, des proc\u00e9d\u00e9s ou des activit\u00e9s r\u00e9alis\u00e9es, sont susceptibles d'\u00eatre \u00e0 l'origine d'un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l'environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l'installation."
+                    },
+                    {
+                      "text": "L'exploitant dispose d'un plan g\u00e9n\u00e9ral des ateliers et des stockages indiquant les diff\u00e9rentes zones de danger correspondant \u00e0 ces risques."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 4.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.2. Localisation des risques"
+                  }
+                }
+              ],
+              "title": {
+                "text": "4. Risques"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "EAU"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cD37b6aB2cd8",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 5.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "cC2eD154Af72",
+                  "outer_alineas": [
+                    {
+                      "text": "Le r\u00e9seau de collecte est de type s\u00e9paratif permettant d'isoler les eaux r\u00e9siduaires des eaux pluviales."
+                    },
+                    {
+                      "text": "Les eaux pluviales sont \u00e9vacu\u00e9es par un r\u00e9seau sp\u00e9cifique ou trait\u00e9es (recyclage, infiltration, \u2026). Au pr\u00e9alable, les eaux pluviales susceptibles d'\u00eatre pollu\u00e9es, notamment par ruissellement sur les voies de circulation, aires de stationnement, de chargement et d\u00e9chargement, aires de stockages et autres surfaces imperm\u00e9ables sont collect\u00e9es par un r\u00e9seau sp\u00e9cifique et trait\u00e9es par un ou plusieurs dispositifs de traitement ad\u00e9quat permettant de traiter les polluants en pr\u00e9sence."
+                    },
+                    {
+                      "text": "Ces \u00e9quipements sont contr\u00f4l\u00e9s et cur\u00e9s (hydrocarbures et boues) r\u00e9guli\u00e8rement."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 5.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.1. R\u00e9seau de collecte et eaux pluviales"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "333edae69f0e",
+                  "outer_alineas": [
+                    {
+                      "text": "Sans pr\u00e9judice de l'autorisation de d\u00e9versement dans le r\u00e9seau public (article L. 1331-10 du code de la sant\u00e9 publique), les rejets d'eaux r\u00e9siduaires font l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contr\u00f4l\u00e9es, sauf stipulation contraire de la norme, sur effluent brut non d\u00e9cant\u00e9 et non filtr\u00e9, sans dilution pr\u00e9alable ou m\u00e9lange avec d'autres effluents :"
+                    },
+                    {
+                      "text": "a) Dans tous les cas, avant rejet au milieu naturel ou dans un r\u00e9seau d'assainissement collectif :"
+                    },
+                    {
+                      "text": "- pH compris entre 5,5 et 8,5 (5,5 et 9,5 en cas de neutralisation alcaline) ;"
+                    },
+                    {
+                      "text": "- temp\u00e9rature : inf\u00e9rieure \u00e0 30 \u00b0C."
+                    },
+                    {
+                      "text": "Les effluents rejet\u00e9s sont \u00e9galement exempts :"
+                    },
+                    {
+                      "text": "- de mati\u00e8res flottantes ;"
+                    },
+                    {
+                      "text": "- de produits susceptibles de d\u00e9gager, en \u00e9gout ou dans le milieu naturel, directement ou indirectement, des gaz ou vapeurs toxiques, inflammables ou odorantes ;"
+                    },
+                    {
+                      "text": "- de tout produit susceptible de nuire \u00e0 la conservation des ouvrages, ainsi que des mati\u00e8res d\u00e9posables ou pr\u00e9cipitables qui, directement ou indirectement, sont susceptibles d'entraver le bon fonctionnement des ouvrages."
+                    },
+                    {
+                      "text": "b) Dans le cas de rejet dans un r\u00e9seau d'assainissement collectif muni d'une station d'\u00e9puration, lorsque le flux maximal apport\u00e9 par l'effluent est susceptible de d\u00e9passer 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :"
+                    },
+                    {
+                      "text": "- mati\u00e8res en suspension : 600 mg/l ;"
+                    },
+                    {
+                      "text": "- DCO : 2 000 mg/l ;"
+                    },
+                    {
+                      "text": "- DBO5 : 800 mg/l."
+                    },
+                    {
+                      "text": "Ces valeurs limites ne sont pas applicables lorsque l'autorisation de d\u00e9versement dans le r\u00e9seau public pr\u00e9voit une valeur sup\u00e9rieure."
+                    },
+                    {
+                      "text": "c) Dans le cas de rejet dans le milieu naturel (ou dans un r\u00e9seau d'assainissement collectif d\u00e9pourvu de station d'\u00e9puration) :"
+                    },
+                    {
+                      "text": "- mati\u00e8res en suspension : la concentration ne d\u00e9passe pas 100 mg/l si le flux journalier n'exc\u00e8de pas 15 kg/j, 35 mg/l au-del\u00e0 ;"
+                    },
+                    {
+                      "text": "- DCO : la concentration ne d\u00e9passe pas 300 mg/l si le flux journalier n'exc\u00e8de pas 100 kg/j, 125 mg/l au-del\u00e0 ;"
+                    },
+                    {
+                      "text": "- DBO5 : la concentration ne d\u00e9passe pas 100 mg/l si le flux journalier n'exc\u00e8de pas 30 kg/j, 30 mg/l au-del\u00e0 ;"
+                    },
+                    {
+                      "text": "- azote global : la concentration ne d\u00e9passe pas 30 mg/l si le flux journalier maximal est \u00e9gal ou sup\u00e9rieur \u00e0 50 kg/jour ;"
+                    },
+                    {
+                      "text": "- phosphore total : la concentration ne doit pas d\u00e9passer 10 mg/l si le flux journalier maximal est \u00e9gal ou sup\u00e9rieur \u00e0 15 kg/jour."
+                    },
+                    {
+                      "text": "Dans tous les cas, les rejets sont compatibles avec la qualit\u00e9 ou les objectifs de qualit\u00e9 des cours d'eau."
+                    },
+                    {
+                      "text": "Ces valeurs limites sont respect\u00e9es en moyenne quotidienne. Aucune valeur instantan\u00e9e ne d\u00e9passe le double des valeurs limites de concentration."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 5.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.2. Valeurs limites de rejet"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "aFd2cBB558a4",
+                  "outer_alineas": [
+                    {
+                      "text": "Hors dispositions sp\u00e9cifiques pr\u00e9vues au point 5.1 pour les eaux pluviales non souill\u00e9es, le rejet direct ou indirect m\u00eame apr\u00e8s \u00e9puration d'effluents vers les eaux souterraines est interdit."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 5.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.3. Interdiction des rejets en nappe"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f6Faa5F51ED2",
+                  "outer_alineas": [
+                    {
+                      "text": "Sans pr\u00e9judice des restrictions d\u00e9finies par la r\u00e9glementation pour des motifs sanitaires, l'\u00e9pandage des d\u00e9chets et effluents est autoris\u00e9 si les limites suivantes sont respect\u00e9es :"
+                    },
+                    {
+                      "text": "- azote total inf\u00e9rieure \u00e0 10 t/an ;"
+                    },
+                    {
+                      "text": "- volume annuel inf\u00e9rieur \u00e0 500 000 m3/an ;"
+                    },
+                    {
+                      "text": "- DBO5 inf\u00e9rieure \u00e0 5 t/an."
+                    },
+                    {
+                      "text": "L'exploitant respecte les dispositions de l'annexe II concernant les dispositions techniques \u00e0 appliquer pour l'\u00e9pandage."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- pr\u00e9sence du plan d'\u00e9pandage r\u00e9guli\u00e8rement rempli (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence de l'\u00e9tude pr\u00e9alable d'\u00e9pandage (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier des dates d'\u00e9pandage (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier des volumes de coproduits ou d'effluents ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier des quantit\u00e9s d'azote \u00e9pandu toutes origines confondues ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier des parcelles r\u00e9ceptrices ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier de la nature des cultures ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier de l'identification des personnes morales ou physiques charg\u00e9es des op\u00e9rations d'\u00e9pandage ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier de l'ensemble des r\u00e9sultats d'analyses pratiqu\u00e9es sur les sols et les d\u00e9chets, effluents et coproduits ;"
+                    },
+                    {
+                      "text": "- pr\u00e9sence dans le cahier des dates de pr\u00e9l\u00e8vements et de mesures et leur localisation."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 5.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.4. Epandage"
+                  }
+                }
+              ],
+              "title": {
+                "text": "5. Eau"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "AIR_ODEURS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "86AEfDC60c01",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 6.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "dc18Bf8fDcfD",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 6.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "6.1. Rejets \u00e0 l'atmosph\u00e8re"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "cb4dbb4fd74A",
+                  "outer_alineas": [
+                    {
+                      "text": "Les effluents gazeux respectent les valeurs limites d\u00e9finies ci-apr\u00e8s, exprim\u00e9es en mg/m3 dans les conditions normalis\u00e9es de temp\u00e9rature (273 kelvins) et de pression (101,3 kilopascals) apr\u00e8s d\u00e9duction de la vapeur d'eau (gaz sec)."
+                    },
+                    {
+                      "text": "Les valeurs limites d'\u00e9mission exprim\u00e9es en concentration se rapportent \u00e0 une quantit\u00e9 d'effluents gazeux n'ayant pas subi de dilution autre que celle \u00e9ventuellement n\u00e9cessit\u00e9e par les proc\u00e9d\u00e9s utilis\u00e9s."
+                    },
+                    {
+                      "text": "Si le flux horaire d'ammoniac d\u00e9passe 100 g/h, les gaz rejet\u00e9s \u00e0 l'atmosph\u00e8re ne contiennent pas plus de 50 mg/m3 d'ammoniac."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 6.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "6.2. Valeurs limites et conditions de rejet"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "48d6dF1eB2b9",
+                  "outer_alineas": [
+                    {
+                      "text": "Sans pr\u00e9judice des dispositions du code du travail, les installations et les entrep\u00f4ts pouvant d\u00e9gager des \u00e9missions d'odeurs sont am\u00e9nag\u00e9s autant que possible dans des locaux confin\u00e9s et si besoin ventil\u00e9s. Les effluents gazeux diffus ou canalis\u00e9s d\u00e9gageant des \u00e9missions d'odeurs sont r\u00e9cup\u00e9r\u00e9s et achemin\u00e9s vers une installation d'\u00e9puration des gaz dans les cas o\u00f9 le d\u00e9bit d'odeur induit par l'installation d\u00e9passe les valeurs indiqu\u00e9es ci-dessous. Toutes les dispositions n\u00e9cessaires sont prises pour limiter les odeurs provenant du traitement des fum\u00e9es. Lorsqu'il y a des sources potentielles d'odeurs de grande surface (bassin de stockage, bassin de traitement, \u2026) difficiles \u00e0 confiner, celles-ci sont implant\u00e9es de mani\u00e8re \u00e0 limiter la g\u00eane pour le voisinage. Les produits bruts ou interm\u00e9diaires susceptibles d'\u00eatre \u00e0 l'origine d'\u00e9missions d'odeurs sont entrepos\u00e9s autant que possible dans des conteneurs ferm\u00e9s."
+                    },
+                    {
+                      "text": "Le d\u00e9bit d'odeur des gaz \u00e9mis \u00e0 l'atmosph\u00e8re par l'ensemble des sources odorantes canalis\u00e9es, canalisables et diffuses, ne d\u00e9passe pas les valeurs suivantes :"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nHauteur d'\u00e9mission\n(en m)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nD\u00e9bit d'odeur\n(en uoE/h)"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n0"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n1 000 x 103"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n5"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n3 600 x 103"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n10"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n21 000 x 103"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n20"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n180 000 x 103"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n30"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n720 000 x 103"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n50"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n3 600 x 106"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n80"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n18 000 x 106"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n100"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n36 000 x 106"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 6.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "6.3. Odeurs"
+                  }
+                }
+              ],
+              "title": {
+                "text": "6. Air - odeurs"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "DECHETS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fA1dde4CCFE7",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 7.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "A54598AE5dD1",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant prend toutes les dispositions n\u00e9cessaires dans la conception, l'am\u00e9nagement, et l'exploitation de ses installations pour :"
+                    },
+                    {
+                      "text": "- en priorit\u00e9, pr\u00e9venir et r\u00e9duire la production et la nocivit\u00e9 des d\u00e9chets ;"
+                    },
+                    {
+                      "text": "- assurer une bonne gestion des d\u00e9chets de son entreprise en privil\u00e9giant, dans l'ordre :"
+                    },
+                    {
+                      "text": "a) La pr\u00e9paration en vue de la r\u00e9utilisation ;"
+                    },
+                    {
+                      "text": "b) Le recyclage ;"
+                    },
+                    {
+                      "text": "c) Toute autre valorisation, notamment la valorisation \u00e9nerg\u00e9tique ;"
+                    },
+                    {
+                      "text": "d) L'\u00e9limination."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 7.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "7.1. Gestion des d\u00e9chets"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "b8b63a9A49d4",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant est tenu aux obligations de registre, de d\u00e9claration de production et de traitement de d\u00e9chets et de tra\u00e7abilit\u00e9 (bordereau de suivi, document de transfert transfrontalier) dans les conditions fix\u00e9es par la r\u00e9glementation aux articles R. 541-42 \u00e0 R. 541-46 du code de l'environnement."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- pr\u00e9sence du registre des d\u00e9chets (entrants ou sortants le cas \u00e9ch\u00e9ant) tenu \u00e0 jour."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 7.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "7.2. Contr\u00f4les des circuits"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "0dB6aBf7Eb2c",
+                  "outer_alineas": [
+                    {
+                      "text": "La quantit\u00e9 de d\u00e9chets stock\u00e9s sur le site ne d\u00e9passe pas la capacit\u00e9 correspondant \u00e0 2 mois de production."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "- respect des conditions d'entreposage ;"
+                    },
+                    {
+                      "text": "- respect de la quantit\u00e9 de d\u00e9chets pr\u00e9sents sur le site (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 7.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "7.3. Entreposage des d\u00e9chets"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "8df6ce856e3D",
+                  "outer_alineas": [
+                    {
+                      "text": "Les seuls modes de traitement autoris\u00e9s pour les d\u00e9chets d'emballage sont la valorisation par r\u00e9emploi, recyclage ou toute autre action visant \u00e0 obtenir des mat\u00e9riaux utilisables ou de l'\u00e9nergie. Cette disposition n'est pas applicable aux d\u00e9tenteurs de d\u00e9chets d'emballage qui en produisent un volume hebdomadaire inf\u00e9rieur \u00e0 1 100 litres et qui les remettent au service de collecte et de traitement des communes en application des articles R. 543-66 \u00e0 R. 543-72 du code de l'environnement."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 7.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "7.4. D\u00e9chets non dangereux"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "556F3cFC419B",
+                  "outer_alineas": [
+                    {
+                      "text": "Le br\u00fblage des d\u00e9chets liquides, solides et gazeux \u00e0 l'air libre est interdit."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 7.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "7.5. Br\u00fblage"
+                  }
+                }
+              ],
+              "title": {
+                "text": "7. D\u00e9chets"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "BRUIT_VIBRATIONS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5f81EAaB6C2e",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 8.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "8Dc7285Cf32E",
+                  "outer_alineas": [
+                    {
+                      "text": "L'installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l'origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+                    },
+                    {
+                      "text": "Les \u00e9missions sonores \u00e9mises par l'installation ne sont pas \u00e0 l'origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d'une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant"
+                    },
+                    {
+                      "table": {
+                        "rows": [
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nNiveau de bruit ambiant existant dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e\n(incluant le bruit de l'installation)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nEmergence admissible pour la p\u00e9riode allant de 7 h \u00e0 22 h,\nsauf dimanches et jours f\u00e9ri\u00e9s"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nEmergence admissible pour la p\u00e9riode allant de 22 h \u00e0 7 h, ainsi que les dimanches et jours f\u00e9ri\u00e9s"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": true
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nsup\u00e9rieur \u00e0 35 et inf\u00e9rieur ou \u00e9gal \u00e0 45 dB (A)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n6 dB (A)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n4 dB (A)"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          },
+                          {
+                            "cells": [
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\nsup\u00e9rieur \u00e0 45 dB (A)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n5 dB (A)"
+                                },
+                                "rowspan": 1
+                              },
+                              {
+                                "colspan": 1,
+                                "content": {
+                                  "text": "\n3 dB (A)"
+                                },
+                                "rowspan": 1
+                              }
+                            ],
+                            "is_header": false
+                          }
+                        ]
+                      },
+                      "text": ""
+                    },
+                    {
+                      "text": "De plus, le niveau de bruit en limite de propri\u00e9t\u00e9 de l'installation ne d\u00e9passe pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la p\u00e9riode de jour et 60 dB (A) pour la p\u00e9riode de nuit, sauf si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 8.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "8.1. Valeurs limites de bruit"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "1a97Cb902A9f",
+                  "outer_alineas": [
+                    {
+                      "text": "Une mesure des \u00e9missions sonores peut \u00eatre effectu\u00e9e aux frais de l'exploitant par un organisme qualifi\u00e9, notamment \u00e0 la demande de l'inspection des installations class\u00e9es."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I Art. - 8.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "8.2. Surveillance par l'exploitant des \u00e9missions sonores"
+                  }
+                }
+              ],
+              "title": {
+                "text": "8. Bruit"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "FIN_EXPLOITATION"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0aCb9Dd04D16",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant remet en \u00e9tat le site de sorte qu'il ne s'y manifeste plus aucun danger."
+                },
+                {
+                  "text": "En particulier :"
+                },
+                {
+                  "text": "- tous les produits dangereux ainsi que tous les d\u00e9chets sont valoris\u00e9s ou \u00e9vacu\u00e9s vers des installations d\u00fbment autoris\u00e9es ;"
+                },
+                {
+                  "text": "- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vid\u00e9es, nettoy\u00e9es, d\u00e9gaz\u00e9es et le cas \u00e9ch\u00e9ant d\u00e9contamin\u00e9es. Elles sont si possible enlev\u00e9es, sinon et dans le cas sp\u00e9cifique des cuves enterr\u00e9es, elles sont rendues inutilisables par remplissage avec un mat\u00e9riau solide inerte. Le produit utilis\u00e9 pour la neutralisation recouvre toute la surface de la paroi interne et poss\u00e8de une r\u00e9sistance \u00e0 terme suffisante pour emp\u00eacher l'affaissement du sol en surface."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I Art. - 9.",
+              "sections": [],
+              "title": {
+                "text": "9. Remise en \u00e9tat en fin d'exploitation"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article - PRESCRIPTIONS G\u00c9N\u00c9RALES APPLICABLES AUX INSTALLATIONS CLASS\u00c9ES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES \u00c0 D\u00c9CLARATION AVEC CONTR\u00d4LE P\u00c9RIODIQUE SOUS LA RUBRIQUE NO 2150"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe I"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "035CC62ccC6e",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe II",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c7c3D6Fc2dEa",
+          "outer_alineas": [
+            {
+              "text": "L'\u00e9pandage des d\u00e9chets ou des effluents respecte les dispositions suivantes, sans pr\u00e9judice des dispositions de la r\u00e9glementation relative aux nitrates d'origine agricole :"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II Art. -",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d2fBa6CbF18E",
+              "outer_alineas": [
+                {
+                  "text": "Le d\u00e9chet ou effluent \u00e9pandu a un int\u00e9r\u00eat pour les sols ou la nutrition des cultures et son application ne porte pas atteinte, directe ou indirecte, \u00e0 la sant\u00e9 de l'homme et des animaux, \u00e0 la qualit\u00e9 et \u00e0 l'\u00e9tat phytosanitaire des cultures ni \u00e0 la qualit\u00e9 des sols et des milieux aquatiques et est mis en \u0153uvre afin que les nuisances soient r\u00e9duites au minimum."
+                },
+                {
+                  "text": "Une \u00e9tude pr\u00e9alable d'\u00e9pandage pr\u00e9cise l'innocuit\u00e9 (dans les conditions d'emploi) et l'int\u00e9r\u00eat agronomique des d\u00e9chets ou des effluents au regard des param\u00e8tres d\u00e9finis au point II ci-apr\u00e8s, l'aptitude du sol \u00e0 les recevoir, et le plan d'\u00e9pandage d\u00e9taill\u00e9 ci-apr\u00e8s. Cette \u00e9tude justifie la compatibilit\u00e9 de l'\u00e9pandage avec les contraintes environnementales recens\u00e9es et les documents de planification existants, notamment les plans pr\u00e9vus \u00e0 l'article L. 541-14 du code de l'environnement et les sch\u00e9mas d'am\u00e9nagement et de gestion des eaux, pr\u00e9vus aux articles L. 212-1 et 3 du code de l'environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 1.",
+              "sections": [],
+              "title": {
+                "text": "1. G\u00e9n\u00e9ralit\u00e9s"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EbA3706aEEfC",
+              "outer_alineas": [
+                {
+                  "text": "L'\u00e9tude pr\u00e9alable comprend notamment :"
+                },
+                {
+                  "text": "- la caract\u00e9risation des d\u00e9chets ou des effluents \u00e0 \u00e9pandre : quantit\u00e9s pr\u00e9visionnelles, rythme de production, valeur agronomique au regard des param\u00e8tres d\u00e9finis au point II ci-apr\u00e8s, \u00e9tat physique, traitements pr\u00e9alables (d\u00e9shydratation, pressage, chaulage, \u2026) en distinguant les formes liquides, p\u00e2teuses ou solides ;"
+                },
+                {
+                  "text": "- l'indication des doses de d\u00e9chets ou des effluents \u00e0 \u00e9pandre selon les diff\u00e9rents types de culture \u00e0 fertiliser et les rendements pr\u00e9visionnels des cultures ;"
+                },
+                {
+                  "text": "- l'emplacement, le volume, les caract\u00e9ristiques et les modalit\u00e9s d'emploi des stockages de d\u00e9chets ou des effluents en attente d'\u00e9pandage ;"
+                },
+                {
+                  "text": "- la description des caract\u00e9ristiques des sols notamment au regard des param\u00e8tres d\u00e9finis \u00e0 la partie 6., au vu d'analyses datant de moins d'un an ;"
+                },
+                {
+                  "text": "- la localisation, le volume et les caract\u00e9ristiques des ouvrages d'entreposage ;"
+                },
+                {
+                  "text": "- la d\u00e9monstration de l'ad\u00e9quation entre les surfaces agricoles ma\u00eetris\u00e9es par les exploitants ou mises \u00e0 sa disposition par des pr\u00eateurs de terre et les flux de d\u00e9chets ou des effluents \u00e0 \u00e9pandre (productions, doses \u00e0 l'hectare et temps de retour sur une m\u00eame parcelle)."
+                },
+                {
+                  "text": "Au vu de cette \u00e9tude pr\u00e9alable, un plan d'\u00e9pandage est r\u00e9alis\u00e9, il est constitu\u00e9 :"
+                },
+                {
+                  "text": "- d'une carte \u00e0 une \u00e9chelle minimum de 1/25 000e permettant de localiser les surfaces o\u00f9 l'\u00e9pandage est possible compte tenu des exclusions mentionn\u00e9es au point g \" R\u00e8gles d'\u00e9pandages \". Cette carte fait appara\u00eetre les contours et les num\u00e9ros des unit\u00e9s de surface permettant de les rep\u00e9rer, ainsi que les zones exclues \u00e0 l'\u00e9pandage ;"
+                },
+                {
+                  "text": "- d'un document mentionnant l'identit\u00e9 et l'adresse des pr\u00eateurs de terres qui ont souscrit un contrat \u00e9crit avec l'exploitant, pr\u00e9cisant notamment leurs engagements et responsabilit\u00e9s r\u00e9ciproques ;"
+                },
+                {
+                  "text": "- d'un tableau r\u00e9f\u00e9ren\u00e7ant les surfaces rep\u00e9r\u00e9es sur le support cartographique et indiquant, pour chaque unit\u00e9, les num\u00e9ros d'\u00eelots de r\u00e9f\u00e9rence PAC ou \u00e0 d\u00e9faut les r\u00e9f\u00e9rences cadastrales, la superficie totale et la superficie \u00e9pandable, ainsi que le nom de l'exploitant agricole."
+                },
+                {
+                  "text": "Toute modification du plan d'\u00e9pandage doit \u00eatre port\u00e9e avant sa r\u00e9alisation \u00e0 la connaissance du pr\u00e9fet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 2.",
+              "sections": [],
+              "title": {
+                "text": "2. L'\u00e9tude pr\u00e9alable et le plan d'\u00e9pandage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d9A378B14Eb0",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 3.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "5cFb31bDEc30",
+                  "outer_alineas": [
+                    {
+                      "text": "Les apports d'azote, de phosphore et de potasse toutes origines confondues, organique et min\u00e9rale, sur les terres faisant l'objet d'un \u00e9pandage, tiennent compte de la rotation des cultures ainsi que de la nature particuli\u00e8re des terrains et de leur teneur en \u00e9l\u00e9ments fertilisants. Pour ces \u00e9l\u00e9ments, la fertilisation est \u00e9quilibr\u00e9e et correspond aux capacit\u00e9s exportatrices de la culture concern\u00e9e. La fertilisation azot\u00e9e organique est interdite sur toutes les l\u00e9gumineuses sauf la luzerne et les prairies d'association gramin\u00e9es-l\u00e9gumineuses."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.1. Les apports"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "FC657916aFDD",
+                  "outer_alineas": [
+                    {
+                      "text": "Un programme pr\u00e9visionnel annuel d'\u00e9pandage est \u00e9tabli, en accord avec les exploitants agricoles pr\u00eateurs de terres, au plus tard un mois avant le d\u00e9but des op\u00e9rations concern\u00e9es. Il inclut \u00e9galement les parcelles du producteur de d\u00e9chets ou d'effluents lorsque celui-ci est \u00e9galement exploitant agricole."
+                    },
+                    {
+                      "text": "Ce programme comprend au moins :"
+                    },
+                    {
+                      "text": "- la liste des parcelles concern\u00e9es par la campagne ainsi que la caract\u00e9risation des syst\u00e8mes de culture (cultures implant\u00e9es avant et apr\u00e8s l'\u00e9pandage, p\u00e9riode d'inter culture) sur ces parcelles ;"
+                    },
+                    {
+                      "text": "- une caract\u00e9risation des diff\u00e9rents types de d\u00e9chets ou d'effluents (liquides, p\u00e2teux et solides) et des diff\u00e9rents lots \u00e0 \u00e9pandre (quantit\u00e9s pr\u00e9visionnelles, rythme de production, ainsi qu'au moins les teneurs en azote global et azote min\u00e9ral et min\u00e9ralisable disponible pour la culture \u00e0 fertiliser, mesur\u00e9es et d\u00e9termin\u00e9es sur la base d'analyses datant de moins d'un an) ;"
+                    },
+                    {
+                      "text": "- les pr\u00e9conisations sp\u00e9cifiques d'apport des d\u00e9chets ou des effluents (calendrier et doses d'\u00e9pandage,\u2026) ;"
+                    },
+                    {
+                      "text": "- l'identification des personnes morales ou physiques intervenant dans la r\u00e9alisation de l'\u00e9pandage."
+                    },
+                    {
+                      "text": "Ce programme pr\u00e9visionnel est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es. Il lui est adress\u00e9 sur sa demande."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2. Programme pr\u00e9visionnel d'\u00e9pandage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "5Ce66cB0DDcC",
+                  "outer_alineas": [
+                    {
+                      "text": "La caract\u00e9risation des d\u00e9chets ou effluents \u00e0 \u00e9pandre fournie dans l'\u00e9tude pr\u00e9alable doit \u00eatre v\u00e9rifi\u00e9e par analyse avant le premier \u00e9pandage."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.3. Caract\u00e9risation des d\u00e9chets ou effluents"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "E075bADa5FB5",
+                  "outer_alineas": [
+                    {
+                      "text": "Les d\u00e9chets solides ou p\u00e2teux non stabilis\u00e9s sont enfouis le plus t\u00f4t possible, dans un d\u00e9lai maximum de quarante-huit heures, pour r\u00e9duire les nuisances olfactives et les pertes par volatilisation. Des d\u00e9rogations \u00e0 l'obligation d'enfouissement peuvent toutefois \u00eatre accord\u00e9es sur justification dans le dossier d'enregistrement pour des cultures en place \u00e0 condition que celles-ci ne soient pas destin\u00e9es \u00e0 la consommation humaine directe."
+                    },
+                    {
+                      "text": "Lorsque les effluents sont susceptibles de contenir des micro-organismes pathog\u00e8nes, l'\u00e9pandage ne doit pas \u00eatre r\u00e9alis\u00e9 par des dispositifs d'a\u00e9ro-aspersion qui produisent des brouillards fins."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.4."
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "8C5766e8E212",
+                  "outer_alineas": [
+                    {
+                      "text": "Sous r\u00e9serve des prescriptions fix\u00e9es en application de l'article L 20 du code de la sant\u00e9 publique, l'\u00e9pandage de d\u00e9chets ou d'effluents respecte les distances et d\u00e9lais minima suivants :"
+                    },
+                    {
+                      "text": "Vous pouvez consulter l'int\u00e9gralit\u00e9 du texte avec ses images \u00e0 partir de l'extrait du Journal officiel \u00e9lectronique authentifi\u00e9 accessible en bas de page"
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.5. Distances et d\u00e9lais d'\u00e9pandage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "dba40072fd50",
+                  "outer_alineas": [
+                    {
+                      "text": "Les p\u00e9riodes d'\u00e9pandage et les quantit\u00e9s \u00e9pandues sont adapt\u00e9es de mani\u00e8re :"
+                    },
+                    {
+                      "text": "- \u00e0 emp\u00eacher la stagnation prolong\u00e9e sur les sols, le ruissellement en dehors des parcelles d'\u00e9pandage, une percolation rapide ;"
+                    },
+                    {
+                      "text": "- \u00e0 emp\u00eacher l'accumulation dans le sol de substances susceptibles \u00e0 long terme de d\u00e9grader sa structure ou de pr\u00e9senter un risque \u00e9cotoxicologique ;"
+                    },
+                    {
+                      "text": "- \u00e0 emp\u00eacher le colmatage du sol, notamment par les graisses."
+                    },
+                    {
+                      "text": "L'\u00e9pandage est interdit :"
+                    },
+                    {
+                      "text": "- pendant les p\u00e9riodes o\u00f9 le sol est pris en masse par le gel ou abondamment enneig\u00e9, exception faite des d\u00e9chets solides ;"
+                    },
+                    {
+                      "text": "- pendant les p\u00e9riodes de forte pluviosit\u00e9 et pendant les p\u00e9riodes o\u00f9 il existe un risque d'inondation ;"
+                    },
+                    {
+                      "text": "- en dehors des terres r\u00e9guli\u00e8rement travaill\u00e9es et des prairies ou des for\u00eats exploit\u00e9es ;"
+                    },
+                    {
+                      "text": "- sur les terrains \u00e0 forte pente, dans des conditions qui entra\u00eeneraient leur ruissellement hors du champ d'\u00e9pandage."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.6.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.6. P\u00e9riodes d'\u00e9pandage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "5cEa30d68340",
+                  "outer_alineas": [
+                    {
+                      "text": "Toute anomalie constat\u00e9e sur les sols, les cultures et leur environnement lors ou \u00e0 la suite de l'\u00e9pandage de d\u00e9chets ou des effluents et susceptible d'\u00eatre relation avec ces \u00e9pandages doit sans d\u00e9lai \u00eatre signal\u00e9e \u00e0 l'inspection des installations class\u00e9es."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 3.7.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.7. D\u00e9tection d'anomalies"
+                  }
+                }
+              ],
+              "title": {
+                "text": "3. Les r\u00e8gles d'\u00e9pandage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "DECHETS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0A5aaBcd3EeB",
+              "outer_alineas": [
+                {
+                  "text": "Les ouvrages permanents d'entreposage de d\u00e9chets ou d'effluents sont dimensionn\u00e9s pour faire face aux p\u00e9riodes o\u00f9 l'\u00e9pandage est soit impossible, soit interdit par l'\u00e9tude pr\u00e9alable. Toutes dispositions sont prises pour que les dispositifs d'entreposage ne soient pas source de g\u00eane ou de nuisances pour le voisinage et n'entra\u00eenent pas de pollution des eaux ou des sols par ruissellement ou infiltration. Le d\u00e9versement dans le milieu naturel des trop-pleins des ouvrages d'entreposage est interdit. Les ouvrages d'entreposage \u00e0 l'air libre sont interdits d'acc\u00e8s aux tiers non autoris\u00e9s."
+                },
+                {
+                  "text": "Le d\u00e9p\u00f4t temporaire de d\u00e9chets, sur les parcelles d'\u00e9pandage et sans travaux d'am\u00e9nagement, n'est autoris\u00e9 que lorsque les cinq conditions suivantes sont simultan\u00e9ment remplies :"
+                },
+                {
+                  "text": "- les d\u00e9chets sont solides et peu fermentescibles, \u00e0 d\u00e9faut, la dur\u00e9e du d\u00e9p\u00f4t est inf\u00e9rieur \u00e0 quarante-huit heures ;"
+                },
+                {
+                  "text": "- toutes les pr\u00e9cautions ont \u00e9t\u00e9 prises pour \u00e9viter le ruissellement sur ou en dehors des parcelles d'\u00e9pandage ou une percolation rapide vers les nappes superficielles ou souterraines ;"
+                },
+                {
+                  "text": "- le d\u00e9p\u00f4t respecte les distances minimales d'isolement d\u00e9finies pour l'\u00e9pandage au point 7 sauf pour la distance vis-\u00e0-vis des habitations ou locaux habit\u00e9s par des tiers qui est toujours \u00e9gale \u00e0 100 m\u00e8tres. En outre, une distance d'au moins 3 m\u00e8tres vis-\u00e0-vis des routes et foss\u00e9s doit \u00eatre respect\u00e9e ;"
+                },
+                {
+                  "text": "- le volume du d\u00e9p\u00f4t doit \u00eatre adapt\u00e9 \u00e0 la fertilisation raisonn\u00e9e des parcelles r\u00e9ceptrices pour la p\u00e9riode d'\u00e9pandage consid\u00e9r\u00e9e ;"
+                },
+                {
+                  "text": "- la dur\u00e9e maximale ne doit pas d\u00e9passer un an et le retour sur un m\u00eame emplacement ne peut intervenir avant un d\u00e9lai de trois ans."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 4.",
+              "sections": [],
+              "title": {
+                "text": "4. Stockage des d\u00e9chets ou effluents"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d2a676cf72b2",
+              "outer_alineas": [
+                {
+                  "text": "Un cahier d'\u00e9pandage, tenu sous la responsabilit\u00e9 de l'exploitant, \u00e0 la disposition de l'inspection des installations class\u00e9es pendant une dur\u00e9e de dix ans, comporte pour chacune des parcelles (ou \u00eelots) r\u00e9ceptrices \u00e9pandues :"
+                },
+                {
+                  "text": "- les surfaces effectivement \u00e9pandues ;"
+                },
+                {
+                  "text": "- les r\u00e9f\u00e9rences parcellaires ;"
+                },
+                {
+                  "text": "- les dates d'\u00e9pandage ;"
+                },
+                {
+                  "text": "- la nature des cultures ;"
+                },
+                {
+                  "text": "- les volumes et la nature de toutes les mati\u00e8res \u00e9pandues ;"
+                },
+                {
+                  "text": "- les quantit\u00e9s d'azote global \u00e9pandues toutes origines confondues ;"
+                },
+                {
+                  "text": "- l'identification des personnes morales ou physiques charg\u00e9es des op\u00e9rations d'\u00e9pandage ainsi que l'ensemble des r\u00e9sultats d'analyses pratiqu\u00e9es sur les sols et les mati\u00e8res \u00e9pandues avec les dates de pr\u00e9l\u00e8vements et de mesures et leur localisation."
+                },
+                {
+                  "text": "Ce cahier d'\u00e9pandage est renseign\u00e9 de mani\u00e8re inalt\u00e9rable une fois par semaine au cours desquelles des \u00e9pandages ont \u00e9t\u00e9 effectu\u00e9s."
+                },
+                {
+                  "text": "Lorsque les d\u00e9chets ou les effluents sont \u00e9pandus sur des parcelles mises \u00e0 disposition par un pr\u00eateur de terres, un bordereau cosign\u00e9 par l'exploitant et le pr\u00eateur de terre est r\u00e9f\u00e9renc\u00e9 et joint au cahier d'\u00e9pandage. Ce bordereau est \u00e9tabli au plus tard \u00e0 la fin du chantier d'\u00e9pandage et au moins une fois par semaine. Il comporte l'identification des parcelles r\u00e9ceptrices, les volumes et les quantit\u00e9s d'azote global \u00e9pandues."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 5.",
+              "sections": [],
+              "title": {
+                "text": "5. Le cahier d'\u00e9pandage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": "DECHETS"
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f3Cf82cFbE1c",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe II Art. - 6.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "fCadaC0AF562",
+                  "outer_alineas": [
+                    {
+                      "text": "- mati\u00e8re s\u00e8che (%) ; mati\u00e8re organique (%) ;"
+                    },
+                    {
+                      "text": "- pH ;"
+                    },
+                    {
+                      "text": "- azote global ;"
+                    },
+                    {
+                      "text": "- azote ammoniacal (en NH4) ;"
+                    },
+                    {
+                      "text": "- rapport C/N ;"
+                    },
+                    {
+                      "text": "- phosphore total (en P2O5 ) ; potassium total (en K2O) ; calcium total (en CaO) ; magn\u00e9sium total (en MgO) ; oligo-\u00e9l\u00e9ments (B, Co, Cu, Fe, Mn, Mo, Zn). Cu, Zn et B seront mesur\u00e9s \u00e0 la fr\u00e9quence pr\u00e9vue pour les \u00e9l\u00e9ments-traces."
+                    },
+                    {
+                      "text": "Les autres oligo-\u00e9l\u00e9ments seront analys\u00e9s dans le cadre de la caract\u00e9risation initiale des d\u00e9chets ou des effluents."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 6. a)",
+                  "sections": [],
+                  "title": {
+                    "text": "a) Analyses pour la caract\u00e9risation de la valeur agronomique des d\u00e9chets ou des effluents destin\u00e9s \u00e0 l'\u00e9pandage :"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "59D64aEB62e9",
+                  "outer_alineas": [
+                    {
+                      "text": "- granulom\u00e9trie ;"
+                    },
+                    {
+                      "text": "- m\u00eames param\u00e8tres que pour la valeur agronomique des d\u00e9chets ou des effluents en rempla\u00e7ant les \u00e9l\u00e9ments concern\u00e9s par : P2O5 \u00e9changeable, K2O \u00e9changeable, MgO \u00e9changeable et CaO \u00e9changeable."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe II Art. - 6. b)",
+                  "sections": [],
+                  "title": {
+                    "text": "b) Analyses pour la caract\u00e9risation de la valeur agronomique des sols :"
+                  }
+                }
+              ],
+              "title": {
+                "text": "6. El\u00e9ments de caract\u00e9risation de la valeur agronomique des d\u00e9chets ou des effluents et des sols"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article - DISPOSITIONS TECHNIQUES EN MATI\u00c8RE D'\u00c9PANDAGE"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe II"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 21/11/17 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations relevant du r\u00e9gime de la d\u00e9claration avec contr\u00f4le p\u00e9riodique au titre de la rubrique n\u00b0 2150 de la nomenclature des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": [
+    {
+      "text": "Vu le r\u00e8glement n\u00b0 1069/2009/CE du Parlement europ\u00e9en et du Conseil du 21 octobre 2009 \u00e9tablissant des r\u00e8gles sanitaires applicables aux sous-produits animaux non destin\u00e9s \u00e0 la consommation humaine ;"
+    },
+    {
+      "text": "Vu la directive n\u00b0 2013/39/UE du 12 ao\u00fbt 2013 modifiant les directives 2000/60/CE et 2008/105/CE en ce qui concerne les substances prioritaires pour la politique dans le domaine de l'eau ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, notamment ses livres I, II et V (parties l\u00e9gislatives et r\u00e9glementaires) ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 relatif aux pr\u00e9l\u00e8vements et \u00e0 la consommation d'eau ainsi qu'aux \u00e9missions de toute nature des ICPE soumises \u00e0 autorisation ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 7 juillet 2009 relatif aux modalit\u00e9s d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de r\u00e9f\u00e9rence ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 17 juillet 2009 relatif aux mesures de pr\u00e9vention ou de limitation des introductions de polluants dans les eaux souterraines ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 164,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu l'arr\u00eat\u00e9 du 27 octobre 2011 portant modalit\u00e9s d'agr\u00e9ment des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques au titre du code de l'environnement ;"
+    },
+    {
+      "text": "Vu l'avis des organisations professionnelles concern\u00e9es ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 46,
+          "position": 127,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000032975869&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu les observations formul\u00e9es lors de la consultation du public r\u00e9alis\u00e9e du 6 avril 2017 au 27 avril 2017, en application de l'article L. 123-19-1 du code de l'environnement ;"
+    },
+    {
+      "text": "Vu l'avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques en date du 2 mai 2017,"
+    }
+  ]
+}

@@ -1,0 +1,4061 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/41364",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "D",
+      "rubrique": "1416",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "1416"
+    }
+  ],
+  "date_of_signature": "2018-10-22",
+  "id": "JORFTEXT000037519292",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037519292",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": "DISPOSITIONS_GENERALES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0EEa182ffFBc",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Cf430c28ab00",
+          "outer_alineas": [
+            {
+              "text": "Les installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1416 pour le transfert d'hydrog\u00e8ne dans les r\u00e9servoirs de v\u00e9hicules terrestres sont soumises aux dispositions du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "Les dispositions sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un \u00e9tablissement qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+            },
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 s'applique aux installations nouvelles d\u00e9clar\u00e9es \u00e0 compter de la date d'entr\u00e9e en vigueur du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "Les installations existantes sont les installations r\u00e9guli\u00e8rement mises en service ou disposant d'un permis de construire avant la date d'entr\u00e9e en vigueur du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 sont applicables aux installations existantes dans les conditions pr\u00e9cis\u00e9es en annexe I. Les prescriptions auxquelles les installations existantes sont d\u00e9j\u00e0 soumises demeurent applicables jusqu'\u00e0 l'entr\u00e9e en vigueur de ces dispositions."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eb87Bc0E37C3",
+          "outer_alineas": [
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "\u00ab Aire de distribution \u00bb : partie de l'installation comprenant la ou les borne(s) de distribution en hydrog\u00e8ne ainsi que la zone o\u00f9 se trouve(nt) le(s) v\u00e9hicule(s) lors du remplissage ainsi que les \u00e9quipements utiles \u00e0 leur bon fonctionnement ;"
+            },
+            {
+              "text": "\u00ab Aire de stockage et de production \u00bb : partie de l'installation comprenant les moyens de production d'hydrog\u00e8ne, le stockage d'hydrog\u00e8ne (bouteilles, remorque fix\u00e9e, autre capacit\u00e9 de stockage), le module de compression, la capacit\u00e9 tampon de stockage d'hydrog\u00e8ne ainsi que les \u00e9quipements utiles \u00e0 leur bon fonctionnement ;"
+            },
+            {
+              "text": "\u00ab Borne de distribution \u00bb : module de l'installation permettant le chargement en hydrog\u00e8ne de v\u00e9hicules par flexibles. Une borne de distribution peut permettre le remplissage simultan\u00e9 de plusieurs v\u00e9hicules ;"
+            },
+            {
+              "text": "\u00ab Flexibles \u00bb : tuyauterie souple permettant les op\u00e9rations de transfert entre le stockage d'hydrog\u00e8ne et les \u00e9quipements fixes et entre l'installation et les v\u00e9hicules ;"
+            },
+            {
+              "text": "\u00ab Tuyauteries \u00bb : toute tuyauterie contenant de l'hydrog\u00e8ne."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1.1",
+          "sections": [],
+          "title": {
+            "text": "Article 1.1 - D\u00e9finitions."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8431F21Ba141",
+          "outer_alineas": [
+            {
+              "text": "L'installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1.2",
+          "sections": [],
+          "title": {
+            "text": "Article 1.2 - Conformit\u00e9 de l'installation \u00e0 la d\u00e9claration."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a238AD54Fbeb",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+            },
+            {
+              "text": "- les plans de l'installation tenus \u00e0 jour, dont un plan d\u00e9taill\u00e9 de l'ensemble des \u00e9quipements de production, de stockage, transport et distribution d'hydrog\u00e8ne ; la preuve du d\u00e9p\u00f4t de d\u00e9claration et les prescriptions g\u00e9n\u00e9rales ;"
+            },
+            {
+              "text": "- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l'environnement, s'il y en a ;"
+            },
+            {
+              "text": "- les r\u00e9sultats des derni\u00e8res mesures sur les effluents et le bruit ;"
+            },
+            {
+              "text": "- les documents pr\u00e9vus aux points 1.5, 3.1.1, 3.1.2, 4.2, 4.4, 4.5, 4.6 et 4.7 ci-apr\u00e8s ;"
+            },
+            {
+              "text": "- un inventaire d\u00e9taill\u00e9 pr\u00e9cisant, pour chaque capacit\u00e9 de stockage d'hydrog\u00e8ne, la quantit\u00e9 maximale (masse, volume et pression) ;"
+            },
+            {
+              "text": "- les dispositions pr\u00e9vues en cas de sinistre."
+            },
+            {
+              "text": "Ce dossier est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Preuve du d\u00e9p\u00f4t de d\u00e9claration ;"
+            },
+            {
+              "text": "Pr\u00e9sentation des prescriptions g\u00e9n\u00e9rales ;"
+            },
+            {
+              "text": "Pr\u00e9sentation de plans tenus \u00e0 jour d'\u00e9ventuelles modifications (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Pr\u00e9sentation des arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation, s'il y en a ;"
+            },
+            {
+              "text": "Pr\u00e9sentation de l'inventaire d\u00e9taill\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1.3",
+          "sections": [],
+          "title": {
+            "text": "Article 1.3 - Dossier installation class\u00e9e."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5B731c8377De",
+          "outer_alineas": [
+            {
+              "text": "L'inspection des installations class\u00e9es peut, \u00e0 tout moment, r\u00e9aliser des pr\u00e9l\u00e8vements d'effluents liquides ou gazeux, de d\u00e9chets ou de sol, et r\u00e9aliser des mesures de niveaux sonores. Les frais de pr\u00e9l\u00e8vement et d'analyses sont \u00e0 la charge de l'exploitant."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1.4",
+          "sections": [],
+          "title": {
+            "text": "Article 1.4 - Contr\u00f4le aux frais de l'exploitant."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4d17bb824E48",
+          "outer_alineas": [
+            {
+              "text": "L'installation est soumise \u00e0 des contr\u00f4les p\u00e9riodiques par des organismes agr\u00e9\u00e9s dans les conditions d\u00e9finies par les articles R. 512-55 \u00e0 R. 512-60 du code de l'environnement."
+            },
+            {
+              "text": "Ces contr\u00f4les ont pour objet de v\u00e9rifier la conformit\u00e9 de l'installation aux prescriptions rep\u00e9r\u00e9es dans le pr\u00e9sent arr\u00eat\u00e9 par le terme \u00ab Objet du contr\u00f4le \u00bb, \u00e9ventuellement modifi\u00e9es par arr\u00eat\u00e9 pr\u00e9fectoral, lorsqu'elles lui sont applicables. Le contenu de ces contr\u00f4les est pr\u00e9cis\u00e9 \u00e0 la fin de chaque point du pr\u00e9sent arr\u00eat\u00e9 apr\u00e8s la mention \u00ab Objet du contr\u00f4le \u00bb. Les prescriptions dont le non-respect constitue une non-conformit\u00e9 majeure entra\u00eenant l'information du pr\u00e9fet dans les conditions pr\u00e9vues \u00e0 l'article R. 512-59-1 sont rep\u00e9r\u00e9es dans le pr\u00e9sent arr\u00eat\u00e9 par la mention \u00ab le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure \u00bb."
+            },
+            {
+              "text": "Le contenu du contr\u00f4le p\u00e9riodique est pr\u00e9cis\u00e9 \u00e0 la fin de chaque point du pr\u00e9sent arr\u00eat\u00e9 apr\u00e8s la mention \u00ab Objet du contr\u00f4le \u00bb. Les prescriptions dont le non-respect constitue une non-conformit\u00e9 majeure entra\u00eenant l'information du pr\u00e9fet dans les conditions pr\u00e9vues \u00e0 l'article R. 512-59-1 sont rep\u00e9r\u00e9es dans le pr\u00e9sent arr\u00eat\u00e9 par la mention \u00ab le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure \u00bb."
+            },
+            {
+              "text": "Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l'objet du contr\u00f4le, l'exploitant met en \u0153uvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en \u0153uvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+            },
+            {
+              "text": "Le d\u00e9lai maximal pour la r\u00e9alisation du premier contr\u00f4le est d\u00e9fini \u00e0 l'article R. 512-58 du code de l'environnement. L'exploitant conserve le rapport de visite que l'organisme agr\u00e9\u00e9 lui adresse dans le dossier installations class\u00e9es pr\u00e9vu au point 1.3. Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l'objet du contr\u00f4le, l'exploitant met en \u0153uvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en \u0153uvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1.5",
+          "sections": [],
+          "title": {
+            "text": "Article 1.5 - Contr\u00f4le p\u00e9riodique."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre Ier : Dispositions g\u00e9n\u00e9rales"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "IMPLANTATION_AMENAGEMENT"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "A94c2AcEa392",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FC7bFAe7FeFa",
+          "outer_alineas": [
+            {
+              "text": "L'installation fonctionne dans le respect des valeurs maximales de d\u00e9bits et de pressions fix\u00e9s dans les alin\u00e9as suivants."
+            },
+            {
+              "text": "La pression nominale \u00e0 la sortie de la borne de distribution d'hydrog\u00e8ne ne d\u00e9passe pas une pression \u00e9quivalente \u00e0 700 bar \u00e0 15\u00b0 C."
+            },
+            {
+              "text": "Les bornes de distribution sont, par conception, pr\u00e9vues pour respecter un d\u00e9bit maximal de 120 g/s y compris en cas de rupture du flexible."
+            },
+            {
+              "text": "Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations ainsi que des sch\u00e9mas, plans et autres documents d'orientation et de planification approuv\u00e9s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.1",
+          "sections": [],
+          "title": {
+            "text": "Article 2.1 - Conception de l'installation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F7d7D3Cb94Df",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.2",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4cfDC011f5f4",
+              "outer_alineas": [
+                {
+                  "text": "L'aire de distribution est implant\u00e9e \u00e0 l'ext\u00e9rieur, et ses \u00e9quipements susceptibles de contenir de l'hydrog\u00e8ne sont \u00e0 une distance minimale de 14 m\u00e8tres pour un d\u00e9bit maximal de 120 g/s et de 10 m\u00e8tres pour un d\u00e9bit maximal de 60 g/s, y compris en cas de rupture du flexible, \u00e0 compter :"
+                },
+                {
+                  "text": "- des limites du site ;"
+                },
+                {
+                  "text": "- des dispositifs d'a\u00e9ration ;"
+                },
+                {
+                  "text": "- de tout stockage ou implantation de mati\u00e8res inflammables, combustibles ou comburantes autres que l'hydrog\u00e8ne."
+                },
+                {
+                  "text": "Ces distances de 14 m\u00e8tres et 10 m\u00e8tres sont r\u00e9duites \u00e0 10 m\u00e8tres pour un d\u00e9bit maximal de 120 g/s et \u00e0 8 m\u00e8tres pour un d\u00e9bit maximal de 60 g/s, y compris en cas de rupture du flexible :"
+                },
+                {
+                  "text": "- si le syst\u00e8me anti-arrachement pr\u00e9vu au II de l'article 2.7.2 est con\u00e7u pour assurer une orientation \u00e0 plus de 45\u00b0 vers le haut du flux de gaz ;"
+                },
+                {
+                  "text": "- ou si des moyens techniques assurent automatiquement que le flux de gaz est stopp\u00e9 au niveau du point de rupture \u00e9ventuelle du flexible dans un d\u00e9lai inf\u00e9rieur \u00e0 2 secondes."
+                },
+                {
+                  "text": "Cette distance est r\u00e9duite \u00e0 6 m\u00e8tres si les bornes de distribution sont, par conception, pr\u00e9vues pour respecter un d\u00e9bit maximal de 20 g/s y compris en cas de rupture du flexible."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.2",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E2AC3e9060Ce",
+              "outer_alineas": [
+                {
+                  "text": "En tout point o\u00f9 l'exploitant ne peut respecter les distances d'isolement pr\u00e9cit\u00e9es il met en place une paroi respectant les conditions suivantes :"
+                },
+                {
+                  "text": "- pleine sans ouverture ;"
+                },
+                {
+                  "text": "- construite en mat\u00e9riaux ayant des caract\u00e9ristiques minimales de tenue au feu REI 120 ;"
+                },
+                {
+                  "text": "- dont la hauteur exc\u00e8de de 0,5 m\u00e8tre celle du point le plus haut des \u00e9quipements de l'aire de distribution, hors \u00e9vent, sans \u00eatre inf\u00e9rieure \u00e0 3 m\u00e8tres ;"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.2",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8F1f7136B25F",
+              "outer_alineas": [
+                {
+                  "text": "L'aire de distribution est implant\u00e9e \u00e0 l'ext\u00e9rieur, et ses \u00e9quipements susceptibles de contenir de l'hydrog\u00e8ne sont \u00e0 une distance minimale de 5 m\u00e8tres des issues ou des ouvertures des locaux administratifs ou techniques de l'installation avec pr\u00e9sence humaine."
+                },
+                {
+                  "text": "L'aire de distribution et ses \u00e9quipements susceptibles de contenir de l'hydrog\u00e8ne sont \u00e0 une distance minimale de 5 m\u00e8tres \u00e0 compter des places de stationnement \u00e0 l'exclusion des emplacements utilis\u00e9s par les v\u00e9hicules en remplissage ou en attente de remplissage et des v\u00e9hicules utilis\u00e9s dans le cadre de l'exploitation de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.2",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AaE04dCAA673",
+              "outer_alineas": [
+                {
+                  "text": "L'\u00e9vent de la borne de distribution est situ\u00e9 au minimum 3 m\u00e8tres au-dessus du point le plus haut des \u00e9quipements de l'aire de distribution, ou de la paroi pr\u00e9cit\u00e9e le cas \u00e9ch\u00e9ant."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Respect des distances d'implantation (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Pr\u00e9sentation d'un justificatif d\u00e9montrant que les caract\u00e9ristiques des parois (mat\u00e9riaux et \u00e9paisseur) sont coupe-feu, lorsque les distances d'\u00e9loignement ne sont pas respect\u00e9es (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Pr\u00e9sence et distance de l'\u00e9vent (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.2",
+              "sections": [],
+              "title": {
+                "text": "IV."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2.2 - R\u00e8gles d'implantation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0e11ADAf8Ef0",
+          "outer_alineas": [
+            {
+              "text": "Les \u00e9quipements de l'installation susceptibles de contenir de l'hydrog\u00e8ne sont une distance minimale de 5 m\u00e8tres des bornes de recharge \u00e9lectrique de v\u00e9hicules."
+            },
+            {
+              "text": "Les bornes de distribution d'hydrog\u00e8ne sont \u00e0 une distance minimale de 5 m\u00e8tres des autres bornes de distribution de carburant, et \u00e0 2 m\u00e8tres des autres bornes de distribution d'hydrog\u00e8ne."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Respect des distances d'implantation (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.3",
+          "sections": [],
+          "title": {
+            "text": "Article 2.3 - R\u00e8gles relatives aux stations multicarburants."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2819c4885A5e",
+          "outer_alineas": [
+            {
+              "text": "L'installation n'est pas surmont\u00e9e ni ne surmonte de locaux habit\u00e9s ou occup\u00e9s par des tiers."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "L'installation n'est pas surmont\u00e9e ni ne surmonte de locaux occup\u00e9s par des tiers ou habit\u00e9s (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.4",
+          "sections": [],
+          "title": {
+            "text": "Article 2.4 - Interdiction d'habitations."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b05f39fb7427",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant prend les dispositions n\u00e9cessaires pour satisfaire \u00e0 l'esth\u00e9tique du site. L'ensemble du site est maintenu en bon \u00e9tat de propret\u00e9 (peinture, plantations, engazonnement, etc.)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.5",
+          "sections": [],
+          "title": {
+            "text": "Article 2.5 - Int\u00e9gration dans le paysage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C0D5E732cd9D",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.6",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "2f23B9DAF55d",
+              "outer_alineas": [
+                {
+                  "text": "L'aire de stockage et de production respecte l'ensemble des prescriptions \u00e9dit\u00e9es dans l'arr\u00eat\u00e9 du 12 f\u00e9vrier 1998 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 4715."
+                },
+                {
+                  "text": "Lorsque l'installation n'est pas class\u00e9e au titre de la rubrique n\u00b0 4715, l'aire de stockage et de production respecte l'ensemble des prescriptions \u00e9dit\u00e9es dans l'arr\u00eat\u00e9 du 12 f\u00e9vrier 1998 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 4715, \u00e0 l'exception du paragraphe 4.2 de son annexe I."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.6",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f45C8be1EAAa",
+              "outer_alineas": [
+                {
+                  "text": "Le compresseur doit avoir \u00e9t\u00e9 con\u00e7u pour l'utilisation d'hydrog\u00e8ne. Pour les parties sous pression, l'\u00e9quipement est conforme aux exigences essentielles de s\u00e9curit\u00e9 de l'annexe 1 de la directive 2014/68 UE relative \u00e0 l'harmonisation des l\u00e9gislations des Etats membres concernant la mise \u00e0 disposition sur le march\u00e9 des \u00e9quipements sous pression."
+                },
+                {
+                  "text": "Les dispositifs de mesure et accessoires de s\u00e9curit\u00e9, d\u00e9finis dans les exigences essentielles de s\u00e9curit\u00e9 de la directive susvis\u00e9e, \u00e9quipant le module de compression pr\u00e9sentent notamment les caract\u00e9ristiques suivantes :"
+                },
+                {
+                  "text": "- le dispositif de mesure de pression est li\u00e9 \u00e0 un dispositif d'arr\u00eat automatique du compresseur en cas de surpression ou de pression basse \u00e0 l'aspiration ;"
+                },
+                {
+                  "text": "- une soupape est positionn\u00e9e au refoulement dont la mise \u00e0 l'air est situ\u00e9e en hauteur ;"
+                },
+                {
+                  "text": "- une mesure de temp\u00e9rature doit permettre de s'assurer du bon fonctionnement du compresseur."
+                },
+                {
+                  "text": "L'installation comporte des moyens de purge du compresseur avec un gaz inerte pr\u00e9alablement \u00e0 la maintenance."
+                },
+                {
+                  "text": "Pour ce qui concerne le contr\u00f4le p\u00e9riodique des \u00e9quipements sous pression, les dispositions de l'arr\u00eat\u00e9 minist\u00e9riel du 20 novembre 2017 relatif au suivi en service des \u00e9quipements sous pression et des r\u00e9cipients \u00e0 pression simples s'appliquent."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.6",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A1618a6104A1",
+              "outer_alineas": [
+                {
+                  "text": "Les b\u00e2timents, conteneurs, etc. abritant des \u00e9quipements susceptibles de contenir de l'hydrog\u00e8ne sont \u00e9quip\u00e9s de d\u00e9tecteurs d'hydrog\u00e8ne et de d\u00e9tecteurs d'incendie adapt\u00e9es \u00e0 l'hydrog\u00e8ne et judicieusement plac\u00e9s, notamment pr\u00e8s des points de fuite potentiels, et dans les parties \u00e0 risque d'accumulation."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Conformit\u00e9 du contr\u00f4le p\u00e9riodique des \u00e9quipements sous pression ;"
+                },
+                {
+                  "text": "Compresseur int\u00e9grant un dispositif de mesure de pression li\u00e9 \u00e0 un dispositif d'arr\u00eat automatique du compresseur en cas de surpression ou de pression basse \u00e0 l'aspiration, une soupape, une mesure de temp\u00e9rature, des moyens de purge du compresseur avec un gaz inerte pr\u00e9alablement \u00e0 la maintenance ;"
+                },
+                {
+                  "text": "Pr\u00e9sence de d\u00e9tecteurs d'hydrog\u00e8ne et de d\u00e9tecteurs d'incendie dans les locaux ferm\u00e9s (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.6",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2.6 - Aire de stockage et de production."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2c03232f0DA5",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.7",
+          "sections": [],
+          "title": {
+            "text": "Article 2.7 - Aire de distribution."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8aFEBEDcBaEa",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.7.1",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FCD46C2cdD88",
+              "outer_alineas": [
+                {
+                  "text": "L'aire de distribution, sur laquelle le v\u00e9hicule s'arr\u00eate pour le remplissage, est situ\u00e9e en dehors de la voie publique."
+                },
+                {
+                  "text": "Le sol est plat. Seule une l\u00e9g\u00e8re pente destin\u00e9e \u00e0 l'\u00e9vacuation d'eau est autoris\u00e9e."
+                },
+                {
+                  "text": "Les voies et les aires de stationnement des v\u00e9hicules en attente de remplissage sont dispos\u00e9es de fa\u00e7on que les v\u00e9hicules puissent \u00e9voluer en marche avant. Les voies ne sont pas en impasse. La vitesse des v\u00e9hicules qui arrivent dans l'installation est limit\u00e9e par des dispositifs physiques adapt\u00e9s."
+                },
+                {
+                  "text": "L'aire de distribution est clairement signal\u00e9e et mat\u00e9rialis\u00e9e, au minimum par un marquage au sol, compl\u00e9t\u00e9 si n\u00e9cessaire par des signal\u00e9tiques ou am\u00e9nagements afin de permettre leur acc\u00e8s en s\u00e9curit\u00e9. Le marquage au sol indique l'emplacement d'arr\u00eat des v\u00e9hicules pour le remplissage."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.1",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fC0E6f5AC6ed",
+              "outer_alineas": [
+                {
+                  "text": "Les bornes de distribution sont prot\u00e9g\u00e9es des risques d'agression physique : des barri\u00e8res de protection sont mises en place pour \u00e9viter toute collision avec un v\u00e9hicule (par exemple bornes, arceaux de s\u00e9curit\u00e9, butoirs de roues\u2026)."
+                },
+                {
+                  "text": "Dans le cas de paiement par billets, toutes dispositions sont prises pour que les actes de malveillance \u00e9ventuels n'aient pas de cons\u00e9quence sur les appareils de distribution. L'interface de commande de remplissage et l'interface de paiement sont compatibles avec le zonage ATEX."
+                },
+                {
+                  "text": "Les \u00e9ventuels dispositifs visant \u00e0 prot\u00e9ger des pr\u00e9cipitations sont con\u00e7us de mani\u00e8re \u00e0 pr\u00e9venir toute accumulation d'hydrog\u00e8ne lib\u00e9r\u00e9e par les \u00e9vents ou en cas de fuite accidentelle."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "V\u00e9rification de l'am\u00e9nagement des voies et des aires de distribution (en dehors de la voie publique, sol plat) (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "V\u00e9rification de l'am\u00e9nagement des voies et les aires de stationnement des v\u00e9hicules en attente de remplissage (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Signalisation de l'aire de distribution ;"
+                },
+                {
+                  "text": "Bornes prot\u00e9g\u00e9es des risques d'agression physique (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Dispositifs de protection contre les pr\u00e9cipitations permettant de pr\u00e9venir toute accumulation d'hydrog\u00e8ne (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.1",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2.7.1 - Am\u00e9nagement de l'aire de distribution."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "dC6d668f291A",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.7.2",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "6f2c5DCe4BFc",
+              "outer_alineas": [
+                {
+                  "text": "La ligne de distribution doit comprendre :"
+                },
+                {
+                  "text": "- un r\u00e9gulateur de d\u00e9bit. En fonctionnement normal, celui-ci ajuste le d\u00e9bit en aval pour limiter l'\u00e9l\u00e9vation de temp\u00e9rature dans le r\u00e9servoir du v\u00e9hicule dans le respect des valeurs sp\u00e9cifi\u00e9es dans les normes applicables aux v\u00e9hicules \u00e0 hydrog\u00e8ne ;"
+                },
+                {
+                  "text": "- une vanne d'isolement \u00e0 s\u00e9curit\u00e9 positive ;"
+                },
+                {
+                  "text": "- une soupape de s\u00e9curit\u00e9 ;"
+                },
+                {
+                  "text": "- un d\u00e9tecteur d'hydrog\u00e8ne dans la borne de distribution et un syst\u00e8me de d\u00e9tection de baisse ou mont\u00e9e anormale de pression entra\u00eenant l'un et l'autre l'arr\u00eat automatique d'urgence d\u00e9fini en 2.8."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.2",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eE832BfeeCe1",
+              "outer_alineas": [
+                {
+                  "text": "Le flexible de distribution est \u00e9quip\u00e9 :"
+                },
+                {
+                  "text": "- de raccords permettant le remplissage du r\u00e9servoir des v\u00e9hicules ;"
+                },
+                {
+                  "text": "- d'un syst\u00e8me anti-arrachement ;"
+                },
+                {
+                  "text": "- de dispositifs permettant la mise en s\u00e9curit\u00e9 en cas d'arrachement ou d'\u00e9clatement du flexible ;"
+                },
+                {
+                  "text": "- d'une protection contre l'abrasion et la formation de plis ;"
+                },
+                {
+                  "text": "Par conception, lorsque l'op\u00e9rateur manipule le flexible lors des phases de connexion et d\u00e9connexion au v\u00e9hicule, le flexible n'est plus sous pression."
+                },
+                {
+                  "text": "Le flexible est install\u00e9 de fa\u00e7on \u00e0 ce que les v\u00e9hicules ne puissent pas rouler dessus et de fa\u00e7on \u00e0 ce qu'il ne touche pas le sol lorsqu'il est connect\u00e9 au v\u00e9hicule."
+                },
+                {
+                  "text": "Il est chang\u00e9 apr\u00e8s toute d\u00e9gradation et pr\u00e9ventivement conform\u00e9ment aux pr\u00e9conisations du fournisseur."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.2",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eceBcbb1E4Dd",
+              "outer_alineas": [
+                {
+                  "text": "Le pistolet ou connecteur de distribution :"
+                },
+                {
+                  "text": "- est sp\u00e9cifique \u00e0 un d\u00e9bit et une pression donn\u00e9s et ne peut se connecter qu'\u00e0 des r\u00e9ceptacles de v\u00e9hicules homologu\u00e9s pour recevoir ce d\u00e9bit et cette pression ;"
+                },
+                {
+                  "text": "- est \u00e9quip\u00e9 d'un clapet anti-retour ou d'un dispositif \u00e9quivalent emp\u00eachant l'entr\u00e9e d'air ;"
+                },
+                {
+                  "text": "- ne peut pas \u00eatre d\u00e9connect\u00e9 du v\u00e9hicule sans d\u00e9pressurisation pr\u00e9alable et vidange du flexible."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.2",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dC4dfAE0FB04",
+              "outer_alineas": [
+                {
+                  "text": "L'interface de commande remplissage est compatible avec le zonage ATEX."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.2",
+              "sections": [],
+              "title": {
+                "text": "IV."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f5e48eFAeEe2",
+              "outer_alineas": [
+                {
+                  "text": "Le d\u00e9bit de l'hydrog\u00e8ne dans la borne de distribution est limit\u00e9 \u00e0 la valeur pr\u00e9cis\u00e9e \u00e0 l'article 2.1 du pr\u00e9sent arr\u00eat\u00e9 par au moins un dispositif de limitation de d\u00e9bit (orifice calibr\u00e9 ou autre dispositif) et un second dispositif ind\u00e9pendant de limitation de d\u00e9bit ou de d\u00e9tection de la rupture du flexible mettant en s\u00e9curit\u00e9 l'installation conform\u00e9ment \u00e0 l'article 2.8."
+                },
+                {
+                  "text": "Ces dispositifs doivent \u00eatre prot\u00e9g\u00e9s de toute manipulation externe non autoris\u00e9e."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Pr\u00e9sence dans la ligne de distribution : d'un r\u00e9gulateur de d\u00e9bit, d'une vanne d'isolement \u00e0 s\u00e9curit\u00e9 positive, d'une soupape de s\u00e9curit\u00e9, d'un d\u00e9tecteur d'hydrog\u00e8ne dans la borne de distribution si elle est constitu\u00e9e d'une enceinte ferm\u00e9e, et un syst\u00e8me de d\u00e9tection de baisse ou mont\u00e9e anormale de pression entra\u00eenant l'arr\u00eat automatique d'urgence (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "V\u00e9rification de la conformit\u00e9 du flexible (syst\u00e8me anti-arrachement, dispositifs permettant la mise en s\u00e9curit\u00e9 en cas d'arrachement ou d'\u00e9clatement du flexible, protection contre l'abrasion et la formation de plis) ;"
+                },
+                {
+                  "text": "V\u00e9rification de l'installation du flexible (de fa\u00e7on \u00e0 ce que les v\u00e9hicules ne puissent pas rouler dessus et de fa\u00e7on \u00e0 ce qu'il ne touche pas le sol lorsqu'il est connect\u00e9 au v\u00e9hicule) ;"
+                },
+                {
+                  "text": "V\u00e9rification de l'\u00e9tat du flexible ;"
+                },
+                {
+                  "text": "V\u00e9rification du pistolet de distribution (sp\u00e9cifique \u00e0 un d\u00e9bit et une pression donn\u00e9s et ne peut se connecter qu'\u00e0 des r\u00e9ceptacles de v\u00e9hicules homologu\u00e9s pour recevoir ce d\u00e9bit et cette pression, dispositif emp\u00eachant l'entr\u00e9e d'air, syst\u00e8me emp\u00eachant la d\u00e9connexion du v\u00e9hicule sans d\u00e9pressurisation pr\u00e9alable et vidange du flexible) ;"
+                },
+                {
+                  "text": "Pr\u00e9sence d'un justificatif de conformit\u00e9 des \u00e9quipements au zonage ATEX (notice, marquage) ;"
+                },
+                {
+                  "text": "V\u00e9rification du respect des d\u00e9bits des bornes de distribution d'hydrog\u00e8ne et pr\u00e9sence d'au moins un dispositif de limitation de d\u00e9bit (orifice calibr\u00e9 ou autre dispositif) et un second dispositif ind\u00e9pendant de limitation de d\u00e9bit ou de d\u00e9tection de la rupture du flexible, (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.7.2",
+              "sections": [],
+              "title": {
+                "text": "V."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2.7.2 - Conception des \u00e9quipements de l'aire de distribution."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ae81E1ADeFE9",
+          "outer_alineas": [
+            {
+              "text": "Un dispositif d'arr\u00eat d'urgence g\u00e9n\u00e9ral permet, en toutes circonstances et de fa\u00e7on automatique, de mettre en s\u00e9curit\u00e9 l'ensemble de l'installation, notamment :"
+            },
+            {
+              "text": "- en mettant en s\u00e9curit\u00e9 l'\u00e9quipement de production d'hydrog\u00e8ne ;"
+            },
+            {
+              "text": "- en isolant les stockages principaux et interm\u00e9diaires d'hydrog\u00e8ne ;"
+            },
+            {
+              "text": "- en arr\u00eatant l'appareil de distribution par fermeture de la vanne d'isolement ;"
+            },
+            {
+              "text": "- en mettant \u00e0 l'atmosph\u00e8re l'hydrog\u00e8ne contenu dans le flexible de distribution ;"
+            },
+            {
+              "text": "- en mettant \u00e0 l'arr\u00eat l'ensemble du circuit \u00e9lectrique, \u00e0 l'exception des syst\u00e8mes d'\u00e9clairage de secours n\u00e9cessaires et non susceptibles de provoquer une explosion, du syst\u00e8me d'alarme et du syst\u00e8me de communication le cas \u00e9ch\u00e9ant."
+            },
+            {
+              "text": "Ce dispositif doit pouvoir \u00eatre d\u00e9clench\u00e9 :"
+            },
+            {
+              "text": "- manuellement, en \u00e9tant facilement rep\u00e9rable et pouvant \u00eatre actionn\u00e9 :"
+            },
+            {
+              "text": "- depuis l'int\u00e9rieur de l'aire de stockage ;"
+            },
+            {
+              "text": "- \u00e0 proximit\u00e9 de chaque borne de distribution ;"
+            },
+            {
+              "text": "- depuis une zone ext\u00e9rieure \u00e0 l'aire de stockage, en dehors des zones de danger vis\u00e9es au 4.2, facilement rep\u00e9rable et facilement accessible en toutes circonstances par les services d'intervention."
+            },
+            {
+              "text": "- et automatiquement par les dispositifs suivants :"
+            },
+            {
+              "text": "- d\u00e9tecteurs d'incendie ;"
+            },
+            {
+              "text": "- d\u00e9tecteurs d'hydrog\u00e8ne ;"
+            },
+            {
+              "text": "- d\u00e9tecteurs de chute de pression et de surpression."
+            },
+            {
+              "text": "En cas de d\u00e9clenchement de l'arr\u00eat d'urgence :"
+            },
+            {
+              "text": "- une alarme visuelle est activ\u00e9e ;"
+            },
+            {
+              "text": "- une alarme sonore est activ\u00e9e lors du d\u00e9clenchement automatique du dispositif d'arr\u00eat d'urgence (par les d\u00e9tecteurs d'incendie, les d\u00e9tecteurs d'hydrog\u00e8ne et les d\u00e9tecteurs de chute de pression et de surpression) ;"
+            },
+            {
+              "text": "- la personne d\u00e9sign\u00e9e en charge de la surveillance de l'installation est automatiquement inform\u00e9e."
+            },
+            {
+              "text": "- la remise en service de l'installation ne peut se faire qu'apr\u00e8s constat de l'absence de risque par l'exploitant."
+            },
+            {
+              "text": "Dans le cas d'une installation en libre-service sans personnel sur site, un dispositif de communication permet d'alerter imm\u00e9diatement et de communiquer avec la personne d\u00e9sign\u00e9e en charge de la surveillance de l'installation, joignable 24 heures sur 24. Ce dispositif est facilement rep\u00e9rable, accessible depuis l'aire de distribution et en dehors des zones de danger vis\u00e9es au 4.2."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence du dispositif d'arr\u00eat d'urgence (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Conditions d'acc\u00e8s au dispositif d'arr\u00eat d'urgence (depuis chaque borne de distribution et depuis une zone ext\u00e9rieure \u00e0 l'aire de stockage, en dehors des zones de danger, clairement identifi\u00e9 et facilement accessible en toutes circonstances) ;"
+            },
+            {
+              "text": "V\u00e9rification du bon fonctionnement de l'arr\u00eat d'urgence (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure), actionn\u00e9 par l'exploitant ;"
+            },
+            {
+              "text": "Pr\u00e9sence et fonctionnement de l'alarme visuelle et de l'alarme sonore ;"
+            },
+            {
+              "text": "Pr\u00e9sence et fonctionnement du dispositif de communication sur les installations en libre-service sans surveillance permettant d'alerter imm\u00e9diatement la personne d\u00e9sign\u00e9e en charge de la surveillance de l'installation, joignable 24 heures sur 24 (y compris en cas de coupure \u00e9lectrique g\u00e9n\u00e9rale) ;"
+            },
+            {
+              "text": "Accessibilit\u00e9 du dispositif de communication (depuis l'aire de distribution et en dehors des zones de danger)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.8",
+          "sections": [],
+          "title": {
+            "text": "Article 2.8 - Dispositif d'urgence et syst\u00e8mes de s\u00e9curit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "dE33EA7cc9eB",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.9",
+          "sections": [],
+          "title": {
+            "text": "Article 2.9 - Conception des \u00e9quipements de la station."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "BebE1C293997",
+          "outer_alineas": [
+            {
+              "text": "Tous les \u00e9quipements de l'installation, notamment les tuyauteries, permettent ais\u00e9ment l'ensemble des op\u00e9rations de contr\u00f4le et de maintenance. Ils sont prot\u00e9g\u00e9s contre les chocs, l'arrachement, l'\u00e9chauffement et les agressions externes li\u00e9s \u00e0 l'exploitation de l'installation, ainsi que contre les vibrations susceptibles de nuire \u00e0 leur r\u00e9sistance ou \u00e0 l'\u00e9tanch\u00e9it\u00e9 des raccords."
+            },
+            {
+              "text": "Les rep\u00e9rages des \u00e9quipements de l'installation et les syst\u00e8mes de s\u00e9curit\u00e9 sont install\u00e9s conform\u00e9ment aux r\u00e9glementations en vigueur."
+            },
+            {
+              "text": "Toute perte d'\u00e9nergie de commande des appareillages \u00e9lectriques ou de pilotage des vannes automatiques engendre la mise en s\u00e9curit\u00e9 de l'\u00e9l\u00e9ment concern\u00e9."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Accessibilit\u00e9 des \u00e9quipements pour contr\u00f4le et maintenance ;"
+            },
+            {
+              "text": "Pr\u00e9sence de protections des \u00e9quipements ;"
+            },
+            {
+              "text": "Signalisation des \u00e9quipements ;"
+            },
+            {
+              "text": "Syst\u00e8me de mise en s\u00e9curit\u00e9 automatique en cas de perte d'\u00e9nergie de commande des appareillages \u00e9lectriques ou de pilotage des vannes automatiques."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.9.1",
+          "sections": [],
+          "title": {
+            "text": "Article 2.9.1 - Protection des \u00e9quipements."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "f1F6FaA5A6Ec",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.9.2",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e6fCF6ef0dD6",
+              "outer_alineas": [
+                {
+                  "text": "Les tuyauteries sont :"
+                },
+                {
+                  "text": "- adapt\u00e9es au transport d'hydrog\u00e8ne. La conformit\u00e9 \u00e0 la norme NF M58 003 dans sa version de d\u00e9cembre 2013 et notamment \u00e0 son paragraphe 6.6 relatif aux tuyauteries d'hydrog\u00e8ne et raccords (conception, mat\u00e9riaux, marquage) permet par exemple de r\u00e9pondre \u00e0 cette exigence ;"
+                },
+                {
+                  "text": "- d'une longueur limit\u00e9e au minimum n\u00e9cessaire \u00e0 l'exploitation de l'installation ;"
+                },
+                {
+                  "text": "- dot\u00e9es d'un dispositif permettant une mise \u00e0 l'\u00e9vent des tuyauteries principales en cas de n\u00e9cessit\u00e9 ;"
+                },
+                {
+                  "text": "- identifi\u00e9es et rep\u00e9r\u00e9es, ainsi que le cas \u00e9ch\u00e9ant les gaines les contenant ;"
+                },
+                {
+                  "text": "- facilement accessibles pour maintenance, contr\u00f4le, etc. ;"
+                },
+                {
+                  "text": "- \u00e9quip\u00e9es de vannes d'isolement automatiques accessibles. Ces vannes sont \u00e0 s\u00e9curit\u00e9 positive (normalement ferm\u00e9es pour les vannes d'isolement et normalement ouvertes pour les vannes des \u00e9vents). Ces vannes sont notamment asservies au dispositif d'arr\u00eat d'urgence g\u00e9n\u00e9ral pr\u00e9vu au 2.8. Des vannes manuelles permettent, par ailleurs, d'isoler les capacit\u00e9s de stockage sources, interm\u00e9diaires et la compression."
+                },
+                {
+                  "text": "Les flexibles sont \u00e9galement adapt\u00e9s au transport d'hydrog\u00e8ne, identifi\u00e9s et rep\u00e9r\u00e9s, facilement accessibles pour maintenance et contr\u00f4le."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.9.2",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Eb2Dc5B20c8C",
+              "outer_alineas": [
+                {
+                  "text": "Les tuyauteries de l'aire de distribution respectent les dispositions pr\u00e9vues au point I du 2.2 lorsqu'elles sont situ\u00e9es \u00e0 l'ext\u00e9rieur \u00e0 une hauteur entre 0 et 3 m\u00e8tres au-dessus du niveau du sol de l'installation."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.9.2",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "e69B80cc7bea",
+              "outer_alineas": [
+                {
+                  "text": "L'installation est con\u00e7ue de fa\u00e7on \u00e0 limiter au minimum n\u00e9cessaire \u00e0 l'exploitation le nombre de raccords et brides, ces derniers sont uniquement autoris\u00e9s pour les \u00e9quipements de s\u00e9curit\u00e9 et les \u00e9quipements n\u00e9cessitant une maintenance. Les raccords et brides sont facilement rep\u00e9rables et accessibles pour les op\u00e9rations de maintenance."
+                },
+                {
+                  "text": "Les tuyauteries enterr\u00e9es disposent d'une protection contre la corrosion, contr\u00f4l\u00e9e et test\u00e9e \u00e0 une fr\u00e9quence adapt\u00e9e."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Tuyauteries :"
+                },
+                {
+                  "text": "- raccord\u00e9es \u00e0 une ligne d'\u00e9vent ;"
+                },
+                {
+                  "text": "- identifi\u00e9es ;"
+                },
+                {
+                  "text": "- facilement accessibles pour maintenance et contr\u00f4le ;"
+                },
+                {
+                  "text": "- \u00e9quip\u00e9es de vannes d'isolement \u00e0 s\u00e9curit\u00e9 positive."
+                },
+                {
+                  "text": "(Le non-respect de ces points rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Flexibles adapt\u00e9s au transport d'hydrog\u00e8ne, identifi\u00e9s et rep\u00e9r\u00e9s, facilement accessibles pour maintenance et contr\u00f4le (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Dans le cas de tuyauteries enterr\u00e9es :"
+                },
+                {
+                  "text": "- justification de la protection contre la corrosion ;"
+                },
+                {
+                  "text": "- justification que la protection contre la corrosion est contr\u00f4l\u00e9e et test\u00e9e."
+                },
+                {
+                  "text": "(Le non-respect de ces points rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 2.9.2",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 2.9.2 - Tuyauteries et flexibles."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "411C8C3d2B1c",
+          "outer_alineas": [
+            {
+              "text": "Les chemin\u00e9es d'\u00e9vent de l'installation d'hydrog\u00e8ne sont dimensionn\u00e9es en fonction du d\u00e9bit maximal admissible, du bruit en sortie d'\u00e9vent en fonctionnement normal, du flux thermique engendr\u00e9 par la flamme d'hydrog\u00e8ne en cas d'inflammation du nuage d'hydrog\u00e8ne relargu\u00e9. Elles se situent \u00e0 l'ext\u00e9rieur dans une zone inaccessible au public, de fa\u00e7on \u00e0 limiter les effets thermiques sur les \u00e9quipements contenant de l'hydrog\u00e8ne, favorisant la dilution du rejet, aussi loin que possible des immeubles habit\u00e9s ou occup\u00e9s par des tiers et des bouches d'aspiration d'air ext\u00e9rieur, \u00e0 une hauteur suffisante compte tenu de la hauteur des b\u00e2timents environnants afin de favoriser la dispersion des gaz rejet\u00e9s et au minimum \u00e0 1 m\u00e8tre au-dessus du point haut de l'installation."
+            },
+            {
+              "text": "La forme du conduit d'\u00e9vacuation, notamment dans la partie la plus proche du d\u00e9bouch\u00e9 \u00e0 l'atmosph\u00e8re, est con\u00e7ue de mani\u00e8re \u00e0 favoriser au maximum l'ascension et la dispersion de l'hydrog\u00e8ne dans l'atmosph\u00e8re (par exemple l'utilisation de chapeaux est interdite) et \u00e0 \u00e9viter tout risque d'obstruction en raison des pr\u00e9cipitations, chutes de feuilles, etc."
+            },
+            {
+              "text": "Lorsque des \u00e9quipements de l'installation se situent dans un milieu confin\u00e9, celle-ci est convenablement ventil\u00e9e pour \u00e9viter tout risque d'atmosph\u00e8re explosible. Le maintien op\u00e9rationnel de la ventilation dans le temps est v\u00e9rifi\u00e9, qu'elle soit naturelle ou m\u00e9canique."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence des dispositifs de ventilation en \u00e9tat op\u00e9rationnel lorsque des \u00e9quipements de l'installation se situent dans un milieu confin\u00e9 (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Justification du dimensionnement de la ventilation et des \u00e9vents ;"
+            },
+            {
+              "text": "Emplacement et \u00e9tat des \u00e9vents (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.9.3",
+          "sections": [],
+          "title": {
+            "text": "Article 2.9.3 - Events et ventilations."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c9F4F08BFB9b",
+          "outer_alineas": [
+            {
+              "text": "L'installation dispose en permanence d'un acc\u00e8s au moins pour permettre \u00e0 tout moment l'intervention des services d'incendie et de secours. Les v\u00e9hicules stationnent sans occasionner de g\u00eane pour l'accessibilit\u00e9 des engins des services d'incendie et de secours depuis les voies de circulation externes au b\u00e2timent, m\u00eame en dehors des heures d'exploitation et d'ouverture de l'installation. L'installation permet l'\u00e9vacuation rapide des v\u00e9hicules en cas d'incendie."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence d'un acc\u00e8s pour permettre l'intervention des services d'incendie et de secours ;"
+            },
+            {
+              "text": "Am\u00e9nagement permettant l'\u00e9vacuation rapide des v\u00e9hicules en cas d'incendie."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.1.0",
+          "sections": [],
+          "title": {
+            "text": "Article 2.1.0 - Accessibilit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ff365CAA9B5e",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments justifiant que ses installations \u00e9lectriques sont r\u00e9alis\u00e9es, entretenus et v\u00e9rifi\u00e9s conform\u00e9ment aux r\u00e8gles en vigueur."
+            },
+            {
+              "text": "Les installations \u00e9lectriques sont entretenues en bon \u00e9tat et contr\u00f4l\u00e9es apr\u00e8s leur installation ou suite \u00e0 modification."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence des \u00e9l\u00e9ments justifiant que les installations \u00e9lectriques sont r\u00e9alis\u00e9es, entretenus et v\u00e9rifi\u00e9s conform\u00e9ment aux r\u00e8gles en vigueur."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.1.1",
+          "sections": [],
+          "title": {
+            "text": "Article 2.1.1 - Installations \u00e9lectriques."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F1E660A7e829",
+          "outer_alineas": [
+            {
+              "text": "Les \u00e9quipements m\u00e9talliques (r\u00e9servoirs, canalisations, etc.) sont mis \u00e0 la terre conform\u00e9ment aux r\u00e8gles en vigueur, compte tenu notamment de la nature explosive ou inflammable des substances ou m\u00e9langes pr\u00e9sents."
+            },
+            {
+              "text": "En particulier, toutes les principales structures m\u00e9talliques et tous les \u00e9quipements tels que r\u00e9servoir, sont directement reli\u00e9s \u00e0 la terre et les tuyauteries d'hydrog\u00e8ne ne sont pas utilis\u00e9es pour r\u00e9aliser cette mise \u00e0 la terre."
+            },
+            {
+              "text": "L'aire de distribution dispose d'un dispositif de mise \u00e0 la terre du stockage embarqu\u00e9 ou de tout dispositif de d\u00e9charge des courants de fuite d'efficacit\u00e9 comparable (par exemple, via le flexible). Par conception, le remplissage du v\u00e9hicule n'est pas possible si ce dispositif de mise \u00e0 la terre n'est pas en fonctionnement."
+            },
+            {
+              "text": "Dans le cas o\u00f9 le flexible de distribution n'assure pas de continuit\u00e9 \u00e9lectrique lors de sa connexion avec le v\u00e9hicule, le sol de l'aire de remplissage est dissipatif, en mat\u00e9riau garantissant une r\u00e9sistance inf\u00e9rieure \u00e0 100 M\u03a9."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Lors du remplissage, mise \u00e0 la terre effectu\u00e9e via le flexible ou via le sol dissipatif (mat\u00e9riau garantissant une r\u00e9sistance inf\u00e9rieure \u00e0 100 M\u03a9)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2.1.2",
+          "sections": [],
+          "title": {
+            "text": "Article 2.1.2 - Mise \u00e0 la terre des \u00e9quipements."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre II : Implantation - am\u00e9nagement"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EXPLOITATION"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4aE34bbE6252",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ffb2cBDbc66E",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.1",
+          "sections": [],
+          "title": {
+            "text": "Article 3.1 - Surveillance de l'exploitation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ddcA5AE9cd77",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.1.1",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "9fAbe223A175",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nomm\u00e9ment d\u00e9sign\u00e9e par l'exploitant et ayant une connaissance de la conduite de l'installation, des dangers et inconv\u00e9nients des produits utilis\u00e9s ou stock\u00e9s dans l'installation et une formation \u00e0 la manipulation des moyens de lutte contre l'incendie. Les consignes et proc\u00e9dures d'exploitation d\u00e9finies par le constructeur de l'installation sont respect\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.1",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "A6FbCffDE25b",
+              "outer_alineas": [
+                {
+                  "text": "Les justificatifs, enregistrements, rapports de contr\u00f4les et carnets de bord relatifs au dimensionnement, \u00e0 l'utilisation, au contr\u00f4le et \u00e0 la maintenance de l'installation sont tenus \u00e0 disposition de l'inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.1",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fF329cd69038",
+              "outer_alineas": [
+                {
+                  "text": "Dans le cas d'une station en libre-service sans surveillance sur site, l'exploitant met en \u0153uvre une surveillance \u00e0 distance de l'installation, \u00e0 la fois l'aire de stockage et de production et l'aire de distribution. En cas de panne de ce dispositif, les op\u00e9rations d'approvisionnement et de distribution sont stopp\u00e9es. Dans l'attente de la r\u00e9paration, la station ne peut \u00eatre remise en exploitation que si la surveillance est assur\u00e9e directement sur site."
+                },
+                {
+                  "text": "La surveillance mise en \u0153uvre doit permettre d'avertir l'exploitant en cas de d\u00e9tection d'incendie, de toute fuite et de tout arr\u00eat d'urgence (automatique comme d\u00e9clench\u00e9 manuellement)."
+                },
+                {
+                  "text": "Une proc\u00e9dure d\u00e9signe pr\u00e9alablement la ou les personnes comp\u00e9tentes et d\u00e9finit les modalit\u00e9s d'appel de ces personnes. Cette proc\u00e9dure pr\u00e9cise \u00e9galement les conditions d'appel des secours ext\u00e9rieurs au regard des informations disponibles, ainsi que les modalit\u00e9s de leur accueil."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Pr\u00e9sentation des justificatifs, enregistrements, rapports de contr\u00f4les et carnets de bord de l'installation ;"
+                },
+                {
+                  "text": "Dispositif de surveillance \u00e0 distance en fonctionnement, permettant la d\u00e9tection de tout d\u00e9part de feu, de toute fuite et de tout arr\u00eat d'urgence ;"
+                },
+                {
+                  "text": "Pr\u00e9sentation de la proc\u00e9dure d\u00e9signant pr\u00e9alablement la ou les personnes comp\u00e9tentes et d\u00e9finissant les modalit\u00e9s d'appel de ces personnes ainsi que les conditions d'appel des secours ext\u00e9rieurs."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.1",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 3.1.1 - Dispositions g\u00e9n\u00e9rales."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C0b3ddb87215",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.1.2",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "BEF58c190BCD",
+              "outer_alineas": [
+                {
+                  "text": "Au moins une fois dans les 6 premiers mois de fonctionnement de l'installation, puis selon une p\u00e9riodicit\u00e9 qui ne peut exc\u00e9der un an, l'exploitant met en place un programme de contr\u00f4le de s\u00e9curit\u00e9 des \u00e9quipements de l'installation et des dispositifs d'urgence, notamment ceux vis\u00e9s aux 2.8."
+                },
+                {
+                  "text": "Les op\u00e9rations de contr\u00f4le men\u00e9es, les anomalies relatives \u00e0 ces \u00e9quipements ainsi que les modalit\u00e9s et dates de leur traitement sont consign\u00e9es dans le carnet de bord de l'installation tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et des organismes de contr\u00f4le."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.2",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0DBBdC9Ac79a",
+              "outer_alineas": [
+                {
+                  "text": "Avant la mise en service de l'installation, l'exploitant s'assure du fonctionnement correct de l'ensemble des \u00e9quipements et r\u00e9alise un contr\u00f4le permettant de s'assurer que son installation peut fonctionner en s\u00e9curit\u00e9 en suivant les consignes et proc\u00e9dures d'exploitation correspondantes."
+                },
+                {
+                  "text": "Un contr\u00f4le hebdomadaire de bon fonctionnement de l'installation est effectu\u00e9, \u00e0 distance ou sur site."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.2",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "E1f73ccDef0e",
+              "outer_alineas": [
+                {
+                  "text": "Les syst\u00e8mes de s\u00e9curit\u00e9 font l'objet d'essais, d'\u00e9talonnages \u00e0 intervalles r\u00e9guliers selon les recommandations du constructeur."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.2",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "aBa1ae1dEf0b",
+              "outer_alineas": [
+                {
+                  "text": "Le remplacement pr\u00e9ventif des flexibles est r\u00e9alis\u00e9 avant leur date de fin de validit\u00e9 et apr\u00e8s toute d\u00e9gradation. Un contr\u00f4le visuel des flexibles est r\u00e9alis\u00e9 \u00e0 chaque maintenance."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.2",
+              "sections": [],
+              "title": {
+                "text": "IV."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "580Ea8Dd9bce",
+              "outer_alineas": [
+                {
+                  "text": "L'exploitant rem\u00e9die dans les plus brefs d\u00e9lais aux non-conformit\u00e9s relev\u00e9s dans le cadre de ces contr\u00f4les."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Pr\u00e9sentation du carnet de bord de l'installation o\u00f9 sont consign\u00e9es les op\u00e9rations de contr\u00f4le de s\u00e9curit\u00e9 des \u00e9quipements et des dispositifs d'urgence (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "Etat et date de dernier remplacement des flexibles."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 3.1.2",
+              "sections": [],
+              "title": {
+                "text": "V."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 3.1.2 - Contr\u00f4les de s\u00e9curit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2ffbc6F2DD8d",
+          "outer_alineas": [
+            {
+              "text": "Seule l'aire de distribution est librement accessible aux personnes \u00e9trang\u00e8res \u00e0 l'\u00e9tablissement. Le reste de l'installation est rendue inaccessible (cl\u00f4ture, fermeture \u00e0 cl\u00e9 \u2026)."
+            },
+            {
+              "text": "Pour les installations surveill\u00e9es, en l'absence du personnel d'exploitation, l'installation est mise en s\u00e9curit\u00e9 et est rendue inaccessible."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Acc\u00e8s interdit \u00e0 l'installation en dehors de l'aire de distribution (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Pour les installations surveill\u00e9es, en l'absence du personnel d'exploitation, l'installation est mise en s\u00e9curit\u00e9 et est rendue inaccessible."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.2",
+          "sections": [],
+          "title": {
+            "text": "Article 3.2 - Contr\u00f4le de l'acc\u00e8s."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c90a8E4110D7",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.3",
+          "sections": [],
+          "title": {
+            "text": "Article 3.3 - R\u00e8gles d'exploitation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2d30dC86bb46",
+          "outer_alineas": [
+            {
+              "text": "L'approvisionnement en hydrog\u00e8ne gazeux est r\u00e9alis\u00e9 par des personnes form\u00e9es et habilit\u00e9es pour r\u00e9aliser cette op\u00e9ration en s\u00e9curit\u00e9, uniquement au niveau de l'aire de stockage et de production, en amont des vannes d'isolement et des limiteurs de d\u00e9bit."
+            },
+            {
+              "text": "Dans le cas o\u00f9 l'installation est approvisionn\u00e9e en hydrog\u00e8ne gazeux par v\u00e9hicule (semi-remorque, citerne\u2026) :"
+            },
+            {
+              "text": "- l'approvisionnement est r\u00e9alis\u00e9 au moyen d'un seul flexible, raccord\u00e9 entre la semi-remorque et l'installation."
+            },
+            {
+              "text": "- une proc\u00e9dure d\u00e9crit les op\u00e9rations \u00e0 r\u00e9aliser pour assurer la s\u00e9curit\u00e9 de l'approvisionnement et en particulier :"
+            },
+            {
+              "text": "- le calage de la semi-remorque et la fixation du stockage ;"
+            },
+            {
+              "text": "- l'arr\u00eat du moteur du v\u00e9hicule d'approvisionnement ;"
+            },
+            {
+              "text": "- le d\u00e9telage du tracteur si le v\u00e9hicule d'approvisionnement reste en poste ;"
+            },
+            {
+              "text": "- la mise \u00e0 la terre des remorques et cadres d'hydrog\u00e8ne avant tout raccordement \u00e0 un autre \u00e9quipement ;"
+            },
+            {
+              "text": "- la d\u00e9connexion et la connexion des r\u00e9servoirs de la semi-remorque \u00e0 l'installation via un flexible dot\u00e9 d'un syst\u00e8me anti-arrachement et d'un c\u00e2ble anti-coup de fouet ;"
+            },
+            {
+              "text": "- l'emplacement du v\u00e9hicule en attente pour d\u00e9livrance de l'hydrog\u00e8ne. Celui-ci se trouve hors des zones de trafic sur le site et est clairement d\u00e9fini et mat\u00e9rialis\u00e9 par l'exploitant. Il est prot\u00e9g\u00e9 contre les chocs et agressions externes li\u00e9s \u00e0 l'exploitation. La livraison d'hydrog\u00e8ne peut \u00eatre r\u00e9alis\u00e9e \u00e0 partir d'une zone de trafic du site, sous r\u00e9serve d'avoir \u00e9tabli un protocole de d\u00e9chargement en hydrog\u00e8ne et un balisage pour interdire temporairement l'acc\u00e8s \u00e0 cette zone."
+            },
+            {
+              "text": "- la proc\u00e9dure pr\u00e9voit un contr\u00f4le visuel des \u00e9quipements, tuyauteries et flexibles ainsi qu'un test d'\u00e9tanch\u00e9it\u00e9 lors du raccordement de la semi-remorque ;"
+            },
+            {
+              "text": "- les op\u00e9rations de remplissage de v\u00e9hicules ne sont pas possibles lorsqu'une op\u00e9ration d'approvisionnement de la station est en cours."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence d'une proc\u00e9dure int\u00e9grant les points \u00e9num\u00e9r\u00e9s ci-dessus."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.3.1",
+          "sections": [],
+          "title": {
+            "text": "Article 3.3.1 - Approvisionnement en hydrog\u00e8ne gazeux."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5cCCbf6F0CC9",
+          "outer_alineas": [
+            {
+              "text": "Le remplissage du r\u00e9servoir du v\u00e9hicule est :"
+            },
+            {
+              "text": "- r\u00e9alis\u00e9 uniquement par \u00e9quilibrage de pression d'hydrog\u00e8ne, sans qu'il soit possible de d\u00e9passer la pression et la temp\u00e9rature maximale admissible du r\u00e9servoir du v\u00e9hicule ;"
+            },
+            {
+              "text": "- pr\u00e9c\u00e9d\u00e9 d'un test d'\u00e9tanch\u00e9it\u00e9 du flexible ;"
+            },
+            {
+              "text": "- r\u00e9alis\u00e9 uniquement si les r\u00e9sultats de ce contr\u00f4le sont satisfaisants."
+            },
+            {
+              "text": "Ces \u00e9l\u00e9ments sont pr\u00e9cis\u00e9s dans la proc\u00e9dure vis\u00e9e au 4.7."
+            },
+            {
+              "text": "La pression est mesur\u00e9e tout au long du remplissage afin d'\u00e9viter toute surpression dans le r\u00e9servoir du v\u00e9hicule. Le d\u00e9bit ou la temp\u00e9rature est mesur\u00e9 tout au long du remplissage afin de d\u00e9tecter tout dysfonctionnement du dispositif de refroidissement."
+            },
+            {
+              "text": "Un dispositif permet l'arr\u00eat automatique du remplissage en cas d'anomalie dans un d\u00e9lai inf\u00e9rieur \u00e0 5 secondes."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence d'une proc\u00e9dure int\u00e9grant les points \u00e9num\u00e9r\u00e9s ci-dessus (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Pr\u00e9sence de dispositifs de mesures de pression et de d\u00e9bit ou de temp\u00e9rature permettant l'arr\u00eat automatique du remplissage en cas d'anomalie dans un d\u00e9lai inf\u00e9rieur \u00e0 5 secondes (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.3.2",
+          "sections": [],
+          "title": {
+            "text": "Article 3.3.2 - Remplissage des v\u00e9hicules."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "49b1B1B3D38a",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant garde \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques de l'hydrog\u00e8ne et des \u00e9ventuelles autres substances ou m\u00e9langes dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9. Il prend les dispositions n\u00e9cessaires pour respecter les pr\u00e9conisations desdites fiches (compatibilit\u00e9 des produits, stockage, emploi, lutte contre l'incendie)."
+            },
+            {
+              "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages portent en caract\u00e8res lisibles le nom des produits et, s'il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l'\u00e9tiquetage des substances et m\u00e9langes dangereux."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence des fiches de donn\u00e9es de s\u00e9curit\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.4",
+          "sections": [],
+          "title": {
+            "text": "Article 3.4 - Connaissance des produits - Etiquetage."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9Ba57e0d324d",
+          "outer_alineas": [
+            {
+              "text": "Les locaux sont maintenus propres et r\u00e9guli\u00e8rement nettoy\u00e9s notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res. Le mat\u00e9riel de nettoyage est adapt\u00e9 aux risques pr\u00e9sent\u00e9s par les produits et poussi\u00e8res. Toutes pr\u00e9cautions sont prises pour \u00e9viter les risques d'envol."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.5",
+          "sections": [],
+          "title": {
+            "text": "Article 3.5 - Propret\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "05eaaCcE7BcC",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant tient \u00e0 jour un registre indiquant la nature et la quantit\u00e9 des produits dangereux d\u00e9tenus, auquel est annex\u00e9 un plan g\u00e9n\u00e9ral des stockages. Ce registre est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et des services d'incendie et de secours."
+            },
+            {
+              "text": "La pr\u00e9sence dans l'installation de mati\u00e8res dangereuses ou combustibles est limit\u00e9e aux n\u00e9cessit\u00e9s de l'exploitation."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence de l'\u00e9tat des stocks (nature et quantit\u00e9) de produits dangereux ;"
+            },
+            {
+              "text": "Pr\u00e9sence du plan des stockages de produits dangereux ;"
+            },
+            {
+              "text": "Conformit\u00e9 des stocks de produits dangereux pr\u00e9sents le jour du contr\u00f4le (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "V\u00e9rification de l'absence (de stockage) de mati\u00e8res dangereuses ou combustibles non n\u00e9cessaires \u00e0 l'exploitation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3.6",
+          "sections": [],
+          "title": {
+            "text": "Article 3.6 - Etat des stocks de produits dangereux."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre III : Exploitation"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b14Df85dFe6C",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "93D251Bc866b",
+          "outer_alineas": [
+            {
+              "text": "L'installation est \u00e9quip\u00e9e de moyens de lutte contre l'incendie appropri\u00e9s aux risques et conformes aux normes en vigueur. Elle comprend notamment pour chaque aire de distribution, un extincteur \u00e0 poudre de 9 kg par borne de distribution."
+            },
+            {
+              "text": "Chaque partie de l'installation est desservie par un ou plusieurs points d'eau incendie, tels que :"
+            },
+            {
+              "text": "- des poteaux, bouches d'incendie ou prises d'eau normalis\u00e9s, d'un diam\u00e8tre nominal adapt\u00e9 au d\u00e9bit \u00e0 fournir, aliment\u00e9s par un r\u00e9seau public ou priv\u00e9, sous des pressions minimale et maximale permettant la mise en \u0153uvre des pompes des engins des services d'incendie et de secours ;"
+            },
+            {
+              "text": "- ou des r\u00e9serves d'eau, r\u00e9aliment\u00e9es ou non, disponibles pour le site et dont les organes de man\u0153uvre sont utilisables en permanence pour les services d'incendie et de secours."
+            },
+            {
+              "text": "Les prises de raccordement sont conformes aux normes en vigueur pour permettre aux services d'incendie et de secours de s'alimenter sur ces points d'eau incendie."
+            },
+            {
+              "text": "Le ou les points d'eau incendie sont en mesure de fournir un d\u00e9bit global minimal de 60 m\u00e8tres cubes par heure durant deux heures, et se situent \u00e0 moins de 200 m\u00e8tres de l'installation (les distances sont mesur\u00e9es par les voies praticables par les moyens des services d'incendie et de secours."
+            },
+            {
+              "text": "Ces mat\u00e9riels sont maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence et accessibilit\u00e9 des moyens de lutte contre l'incendie (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "Pr\u00e9sence des rapports d'entretien et de v\u00e9rification annuels (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.1",
+          "sections": [],
+          "title": {
+            "text": "Article 4.1 - Moyens de lutte contre l'incendie."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1218F4149d15",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant recense, sous sa responsabilit\u00e9, les parties de l'installation qui, en raison des caract\u00e9ristiques qualitatives et quantitatives des mati\u00e8res mises en \u0153uvre, stock\u00e9es, utilis\u00e9es ou produites, des proc\u00e9d\u00e9s ou des activit\u00e9s r\u00e9alis\u00e9s, sont susceptibles d'\u00eatre \u00e0 l'origine d'un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l'environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l'installation."
+            },
+            {
+              "text": "L'exploitant d\u00e9termine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosph\u00e8res explosibles ou \u00e9manations toxiques). Ce risque est signal\u00e9. Les ateliers et aires de manipulations de ces produits doivent faire partie de ce recensement."
+            },
+            {
+              "text": "L'exploitant dispose d'un plan g\u00e9n\u00e9ral des ateliers et des stockages indiquant les diff\u00e9rentes zones de danger correspondant \u00e0 ces risques."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence du plan de l'atelier indiquant les diff\u00e9rentes zones de danger ;"
+            },
+            {
+              "text": "Pr\u00e9sence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.2",
+          "sections": [],
+          "title": {
+            "text": "Article 4.2 - Localisation des risques."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c97edbCfFb0F",
+          "outer_alineas": [
+            {
+              "text": "Dans les parties de l'installation mentionn\u00e9es \u00e0 l'article 4.2 et recens\u00e9es comme pouvant \u00eatre \u00e0 l'origine d'une explosion, les appareils et syst\u00e8mes de protection destin\u00e9s \u00e0 \u00eatre utilis\u00e9s en atmosph\u00e8res explosibles sont conformes aux dispositions des articles R. 557-7-1 \u00e0 R. 557-7-9 du code de l'environnement."
+            },
+            {
+              "text": "Elles sont r\u00e9duites \u00e0 ce qui est strictement n\u00e9cessaire aux besoins de l'exploitation et sont enti\u00e8rement constitu\u00e9es de mat\u00e9riels utilisables dans les atmosph\u00e8res explosives. Dans les parties de l'installation o\u00f9 les atmosph\u00e8res explosives peuvent appara\u00eetre de mani\u00e8re \u00e9pisodique avec une faible fr\u00e9quence et une courte dur\u00e9e, les installations \u00e9lectriques sont compos\u00e9es, de mat\u00e9riel qui, en service normal, n'engendrent ni arc, ni \u00e9tincelle, ni surface chaude susceptibles de provoquer une explosion."
+            },
+            {
+              "text": "Les canalisations \u00e9lectriques ne sont pas une cause possible d'inflammation et sont convenablement prot\u00e9g\u00e9es contre les chocs, contre la propagation des flammes et contre l'action des produits pr\u00e9sents dans la partie de l'installation en cause. L'exploitant tient \u00e0 jour leur inventaire, et dispose des justificatifs de conformit\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.3",
+          "sections": [],
+          "title": {
+            "text": "Article 4.3 - Mat\u00e9riels utilisables en atmosph\u00e8res explosibles."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cc3e36FA1d7d",
+          "outer_alineas": [
+            {
+              "text": "Dans les parties de l'installation recens\u00e9es \u00e0 l'article 4.2, les travaux de r\u00e9paration ou d'am\u00e9nagement ne peuvent \u00eatre effectu\u00e9s qu'apr\u00e8s \u00e9laboration d'un document ou dossier comprenant les \u00e9l\u00e9ments suivants :"
+            },
+            {
+              "text": "- la d\u00e9finition des phases d'activit\u00e9 dangereuses et des moyens de pr\u00e9vention sp\u00e9cifiques correspondants ;"
+            },
+            {
+              "text": "- l'adaptation des mat\u00e9riels, installations et dispositifs \u00e0 la nature des op\u00e9rations \u00e0 r\u00e9aliser ainsi que la d\u00e9finition de leurs conditions d'entretien ;"
+            },
+            {
+              "text": "- les instructions \u00e0 donner aux personnes en charge des travaux ;"
+            },
+            {
+              "text": "- -l'organisation mise en place pour assurer les premiers secours en cas d'urgence ;"
+            },
+            {
+              "text": "- lorsque les travaux sont effectu\u00e9s par une entreprise ext\u00e9rieure, les conditions de recours par cette derni\u00e8re \u00e0 de la sous-traitance et l'organisation mise en place dans un tel cas pour assurer le maintien de la s\u00e9curit\u00e9."
+            },
+            {
+              "text": "Ce document ou dossier est \u00e9tabli, sur la base d'une analyse des risques li\u00e9s aux travaux, et vis\u00e9 par l'exploitant ou par une personne qu'il aura nomm\u00e9ment d\u00e9sign\u00e9e. Le respect des dispositions pr\u00e9c\u00e9dentes peut \u00eatre assur\u00e9, pour les parties de l'installation o\u00f9 les atmosph\u00e8res explosives peuvent se former, par l'\u00e9laboration du document relatif \u00e0 la protection d\u00e9finit \u00e0 l'article R. 4227-52 du code du travail et par l'obtention de l'autorisation mentionn\u00e9e au 6\u00b0 de l'article R. 4227-52 du code du travail. Lorsque les travaux sont effectu\u00e9s par une entreprise ext\u00e9rieure, le document ou dossier est sign\u00e9 par l'exploitant et l'entreprise ext\u00e9rieure ou les personnes qu'ils auront nomm\u00e9ment d\u00e9sign\u00e9es."
+            },
+            {
+              "text": "Le respect des dispositions pr\u00e9c\u00e9dentes peut \u00eatre assur\u00e9 par l'\u00e9laboration du plan de pr\u00e9vention d\u00e9fini aux articles R. 4512-6 et suivants du code du travail lorsque ce plan est exig\u00e9."
+            },
+            {
+              "text": "Dans les parties de l'installation, vis\u00e9es au point 4.2, pr\u00e9sentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la r\u00e9alisation de travaux ayant fait l'objet d'un document ou dossier sp\u00e9cifique conforme aux dispositions pr\u00e9c\u00e9dentes. Cette interdiction est affich\u00e9e en caract\u00e8res apparents."
+            },
+            {
+              "text": "Une v\u00e9rification de la bonne r\u00e9alisation des travaux est effectu\u00e9e par l'exploitant ou son repr\u00e9sentant avant la reprise de l'activit\u00e9. Elle fait l'objet d'un enregistrement et est tenue \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Affichage de l'interdiction en caract\u00e8res apparents en limite de zone des parties de l'installation pr\u00e9sentant des risques d'incendie ou d'explosion."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.4",
+          "sections": [],
+          "title": {
+            "text": "Article 4.4 - \u00ab Permis de travaux \u00bb."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Fa6d0a77dF6a",
+          "outer_alineas": [
+            {
+              "text": "Sans pr\u00e9judice des dispositions du code du travail, des consignes pr\u00e9cisant les modalit\u00e9s d'application des dispositions du pr\u00e9sent arr\u00eat\u00e9 sont \u00e9tablies, tenues \u00e0 jour et port\u00e9es \u00e0 la connaissance du personnel dans les lieux fr\u00e9quent\u00e9s par le personnel. Ces consignes doivent notamment indiquer :"
+            },
+            {
+              "text": "- l'interdiction de fumer ou d'apporter du feu sous une forme quelconque ;"
+            },
+            {
+              "text": "- l'interdiction de tout br\u00fblage \u00e0 l'air libre ;"
+            },
+            {
+              "text": "- l'interdiction d'apporter toute source d'ignition, dans les parties de l'installation vis\u00e9es au point 4.2 recens\u00e9es \u00ab incendie \u00bb ou \u00ab atmosph\u00e8res explosives \u00bb ;"
+            },
+            {
+              "text": "- l'obligation d'\u00e9tablir un document ou dossier conforme aux dispositions pr\u00e9vues au point 5.3 pour les parties de l'installation vis\u00e9es au point 4.2 ;"
+            },
+            {
+              "text": "- les proc\u00e9dures d'arr\u00eat d'urgence et de mise en s\u00e9curit\u00e9 de l'installation (\u00e9lectricit\u00e9, r\u00e9seaux de fluides, etc.) ;"
+            },
+            {
+              "text": "- les mesures \u00e0 prendre en cas de fuite sur un r\u00e9cipient ou une tuyauterie ;"
+            },
+            {
+              "text": "- les mesures \u00e0 prendre en cas d'\u00e9chauffement d'un r\u00e9cipient ;"
+            },
+            {
+              "text": "- les pr\u00e9cautions \u00e0 prendre avec l'emploi et le stockage de produits incompatibles ;"
+            },
+            {
+              "text": "- les moyens d'extinction \u00e0 utiliser en cas d'incendie ;"
+            },
+            {
+              "text": "- la proc\u00e9dure d'alerte avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d'intervention de l'\u00e9tablissement, des services d'incendie et de secours, etc. ;"
+            },
+            {
+              "text": "- l'obligation d'informer l'inspection des installations class\u00e9es en cas d'accident."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Pr\u00e9sence de chacune de ces consignes (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.5",
+          "sections": [],
+          "title": {
+            "text": "Article 4.5 - Consignes de s\u00e9curit\u00e9."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Df3DFAC69A8a",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.6",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c1906B5AaDb3",
+              "outer_alineas": [
+                {
+                  "text": "Le constructeur de la station de distribution d'hydrog\u00e8ne gazeux fournit \u00e0 l'exploitant sous forme de documents op\u00e9rationnels et exploitables l'ensemble des proc\u00e9dures et consignes permettant son exploitation et sa maintenance en s\u00e9curit\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4.6",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "05e9Cd921Cd7",
+              "outer_alineas": [
+                {
+                  "text": "Les op\u00e9rations comportant des manipulations dangereuses et la conduite des installations (d\u00e9marrage et arr\u00eat, fonctionnement normal, entretien, etc.) font l'objet de consignes d'exploitation \u00e9crites. Ces consignes pr\u00e9voient notamment :"
+                },
+                {
+                  "text": "- les modes op\u00e9ratoires ;"
+                },
+                {
+                  "text": "- la fr\u00e9quence de v\u00e9rification des dispositifs de s\u00e9curit\u00e9 et de traitement des pollutions et nuisances g\u00e9n\u00e9r\u00e9es ;"
+                },
+                {
+                  "text": "- les instructions de maintenance et de nettoyage."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "Pr\u00e9sence des consignes d'exploitation qui reprennent les points pr\u00e9cit\u00e9s."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 4.6",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 4.6 - Consignes d'exploitation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "AbE77C69FA3e",
+          "outer_alineas": [
+            {
+              "text": "Le mode op\u00e9ratoire \u00e0 l'attention de l'usager pr\u00e9cise la marche \u00e0 suivre pour faire le plein de son v\u00e9hicule. Ce mode op\u00e9ratoire est affich\u00e9 en caract\u00e8res lisibles compl\u00e9t\u00e9s de sch\u00e9mas explicites le cas \u00e9ch\u00e9ant sur chaque borne de distribution."
+            },
+            {
+              "text": "Les consignes de s\u00e9curit\u00e9 que doit observer l'usager sont affich\u00e9es, soit en caract\u00e8res lisibles, soit au moyen de pictogrammes, au niveau de chaque appareil de distribution. Elles concernent notamment l'interdiction de fumer, d'utiliser un t\u00e9l\u00e9phone ou une tablette portable, d'approcher un appareil pouvant provoquer un feu nu, ainsi que l'obligation d'arr\u00eat du moteur. Il est pr\u00e9cis\u00e9 qu'en cas de situation dangereuse, l'usager doit d\u00e9clencher l'arr\u00eat d'urgence avant de s'\u00e9loigner des \u00e9quipements."
+            },
+            {
+              "text": "Les instructions que l'usager doit suivre en cas de sinistre sont affich\u00e9es dans les m\u00eames conditions."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "Affichage des consignes d'utilisation au niveau de chaque borne de distribution ;"
+            },
+            {
+              "text": "Affichage de s\u00e9curit\u00e9 au niveau de chaque appareil de distribution ;"
+            },
+            {
+              "text": "Affichage des instructions en cas de sinistre."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4.7",
+          "sections": [],
+          "title": {
+            "text": "Article 4.7 - Consignes d'utilisation et de s\u00e9curit\u00e9 \u00e0 destination des usagers."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre IV : Risques"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "EAU"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C906EB66C4ac",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C6f5Ba0F3Ac9",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.1",
+          "sections": [],
+          "title": {
+            "text": "Article 5.1 - Dispositions g\u00e9n\u00e9rales."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cbAA2EE7a0eA",
+          "outer_alineas": [
+            {
+              "text": "Le fonctionnement de l'installation est compatible avec les objectifs de qualit\u00e9 et de quantit\u00e9 des eaux vis\u00e9s au IV de l'article L. 212-1 du code de l'environnement. Il respecte \u00e9galement la vocation piscicole du milieu r\u00e9cepteur et les dispositions du sch\u00e9ma directeur d'am\u00e9nagement et de gestion des eaux."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.1.1",
+          "sections": [],
+          "title": {
+            "text": "Article 5.1.1 - Compatibilit\u00e9 avec le Sch\u00e9ma Directeur d'Am\u00e9nagement et de Gestion des Eaux (SDAGE)."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "E3cbddE2Dadf",
+          "outer_alineas": [
+            {
+              "text": "Les installations de pr\u00e9l\u00e8vement d'eau dans le milieu naturel sont munies de dispositifs de mesure totalisateurs de la quantit\u00e9 d'eau pr\u00e9lev\u00e9e. Ce dispositif est relev\u00e9 quotidiennement si le d\u00e9bit pr\u00e9lev\u00e9 est susceptible de d\u00e9passer 100 m3/j, mensuellement si ce d\u00e9bit est inf\u00e9rieur."
+            },
+            {
+              "text": "Le raccordement \u00e0 une nappe d'eau ou au r\u00e9seau public de distribution d'eau destin\u00e9 \u00e0 la consommation humaine est muni d'un dispositif de protection visant \u00e0 pr\u00e9venir d'\u00e9ventuelles contaminations par le retour d'eau pouvant \u00eatre pollu\u00e9e."
+            },
+            {
+              "text": "L'usage du r\u00e9seau d'eau incendie est strictement r\u00e9serv\u00e9 aux sinistres et aux exercices de secours, et aux op\u00e9rations d'entretien ou de maintien hors gel de ce r\u00e9seau."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.1.2",
+          "sections": [],
+          "title": {
+            "text": "Article 5.1.2 - Pr\u00e9l\u00e8vements."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "f47dF48Cb7bD",
+          "outer_alineas": [
+            {
+              "text": "Toutes dispositions sont prises pour limiter la consommation d'eau."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.2",
+          "sections": [],
+          "title": {
+            "text": "Article 5.2 - Consommation."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2EaaC2d2aD42",
+          "outer_alineas": [
+            {
+              "text": "Si une activit\u00e9 autre que la distribution d'hydrog\u00e8ne est susceptible de polluer les eaux pluviales ou de g\u00e9n\u00e9rer des eaux r\u00e9siduaires, le r\u00e9seau de collecte est de type s\u00e9paratif permettant d'isoler les eaux r\u00e9siduaires pollu\u00e9es des eaux pluviales non susceptibles d'\u00eatre pollu\u00e9es."
+            },
+            {
+              "text": "Les dispositions de l'article 43 de l'arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 modifi\u00e9, relatif aux pr\u00e9l\u00e8vements et \u00e0 la consommation d'eau ainsi qu'aux \u00e9missions de toute nature des installations class\u00e9es pour la protection de l'environnement soumises \u00e0 autorisation, s'appliquent \u00e0 la gestion des eaux pluviales."
+            },
+            {
+              "text": "Les eaux pluviales susceptibles d'\u00eatre significativement pollu\u00e9es du fait des activit\u00e9s sont trait\u00e9es par un ou plusieurs dispositifs de traitement ad\u00e9quat permettant de traiter les polluants en pr\u00e9sence."
+            },
+            {
+              "text": "Les points de rejet des eaux r\u00e9siduaires sont am\u00e9nag\u00e9s pour permettre un pr\u00e9l\u00e8vement d'\u00e9chantillons et l'installation d'un dispositif de mesure du d\u00e9bit."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.3",
+          "sections": [],
+          "title": {
+            "text": "Article 5.3 - R\u00e9seau de collecte, eaux pluviales."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "584CCFe2c9F3",
+          "outer_alineas": [
+            {
+              "text": "Hors dispositions sp\u00e9cifiques pr\u00e9vues \u00e0 l'article 5.3 pour les eaux pluviales non souill\u00e9es, le rejet direct ou indirect m\u00eame apr\u00e8s \u00e9puration d'effluents vers les eaux souterraines est interdit."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.4",
+          "sections": [],
+          "title": {
+            "text": "Article 5.4 - Interdiction des rejets en nappe."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ac6b9c0bFca9",
+          "outer_alineas": [
+            {
+              "text": "Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident (rupture de r\u00e9cipient, cuvette, etc.), d\u00e9versement de mati\u00e8res dangereuses dans les \u00e9gouts publics ou le milieu naturel. L'\u00e9vacuation des effluents recueillis se fait, soit dans les conditions pr\u00e9vues au point 5.3 ci-dessus, soit comme des d\u00e9chets dans les conditions pr\u00e9vues au titre 6 ci-apr\u00e8s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [
+              {
+                "alineas": null,
+                "condition": {
+                  "parameter": {
+                    "id": "date-d-installation",
+                    "type": "DATE"
+                  },
+                  "strict": true,
+                  "target": "2019-01-01",
+                  "type": "LITTLER"
+                }
+              }
+            ],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5.5",
+          "sections": [],
+          "title": {
+            "text": "Article 5.5 - Pr\u00e9vention des pollutions accidentelles."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre V : Eau"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "DECHETS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ddE5d5fA5F69",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7EbEBa06Fc3c",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant prend toutes les dispositions n\u00e9cessaires dans la conception, l'am\u00e9nagement, et l'exploitation de ses installations pour :"
+            },
+            {
+              "text": "- en priorit\u00e9, pr\u00e9venir et r\u00e9duire la production et la nocivit\u00e9 des d\u00e9chets ;"
+            },
+            {
+              "text": "- assurer une bonne gestion des d\u00e9chets de son entreprise en privil\u00e9giant, dans l'ordre :"
+            },
+            {
+              "text": "a) La pr\u00e9paration en vue de la r\u00e9utilisation ;"
+            },
+            {
+              "text": "b) Le recyclage ;"
+            },
+            {
+              "text": "c) Toute autre valorisation, notamment la valorisation \u00e9nerg\u00e9tique ;"
+            },
+            {
+              "text": "d) L'\u00e9limination."
+            },
+            {
+              "text": "L'exploitant traite ou fait traiter les d\u00e9chets produits dans des conditions propres \u00e0 garantir les int\u00e9r\u00eats vis\u00e9s \u00e0 l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilis\u00e9es pour ce traitement sont r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 cet effet."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6.1",
+          "sections": [],
+          "title": {
+            "text": "Article 6.1 - Gestion des d\u00e9chets."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre VI : D\u00e9chets"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "BRUIT_VIBRATIONS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "6d1f6312EC7f",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [
+          {
+            "alineas": null,
+            "condition": {
+              "parameter": {
+                "id": "date-d-installation",
+                "type": "DATE"
+              },
+              "strict": true,
+              "target": "2019-01-01",
+              "type": "LITTLER"
+            }
+          }
+        ],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1A9afFc88E2f",
+          "outer_alineas": [
+            {
+              "text": "Valeurs limites de bruit."
+            },
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on appelle :"
+            },
+            {
+              "text": "- \u00e9mergence : la diff\u00e9rence entre les niveaux de pression continus \u00e9quivalents pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l'absence du bruit g\u00e9n\u00e9r\u00e9 par l'installation) ;"
+            },
+            {
+              "text": "- zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e :"
+            },
+            {
+              "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers, existant \u00e0 la date de la d\u00e9claration, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse) ;"
+            },
+            {
+              "text": "- les zones constructibles d\u00e9finies par des documents d'urbanisme opposables aux tiers et publi\u00e9s \u00e0 la date de la d\u00e9claration ;"
+            },
+            {
+              "text": "- l'int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers qui ont \u00e9t\u00e9 implant\u00e9s apr\u00e8s la date de la d\u00e9claration dans les zones constructibles d\u00e9finies ci-dessus, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse), \u00e0 l'exclusion de celles des immeubles implant\u00e9s dans les zones destin\u00e9es \u00e0 recevoir des activit\u00e9s artisanales ou industrielles."
+            },
+            {
+              "text": "Pour les installations existantes, d\u00e9finies conform\u00e9ment \u00e0 l'article 1er, la date de la d\u00e9claration est remplac\u00e9e, dans la d\u00e9finition ci-dessus des zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, par la date du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "L'installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l'origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+            },
+            {
+              "text": "Les \u00e9missions sonores \u00e9mises par l'installation ne sont pas \u00e0 l'origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d'une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nNiveau de bruit ambiant existant\ndans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e\n(incluant le bruit de l'installation)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nEmergence admissible pour la p\u00e9riode\nallant de 7 h \u00e0 22 h,\nsauf dimanches et jours f\u00e9ri\u00e9s"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nEmergence admissible pour la p\u00e9riode\nallant de 22 h \u00e0 7 h, ainsi que les dimanches\net jours f\u00e9ri\u00e9s"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nsup\u00e9rieur \u00e0 35 et inf\u00e9rieur ou \u00e9gal \u00e0 45 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n6 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n4 dB (A)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\nsup\u00e9rieur \u00e0 45 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n5 dB (A)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n3 dB (A)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "De plus, le niveau de bruit en limite de propri\u00e9t\u00e9 de l'installation ne d\u00e9passe pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la p\u00e9riode de jour et 60 dB (A) pour la p\u00e9riode de nuit, sauf si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+            },
+            {
+              "text": "Dans le cas o\u00f9 le bruit particulier de l'\u00e9tablissement est \u00e0 tonalit\u00e9 marqu\u00e9e au sens du point 1.9 de l'annexe de l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l'environnement par les installations class\u00e9es pour la protection de l'environnement, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d'apparition ne peut exc\u00e9der 30 pour cent de la dur\u00e9e de fonctionnement de l'\u00e9tablissement dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+            },
+            {
+              "text": "Lorsque plusieurs installations class\u00e9es, soumises \u00e0 d\u00e9claration au titre de rubriques diff\u00e9rentes, sont situ\u00e9es au sein d'un m\u00eame \u00e9tablissement, le niveau de bruit global \u00e9mis par ces installations devra respecter les valeurs limites ci-dessus."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7.1",
+          "sections": [],
+          "title": {
+            "text": "Article 7.1 -"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F0f7b2aDca3C",
+          "outer_alineas": [
+            {
+              "text": "Les v\u00e9hicules de transport, les mat\u00e9riels de manutention et les engins de chantier utilis\u00e9s \u00e0 l'int\u00e9rieur de l'installation sont conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores. En particulier, les engins de chantier sont conformes \u00e0 un type homologu\u00e9."
+            },
+            {
+              "text": "L'usage de tous appareils de communication par voie acoustique (sir\u00e8nes, avertisseurs, haut-parleurs, etc.), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d'incidents graves ou d'accidents."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7.2",
+          "sections": [],
+          "title": {
+            "text": "Article 7.2 - V\u00e9hicules engins de chantier."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3b2ba7Ea1232",
+          "outer_alineas": [
+            {
+              "text": "La vitesse particulaire des vibrations \u00e9mises ne doit pas d\u00e9passer les valeurs d\u00e9finies ci-apr\u00e8s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7.3",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "c2B1Bab8D1D1",
+              "outer_alineas": [
+                {
+                  "text": "Sont consid\u00e9r\u00e9es comme sources continues ou assimil\u00e9es :"
+                },
+                {
+                  "text": "- toutes les machines \u00e9mettant des vibrations de mani\u00e8re continue ;"
+                },
+                {
+                  "text": "- les sources \u00e9mettant des impulsions \u00e0 intervalles assez courts sans limitation du nombre d'\u00e9missions."
+                },
+                {
+                  "text": "Les valeurs-limites applicables \u00e0 chacune des trois composantes du mouvement vibratoire sont les suivantes :"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nFr\u00e9quences"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n4 Hz - 8 Hz"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n8 Hz - 30 Hz"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n30 Hz - 100 Hz"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": true
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions r\u00e9sistantes"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n6 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n8 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions sensibles"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n3 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n5 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n6 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions tr\u00e8s sensibles"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n2 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n3 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n4 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7.3 7.3.1.",
+              "sections": [],
+              "title": {
+                "text": "7.3.1. Sources continues ou assimil\u00e9es :"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "bd8a33bb094D",
+              "outer_alineas": [
+                {
+                  "text": "Sont consid\u00e9r\u00e9es comme sources impulsionnelles, toutes les sources \u00e9mettant, en nombre limit\u00e9, des impulsions \u00e0 intervalles assez courts mais sup\u00e9rieurs \u00e0 1 s et dont la dur\u00e9e d'\u00e9missions est inf\u00e9rieure \u00e0 500 ms."
+                },
+                {
+                  "text": "Les valeurs-limites applicables \u00e0 chacune des trois composantes du mouvement vibratoire sont les suivantes :"
+                },
+                {
+                  "table": {
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nFr\u00e9quences"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n4 Hz - 8 Hz"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n8 Hz - 30 Hz"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n30 Hz - 100 Hz"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": true
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions r\u00e9sistantes"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n8 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n12 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n15 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions sensibles"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n6 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n9 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n12 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      },
+                      {
+                        "cells": [
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\nConstructions tr\u00e8s sensibles"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n4 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n6 mm/s"
+                            },
+                            "rowspan": 1
+                          },
+                          {
+                            "colspan": 1,
+                            "content": {
+                              "text": "\n9 mm/s"
+                            },
+                            "rowspan": 1
+                          }
+                        ],
+                        "is_header": false
+                      }
+                    ]
+                  },
+                  "text": ""
+                },
+                {
+                  "text": "Quelle que soit la nature de la source, lorsque les fr\u00e9quences correspondant aux vitesses particulaires couramment observ\u00e9es pendant la p\u00e9riode de mesure s'approchent de 0,5 Hz des fr\u00e9quences de 8, 30 et 100 Hz, la valeur-limite \u00e0 retenir est celle correspondant \u00e0 la bande fr\u00e9quence imm\u00e9diatement inf\u00e9rieure."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 7.3 7.3.2.",
+              "sections": [],
+              "title": {
+                "text": "7.3.2. Sources impulsionnelles :"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 7.3 - Vibrations."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre VII : Bruit et vibrations"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C1787Bb025d3",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "11D4a4F96F4d",
+          "outer_alineas": [
+            {
+              "text": "Sp\u00e9cifique aux installations mettant en \u0153uvre l'hydrog\u00e8ne gazeux dans une installation class\u00e9e pour la protection de l'environnement alimentant des chariots \u00e0 hydrog\u00e8ne gazeux."
+            },
+            {
+              "text": "Au troisi\u00e8me alin\u00e9a du I de l'article 2.4.10 de l'annexe de l'arr\u00eat\u00e9 du 26 novembre 2015 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations mettant en \u0153uvre l'hydrog\u00e8ne gazeux dans une installation class\u00e9e pour la protection de l'environnement pour alimenter des chariots \u00e0 hydrog\u00e8ne gazeux lorsque la quantit\u00e9 d'hydrog\u00e8ne pr\u00e9sente au sein de l'\u00e9tablissement rel\u00e8ve du r\u00e9gime de la d\u00e9claration pour la rubrique n\u00b0 4715, le texte \u00ab si la zone de stationnement comporte au plus 4 emplacements et si celle-ci est \u00e9quip\u00e9e d'un syst\u00e8me de d\u00e9tection et d'extinction automatique d'incendie en capacit\u00e9 de circonscrire l'incendie de tout chariot \u00bb est remplac\u00e9 par :"
+            },
+            {
+              "text": "\u00ab si la zone de stationnement comporte au plus 4 emplacements ou si celle-ci est \u00e9quip\u00e9e d'un syst\u00e8me de d\u00e9tection et d'extinction automatique d'incendie en capacit\u00e9 de circonscrire l'incendie de tout chariot \u00bb."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8.1",
+          "sections": [],
+          "title": {
+            "text": "Article 8.1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b09EFEeED99B",
+          "outer_alineas": [
+            {
+              "text": "A abrog\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "- ARR\u00caT\u00c9 du 4 ao\u00fbt 2014"
+            },
+            {
+              "text": "  Art. 5"
+            },
+            {
+              "text": "A modifi\u00e9 les dispositions suivantes :"
+            },
+            {
+              "text": "- ARR\u00caT\u00c9 du 4 ao\u00fbt 2014"
+            },
+            {
+              "text": "  Art. 1,   Art. 2"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8.2",
+          "sections": [],
+          "title": {
+            "text": "Article 8.2"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre VIII : Dispositions sp\u00e9cifiques"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "aB66da01Ea0C",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "378E75A69e7e",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent arr\u00eat\u00e9 entre en vigueur le 1er janvier 2019."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9.1",
+          "sections": [],
+          "title": {
+            "text": "Article 9.1 - Entr\u00e9e en vigueur."
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4D2eAb3dC81A",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9.2",
+          "sections": [],
+          "title": {
+            "text": "Article 9.2 - Ex\u00e9cution."
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre IX : Ex\u00e9cution"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "CDaB07D5FE1B",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Df4670B65b2D",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions sont applicables aux installations existantes selon le calendrier suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Date d'entr\u00e9e en vigueur"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Date d'entr\u00e9e en vigueur\n+ 6 mois (*)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Date d'entr\u00e9e en vigueur\n+ 12 mois (*)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Date d'entr\u00e9e en vigueur\n+ 24 mois (*)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Date d'entr\u00e9e en vigueur\n+ 36 mois (*)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Chapitre Ier - art. 1.2, 1.3, 1.5\nChapitre II - art. 2.1, 2.4, 2.6-I pour les installations class\u00e9es 4715, 2.6-II, 2.9.2 I et III, 2.9.3, 2.10, 2.11\nChapitre III\nChapitre IV - art. 4.4\nChapitre V - art. 5.2, 5.3, 5.4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Chapitre IV - art. 4.5, 4.6, 4.7"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Chapitre II - art. 2.8, 2.9.1 et 2.9.2\nChapitre IV - art. 4.2, 4.3\nChapitre VI"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Chapitre II - art. 2.3, 2.9.2 II\nChapitre V - art. 5.1.2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Chapitre II - 2.2, 2.6-I pour les installations non class\u00e9es 4715, 2.7\nChapitre IV - art. 4.1\nChapitre V - art. 5.5\nChapitre VII"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "(*) \u00e0 compter de la date d'entr\u00e9e en vigueur de l'arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [],
+          "title": {
+            "text": "Annexe I - DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "159ccCf7062f",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions ne figurant pas dans le tableau ci-dessus ne sont pas applicables aux installations existantes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe II",
+          "sections": [],
+          "title": {
+            "text": "Annexe II"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 22/10/18 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1416 (station de distribution d'hydrog\u00e8ne gazeux) de la nomenclature des installations class\u00e9es et modifiant l'arr\u00eat\u00e9 du 26 novembre 2015 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations mettant en \u0153uvre l'hydrog\u00e8ne gazeux dans une installation class\u00e9e pour la protection de l'environnement pour alimenter des chariots \u00e0 hydrog\u00e8ne gazeux lorsque la quantit\u00e9 d'hydrog\u00e8ne pr\u00e9sente au sein de l'\u00e9tablissement rel\u00e8ve du r\u00e9gime de la d\u00e9claration pour la rubrique n\u00b0 4715 et modifiant l'arr\u00eat\u00e9 du 4 ao\u00fbt 2014 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 4802"
+  },
+  "visa": [
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, et notamment le titre I du livre V,"
+    },
+    {
+      "links": [
+        {
+          "content_size": 37,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037518875&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le d\u00e9cret n\u00b0 2018-900 du 22 octobre 2018 modifiant la nomenclature des installations class\u00e9es pour la protection de l'environnement ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 23 janvier 1997 relatif \u00e0 la limitation des bruits \u00e9mis dans l'environnement par les installations class\u00e9es pour la protection de l'environnement ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 21 novembre 2002 modifi\u00e9 relatif \u00e0 la r\u00e9action au feu des produits de construction et d'am\u00e9nagement ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 22 mars 2004 modifi\u00e9 relatif \u00e0 la r\u00e9sistance au feu des produits, \u00e9l\u00e9ments de construction et d'ouvrages ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 4 ao\u00fbt 2014 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es pour la protection de l'environnement soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 4802 ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 26 novembre 2015 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations mettant en \u0153uvre l'hydrog\u00e8ne gazeux dans une installation class\u00e9e pour la protection de l'environnement pour alimenter des chariots \u00e0 hydrog\u00e8ne gazeux lorsque la quantit\u00e9 d'hydrog\u00e8ne pr\u00e9sente au sein de l'\u00e9tablissement rel\u00e8ve du r\u00e9gime de la d\u00e9claration pour la rubrique n\u00b0 4715 ;"
+    },
+    {
+      "text": "Vu l'avis des organisations professionnelles int\u00e9ress\u00e9es ;"
+    },
+    {
+      "text": "Vu l'avis des ministres int\u00e9ress\u00e9s ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 46,
+          "position": 121,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000032975869&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu les observations formul\u00e9es lors de la consultation publique r\u00e9alis\u00e9e du 26/04/2018 au 17/05/2018, en application de l'article L. 123-19-1 du code de l'environnement ;"
+    },
+    {
+      "text": "Vu l'avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques en date du 22 mai 2018,"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/5129",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2113",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2113"
+    }
+  ],
+  "date_of_signature": "2004-08-10",
+  "id": "JORFTEXT000000624760",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000624760",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "C5cBF81cacdF",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CA29Bd2DaC8c",
+          "outer_alineas": [
+            {
+              "text": "La d\u00e9tention, le transport et l'utilisation des rapaces d\u00e9tenus au sein des \u00e9tablissements d\u00e9tenant des animaux d'esp\u00e8ces non domestiques, pour l'exercice de la chasse au vol, sont soumis \u00e0 autorisation pr\u00e9fectorale pr\u00e9alable en application de l'article L. 412-1 du code de l'environnement."
+            },
+            {
+              "text": "L'autorisation d'ouverture des \u00e9tablissements d\u00e9tenant des animaux d'esp\u00e8ces non domestiques, pr\u00e9vue \u00e0 l'article L. 413-3 du code de l'environnement, vaut autorisation au sens du premier alin\u00e9a du pr\u00e9sent article, sous r\u00e9serve que cette autorisation d'ouverture autorise explicitement l'exercice de la chasse au vol."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C758dceC8d77",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 13",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "46a3DcFE8bfd",
+              "outer_alineas": [
+                {
+                  "text": "Pour l'exercice de la chasse au vol, seule peut \u00eatre autoris\u00e9e l'utilisation de rapaces diurnes falconiformes et de grands ducs, dress\u00e9s uniquement \u00e0 cet effet et appartenant aux esp\u00e8ces ou groupes d'esp\u00e8ces inscrits \u00e0 l'annexe 1 du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "aBFb43CE1b7D",
+              "outer_alineas": [
+                {
+                  "text": "L'autorisation est assortie, en tant que de besoin, de prescriptions visant \u00e0 assurer la qualit\u00e9 des conditions de transport et d'utilisation des animaux."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AE3b49811fcf",
+              "outer_alineas": [
+                {
+                  "text": "L'autorisation permet l'exercice de la chasse au vol pendant le temps o\u00f9 la chasse est ouverte. Elle permet en outre la mise en condition et l'entra\u00eenement des oiseaux apr\u00e8s la date de la cl\u00f4ture g\u00e9n\u00e9rale de la chasse en application de l'article R. 227-23 du code de l'environnement, \u00e0 condition que cet entra\u00eenement soit effectu\u00e9 sur des animaux d'esp\u00e8ces class\u00e9es nuisibles dans le d\u00e9partement et \u00e0 partir du 1er juillet jusqu'\u00e0 la date d'ouverture de la chasse, \u00e0 condition que cet entra\u00eenement soit effectu\u00e9 sur du gibier d'\u00e9levage marqu\u00e9."
+                },
+                {
+                  "text": "Sont en outre autoris\u00e9s la d\u00e9tention et le transport de ces oiseaux pour toutes les activit\u00e9s n\u00e9cessaires \u00e0 leur entretien."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 13",
+              "sections": [],
+              "title": {
+                "text": "III."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 13"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5ECf147B3BF3",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FfBBC29Dd504",
+              "outer_alineas": [
+                {
+                  "text": "Les oiseaux utilis\u00e9s pour la chasse au vol doivent b\u00e9n\u00e9ficier d'une carte d'identification comportant, outre les indications relatives \u00e0 leur d\u00e9tenteur, celles relatives \u00e0 leur identification, \u00e0 savoir :"
+                },
+                {
+                  "text": "- les noms scientifique et fran\u00e7ais de l'esp\u00e8ce ;"
+                },
+                {
+                  "text": "- la date de naissance de l'oiseau et son origine ;"
+                },
+                {
+                  "text": "- le num\u00e9ro de la marque telle que d\u00e9finie \u00e0 l'article 6 du pr\u00e9sent arr\u00eat\u00e9 ou de la marque pos\u00e9e conform\u00e9ment \u00e0 l'arr\u00eat\u00e9 du 30 juillet 1981 relatif \u00e0 l'utilisation de rapaces pour la chasse au vol ;"
+                },
+                {
+                  "text": "- les signes distinctifs de l'individu, s'il y a lieu."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 14",
+              "sections": [],
+              "title": {
+                "text": "I."
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "64fbBFe049bF",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9claration de marquage mentionn\u00e9e \u00e0 l'article 10 du pr\u00e9sent arr\u00eat\u00e9 tient lieu de carte d'identification jusqu'\u00e0 ce que, dans la mesure o\u00f9 la d\u00e9livrance de celle-ci a \u00e9t\u00e9 sollicit\u00e9e par lettre recommand\u00e9e avec demande d'avis de r\u00e9ception, le d\u00e9tenteur obtienne cette carte."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 14",
+              "sections": [],
+              "title": {
+                "text": "II."
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 14"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "883E2fF1bC28",
+          "outer_alineas": [
+            {
+              "text": "Les autorisations de d\u00e9tention, d'utilisation et de transport de rapaces d\u00e9livr\u00e9es en application de l'arr\u00eat\u00e9 du 30 juillet 1981 relatif \u00e0 l'utilisation de rapaces pour la chasse au vol sont valables au titre du pr\u00e9sent arr\u00eat\u00e9 jusqu'\u00e0 la mort des oiseaux pour l'utilisation desquels elles avaient \u00e9t\u00e9 accord\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 15",
+          "sections": [],
+          "title": {
+            "text": "Article 15"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre III :   De la chasse au vol"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "F3DE0f0B0Fbf",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "952584D75FBE",
+          "outer_alineas": [
+            {
+              "text": "Le directeur de la nature et des paysages au minist\u00e8re de l'\u00e9cologie et du d\u00e9veloppement durable et le directeur g\u00e9n\u00e9ral de l'alimentation au minist\u00e8re de l'agriculture, de l'alimentation, de la p\u00eache et des affaires rurales sont charg\u00e9s, chacun en ce qui le concerne, de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "Article 21"
+          }
+        }
+      ],
+      "title": {
+        "text": "Chapitre V :   Dispositions finales"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 10/08/04 fixant les conditions d'autorisation de d\u00e9tention d'animaux de certaines esp\u00e8ces non domestiques dans les \u00e9tablissements d'\u00e9levage, de vente, de location, de transit ou de pr\u00e9sentation au public d'animaux d'esp\u00e8ces non domestiques"
+  },
+  "visa": []
+}

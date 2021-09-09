@@ -1,0 +1,3245 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/30277",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "D",
+      "rubrique": "1511",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "1511"
+    }
+  ],
+  "date_of_signature": "2014-03-27",
+  "id": "JORFTEXT000028814820",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028814820",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4A4f37b16b90",
+      "outer_alineas": [
+        {
+          "text": "Les installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1511 (entrep\u00f4ts frigorifiques, \u00e0 l'exception des d\u00e9p\u00f4ts utilis\u00e9s au stockage de cat\u00e9gories de mati\u00e8res, produits ou substances relevant par ailleurs de la nomenclature des installations class\u00e9es) sont soumises aux dispositions de l'annexe I (*)."
+        },
+        {
+          "text": "Les pr\u00e9sentes dispositions s'appliquent sans pr\u00e9judice des autres l\u00e9gislations."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1er",
+      "sections": [],
+      "title": {
+        "text": "Article 1er"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0cb3F6eac8c4",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions de l'annexe I (*) sont applicables aux installations d\u00e9clar\u00e9es \u00e0 partir du 1er juillet 2014."
+        },
+        {
+          "text": "Les dispositions de cette annexe (*) sont applicables aux installations existantes, d\u00e9clar\u00e9es avant le 1er juillet 2014, dans les conditions pr\u00e9cis\u00e9es en annexe II (*). Les prescriptions auxquelles les installations existantes sont d\u00e9j\u00e0 soumises demeurent applicables jusqu'\u00e0 l'entr\u00e9e en vigueur de ces dispositions."
+        },
+        {
+          "text": "Les dispositions de l'annexe I (*) (\u00e0 l'exception du point 1.1.2 \u00ab Contr\u00f4le p\u00e9riodique \u00bb) sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un site qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation ou de l'enregistrement d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral du site."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "84d7fdDF4B10",
+      "outer_alineas": [
+        {
+          "text": "Le pr\u00e9fet peut, pour une installation donn\u00e9e, adapter par arr\u00eat\u00e9 les dispositions des annexes (*) dans les conditions pr\u00e9vues aux articles L. 512-12 et R. 512-52 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "4B1Ab2919B3b",
+      "outer_alineas": [
+        {
+          "text": "La directrice g\u00e9n\u00e9rale de la pr\u00e9vention des risques est charg\u00e9e de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        },
+        {
+          "text": "(*) Les annexes du pr\u00e9sent arr\u00eat\u00e9 seront publi\u00e9es au Bulletin officiel du minist\u00e8re de l'\u00e9cologie, du d\u00e9veloppement durable et de l'\u00e9nergie."
+        },
+        {
+          "text": "Fait le 27 mars 2014."
+        },
+        {
+          "text": "Pour le ministre et par d\u00e9l\u00e9gation :"
+        },
+        {
+          "text": "\tLa directrice g\u00e9n\u00e9rale de la pr\u00e9vention des risques,"
+        },
+        {
+          "text": "\tP. Blanc"
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "DD6DB268AaCA",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe I",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c3AcEd0D9AAD",
+          "outer_alineas": [
+            {
+              "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+            },
+            {
+              "text": "\u00ab \u00a0bandes de protection\u00a0 \u00bb : bandes dispos\u00e9es sur les rev\u00eatements d\u2019\u00e9tanch\u00e9it\u00e9 le long des murs s\u00e9paratifs entre cellules, destin\u00e9es \u00e0 pr\u00e9venir la propagation d\u2019un sinistre d\u2019une cellule \u00e0 l\u2019autre par la toiture ;"
+            },
+            {
+              "text": "\u00ab \u00a0cellule\u00a0 \u00bb : partie d\u2019un entrep\u00f4t couvert compartiment\u00e9, destin\u00e9e au stockage, objet des dispositions constructives des points 4.1, 4.5 et 5.1 ;"
+            },
+            {
+              "text": "\u00ab \u00a0comble \u00bb : espace entre le plafond de la cellule de stockage et la toiture ;"
+            },
+            {
+              "text": "\u00ab \u00a0contenant autoporteur gerbable\u00a0 \u00bb : contenant autoporteur destin\u00e9 \u00e0 \u00eatre empil\u00e9 ;"
+            },
+            {
+              "text": "\u00ab \u00a0entrep\u00f4t frigorifique\u00a0 \u00bb : installation compos\u00e9e d\u2019un ou plusieurs b\u00e2timents servant au stockage ou au tri de marchandises (denr\u00e9es alimentaires, animales ou produits pharmaceutiques, etc.), dans laquelle les conditions de temp\u00e9rature et/ou d\u2019hygrom\u00e9trie sont r\u00e9gl\u00e9es et maintenues en fonction des crit\u00e8res de conservation propres aux produits, qu\u2019ils soient r\u00e9frig\u00e9r\u00e9s (entrep\u00f4ts \u00e0 temp\u00e9rature positive), congel\u00e9s ou surgel\u00e9s (entrep\u00f4ts \u00e0 temp\u00e9rature n\u00e9gative) ;"
+            },
+            {
+              "text": "\u00ab \u00a0hauteur d\u2019un b\u00e2timent \u00bb : la hauteur d\u2019un b\u00e2ti\u00a0ment d\u2019entrep\u00f4t est la hauteur au fa\u00eetage, c\u2019est-\u00e0-dire la hauteur au point le plus haut de la toiture du b\u00e2timent (hors murs s\u00e9paratifs d\u00e9passant en toiture) ;"
+            },
+            {
+              "text": "\u00ab mati\u00e8res dangereuses \u00bb : substances ou m\u00e9langes vis\u00e9s \u00e0 l\u2019article 3 du r\u00e8glement (CE) n\u00b0 1272/2008 susvis\u00e9 ;"
+            },
+            {
+              "text": "\u00ab mezzanine \u00bb : surface en hauteur qui occupe au maximum 50 % de la surface du niveau inf\u00e9rieur de la cellule et qui ne comporte pas de local ferm\u00e9. Au-del\u00e0 de cette limite, la surface est consid\u00e9r\u00e9e comme un niveau ;"
+            },
+            {
+              "text": "\u00ab niveau \u00bb : surface d\u2019un m\u00eame plancher disponible pour un stockage ou une autre activit\u00e9 de l\u2019entrep\u00f4t ;"
+            },
+            {
+              "text": "\u00ab \u00a0panneau sandwich\u00a0 \u00bb : panneau fabriqu\u00e9 en usine, constitu\u00e9 d\u2019un isolant thermique rigide plac\u00e9 entre deux parements rigides. Les parements peuvent \u00eatre lisses ou nervur\u00e9s ;"
+            },
+            {
+              "text": "\u00ab \u00a0produits stock\u00e9s en masse\u00a0 \u00bb : produits empil\u00e9s les uns sur les autres ;"
+            },
+            {
+              "text": "\u00ab \u00a0pro\u00a0duits stock\u00e9s en vrac \u00bb : pr\u00a0oduits nus pos\u00e9s au sol en tas ;"
+            },
+            {
+              "text": "\u00ab r\u00e9action et r\u00e9sistance au feu des \u00e9l\u00e9ments de construction \u00bb, \u00ab classe et indice de toiture \u00bb, \u00ab gouttes enflamm\u00e9es \u00bb : ces d\u00e9finitions sont celles figurant dans les arr\u00eat\u00e9s du 21 novembre 2002, du 14 f\u00e9vrier 2003 et du 22 mars 2004 susvis\u00e9s ;"
+            },
+            {
+              "text": "\u00ab structure \u00bb : \u00e9l\u00e9ments qui concourent \u00e0 la stabilit\u00e9 du b\u00e2timent tels que les poteaux, les poutres, les planchers et les murs porteurs ;"
+            },
+            {
+              "text": "\u00ab support de couverture \u00bb : tous les \u00e9l\u00e9ments reposant sur la structure concourant au couvert du b\u00e2timent ;"
+            },
+            {
+              "text": "\u00ab syst\u00e8me d\u2019extinction automatique \u00bb : syst\u00e8me permettant automatiquement, sans intervention humaine, d\u2019\u00e9teindre le feu \u00e0 ses d\u00e9buts ou de le contenir de fa\u00e7on que l\u2019extinction puisse \u00eatre men\u00e9e \u00e0 bien par les moyens de l\u2019\u00e9tablissement prot\u00e9g\u00e9 ou par les services de secours et d\u2019incendie. Syst\u00e8me dont l\u2019efficacit\u00e9 est qualifi\u00e9e et v\u00e9rifi\u00e9e par des organismes reconnus comp\u00e9tents dans le domaine de l\u2019extinction automatique et dont la qualification pr\u00e9cise que l\u2019installation est adapt\u00e9e aux produits stock\u00e9s et \u00e0 leurs conditions de stockage ;"
+            },
+            {
+              "text": "\u00ab temp\u00e9rature de stockage \u00bb : temp\u00e9rature de stockage n\u00e9cessaire pour la conservation des produits ;"
+            },
+            {
+              "text": "\u00ab temp\u00e9rature n\u00e9gative \u00bb : temp\u00e9rature de stockage inf\u00e9rieure \u00e0 0 \u00b0C ;"
+            },
+            {
+              "text": "\u00ab temp\u00e9rature positive \u00bb : temp\u00e9rature de stockage de 0 \u00b0C \u00e0 + 18 \u00b0C."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I",
+          "sections": [],
+          "title": {
+            "text": "D\u00e9finitions"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DISPOSITIONS_GENERALES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F8a3Bf09CEeE",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 1.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cde2ECbccBDc",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.1.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "E113868ad4a3",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019installation est implant\u00e9e, r\u00e9alis\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et autres documents joints \u00e0 la d\u00e9claration, sous r\u00e9serve du respect des prescriptions ci-dessous."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 1.1.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "1.1.1. Conformit\u00e9 de l\u2019installation \u00e0 la d\u00e9claration"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "B7EB0c4D1Cec",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019installation est soumise \u00e0 des contr\u00f4les p\u00e9riodiques par des organismes agr\u00e9\u00e9s dans les conditions d\u00e9finies par les articles R. 512-55 \u00e0 R. 512-60 du code de l\u2019environnement."
+                    },
+                    {
+                      "text": "Ces contr\u00f4les ont pour objet de v\u00e9rifier la conformit\u00e9 de l\u2019installation aux prescription rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par le terme : \u00ab Objet du contr\u00f4le \u00bb, \u00e9ventuellement modifi\u00e9es par arr\u00eat\u00e9 pr\u00e9fectoral, lorsqu\u2019elles lui sont applicables. Les prescriptions dont le non-respect constitue une nonconformit\u00e9 majeure entra\u00eenant l\u2019information du pr\u00e9fet dans les conditions pr\u00e9vues \u00e0 l\u2019article R. 512-59-1 sont rep\u00e9r\u00e9es dans la pr\u00e9sente annexe par la mention : \u00ab (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) \u00bb."
+                    },
+                    {
+                      "text": "L\u2019exploitant conserve le rapport de visite que l\u2019organisme agr\u00e9\u00e9 lui adresse dans le dossier installations class\u00e9es pr\u00e9vu au point 1.4. Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l\u2019objet du contr\u00f4le, l\u2019exploitant met en oeuvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 1.1.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "1.1.2. Contr\u00f4le p\u00e9riodique"
+                  }
+                }
+              ],
+              "title": {
+                "text": "1.1. Conformit\u00e9 de l\u2019installation \u00e0 la d\u00e9claration"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Fd2eBFC5bFDc",
+              "outer_alineas": [
+                {
+                  "text": "Toute modification apport\u00e9e par le d\u00e9clarant \u00e0 l\u2019installation, \u00e0 son mode d\u2019exploitation ou \u00e0 son voisinage, entra\u00eenant un changement notable des \u00e9l\u00e9ments du dossier de d\u00e9claration initiale, est port\u00e9e, avant sa r\u00e9alisation, \u00e0 la connaissance du pr\u00e9fet, qui peut exiger une nouvelle d\u00e9claration."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.2.",
+              "sections": [],
+              "title": {
+                "text": "1.2. Modifications"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "3a4F5a0Da5Ae",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9claration pr\u00e9cise les mesures prises relatives aux conditions d\u2019utilisation, d\u2019\u00e9puration et d\u2019\u00e9vacuation des eaux r\u00e9siduaires et des \u00e9manations de toutes natures, ainsi que d\u2019\u00e9limination des d\u00e9chets et r\u00e9sidus en vue de respecter les dispositions du pr\u00e9sent arr\u00eat\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.3.",
+              "sections": [],
+              "title": {
+                "text": "1.3. Contenu de la d\u00e9claration"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "30709DDebccc",
+              "outer_alineas": [
+                {
+                  "text": "(D\u00e9cret n\u00b02015-1614 du 9 d\u00e9cembre 2015, article 16)"
+                },
+                {
+                  "text": "L\u2019exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+                },
+                {
+                  "text": "\t- le dossier de d\u00e9claration ;"
+                },
+                {
+                  "text": "\t- les plans tenus \u00e0 jour ;"
+                },
+                {
+                  "text": "\t- \u00ab la preuve de d\u00e9p\u00f4t de la d\u00e9claration \u00bb et les prescriptions g\u00e9n\u00e9rales ;"
+                },
+                {
+                  "text": "\t- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l\u2019installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es, s\u2019il y en a ;"
+                },
+                {
+                  "text": "\t- les r\u00e9sultats des derni\u00e8res mesures sur les effluents et le bruit ;"
+                },
+                {
+                  "text": "\t- l\u2019\u00e9tude de flux thermique pr\u00e9vue au point 3.1 ;"
+                },
+                {
+                  "text": "\t- si pr\u00e9sence de plusieurs mezzanines dans une cellule, l\u2019\u00e9tude pr\u00e9vue au point 5.1.1 ;"
+                },
+                {
+                  "text": "\t- les autres documents pr\u00e9vus au titre des points suivants du pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Ce dossier est tenu \u00e0 la disposition de l\u2019inspection des installations class\u00e9es, des services d\u2019incendie et de secours et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence du dossier de d\u00e9claration ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de \u00ab la preuve de d\u00e9p\u00f4t de la d\u00e9claration \u00bb ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des prescriptions g\u00e9n\u00e9rales ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l\u2019installation, lorsqu\u2019il y en a ;"
+                },
+                {
+                  "text": "\t- v\u00e9rification que le volume stock\u00e9 est inf\u00e9rieur au volume d\u00e9clar\u00e9 et que son implantation est coh\u00e9rente avec celle d\u00e9clar\u00e9e ;"
+                },
+                {
+                  "text": "\t- v\u00e9rification que le volume stock\u00e9 est inf\u00e9rieur au seuil maximal du r\u00e9gime d\u00e9claratif tel que d\u00e9fini \u00e0 l\u2019annexe de l\u2019article R. 511-9 du code de l\u2019environnement (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de l\u2019\u00e9tude de flux thermique couvrant le volume stock\u00e9 et d\u00e9clar\u00e9 (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.4.",
+              "sections": [],
+              "title": {
+                "text": "1.4. Dossier installation class\u00e9e"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "caaA4dC40cfD",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant d\u2019une installation est tenu de d\u00e9clarer dans les meilleurs d\u00e9lais \u00e0 l\u2019inspection des installations class\u00e9es les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature \u00e0 porter atteinte aux int\u00e9r\u00eats mentionn\u00e9s \u00e0 l\u2019article L. 511-1 du code de l\u2019environnement."
+                },
+                {
+                  "text": "Un registre rassemblant l\u2019ensemble des d\u00e9clarations faites au titre du pr\u00e9sent point est tenu \u00e0 jour et mis, sur demande, \u00e0 la disposition de l\u2019inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.5.",
+              "sections": [],
+              "title": {
+                "text": "1.5. D\u00e9claration d\u2019accident ou de pollution accidentelle"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Ff04aeC7B2dE",
+              "outer_alineas": [
+                {
+                  "text": "Lorsque l\u2019installation change d\u2019exploitant, le nouvel exploitant ou son repr\u00e9sentant en fait la d\u00e9claration au pr\u00e9fet dans le mois qui suit la prise en charge de l\u2019exploitation. Cette d\u00e9claration mentionne, s\u2019il s\u2019agit d\u2019une personne physique, les nom, pr\u00e9noms et domicile du nouvel exploitant et, s\u2019il s\u2019agit d\u2019une personne morale, sa d\u00e9nomination ou sa raison sociale, sa forme juridique, l\u2019adresse de son si\u00e8ge social ainsi que la qualit\u00e9 du signataire de la d\u00e9claration."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.6.",
+              "sections": [],
+              "title": {
+                "text": "1.6. Changement d\u2019exploitant"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "83d5291148C1",
+              "outer_alineas": [
+                {
+                  "text": "Lorsqu\u2019une installation cesse l\u2019activit\u00e9 au titre de laquelle elle \u00e9tait d\u00e9clar\u00e9e, son exploitant en informe le pr\u00e9fet au moins un mois avant l\u2019arr\u00eat d\u00e9finitif. La notification de l\u2019exploitant indique les mesures de remise en \u00e9tat pr\u00e9vues ou r\u00e9alis\u00e9es, conform\u00e9ment \u00e0 l\u2019article R. 512-66-1 du code de l\u2019environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 1.7.",
+              "sections": [],
+              "title": {
+                "text": "1.7. Cessation d\u2019activit\u00e9"
+              }
+            }
+          ],
+          "title": {
+            "text": "1. Dispositions g\u00e9n\u00e9rales"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2CbeEF0bFFcB",
+          "outer_alineas": [
+            {
+              "text": "L\u2019exploitant tient \u00e0 jour un \u00e9tat des quantit\u00e9s stock\u00e9es. Cet \u00e9tat indique la nature et la localisation des produits stock\u00e9s. L\u2019exploitant dispose, sur le site et avant r\u00e9ception des mati\u00e8res, des fiches de donn\u00e9es de s\u00e9curit\u00e9 pour les mati\u00e8res dangereuses, pr\u00e9vues dans le code du travail. Ces documents sont tenus en permanence, de mani\u00e8re facilement accessible, \u00e0 la disposition des services d\u2019incendie et de secours, de l\u2019inspection des installations class\u00e9es et de l\u2019organisme de contr\u00f4les p\u00e9riodiques."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "\t- pr\u00e9sence de l\u2019\u00e9tat de stocks et par sondage de sa coh\u00e9rence ;"
+            },
+            {
+              "text": "\t- en cas de stockage de mati\u00e8res dangereuses, pr\u00e9sence par sondage des fiches de donn\u00e9es de s\u00e9curit\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 2.",
+          "sections": [],
+          "title": {
+            "text": "2. Etats des stocks"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "DABd4FcBD6D4",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "633c65fE884a",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019implantation des parois ext\u00e9rieures des cellules de l\u2019entrep\u00f4t est telle que les effets l\u00e9taux, au sens de l\u2019arr\u00eat\u00e9 du 29 septembre 2005 susvis\u00e9, restent contenus dans l\u2019enceinte du site en cas d\u2019incendie, en prenant en compte la configuration la plus d\u00e9favorable par rapport aux mati\u00e8res combustibles potentiellement stock\u00e9es en utilisant la m\u00e9thode de calcul FLUMILOG (r\u00e9f\u00e9renc\u00e9e dans le document de l\u2019INERIS \u00ab Description de la m\u00e9thode de calcul des effets thermiques produits par un feu d\u2019entrep\u00f4t \u00bb, partie A, r\u00e9f. DRA-09-90977-14553A)."
+                },
+                {
+                  "text": "De plus, la distance entre les parois ext\u00e9rieures des cellules de l\u2019entrep\u00f4t et l\u2019enceinte du site n\u2019est pas inf\u00e9rieure \u00e0 1,5 fois la hauteur du b\u00e2timent et est au minimum de 20 m\u00e8tres. Cette distance peut \u00eatre ramen\u00e9e \u00e0 la hauteur du b\u00e2timent si les cellules de stockage sont \u00e9quip\u00e9es d\u2019un syst\u00e8me d\u2019extinction automatique ou, pour les cellules sous froid n\u00e9gatif, d\u2019un syst\u00e8me de d\u00e9tection haute sensibilit\u00e9, avec transmission de l\u2019alarme \u00e0 l\u2019exploitant ou \u00e0 une soci\u00e9t\u00e9 de surveillance ext\u00e9rieure."
+                },
+                {
+                  "text": "\tCette conformit\u00e9 est justifi\u00e9e par un document synth\u00e9tique pr\u00e9cisant clairement les conditions de validit\u00e9."
+                },
+                {
+                  "text": "Cette distance permet par ailleurs de respecter les prescriptions du point 3.2."
+                },
+                {
+                  "text": "L\u2019installation ne surmonte pas ou n\u2019est pas surmont\u00e9e de locaux habit\u00e9s ou occup\u00e9s par des tiers."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- v\u00e9rification des conditions d\u2019implantation (le non-respect de ce point rel\u00e8ve d\u2019une non conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.1.",
+              "sections": [],
+              "title": {
+                "text": "3.1. Implantation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "f39cd1610B4F",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 3.2.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "eCeaBAd49930",
+                  "outer_alineas": [
+                    {
+                      "text": "L\u2019installation dispose en permanence d\u2019un acc\u00e8s au moins pour permettre l\u2019intervention des services d\u2019incendie et de secours."
+                    },
+                    {
+                      "text": "On entend par \u00ab acc\u00e8s \u00e0 l\u2019installation \u00bb une ouverture reliant la voie de desserte ou publique et l\u2019int\u00e9rieur du site, suffisamment dimensionn\u00e9e pour permettre l\u2019entr\u00e9e des engins de secours et leur mise en \u0153uvre. Les dimensions de cet acc\u00e8s ne sont pas inf\u00e9rieures \u00e0 celles de la voie \u00ab engins \u00bb d\u00e9finie au 3.2.2. Cet acc\u00e8s peut \u00eatre ouvert sur demande des services d\u2019incendie et de secours."
+                    },
+                    {
+                      "text": "Les v\u00e9hicules dont la pr\u00e9sence est li\u00e9e \u00e0 l\u2019exploitation du site stationnent sans occasionner de g\u00eane pour l\u2019accessibilit\u00e9 des engins des services de secours depuis les voies de circulation externes \u00e0 l\u2019entrep\u00f4t, m\u00eame en dehors des heures d\u2019exploitation et d\u2019ouverture du stockage."
+                    },
+                    {
+                      "text": "En cas de recours \u00e0 une voie d\u2019acc\u00e8s secondaire des services d\u2019incendie et de secours, elle est maintenue d\u00e9gag\u00e9e de tout stationnement et comporte une mat\u00e9rialisation faisant appara\u00eetre la mention : \u00ab acc\u00e8s pompiers \u00bb. Ce dispositif peut \u00eatre renforc\u00e9 par une signalisation de type \u00ab stationnement interdit \u00bb."
+                    },
+                    {
+                      "text": "L\u2019exploitant tient \u00e0 disposition des services d\u2019incendie et de secours des consignes pr\u00e9cises pour l\u2019accueil des secours et les modalit\u00e9s de leur acc\u00e8s \u00e0 tous les lieux."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de la pr\u00e9sence de l\u2019acc\u00e8s permettant l\u2019intervention des services d\u2019incendie et de secours (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019absence de g\u00eane pour l\u2019accessibilit\u00e9 des engins des services de secours depuis les voies de circulation externes \u00e0 l\u2019entrep\u00f4t."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": [
+                          0,
+                          1
+                        ],
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.1. Accessibilit\u00e9 au site"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "d1dBc992Abfd",
+                  "outer_alineas": [
+                    {
+                      "text": "Une voie \u00ab engins \u00bb au moins est maintenue d\u00e9gag\u00e9e pour la circulation sur le p\u00e9rim\u00e8tre de l\u2019entrep\u00f4t et des b\u00e2timents accol\u00e9s et est positionn\u00e9e de fa\u00e7on \u00e0 ne pouvoir \u00eatre obstru\u00e9e par l\u2019effondrement de tout ou partie du stockage ou occup\u00e9e par les eaux d\u2019extinction."
+                    },
+                    {
+                      "text": "Cette voie \u00ab engins \u00bb respecte les caract\u00e9ristiques suivantes :"
+                    },
+                    {
+                      "text": "\t- la largeur utile est au minimum de 3 m\u00e8tres, la hauteur libre au minimum de 3,5 m\u00e8tres et la pente inf\u00e9rieure \u00e0 15 % ;"
+                    },
+                    {
+                      "text": "\t- dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50 m\u00e8tres, un rayon int\u00e9rieur R minimal de 11 m\u00e8tres est maintenu et une surlargeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+                    },
+                    {
+                      "text": "\t- la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 160 kN, avec un maximum de 90 kN par essieu, ceux-ci \u00e9tant distants de 3,6 m\u00e8tres au minimum ;"
+                    },
+                    {
+                      "text": "\t- chaque point du p\u00e9rim\u00e8tre de l\u2019installation est \u00e0 une distance maximale de 60 m\u00e8tres de cette voie ;"
+                    },
+                    {
+                      "text": "\t- aucun obstacle n\u2019est dispos\u00e9 entre les acc\u00e8s aux stockages ou aux voies \u00ab \u00e9chelles \u00bb d\u00e9finies aux 3.2.4 et 3.2.5 et la voie \u00ab engins \u00bb."
+                    },
+                    {
+                      "text": "En cas d\u2019impossibilit\u00e9 de mise en place d\u2019une voie \u00ab engins \u00bb permettant la circulation sur l\u2019int\u00e9gralit\u00e9 du p\u00e9rim\u00e8tre de l\u2019entrep\u00f4t et des b\u00e2timents accol\u00e9s et si tout ou partie de la voie est en impasse, les 40 derniers m\u00e8tres de la partie de la voie en impasse sont d\u2019une largeur utile minimale de 7 m\u00e8tres et une aire de retournement comprise dans un cercle de 20 m\u00e8tres de diam\u00e8tre est pr\u00e9vue \u00e0 son extr\u00e9mit\u00e9."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.2. Accessibilit\u00e9 des engins \u00e0 proximit\u00e9 du stockage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "b7C2a4E5E647",
+                  "outer_alineas": [
+                    {
+                      "text": "Pour permettre le croisement des engins de secours sans n\u00e9cessit\u00e9 de man\u0153uvre, tout tron\u00e7on de voie \u00ab engins \u00bb de plus de 100 m\u00e8tres lin\u00e9aires dispose d\u2019au moins deux aires dites de croisement, judicieusement positionn\u00e9es, pr\u00e9sentant a minima les m\u00eames qualit\u00e9s de pente, de force portante et de hauteur libre que la voie \u00ab engins \u00bb, et ayant :"
+                    },
+                    {
+                      "text": "\t- une largeur utile minimale de 3 m\u00e8tres en plus de la voie \u00ab engins \u00bb ;"
+                    },
+                    {
+                      "text": "\t- une longueur minimale de 15 m\u00e8tres."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.3. D\u00e9placement des engins de secours \u00e0 l\u2019int\u00e9rieur du site"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "aFda1e07De8C",
+                  "outer_alineas": [
+                    {
+                      "text": "Pour tout stockage en b\u00e2timent de hauteur sup\u00e9rieure \u00e0 8 m\u00e8tres, au moins une fa\u00e7ade est desservie par au moins une voie \u00ab \u00e9chelles \u00bb permettant la circulation et la mise en station des \u00e9chelles a\u00e9riennes. Cette voie \u00ab \u00e9chelles \u00bb est directement accessible depuis la voie \u00ab engins \u00bb d\u00e9finie au 3.2.2."
+                    },
+                    {
+                      "text": "Depuis cette voie, une \u00e9chelle acc\u00e9dant \u00e0 au moins toute la hauteur du b\u00e2timent peut \u00eatre dispos\u00e9e."
+                    },
+                    {
+                      "text": "La voie respecte par ailleurs les caract\u00e9ristiques suivantes :"
+                    },
+                    {
+                      "text": "\t- la largeur utile est au minimum de 4 m\u00e8tres, la longueur de l\u2019aire de stationnement au minimum de 10 m\u00e8tres, la pente au maximum de 10 % ;"
+                    },
+                    {
+                      "text": "\t- dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50 m\u00e8tres, un rayon int\u00e9rieur R minimal de 11 m\u00e8tres est maintenu et une surlargeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+                    },
+                    {
+                      "text": "\t- aucun obstacle a\u00e9rien ne g\u00eane la man\u0153uvre de ces \u00e9chelles \u00e0 la verticale de l\u2019ensemble de la voie ;"
+                    },
+                    {
+                      "text": "\t- la distance par rapport \u00e0 la fa\u00e7ade est de 1 m\u00e8tre minimum et 8 m\u00e8tres maximum pour un stationnement parall\u00e8le au b\u00e2timent et inf\u00e9rieure \u00e0 1 m\u00e8tre pour un stationnement perpendiculaire au b\u00e2timent ;"
+                    },
+                    {
+                      "text": "\t- la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci \u00e9tant distants de 3,6 m\u00e8tres au minimum, et pr\u00e9sente une r\u00e9sistance au poin\u00e7onnement minimale de 80 N/cm2."
+                    },
+                    {
+                      "text": "Par ailleurs, pour tout entrep\u00f4t de plusieurs niveaux poss\u00e9dant au moins un plancher situ\u00e9 \u00e0 une hauteur sup\u00e9rieure \u00e0 8 m\u00e8tres par rapport au niveau d\u2019acc\u00e8s des secours, sur au moins deux fa\u00e7ades, cette voie \u00ab \u00e9chelles \u00bb permet d\u2019acc\u00e9der \u00e0 des ouvertures."
+                    },
+                    {
+                      "text": "Ces ouvertures permettent au moins un acc\u00e8s par \u00e9tage pour chacune des fa\u00e7ades disposant de voie \u00ab \u00e9chelles \u00bb et pr\u00e9sentent une hauteur minimale de 1,8 m\u00e8tre et une largeur minimale de 0,9 m\u00e8tre. Les panneaux d\u2019obturation ou les ch\u00e2ssis composant ces acc\u00e8s s\u2019ouvrent et demeurent toujours accessibles de l\u2019ext\u00e9rieur et de l\u2019int\u00e9rieur. Ils sont ais\u00e9ment rep\u00e9rables de l\u2019ext\u00e9rieur par les services de secours."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.4.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.4. Mise en station des \u00e9chelles"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "b06F5Ae1ee53",
+                  "outer_alineas": [
+                    {
+                      "text": "A partir de chaque voie \u00ab engins \u00bb ou \u00ab \u00e9chelles \u00bb est pr\u00e9vu un acc\u00e8s \u00e0 toutes les issues du b\u00e2timent par un chemin stabilis\u00e9 de 1,80 m\u00e8tre de large au minimum."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.5.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.5. Etablissement du dispositif hydraulique depuis les engins"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "fB30041fF97E",
+                  "outer_alineas": [
+                    {
+                      "text": "Les acc\u00e8s des locaux de stockage permettent l\u2019intervention rapide des secours depuis l\u2019ext\u00e9rieur des cellules de stockage ou depuis un espace \u00e0 l\u2019abri des effets du sinistre, qui peut \u00eatre une cellule adjacente. Leur nombre minimal permet que tout point d\u2019un b\u00e2timent de stockage ne soit pas distant de plus de 50 m\u00e8tres effectifs de l\u2019un d\u2019eux et 25 m\u00e8tres dans les parties de b\u00e2timent formant cul-de-sac. Ils sont au moins deux, dans deux directions oppos\u00e9es, dans chaque cellule de stockage d\u2019une surface sup\u00e9rieure \u00e0 1 000 m\u00e8tres carr\u00e9s."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 3.2.6.",
+                  "sections": [],
+                  "title": {
+                    "text": "3.2.6. Acc\u00e8s des secours \u00e0 l\u2019entrep\u00f4t"
+                  }
+                }
+              ],
+              "title": {
+                "text": "3.2. Accessibilit\u00e9"
+              }
+            }
+          ],
+          "title": {
+            "text": "3. Implantation, accessibilit\u00e9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9C99CeD914f0",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 4.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "CCBdC739c69d",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions constructives visent \u00e0 ce que la ruine d\u2019un \u00e9l\u00e9ment de structure n\u2019entra\u00eene pas la ruine en cha\u00eene de la structure du b\u00e2timent, notamment les cellules de stockage avoisinantes, ni de leur dispositif de recoupement et ne favorise pas l\u2019effondrement de la structure vers l\u2019ext\u00e9rieur."
+                },
+                {
+                  "text": "Les locaux abritant l\u2019installation pr\u00e9sentent les caract\u00e9ristiques de r\u00e9action et de r\u00e9sistance au feu minimales pr\u00e9cis\u00e9es au niveau du pr\u00e9sent point 4.1."
+                },
+                {
+                  "text": "L\u2019ensemble de la structure est R15. Pour les entrep\u00f4ts \u00e0 simple rez-de-chauss\u00e9e de plus de 12,50 m\u00e8tres de hauteur, la structure est R60, sauf si le b\u00e2timent est dot\u00e9 d\u2019un dispositif d\u2019extinction automatique d\u2019incendie. Pour les entrep\u00f4ts de deux niveaux ou plus, les planchers (hors mezzanines) sont EI 120 et les structures porteuses des planchers R120."
+                },
+                {
+                  "text": "Les parois ext\u00e9rieures sont construites en mat\u00e9riaux B s3 d0."
+                },
+                {
+                  "text": "Les parois s\u00e9paratives entre deux cellules sont REI 120 ; ces parois sont prolong\u00e9es lat\u00e9ralement le long du mur ext\u00e9rieur sur une largeur de 2 m\u00e8tres ou sont prolong\u00e9es perpendiculairement au mur ext\u00e9rieur de 1 m\u00e8tre en saillie de la fa\u00e7ade. Si les parois ext\u00e9rieures du b\u00e2timent sont construites en mat\u00e9riaux A2 s1 d0, ces distances sont ramen\u00e9es respectivement \u00e0 1 m\u00e8tre et 0,5 m\u00e8tre."
+                },
+                {
+                  "text": "Les \u00e9l\u00e9ments s\u00e9paratifs entre cellules d\u00e9passent d\u2019au moins 1 m\u00e8tre la couverture du b\u00e2timent au droit du franchissement. La toiture est recouverte d\u2019une bande de protection sur une largeur minimale de 5 m\u00e8tres de part et d\u2019autre des parois s\u00e9paratives."
+                },
+                {
+                  "text": "Cette bande est en mat\u00e9riaux A2 s1 d0 ou comporte en surface une feuille m\u00e9tallique A2 s1 d0."
+                },
+                {
+                  "text": "Les murs s\u00e9paratifs entre une cellule et un local technique (hors chaufferie) sont REI 120 jusqu\u2019en sous-fa\u00e7ade ou une distance libre de 10 m\u00e8tres est respect\u00e9e entre la cellule et le local technique."
+                },
+                {
+                  "text": "Les bureaux et les locaux sociaux, \u00e0 l\u2019exception des bureaux dits de quai destin\u00e9s \u00e0 accueillir le personnel travaillant directement sur les stockages et les quais, sont situ\u00e9s dans un local clos distant d\u2019au moins 10 m\u00e8tres des cellules de stockage. Cette distance peut \u00eatre inf\u00e9rieure \u00e0 10 m\u00e8tres si les bureaux et locaux sociaux sont isol\u00e9s par une paroi jusqu\u2019en sous-face de toiture et des portes d\u2019intercommunication munies d\u2019un ferme-porte, qui sont tous REI 120, sans que ces locaux soient contigus avec les cellules o\u00f9 sont pr\u00e9sentes des mati\u00e8res dangereuses."
+                },
+                {
+                  "text": "Il est \u00e9galement possible que les bureaux soient situ\u00e9s \u00e0 l\u2019int\u00e9rieur d\u2019une cellule. Dans ce cas, en compl\u00e9ment des dispositions de l\u2019alin\u00e9a pr\u00e9c\u00e9dent, pour ces bureaux, \u00e0 l\u2019exception des bureaux dits de quai :"
+                },
+                {
+                  "text": "\t- le plafond est REI 120 ;"
+                },
+                {
+                  "text": "\t- le plancher est \u00e9galement REI 120 si les bureaux sont situ\u00e9s en \u00e9tage."
+                },
+                {
+                  "text": "Le degr\u00e9 de r\u00e9sistance au feu exig\u00e9 pour les murs ou parois s\u00e9paratifs est \u00e0 conserver, notamment au niveau des ouvertures, en int\u00e9grant des dispositifs assurant un degr\u00e9 de r\u00e9sistance au feu au moins \u00e9quivalent (par exemple des dispositifs de fermeture pour les baies, convoyeurs et portes ou des dispositifs de calfeutrement pour les passages de gaines et c\u00e2bles \u00e9lectriques)."
+                },
+                {
+                  "text": "Le compartimentage de la ou des cellules sinistr\u00e9es est assur\u00e9 notamment par la fermeture automatique en cas d\u2019incendie des portes coupe-feu et des \u00e9ventuelles ouvertures non rebouch\u00e9es effectu\u00e9es dans les parois s\u00e9paratives coupe-feu."
+                },
+                {
+                  "text": "Le dispositif de fermeture est aussi man\u0153uvrable \u00e0 la main, que l\u2019incendie soit d\u2019un c\u00f4t\u00e9 ou de l\u2019autre de la paroi. Ainsi les portes situ\u00e9es dans un mur REI 120 pr\u00e9sentent un classement EI2 120 C."
+                },
+                {
+                  "text": "Les portes satisfont une classe de durabilit\u00e9 C2."
+                },
+                {
+                  "text": "Le sol des aires et locaux de stockage est de classe A1fl."
+                },
+                {
+                  "text": "Les \u00e9l\u00e9ments de support de couverture de toiture, hors isolant, sont r\u00e9alis\u00e9s en mat\u00e9riaux A2 s1 d0."
+                },
+                {
+                  "text": "Les isolants de support de couverture de toiture sont r\u00e9alis\u00e9s en mat\u00e9riaux B s3 d0."
+                },
+                {
+                  "text": "La couverture de toiture surmontant un comble satisfait la classe et l\u2019indice BROOF (t3)."
+                },
+                {
+                  "text": "Dans le cas o\u00f9 la couverture de la cellule frigorifique assure la fonction de toiture, soit elle satisfait la classe et l\u2019indice BROOF (t3), soit les \u00e9l\u00e9ments s\u00e9paratifs entre cellules d\u00e9passent d\u2019au moins 2 m\u00e8tres la couverture du b\u00e2timent au droit du franchissement et la toiture est recouverte d\u2019une bande de protection sur une largeur minimale de 10 m\u00e8tres de part et d\u2019autre des parois s\u00e9paratives."
+                },
+                {
+                  "text": "Cette bande est en mat\u00e9riaux A2 s1 d0 ou comporte en surface une feuille m\u00e9tallique A2 s1 d0."
+                },
+                {
+                  "text": "Les mat\u00e9riaux utilis\u00e9s pour l\u2019\u00e9clairage naturel satisfont \u00e0 la classe d0."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- v\u00e9rification de la pr\u00e9sence des murs ou parois s\u00e9paratifs entre cellules (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- v\u00e9rification de la pr\u00e9sence de justificatifs montrant que les caract\u00e9ristiques des parois s\u00e9paratives (mat\u00e9riaux, \u00e9paisseurs, etc.) sont compatibles avec la tenue au feu prescrite (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.1.",
+              "sections": [],
+              "title": {
+                "text": "4.1. Structure du b\u00e2timent"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B7826A957a05",
+              "outer_alineas": [
+                {
+                  "text": "La d\u00e9tection automatique d\u2019incendie avec transmission, en tout temps, de l\u2019alarme \u00e0 l\u2019exploitant est obligatoire pour les cellules, les combles (lorsqu\u2019ils existent), les locaux techniques et les bureaux \u00e0 moins de 10 m\u00e8tres des stockages."
+                },
+                {
+                  "text": "Cette d\u00e9tection actionne une alarme perceptible en tout point du b\u00e2timent sinistr\u00e9."
+                },
+                {
+                  "text": "Cette d\u00e9tection peut \u00eatre assur\u00e9e par le syst\u00e8me d\u2019extinction automatique. Dans ce cas, l\u2019exploitant s\u2019assure que le syst\u00e8me permet une d\u00e9tection pr\u00e9coce de tout d\u00e9part d\u2019incendie en tenant compte de la nature des produits stock\u00e9s et r\u00e9alise une \u00e9tude technique permettant de le d\u00e9montrer."
+                },
+                {
+                  "text": "L\u2019exploitant est en mesure de d\u00e9montrer la pertinence du dimensionnement retenu pour les dispositifs de d\u00e9tection."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de la d\u00e9tection automatique d\u2019incendie dans les cellules, les combles, les locaux techniques et les bureaux \u00e0 moins de 10 m\u00e8tres des stockages (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de la d\u00e9monstration de la pertinence du dimensionnement retenu pour les dispositifs de d\u00e9tection ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des consignes de maintenance ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence du compte rendu des v\u00e9rifications de maintenance et des tests des dispositifs de d\u00e9tection d\u2019incendie datant de moins d\u2019un an (le non-respect de ce point rel\u00e8ve d\u2019une non conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.2.",
+              "sections": [],
+              "title": {
+                "text": "4.2. D\u00e9tection automatique"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0babbBFfC898",
+              "outer_alineas": [
+                {
+                  "text": "A. L\u2019exploitant tient \u00e0 la disposition de l\u2019inspection des installations class\u00e9es et de l\u2019organisme de contr\u00f4les p\u00e9riodiques les \u00e9l\u00e9ments justifiant que les installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux normes en vigueur, entretenues en bon \u00e9tat et v\u00e9rifi\u00e9es."
+                },
+                {
+                  "text": "Dans le cas d\u2019un \u00e9clairage artificiel, seul l\u2019\u00e9clairage \u00e9lectrique est autoris\u00e9."
+                },
+                {
+                  "text": "Si l\u2019\u00e9clairage met en \u0153uvre des technologies pouvant, en cas de dysfonctionnement, projeter des \u00e9clats ou des \u00e9l\u00e9ments chauds susceptibles d\u2019\u00eatre source d\u2019incendie (comme des gouttes chaudes en cas d\u2019\u00e9clatement de lampes \u00e0 vapeur de sodium ou de mercure), l\u2019exploitant prend toute disposition pour que tous les \u00e9l\u00e9ments soient confin\u00e9s dans l\u2019appareil en cas de dysfonctionnement."
+                },
+                {
+                  "text": "Les appareils d\u2019\u00e9clairage fixes ne sont pas situ\u00e9s en des points susceptibles d\u2019\u00eatre heurt\u00e9s en cours d\u2019exploitation, ou sont prot\u00e9g\u00e9s contre les chocs. Ils sont au moins \u00e9loign\u00e9s de 0,5 m\u00e8tre des stockages."
+                },
+                {
+                  "text": "Ils sont en toutes circonstances \u00e9loign\u00e9s des mati\u00e8res entrepos\u00e9es pour \u00e9viter leur \u00e9chauffement."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des documents justifiant que les installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux normes en vigueur, entretenues en bon \u00e9tat (le non-respect de ce point rel\u00e8ve d\u2019une non conformit\u00e9 majeure) ;"
+                },
+                {
+                  "text": "\t- v\u00e9rification que seul l\u2019\u00e9clairage \u00e9lectrique est utilis\u00e9, dans le cas d\u2019un \u00e9clairage artificiel ;"
+                },
+                {
+                  "text": "\t- v\u00e9rification que les dispositions sont prises pour que les \u00e9l\u00e9ments soient confin\u00e9s dans l\u2019appareil d\u2019\u00e9clairage, en cas de mise en \u0153uvre de technologie d\u2019\u00e9clairage pouvant, en cas de dysfonctionnement, projeter des \u00e9clats ou des \u00e9l\u00e9ments chauds susceptibles d\u2019\u00eatre source d\u2019incendie."
+                },
+                {
+                  "text": "B. Les transformateurs de courant \u00e9lectrique, lorsqu\u2019ils sont accol\u00e9s ou \u00e0 l\u2019int\u00e9rieur de l\u2019entrep\u00f4t, sont situ\u00e9s dans des locaux clos largement ventil\u00e9s et isol\u00e9s du stockage par des parois et des portes r\u00e9sistantes au feu. Ces parois sont REI 120 et ces portes EI2 120 C."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- v\u00e9rification de la pr\u00e9sence du compartimentage pr\u00e9vu pour les locaux o\u00f9 sont situ\u00e9s les transformateurs de courant \u00e9lectrique, lorsqu\u2019ils sont accol\u00e9s ou \u00e0 l\u2019int\u00e9rieur de l\u2019entrep\u00f4t (le non respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                },
+                {
+                  "text": "C. L\u2019exploitant met en \u0153uvre les dispositions de la section III de l\u2019arr\u00eat\u00e9 du 4 octobre 2010 susvis\u00e9, afin de prot\u00e9ger les b\u00e2timents contre le risque foudre."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence du ou des parafoudres et paratonnerres requis et v\u00e9rifi\u00e9s en application de l\u2019arr\u00eat\u00e9 du 4 octobre 2010 (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                },
+                {
+                  "text": "D. Les \u00e9quipements m\u00e9talliques sont mis \u00e0 la terre conform\u00e9ment aux r\u00e8glements et aux normes applicables."
+                },
+                {
+                  "text": "E. Des dispositions sont prises pour que les \u00e9quipements techniques (syst\u00e8mes de r\u00e9chauffage \u00e9lectrique des encadrements de portes, r\u00e9sistances de d\u00e9givrage, soupapes d\u2019\u00e9quilibrage de pression, etc.) pr\u00e9sents \u00e0 l\u2019int\u00e9rieur des chambres froides ou sur les parois de celles-ci ne soient pas une cause possible d\u2019inflammation ou de propagation d\u2019incendie."
+                },
+                {
+                  "text": "En particulier, si les panneaux sandwiches ne sont pas A2 s1 d0, les c\u00e2bles \u00e9lectriques les traversant sont pourvus de fourreaux non propagateurs de flamme, de mani\u00e8re \u00e0 garantir l\u2019absence de contact direct entre le c\u00e2ble et le parement du panneau ou de l\u2019isolant, les parements m\u00e9talliques devant \u00eatre perc\u00e9s proprement et \u00e9bavur\u00e9s. Les r\u00e9sistances \u00e9lectriques de r\u00e9chauffage ne sont pas en contact direct avec les isolants."
+                },
+                {
+                  "text": "En outre, si les panneaux sandwiches ne sont pas A2 s1 d0, les \u00e9quipements \u00e9lectriques sont positionn\u00e9s de fa\u00e7on \u00e0 respecter une distance minimale conforme \u00e0 la norme NF P75-401, version octobre 2001."
+                },
+                {
+                  "text": "F. Les c\u00e2bles \u00e9lectriques forment un S au niveau de l\u2019alimentation du luminaire pour faire goutte d\u2019eau et \u00e9viter la p\u00e9n\u00e9tration d\u2019humidit\u00e9."
+                },
+                {
+                  "text": "A proximit\u00e9 d\u2019au moins une issue de l\u2019entrep\u00f4t, un interrupteur est install\u00e9, bien signal\u00e9, qui permet de couper l\u2019alimentation \u00e9lectrique g\u00e9n\u00e9rale ou de chaque cellule."
+                },
+                {
+                  "text": "Les gainages \u00e9lectriques et autres tuyauteries ne sont pas une cause possible d\u2019inflammation ou de propagation de fuite et sont convenablement prot\u00e9g\u00e9s contre les chocs, contre la propagation des flammes et contre l\u2019action des produits pr\u00e9sents dans la partie de l\u2019installation en cause."
+                },
+                {
+                  "text": "Les prises \u00e9lectriques destin\u00e9es \u00e0 l\u2019alimentation des groupes frigorifiques des v\u00e9hicules sont install\u00e9es sur un support A2 s1 d0."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": [
+                      9,
+                      10,
+                      11,
+                      16,
+                      17,
+                      18,
+                      19,
+                      20,
+                      21,
+                      22
+                    ],
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.3.",
+              "sections": [],
+              "title": {
+                "text": "4.3. Installations \u00e9lectriques et \u00e9clairage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4DdCADCeB028",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.4.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "DCa3Ba0B25DA",
+                  "outer_alineas": [
+                    {
+                      "text": "S\u2019il existe une chaufferie, elle est situ\u00e9e dans un local exclusivement r\u00e9serv\u00e9 \u00e0 cet effet, ext\u00e9rieur \u00e0 l\u2019entrep\u00f4t ou isol\u00e9 par une paroi REI 120. Toute communication \u00e9ventuelle entre le local et l\u2019entrep\u00f4t se fait soit par un sas \u00e9quip\u00e9 de deux blocs-portes E 60 C, soit par une porte EI2 120 C et de classe de durabilit\u00e9 C2."
+                    },
+                    {
+                      "text": "A l\u2019ext\u00e9rieur de la chaufferie sont install\u00e9s :"
+                    },
+                    {
+                      "text": "\t- une vanne sur la tuyauterie d\u2019alimentation des br\u00fbleurs permettant d\u2019arr\u00eater l\u2019arriv\u00e9e du combustible ;"
+                    },
+                    {
+                      "text": "\t- un coupe-circuit arr\u00eatant le fonctionnement de la pompe d\u2019alimentation en combustible ;"
+                    },
+                    {
+                      "text": "\t- un dispositif sonore et visuel d\u2019avertissement en cas de mauvais fonctionnement des br\u00fbleurs ou un autre syst\u00e8me d\u2019alerte d\u2019efficacit\u00e9 \u00e9quivalente."
+                    },
+                    {
+                      "text": "Aucune tuyauterie a\u00e9rienne de gaz inflammable n\u2019est pr\u00e9sente dans les cellules de stockage."
+                    },
+                    {
+                      "text": "Le chauffage de l\u2019entrep\u00f4t et de ses annexes ne peut \u00eatre r\u00e9alis\u00e9 que par eau chaude, vapeur produite par un g\u00e9n\u00e9rateur thermique ou autre syst\u00e8me pr\u00e9sentant un degr\u00e9 de s\u00e9curit\u00e9 \u00e9quivalent."
+                    },
+                    {
+                      "text": "Dans le cas d\u2019un chauffage par air chaud puls\u00e9 de type indirect produit par un g\u00e9n\u00e9rateur thermique, toutes les gaines d\u2019air chaud sont enti\u00e8rement r\u00e9alis\u00e9es en mat\u00e9riaux A2 s1 d0. En particulier, les tuyauteries m\u00e9talliques, lorsqu\u2019elles sont calorifug\u00e9es, ne sont garnies que de calorifuges en mat\u00e9riaux A2 s1 d0. Des clapets coupe-feu sont install\u00e9s si les tuyauteries traversent un mur entre deux cellules, afin de conserver les performances de tenue au feu du mur travers\u00e9."
+                    },
+                    {
+                      "text": "Les moyens de chauffage des bureaux de quai, s\u2019ils existent, pr\u00e9sentent les m\u00eames garanties de s\u00e9curit\u00e9 que celles pr\u00e9vues pour les locaux dans lesquels ils sont situ\u00e9s."
+                    },
+                    {
+                      "text": "Les moyens de chauffage des postes de conduite des engins de manutention, s\u2019ils existent, pr\u00e9sentent les m\u00eames garanties de s\u00e9curit\u00e9 que celles pr\u00e9vues pour les locaux dans lesquels ils circulent."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification que la chaufferie est dans un local exclusivement r\u00e9serv\u00e9 \u00e0 cet effet (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de la pr\u00e9sence d\u2019une vanne sur la canalisation d\u2019alimentation des br\u00fbleurs permettant d\u2019arr\u00eater l\u2019\u00e9coulement du combustible ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de la pr\u00e9sence d\u2019un coupe-circuit arr\u00eatant le fonctionnement de la pompe d\u2019alimentation en combustible ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de la pr\u00e9sence du dispositif sonore et visuel d\u2019avertissement en cas de mauvais fonctionnement"
+                    },
+                    {
+                      "text": "\tdes br\u00fbleurs, ou d\u2019un autre syst\u00e8me d\u2019alerte d\u2019efficacit\u00e9 \u00e9quivalente ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019absence de tuyauterie de gaz inflammable au niveau des cellules de stockage (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.4.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.4.1. Chauffage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "D1c8C1cc74dF",
+                  "outer_alineas": [
+                    {
+                      "text": "La recharge des batteries est prot\u00e9g\u00e9e contre les risques de court-circuit et de surcharge des batteries."
+                    },
+                    {
+                      "text": "En cas de risques li\u00e9s \u00e0 des \u00e9manations de gaz, la recharge de batteries est r\u00e9alis\u00e9e dans un local exclusivement r\u00e9serv\u00e9 \u00e0 cet effet, correctement ventil\u00e9, ext\u00e9rieur \u00e0 l\u2019entrep\u00f4t ou isol\u00e9 par une paroi REI 120. Toute communication \u00e9ventuelle entre le local et l\u2019entrep\u00f4t se fait soit par un sas \u00e9quip\u00e9 de deux blocs-portes E 60 C, soit par une porte EI2 120 C et de classe de durabilit\u00e9 C2."
+                    },
+                    {
+                      "text": "En l\u2019absence de risques li\u00e9s \u00e0 des \u00e9manations de gaz, la recharge de batteries est r\u00e9alis\u00e9e dans un local r\u00e9pondant aux dispositions de l\u2019alin\u00e9a pr\u00e9c\u00e9dent ou dans une zone de recharge limit\u00e9e \u00e0 une par cellule et distante de plus de 3 m\u00e8tres de toute mati\u00e8re combustible. Dans le cas d\u2019un stockage automatis\u00e9, il n\u2019est pas n\u00e9cessaire d\u2019am\u00e9nager une telle zone."
+                    },
+                    {
+                      "text": "L\u2019utilisation de chariots thermiques est interdite."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification que la recharge de batteries est r\u00e9alis\u00e9e dans un local exclusivement r\u00e9serv\u00e9 \u00e0 cet effet ou dans une zone de recharge en cellule correctement am\u00e9nag\u00e9e (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019absence de chariots thermiques."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.4.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.4.2. Recharge des batteries"
+                  }
+                }
+              ],
+              "title": {
+                "text": "4.4. Chauffage et charge des batteries"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "FC162a47b9c1",
+              "outer_alineas": [
+                {
+                  "text": "Les prescriptions des points 4.5.1 \u00e0 4.5.3 s\u2019appliquent aux combles de tous les entrep\u00f4ts frigorifiques et aux cellules de stockage des entrep\u00f4ts frigorifiques (surmont\u00e9es ou non de combles) ayant des temp\u00e9ratures de stockage des produits strictement sup\u00e9rieures \u00e0 10 \u00b0C."
+                },
+                {
+                  "text": "Les cellules de stockage des entrep\u00f4ts frigorifiques ayant des temp\u00e9ratures de stockage des produits inf\u00e9rieures ou \u00e9gales \u00e0 10 \u00b0C, sont :"
+                },
+                {
+                  "text": "\t- soit \u00e9quip\u00e9es d\u2019installation de d\u00e9senfumage adapt\u00e9es. Si elles sont diff\u00e9rentes de celles pr\u00e9vues aux points 4.5.1 \u00e0 4.5.3, leur efficacit\u00e9 est justifi\u00e9e par un organisme comp\u00e9tent en mati\u00e8re de d\u00e9senfumage et l\u2019exploitant int\u00e8gre la proc\u00e9dure op\u00e9rationnelle d\u2019utilisation au niveau des consignes \u00e0 mettre en \u0153uvre en cas d\u2019incendie ;"
+                },
+                {
+                  "text": "\t- soit non d\u00e9senfum\u00e9es. L\u2019exploitant pr\u00e9cise clairement au niveau des cellules concern\u00e9es qu\u2019elles ne sont pas d\u00e9senfum\u00e9es et int\u00e8gre les dispositions adapt\u00e9es au niveau des consignes \u00e0 mettre en oeuvre en cas d\u2019incendie."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.5.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "Fc5eaBF20cae",
+                  "outer_alineas": [
+                    {
+                      "text": "Les cantons de d\u00e9senfumage ont une superficie maximale de 1 600 m\u00e8tres carr\u00e9s et une longueur maximale de 60 m\u00e8tres."
+                    },
+                    {
+                      "text": "Chaque \u00e9cran de cantonnement est DH 30 en r\u00e9f\u00e9rence \u00e0 la norme NF EN 12101-1, version juin 2006, et a une hauteur minimale de 1 m\u00e8tre."
+                    },
+                    {
+                      "text": "La distance entre le point bas de l\u2019\u00e9cran et le point le plus pr\u00e8s du stockage est sup\u00e9rieure ou \u00e9gale \u00e0 1 m\u00e8tre. Le niveau haut du stockage est au moins \u00e0 0,5 m\u00e8tre au-dessous du niveau bas des \u00e9crans de cantonnement."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.5.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.5.1. Cantonnement"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "8EaeEe73fF72",
+                  "outer_alineas": [
+                    {
+                      "text": "Les cantons de d\u00e9senfumage sont \u00e9quip\u00e9s en partie haute de dispositifs d\u2019\u00e9vacuation naturelle des fum\u00e9es et des chaleurs (DENFC)."
+                    },
+                    {
+                      "text": "Un DENFC de superficie utile comprise entre 0,5 et 6 m\u00e8tres carr\u00e9s est pr\u00e9vu pour 250 m\u00e8tres carr\u00e9s de superficie projet\u00e9e de toiture."
+                    },
+                    {
+                      "text": "Les DENFC sont implant\u00e9s sur la toiture \u00e0 au moins 7 m\u00e8tres des murs coupe-feu s\u00e9parant les cellules de stockage."
+                    },
+                    {
+                      "text": "Les dispositifs d\u2019\u00e9vacuation des fum\u00e9es sont compos\u00e9s d\u2019exutoires \u00e0 commande automatique et manuelle. La surface utile de l\u2019ensemble de ces exutoires est sup\u00e9rieure ou \u00e9gale \u00e0 2 % de la superficie de chaque canton de d\u00e9senfumage."
+                    },
+                    {
+                      "text": "L\u2019action d\u2019une commande de mise en s\u00e9curit\u00e9 ne peut pas \u00eatre invers\u00e9e par une autre commande."
+                    },
+                    {
+                      "text": "En exploitation normale, le r\u00e9armement (fermeture) est possible depuis le sol du b\u00e2timent ou depuis la zone de d\u00e9senfumage, ou depuis la cellule \u00e0 d\u00e9senfumer dans le cas d\u2019un b\u00e2timent divis\u00e9 en plusieurs cantons ou cellules."
+                    },
+                    {
+                      "text": "Les commandes d\u2019ouverture manuelle sont plac\u00e9es \u00e0 proximit\u00e9 des acc\u00e8s de chacune des cellules de stockage et install\u00e9es conform\u00e9ment \u00e0 la norme NF S61-932, version d\u00e9cembre 2008. Elles ne sont pas plac\u00e9es \u00e0 l\u2019int\u00e9rieur des zones \u00e0 temp\u00e9rature n\u00e9gative."
+                    },
+                    {
+                      "text": "Les DENFC, en r\u00e9f\u00e9rence \u00e0 la norme NF EN 12101-2, version octobre 2003, pr\u00e9sentent les caract\u00e9ristiques suivantes :"
+                    },
+                    {
+                      "text": "\t- syst\u00e8me d\u2019ouverture de type B (ouverture + fermeture) ;"
+                    },
+                    {
+                      "text": "\t- fiabilit\u00e9 : classe RE 300 (300 cycles de mise en s\u00e9curit\u00e9) ;"
+                    },
+                    {
+                      "text": "\t- classification de la surcharge neige \u00e0 l\u2019ouverture : SL 250 (25 daN/m2) pour des altitudes inf\u00e9rieures ou \u00e9gales \u00e0 400 m\u00e8tres et SL 500 (50 daN/m2) pour des altitudes comprises entre 400 et 800 m\u00e8tres. La classe SL 0 est utilisable si la r\u00e9gion d\u2019implantation n\u2019est pas susceptible d\u2019\u00eatre enneig\u00e9e ou si des dispositions constructives emp\u00eachent l\u2019accumulation de la neige. Au-dessus de 800 m\u00e8tres, les exutoires sont de la classe SL 500 et install\u00e9s avec des dispositions constructives emp\u00eachant l\u2019accumulation de la neige ;"
+                    },
+                    {
+                      "text": "\t- classe de temp\u00e9rature ambiante T(-15) ;"
+                    },
+                    {
+                      "text": "\t- classe d\u2019exposition \u00e0 la chaleur B 300."
+                    },
+                    {
+                      "text": "En pr\u00e9sence d\u2019un syst\u00e8me d\u2019extinction automatique, les dispositifs d\u2019ouverture automatique des exutoires sont r\u00e9gl\u00e9s de telle fa\u00e7on que l\u2019ouverture des organes de d\u00e9senfumage ne puisse se produire avant le d\u00e9clenchement de l\u2019extinction automatique."
+                    },
+                    {
+                      "text": "En cas d\u2019entrep\u00f4t \u00e0 plusieurs niveaux, les niveaux autres que celui sous toiture sont d\u00e9senfum\u00e9s conform\u00e9ment aux dispositions de l\u2019instruction technique 246 du ministre charg\u00e9 de l\u2019int\u00e9rieur relative au d\u00e9senfumage dans les \u00e9tablissements recevant du public."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.5.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.5.2. D\u00e9senfumage"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "FdF123Ca34FC",
+                  "outer_alineas": [
+                    {
+                      "text": "Des amen\u00e9es d\u2019air frais d\u2019une superficie \u00e9gale \u00e0 la surface des exutoires du plus grand canton, cellule par cellule, sont r\u00e9alis\u00e9es soit par des ouvrants ou ouvertures en fa\u00e7ade, soit par des bouches raccord\u00e9es \u00e0 des conduits, soit par les portes des cellules \u00e0 d\u00e9senfumer donnant sur l\u2019ext\u00e9rieur."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de la pr\u00e9sence des dispositifs de d\u00e9senfumage et de leurs dispositifs de commande (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 4.5.3.",
+                  "sections": [],
+                  "title": {
+                    "text": "4.5.3. Amen\u00e9es d\u2019air frais"
+                  }
+                }
+              ],
+              "title": {
+                "text": "4.5. D\u00e9senfumage"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "5C968D7D4e80",
+              "outer_alineas": [
+                {
+                  "text": "Les tuyauteries de transports des fluides frigorifiques sont implant\u00e9es suivant les r\u00e8gles de l\u2019art, afin notamment de les prot\u00e9ger de chocs \u00e9ventuels lors des op\u00e9rations de manutention des produits stock\u00e9s."
+                },
+                {
+                  "text": "Des d\u00e9tecteurs sont implant\u00e9s et entretenus dans les zones \u00e0 risque susceptibles d\u2019\u00eatre g\u00e9n\u00e9ratrices de gaz toxique. Dans ces zones, l\u2019exploitant d\u00e9finit des consignes d\u2019exploitation sp\u00e9cifiques et pr\u00e9voit les \u00e9quipements de protection individuelle n\u00e9cessaires pour intervenir en s\u00e9curit\u00e9."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- v\u00e9rification de la pr\u00e9sence des d\u00e9tecteurs dans les zones \u00e0 risque susceptibles d\u2019\u00eatre g\u00e9n\u00e9ratrices de gaz toxiques (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 4.6.",
+              "sections": [],
+              "title": {
+                "text": "4.6. Equipements frigorifiques"
+              }
+            }
+          ],
+          "title": {
+            "text": "4. Dispositions relatives au comportement au feu des b\u00e2timents"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Fd3cB8CFb21d",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 5.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ed5D3B5adc28",
+              "outer_alineas": [],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.1.",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "AD112EEBd7A8",
+                  "outer_alineas": [
+                    {
+                      "text": "La taille des surfaces des cellules de stockage est limit\u00e9e de fa\u00e7on \u00e0 r\u00e9duire la quantit\u00e9 de mati\u00e8res combustibles en feu et d\u2019\u00e9viter la propagation du feu d\u2019une cellule \u00e0 l\u2019autre."
+                    },
+                    {
+                      "text": "La surface maximale des cellules est \u00e9gale \u00e0 3 000 m\u00e8tres carr\u00e9s en l\u2019absence de syst\u00e8me d\u2019extinction automatique d\u2019incendie et 6 000 m\u00e8tres carr\u00e9s en pr\u00e9sence d\u2019un syst\u00e8me d\u2019extinction automatique d\u2019incendie adapt\u00e9 \u00e0 la nature des produits stock\u00e9s."
+                    },
+                    {
+                      "text": "Dans le cas des cellules non \u00e9quip\u00e9es de syst\u00e8me d\u2019extinction automatique d\u2019incendie, la largeur du b\u00e2timent accueillant ces cellules est limit\u00e9e \u00e0 75 m\u00e8tres."
+                    },
+                    {
+                      "text": "La surface maximale des cellules \u00e0 temp\u00e9rature n\u00e9gative peut \u00eatre port\u00e9e \u00e0 4 500 m\u00e8tres carr\u00e9s en l\u2019absence de syst\u00e8me d\u2019extinction automatique d\u2019incendie, si ces cellules sont \u00e9quip\u00e9es d\u2019un syst\u00e8me de d\u00e9tection haute sensibilit\u00e9, avec transmission de l\u2019alarme \u00e0 l\u2019exploitant ou \u00e0 une soci\u00e9t\u00e9 de surveillance ext\u00e9rieure. Cette conformit\u00e9 est justifi\u00e9e par un document synth\u00e9tique pr\u00e9cisant clairement les conditions de validit\u00e9."
+                    },
+                    {
+                      "text": "Dans le cas o\u00f9, dans une cellule, un niveau comporte plusieurs mezzanines, l\u2019exploitant d\u00e9montre, par une \u00e9tude, que ces mezzanines n\u2019engendrent pas de risque suppl\u00e9mentaire, et notamment qu\u2019elles ne g\u00eanent pas le d\u00e9senfumage en cas d\u2019incendie."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification du non-d\u00e9passement des dimensions maximales des cellules (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019absence de mezzanine occupant plus de 50 % de la surface au sol de la cellule (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": null,
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 5.1.1.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.1.1. Caract\u00e9ristiques g\u00e9om\u00e9triques des cellules"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": null
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "74BbFdE7Cebd",
+                  "outer_alineas": [
+                    {
+                      "text": "A. G\u00e9n\u00e9ralit\u00e9s :"
+                    },
+                    {
+                      "text": "Une distance minimale de 1 m\u00e8tre est maintenue entre le sommet des stockages et la base de la toiture ou le plafond ou de tout syst\u00e8me de chauffage ; cette distance respecte la distance minimale n\u00e9cessaire au bon fonctionnement du syst\u00e8me d\u2019extinction automatique d\u2019incendie, lorsqu\u2019il existe."
+                    },
+                    {
+                      "text": "De plus, pour les mati\u00e8res dangereuses liquides au sens du r\u00e8glement (CE) n\u00b0 1272/2008 susvis\u00e9 (\u00e0 l\u2019exception de celles uniquement corrosives, nocives ou irritantes), leur hauteur de stockage est limit\u00e9e \u00e0 5 m\u00e8tres par rapport au sol int\u00e9rieur et des moyens de pr\u00e9vention et de protection adapt\u00e9s sont mis en place."
+                    },
+                    {
+                      "text": "La distance d\u2019\u00e9loignement des stockages par rapport aux parois des cellules d\u00e9finie aux B et C peut \u00eatre inf\u00e9rieure si elle est couverte par la qualification du syst\u00e8me d\u2019extinction automatique."
+                    },
+                    {
+                      "text": "La fermeture automatique des dispositifs d\u2019obturation (comme par exemple, les dispositifs de fermeture pour les baies, convoyeurs et portes des parois ayant des caract\u00e9ristiques de tenue au feu) n\u2019est pas g\u00ean\u00e9e par les stockages ou des obstacles."
+                    },
+                    {
+                      "text": "Tout stockage est interdit dans les combles. Les combles sont accessibles en toutes circonstances."
+                    },
+                    {
+                      "text": "B. Stockages en vrac, en masse et autogerb\u00e9s :"
+                    },
+                    {
+                      "text": "Les mati\u00e8res stock\u00e9es en vrac sont s\u00e9par\u00e9es des autres mati\u00e8res par un espace minimum de 3 m\u00e8tres sur le ou les c\u00f4t\u00e9s ouverts."
+                    },
+                    {
+                      "text": "Une distance minimale de 1 m\u00e8tre est respect\u00e9e par rapport aux parois de la cellule pour les mati\u00e8res stock\u00e9es en vrac. Pour les autres stockages d\u00e9finis dans ce B, cette distance minimale permet le passage d\u2019un pi\u00e9ton pour acc\u00e9der \u00e0 ces stockages."
+                    },
+                    {
+                      "text": "Les mati\u00e8res conditionn\u00e9es en masse sont stock\u00e9es de la mani\u00e8re suivante :"
+                    },
+                    {
+                      "text": "\t- les \u00eelots au sol ont une surface limit\u00e9e \u00e0 500 m\u00e8tres carr\u00e9s ;"
+                    },
+                    {
+                      "text": "\t- la hauteur maximale de stockage est \u00e9gale \u00e0 8 m\u00e8tres ;"
+                    },
+                    {
+                      "text": "\t- la distance minimale entre deux \u00eelots est de 2 m\u00e8tres."
+                    },
+                    {
+                      "text": "Les mati\u00e8res conditionn\u00e9es dans des contenants autoporteurs gerbables sont stock\u00e9es de la mani\u00e8re suivante :"
+                    },
+                    {
+                      "text": "\t- les \u00eelots au sol ont une surface limit\u00e9e \u00e0 1 000 m\u00e8tres carr\u00e9s ;"
+                    },
+                    {
+                      "text": "\t- la hauteur maximale de stockage est \u00e9gale \u00e0 10 m\u00e8tres ;"
+                    },
+                    {
+                      "text": "\t- la distance minimale entre deux \u00eelots est de 2 m\u00e8tres."
+                    },
+                    {
+                      "text": "C. Stockages dans des supports de stockage porteurs tels que rayonnages ou paletiers :"
+                    },
+                    {
+                      "text": "Les mati\u00e8res stock\u00e9es dans des supports de stockage porteurs tels que les rayonnages ou les paletiers sont stock\u00e9es \u00e0 une hauteur maximale de 10 m\u00e8tres. Une hauteur sup\u00e9rieure est possible :"
+                    },
+                    {
+                      "text": "\t- soit en pr\u00e9sence d\u2019un syst\u00e8me extinction automatique ;"
+                    },
+                    {
+                      "text": "\t- soit, pour les cellules \u00e0 temp\u00e9rature n\u00e9gative, en cas de pr\u00e9sence d\u2019un syst\u00e8me de d\u00e9tection haute sensibilit\u00e9, avec transmission de l\u2019alarme \u00e0 l\u2019exploitant ou \u00e0 une soci\u00e9t\u00e9 de surveillance ext\u00e9rieure. Cette conformit\u00e9 est justifi\u00e9e par un document synth\u00e9tique pr\u00e9cisant clairement les conditions de validit\u00e9."
+                    },
+                    {
+                      "text": "La distance par rapport aux parois de la cellule pour les stockages en rayonnage ou en paletier est sup\u00e9rieure ou \u00e9gale \u00e0 0,15 m\u00e8tre."
+                    },
+                    {
+                      "text": "Objet du contr\u00f4le :"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification du respect des conditions de stockage (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification que la fermeture automatique des dispositifs d\u2019obturation n\u2019est pas g\u00ean\u00e9e (le non respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+                    },
+                    {
+                      "text": "\t- v\u00e9rification de l\u2019absence de stockage dans les combles (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [
+                      {
+                        "alineas": [
+                          17,
+                          18,
+                          19,
+                          20,
+                          21,
+                          22,
+                          23,
+                          24,
+                          25
+                        ],
+                        "condition": {
+                          "parameter": {
+                            "id": "date-d-declaration",
+                            "type": "DATE"
+                          },
+                          "strict": true,
+                          "target": "2014-07-01",
+                          "type": "LITTLER"
+                        }
+                      }
+                    ],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe I 5.1.2.",
+                  "sections": [],
+                  "title": {
+                    "text": "5.1.2. Caract\u00e9ristiques g\u00e9om\u00e9triques des stockages"
+                  }
+                }
+              ],
+              "title": {
+                "text": "5.1. Cellules"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "C0f68eF08dCB",
+              "outer_alineas": [
+                {
+                  "text": "Les surfaces \u00e0 proximit\u00e9 du stockage sont maintenues propres et r\u00e9guli\u00e8rement nettoy\u00e9es, notamment de mani\u00e8re \u00e0 \u00e9viter les amas de mati\u00e8res dangereuses ou polluantes et de poussi\u00e8res."
+                },
+                {
+                  "text": "Le mat\u00e9riel de nettoyage est adapt\u00e9 aux risques."
+                },
+                {
+                  "text": "Toutes pr\u00e9cautions sont prises pour \u00e9viter les risques d\u2019envol."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.2.",
+              "sections": [],
+              "title": {
+                "text": "5.2. Propret\u00e9 de l\u2019installation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ec5B6EAc3F5f",
+              "outer_alineas": [
+                {
+                  "text": "Les travaux de r\u00e9paration ou d\u2019am\u00e9nagement de l\u2019entrep\u00f4t frigorifique ne peuvent \u00eatre effectu\u00e9s qu\u2019apr\u00e8s \u00e9laboration d\u2019un document ou dossier comprenant les \u00e9l\u00e9ments suivants :"
+                },
+                {
+                  "text": "\t- la d\u00e9finition des phases d\u2019activit\u00e9 dangereuses et des moyens de pr\u00e9vention sp\u00e9cifiques correspondants ;"
+                },
+                {
+                  "text": "\t- l\u2019adaptation des mat\u00e9riels, installations et dispositifs \u00e0 la nature des op\u00e9rations \u00e0 r\u00e9aliser ainsi que la d\u00e9finition de leurs conditions d\u2019entretien ;"
+                },
+                {
+                  "text": "\t- les instructions \u00e0 donner aux personnes en charge des travaux ;"
+                },
+                {
+                  "text": "\t- l\u2019organisation mise en place pour assurer les premiers secours en cas d\u2019urgence ;"
+                },
+                {
+                  "text": "\t- lorsque les travaux sont effectu\u00e9s par une entreprise ext\u00e9rieure, les conditions de recours par cette derni\u00e8re \u00e0 de la sous-traitance et l\u2019organisation mise en place dans un tel cas pour assurer le maintien de la s\u00e9curit\u00e9."
+                },
+                {
+                  "text": "Ce document ou dossier est \u00e9tabli sur la base d\u2019une analyse des risques li\u00e9s aux travaux, et vis\u00e9 par l\u2019exploitant ou par une personne qu\u2019il aura nomm\u00e9ment d\u00e9sign\u00e9e. Lorsque les travaux sont effectu\u00e9s par une entreprise ext\u00e9rieure, le document ou dossier est sign\u00e9 par l\u2019exploitant et l\u2019entreprise ext\u00e9rieure ou les personnes qu\u2019ils auront nomm\u00e9ment d\u00e9sign\u00e9es."
+                },
+                {
+                  "text": "Le respect des dispositions pr\u00e9c\u00e9dentes peut \u00eatre assur\u00e9 par l\u2019\u00e9laboration du plan de pr\u00e9vention d\u00e9fini aux articles R. 4512-6 et suivants du code du travail, lorsque ce plan est exig\u00e9."
+                },
+                {
+                  "text": "Dans les parties de l\u2019installation pr\u00e9sentant des risques d\u2019incendie ou d\u2019explosion, il est interdit d\u2019apporter du feu sous une forme quelconque, sauf pour la r\u00e9alisation de travaux ayant fait l\u2019objet d\u2019un document ou dossier sp\u00e9cifique conforme aux dispositions pr\u00e9c\u00e9dentes. Cette interdiction est affich\u00e9e en caract\u00e8res apparents."
+                },
+                {
+                  "text": "Une v\u00e9rification de la bonne r\u00e9alisation des travaux est effectu\u00e9e par l\u2019exploitant ou son repr\u00e9sentant avant la reprise de l\u2019activit\u00e9. Elle fait l\u2019objet d\u2019un enregistrement et est tenue \u00e0 la disposition de l\u2019inspection des installations class\u00e9es."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.3.",
+              "sections": [],
+              "title": {
+                "text": "5.3. Travaux"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "d1aff3AA8269",
+              "outer_alineas": [
+                {
+                  "text": "Des consignes pr\u00e9cisant les modalit\u00e9s d\u2019application des dispositions du pr\u00e9sent arr\u00eat\u00e9 sont \u00e9tablies, tenues \u00e0 jour et affich\u00e9es dans les lieux fr\u00e9quent\u00e9s par le personnel."
+                },
+                {
+                  "text": "Ces consignes indiquent notamment :"
+                },
+                {
+                  "text": "\t- l\u2019interdiction de fumer ;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction de tout br\u00fblage \u00e0 l\u2019air libre ;"
+                },
+                {
+                  "text": "\t- l\u2019interdiction d\u2019apporter du feu sous une forme quelconque \u00e0 proximit\u00e9 du stockage ;"
+                },
+                {
+                  "text": "\t- l\u2019obligation d\u2019\u00e9tablir un document ou dossier conforme aux dispositions pr\u00e9vues au point 5.3, pour les parties concern\u00e9es de l\u2019installation ;"
+                },
+                {
+                  "text": "\t- les proc\u00e9dures d\u2019arr\u00eat d\u2019urgence et de mise en s\u00e9curit\u00e9 de l\u2019installation (\u00e9lectricit\u00e9, ventilation, climatisation, chauffage, fermeture des portes coupe-feu, obturation des \u00e9coulements d\u2019\u00e9gouts notamment) ;"
+                },
+                {
+                  "text": "\t- les moyens d\u2019extinction \u00e0 utiliser en cas d\u2019incendie ;"
+                },
+                {
+                  "text": "\t- la proc\u00e9dure d\u2019alerte, avec les num\u00e9ros de t\u00e9l\u00e9phone du responsable d\u2019intervention du site, des services d\u2019incendie et de secours ;"
+                },
+                {
+                  "text": "\t- l\u2019obligation d\u2019informer l\u2019inspection des installations class\u00e9es en cas d\u2019accident."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence et affichage de chacune des consignes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.4.",
+              "sections": [],
+              "title": {
+                "text": "5.4. Consignes d\u2019exploitation"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "b1244d8Cce07",
+              "outer_alineas": [
+                {
+                  "text": "Les mati\u00e8res chimiquement incompatibles ou qui peuvent entrer en r\u00e9action entre elles de fa\u00e7on dangereuse, ou qui sont de nature \u00e0 aggraver un incendie, ne sont pas stock\u00e9es dans la m\u00eame cellule."
+                },
+                {
+                  "text": "De plus, les mati\u00e8res dangereuses sont stock\u00e9es dans des cellules particuli\u00e8res. Ces cellules particuli\u00e8res sont situ\u00e9es en rez-de-chauss\u00e9e, sans \u00eatre surmont\u00e9es d\u2019\u00e9tages ou de niveaux."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.5.",
+              "sections": [],
+              "title": {
+                "text": "5.5. Mati\u00e8res dangereuses"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8B544364C55d",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant s\u2019assure de la v\u00e9rification p\u00e9riodique et de la maintenance des mat\u00e9riels de s\u00e9curit\u00e9 et de lutte contre l\u2019incendie mis en place (exutoires, syst\u00e8mes de d\u00e9tection et d\u2019extinction, portes coupe-feu, extincteurs, robinets d\u2019incendie arm\u00e9s, bouches ou poteaux d\u2019incendie, par exemple) ainsi que des \u00e9ventuelles installations \u00e9lectriques et de chauffage, conform\u00e9ment aux r\u00e9f\u00e9rentiels en vigueur. Les v\u00e9rifications p\u00e9riodiques de ces mat\u00e9riels font l\u2019objet de rapports de contr\u00f4le et sont inscrites sur un registre."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence du registre et des rapports de contr\u00f4le des mat\u00e9riels de s\u00e9curit\u00e9 et de lutte contre l\u2019incendie (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.6.",
+              "sections": [],
+              "title": {
+                "text": "5.6. V\u00e9rification p\u00e9riodique et maintenance des \u00e9quipements"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "aF2CeBC622EC",
+              "outer_alineas": [
+                {
+                  "text": "Le br\u00fblage des d\u00e9chets ou de tout produit \u00e0 l\u2019air libre est interdit."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 5.7.",
+              "sections": [],
+              "title": {
+                "text": "5.7. Br\u00fblage"
+              }
+            }
+          ],
+          "title": {
+            "text": "5. Dispositions d\u2019exploitation"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "D47f93DBa6dE",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 6.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "dD7eCDa63216",
+              "outer_alineas": [
+                {
+                  "text": "Le sol des aires et des locaux de stockage ou de manipulation des mati\u00e8res dangereuses ou susceptibles de cr\u00e9er une pollution de l\u2019eau ou du sol et n\u00e9cessaires \u00e0 l\u2019exploitation du stockage est \u00e9tanche, incombustible et \u00e9quip\u00e9 de fa\u00e7on \u00e0 pouvoir recueillir les eaux de lavage et les mati\u00e8res r\u00e9pandues accidentellement."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de l\u2019\u00e9quipement destin\u00e9 \u00e0 recueillir les eaux de lavage et les mati\u00e8res r\u00e9pandues accidentellement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": null,
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.1.",
+              "sections": [],
+              "title": {
+                "text": "6.1. Aires de manipulation de mati\u00e8res dangereuses"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "D436F02E55d8",
+              "outer_alineas": [
+                {
+                  "text": "Toutes mesures sont prises pour recueillir l\u2019ensemble des eaux et \u00e9coulements susceptibles d\u2019\u00eatre pollu\u00e9s lors d\u2019un sinistre, y compris les eaux utilis\u00e9es lors d\u2019un incendie, afin que celles-ci soient r\u00e9cup\u00e9r\u00e9es ou trait\u00e9es afin de pr\u00e9venir toute pollution des sols, des \u00e9gouts, des cours d\u2019eau ou du milieu naturel. Pour les installations existantes, \u00e0 d\u00e9faut de pouvoir respecter l\u2019ensemble des prescriptions du 6.2, l\u2019exploitant dispose au minimum de consignes permettant de pr\u00e9ciser les capacit\u00e9s de confinement possibles sur le site des eaux d\u2019extinction d\u2019incendie, les modes op\u00e9ratoires pour les mettre en \u0153uvre, les mesures permettant de compl\u00e9ter ces capacit\u00e9s (par exemple : proc\u00e9dure de mise en place de moyens de pompage ext\u00e9rieurs) et les mesures permettant de d\u00e9finir, pour ces eaux r\u00e9cup\u00e9r\u00e9es, comment respecter les conditions de rejets ou d\u2019\u00e9limination d\u00e9finies par le pr\u00e9sent arr\u00eat\u00e9."
+                },
+                {
+                  "text": "Ce confinement peut \u00eatre r\u00e9alis\u00e9 par des dispositifs internes ou externes aux cellules de stockage."
+                },
+                {
+                  "text": "En cas de dispositif de confinement externe, les mati\u00e8res canalis\u00e9es sont collect\u00e9es, de mani\u00e8re gravitaire ou gr\u00e2ce \u00e0 des syst\u00e8mes de relevage autonomes, puis convergent vers cette capacit\u00e9 sp\u00e9cifique."
+                },
+                {
+                  "text": "En cas de recours \u00e0 des syst\u00e8mes de relevage autonomes, l\u2019exploitant est en mesure de justifier \u00e0 tout instant d\u2019un entretien et d\u2019une maintenance rigoureux de ces dispositifs. Des tests r\u00e9guliers sont par ailleurs men\u00e9s sur ces \u00e9quipements."
+                },
+                {
+                  "text": "En cas de confinement externe, les orifices d\u2019\u00e9coulement issus de ces dispositifs sont munis d\u2019un dispositif automatique d\u2019obturation pour assurer ce confinement lorsque des eaux susceptibles d\u2019\u00eatre pollu\u00e9es y sont port\u00e9es."
+                },
+                {
+                  "text": "En cas de confinement interne, les orifices d\u2019\u00e9coulement sont en position ferm\u00e9e par d\u00e9faut."
+                },
+                {
+                  "text": "Les dispositifs internes sont interdits lorsque des mati\u00e8res dangereuses sont stock\u00e9es."
+                },
+                {
+                  "text": "Tout moyen est mis en place pour \u00e9viter la propagation de l\u2019incendie par ces \u00e9coulements."
+                },
+                {
+                  "text": "Les eaux d\u2019extinction ainsi confin\u00e9es lors d\u2019un incendie sont analys\u00e9es afin de d\u00e9terminer si un traitement est n\u00e9cessaire avant rejet."
+                },
+                {
+                  "text": "Le volume n\u00e9cessaire \u00e0 ce confinement est d\u00e9termin\u00e9 de la fa\u00e7on suivante. Pour chaque cellule, l\u2019exploitant calcule la somme :"
+                },
+                {
+                  "text": "\t- du volume d\u2019eau d\u2019extinction n\u00e9cessaire \u00e0 la lutte contre l\u2019incendie ;"
+                },
+                {
+                  "text": "\t- du volume de produit lib\u00e9r\u00e9 par cet incendie ;"
+                },
+                {
+                  "text": "\t- du volume d\u2019eau li\u00e9 aux intemp\u00e9ries, \u00e0 raison de 10 litres par m\u00e8tre carr\u00e9 de surface de drainage vers l\u2019ouvrage de confinement, lorsque le confinement est externe."
+                },
+                {
+                  "text": "Le volume du confinement n\u00e9cessaire est alors d\u00e9termin\u00e9 par le plus grand r\u00e9sultat obtenu par ces diff\u00e9rents calculs."
+                },
+                {
+                  "text": "Les rejets respectent les valeurs limites suivantes :"
+                },
+                {
+                  "text": "\t- mati\u00e8res en suspension (NF T90-105) : 100 mg/l ;"
+                },
+                {
+                  "text": "\t- DCO (NF T90-101) : 300 mg/l ;"
+                },
+                {
+                  "text": "\t- DBO5 (NF T90-103) : 100 mg/l."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- v\u00e9rification de la position ferm\u00e9e des orifices d\u2019\u00e9coulement, en cas de confinement interne ;"
+                },
+                {
+                  "text": "\t- pr\u00e9sence de dispositif d\u2019obturation automatique, en cas de confinement externe (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [
+                  {
+                    "alineas": [
+                      0
+                    ],
+                    "condition": {
+                      "parameter": {
+                        "id": "date-d-declaration",
+                        "type": "DATE"
+                      },
+                      "strict": true,
+                      "target": "2014-07-01",
+                      "type": "LITTLER"
+                    }
+                  }
+                ],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 6.2.",
+              "sections": [],
+              "title": {
+                "text": "6.2. R\u00e9cup\u00e9ration, confinement et rejet des eaux"
+              }
+            }
+          ],
+          "title": {
+            "text": "6. Sols et r\u00e9tentions"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3de293d71e9f",
+          "outer_alineas": [
+            {
+              "text": "L\u2019installation est dot\u00e9e de moyens de lutte contre l\u2019incendie appropri\u00e9s aux risques, notamment :"
+            },
+            {
+              "text": "\t- d\u2019extincteurs r\u00e9partis \u00e0 l\u2019int\u00e9rieur de l\u2019entrep\u00f4t (hors chambres froides \u00e0 temp\u00e9rature n\u00e9gative), sur les aires ext\u00e9rieures et dans les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d\u2019extinction sont appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les mati\u00e8res stock\u00e9es. Les extincteurs destin\u00e9s \u00e0 prot\u00e9ger les chambres froides \u00e0 temp\u00e9rature n\u00e9gative sont install\u00e9s \u00e0 l\u2019ext\u00e9rieur de celles-ci, sur les quais, pr\u00e8s des acc\u00e8s. La dotation requise pour les quais n\u2019est alors pas cumul\u00e9e avec celle des chambres froides \u00e0 temp\u00e9rature n\u00e9gative ;"
+            },
+            {
+              "text": "\t- de robinets d\u2019incendie arm\u00e9s, hors chambres froides \u00e0 temp\u00e9rature n\u00e9gative, situ\u00e9s au plus pr\u00e8s des issues. Ils sont dispos\u00e9s de telle sorte qu\u2019un foyer puisse \u00eatre attaqu\u00e9 simultan\u00e9ment par deux lances sous deux angles diff\u00e9rents. Ils sont utilisables en p\u00e9riode de gel ;"
+            },
+            {
+              "text": "\t- d\u2019appareils d\u2019incendie (bouches ou poteaux d\u2019incendie par exemple) \u00e9quip\u00e9s de prises de raccordement d\u2019un diam\u00e8tre nominal de 100 ou 150 millim\u00e8tres (DN100 ou DN150) conformes aux normes en vigueur pour permettre au service d\u2019incendie et de secours de s\u2019alimenter sur ces appareils. L\u2019acc\u00e8s ext\u00e9rieur de chaque cellule est \u00e0 moins de 100 m\u00e8tres d\u2019un appareil d\u2019incendie permettant de fournir un d\u00e9bit minimal de 60 m\u00e8tres cubes par heure. Les appareils d\u2019incendie sont distants entre eux de 150 m\u00e8tres maximum (les distances sont mesur\u00e9es par rapport aux voies praticables par les engins de secours)."
+            },
+            {
+              "text": "Les caract\u00e9ristiques des ressources en eaux d\u2019extinction et de refroidissement n\u00e9cessaires (notamment emplacement, d\u00e9bit, quantit\u00e9) sont conformes au document technique D9 (Guide pratique pour le dimensionnement des besoins en eau de l\u2019Institut national d\u2019\u00e9tudes de la s\u00e9curit\u00e9 civile, la F\u00e9d\u00e9ration fran\u00e7aise des soci\u00e9t\u00e9s d\u2019assurances et le Centre national de pr\u00e9vention et de protection, \u00e9dition septembre 2001)."
+            },
+            {
+              "text": "Pour r\u00e9pondre aux besoins calcul\u00e9s, les appareils sont aliment\u00e9s par le r\u00e9seau d\u2019eau public ou priv\u00e9 sous une pression dynamique de 1 bar, sans d\u00e9passer 8 bars. Si un compl\u00e9ment est n\u00e9cessaire, il peut \u00eatre apport\u00e9 par une ou plusieurs r\u00e9serves d\u2019eau propre au site, accessibles en permanence aux services d\u2019incendie et de secours. Chaque r\u00e9serve a une capacit\u00e9 minimale r\u00e9ellement utilisable de 120 m\u00e8tres cubes, et est dot\u00e9e d\u2019une plateforme d\u2019aspiration."
+            },
+            {
+              "text": "A d\u00e9faut de respecter l\u2019ensemble des prescriptions des trois alin\u00e9as pr\u00e9c\u00e9dents, une solution ayant recueilli au pr\u00e9alable l\u2019avis des services d\u2019incendie et de secours peut \u00eatre mise en \u0153uvre."
+            },
+            {
+              "text": "En cas d\u2019installation de syst\u00e8mes d\u2019extinction automatique d\u2019incendie, ceux-ci sont con\u00e7us, install\u00e9s et entretenus r\u00e9guli\u00e8rement conform\u00e9ment aux r\u00e9f\u00e9rentiels reconnus. L\u2019efficacit\u00e9 de cette installation est qualifi\u00e9e et v\u00e9rifi\u00e9e par des organismes reconnus comp\u00e9tents dans le domaine de l\u2019extinction automatique ; la qualification pr\u00e9cise que l\u2019installation est adapt\u00e9e aux produits stock\u00e9s et \u00e0 leurs conditions de stockage."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "\t- pr\u00e9sence des moyens de lutte contre l\u2019incendie et respect de leurs r\u00e8gles d\u2019implantation (le non respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "\t- pr\u00e9sence de la quantit\u00e9 d\u2019eau d\u2019extinction et de refroidissement n\u00e9cessaire (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure) ;"
+            },
+            {
+              "text": "\t- pr\u00e9sence de la justification de la disponibilit\u00e9 effective du d\u00e9bit pour les hydrants sous pression (le non-respect de ce point rel\u00e8ve d\u2019une non-conformit\u00e9 majeure)."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 7.",
+          "sections": [],
+          "title": {
+            "text": "7. Moyens de lutte contre l\u2019incendie"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a71b2cEd6FAc",
+          "outer_alineas": [
+            {
+              "text": "Tout stockage de produits liquides susceptibles de cr\u00e9er une pollution de l\u2019eau ou du sol est associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention dont le volume est au moins \u00e9gal \u00e0 la plus grande des deux valeurs suivantes :"
+            },
+            {
+              "text": "\t- 100 % de la capacit\u00e9 du plus grand r\u00e9servoir ;"
+            },
+            {
+              "text": "\t- 50 % de la capacit\u00e9 globale des r\u00e9servoirs associ\u00e9s."
+            },
+            {
+              "text": "La capacit\u00e9 de r\u00e9tention est \u00e9tanche aux produits qu\u2019elle pourrait contenir et r\u00e9siste \u00e0 l\u2019action physique et chimique des fluides. Il en est de m\u00eame pour son dispositif d\u2019obturation, qui est maintenu ferm\u00e9."
+            },
+            {
+              "text": "Lorsque le stockage est constitu\u00e9 exclusivement de r\u00e9cipients de capacit\u00e9 unitaire inf\u00e9rieure ou \u00e9gale \u00e0 250 litres, admis au transport, le volume minimal de la r\u00e9tention est \u00e9gal soit \u00e0 la capacit\u00e9 totale des r\u00e9cipients, si cette capacit\u00e9 est inf\u00e9rieure \u00e0 800 litres, soit \u00e0 20 % de la capacit\u00e9 totale ou 50 %, dans le cas de liquides inflammables, avec un minimum de 800 litres si cette capacit\u00e9 exc\u00e8de 800 litres."
+            },
+            {
+              "text": "Des r\u00e9servoirs ou r\u00e9cipients contenant des produits susceptibles de r\u00e9agir dangereusement ensemble ne sont pas associ\u00e9s \u00e0 la m\u00eame cuvette de r\u00e9tention."
+            },
+            {
+              "text": "Cette disposition ne s\u2019applique pas aux bassins de traitement des eaux r\u00e9siduaires."
+            },
+            {
+              "text": "Les produits r\u00e9cup\u00e9r\u00e9s en cas d\u2019accident ne peuvent \u00eatre rejet\u00e9s que dans des conditions conformes au pr\u00e9sent arr\u00eat\u00e9 ou sont \u00e9limin\u00e9s comme d\u00e9chets."
+            },
+            {
+              "text": "Objet du contr\u00f4le :"
+            },
+            {
+              "text": "\t- v\u00e9rification par sondage de la pr\u00e9sence des cuvettes de r\u00e9tention \u00e9tanches."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 8.",
+          "sections": [],
+          "title": {
+            "text": "8. Cuvettes de r\u00e9tention"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "DECHETS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "A56dcEecbE5A",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 9.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "ca1c79887b1E",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant traite ou fait traiter les d\u00e9chets produits dans des conditions propres \u00e0 garantir les int\u00e9r\u00eats vis\u00e9s \u00e0 l\u2019article L. 511-1 du code de l\u2019environnement. Il s\u2019assure que les installations utilis\u00e9es pour cette \u00e9limination sont r\u00e9guli\u00e8rement autoris\u00e9es \u00e0 cet effet."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.1.",
+              "sections": [],
+              "title": {
+                "text": "9.1. R\u00e9cup\u00e9ration, recyclage, \u00e9limination"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "Be5d23Cf08ea",
+              "outer_alineas": [
+                {
+                  "text": "L\u2019exploitant est tenu aux obligations de registre, de d\u00e9claration d\u2019\u00e9limination de d\u00e9chets et de bordereau de suivi dans les conditions fix\u00e9es par la r\u00e9glementation."
+                },
+                {
+                  "text": "Objet du contr\u00f4le :"
+                },
+                {
+                  "text": "\t- pr\u00e9sence des registres de d\u00e9claration d\u2019\u00e9limination des d\u00e9chets et des bordereaux de suivi."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.2.",
+              "sections": [],
+              "title": {
+                "text": "9.2. Contr\u00f4les des circuits"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "4a65CD0CDFBD",
+              "outer_alineas": [
+                {
+                  "text": "Les d\u00e9chets produits par l\u2019installation sont stock\u00e9s dans des conditions pr\u00e9venant les risques de pollution (notamment pr\u00e9vention des envols, des ruissellements, des infiltrations dans le sol, des odeurs, etc.)."
+                },
+                {
+                  "text": "La quantit\u00e9 de d\u00e9chets stock\u00e9s sur le site ne d\u00e9passe pas la capacit\u00e9 mensuelle produite ou, en cas de traitement externe, un lot normal d\u2019exp\u00e9dition vers l\u2019installation d\u2019\u00e9limination."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.3.",
+              "sections": [],
+              "title": {
+                "text": "9.3. Stockage des d\u00e9chets"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "74BD1e1D20C1",
+              "outer_alineas": [
+                {
+                  "text": "Les d\u00e9chets non dangereux (par exemple bois, papier, verre, textile, plastique, caoutchouc, etc.) et non souill\u00e9s par des produits toxiques ou polluants sont r\u00e9cup\u00e9r\u00e9s, valoris\u00e9s ou trait\u00e9s en s\u2019assurant que la personne \u00e0 qui ils sont remis est autoris\u00e9e \u00e0 les prendre en charge."
+                },
+                {
+                  "text": "Les seuls modes de traitement autoris\u00e9s pour les d\u00e9chets d\u2019emballage sont la valorisation par r\u00e9emploi, recyclage ou toute autre action visant \u00e0 obtenir des mat\u00e9riaux utilisables ou de l\u2019\u00e9nergie."
+                },
+                {
+                  "text": "Cette disposition n\u2019est pas applicable aux d\u00e9tenteurs de d\u00e9chets d\u2019emballage qui en produisent un volume hebdomadaire inf\u00e9rieur \u00e0 1 100 litres et qui les remettent au service de collecte et de traitement des communes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.4.",
+              "sections": [],
+              "title": {
+                "text": "9.4. D\u00e9chets non dangereux"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "614fed2aFdEB",
+              "outer_alineas": [
+                {
+                  "text": "Les d\u00e9chets dangereux sont trait\u00e9s dans des installations r\u00e9glement\u00e9es \u00e0 cet effet au titre du code de l\u2019environnement, dans des conditions propres \u00e0 assurer la protection de l\u2019environnement. Un registre des d\u00e9chets dangereux produits, comprenant a minima la nature, le tonnage et la fili\u00e8re d\u2019\u00e9limination, est tenu \u00e0 jour. L\u2019exploitant \u00e9met un bordereau de suivi d\u00e8s qu\u2019il remet ces d\u00e9chets \u00e0 un tiers et est en mesure d\u2019en justifier le traitement. Les documents justificatifs sont conserv\u00e9s cinq ans."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 9.5.",
+              "sections": [],
+              "title": {
+                "text": "9.5. D\u00e9chets dangereux"
+              }
+            }
+          ],
+          "title": {
+            "text": "9. D\u00e9chets"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "BRUIT_VIBRATIONS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b082eE27A3cF",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 10.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "1cbC40AFd6e0",
+              "outer_alineas": [
+                {
+                  "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on appelle :"
+                },
+                {
+                  "text": "\u00ab \u00e9mergence \u00bb : la diff\u00e9rence entre les niveaux de pression continus \u00e9quivalents pond\u00e9r\u00e9s A du bruit ambiant (installation en fonctionnement) et du bruit r\u00e9siduel (en l\u2019absence du bruit g\u00e9n\u00e9r\u00e9 par l\u2019installation) ;"
+                },
+                {
+                  "text": "\u00ab zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e \u00bb :"
+                },
+                {
+                  "text": "\t- l\u2019int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers, existant \u00e0 la date de la d\u00e9claration, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse) ;"
+                },
+                {
+                  "text": "\t- les zones constructibles d\u00e9finies par des documents d\u2019urbanisme opposables aux tiers et publi\u00e9s \u00e0 la date de la d\u00e9claration ;"
+                },
+                {
+                  "text": "\t- l\u2019int\u00e9rieur des immeubles habit\u00e9s ou occup\u00e9s par des tiers qui ont \u00e9t\u00e9 implant\u00e9s apr\u00e8s la date de la d\u00e9claration dans les zones constructibles d\u00e9finies ci-dessus, et leurs parties ext\u00e9rieures \u00e9ventuelles les plus proches (cour, jardin, terrasse), \u00e0 l\u2019exclusion de celles des immeubles implant\u00e9s dans les zones destin\u00e9es \u00e0 recevoir des activit\u00e9s artisanales ou industrielles."
+                },
+                {
+                  "text": "L\u2019installation est construite, \u00e9quip\u00e9e et exploit\u00e9e de fa\u00e7on telle que son fonctionnement ne puisse \u00eatre \u00e0 l\u2019origine de bruits transmis par voie a\u00e9rienne ou solidienne susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+                },
+                {
+                  "text": "Les \u00e9missions sonores \u00e9mises par l\u2019installation ne sont pas \u00e0 l\u2019origine, dans les zones \u00e0 \u00e9mergence r\u00e9glement\u00e9e, d\u2019une \u00e9mergence sup\u00e9rieure aux valeurs admissibles d\u00e9finies dans le tableau suivant :"
+                },
+                {
+                  "text": "En outre, le niveau de bruit en limite de propri\u00e9t\u00e9 de l\u2019installation ne d\u00e9passe pas, lorsqu\u2019elle est en fonctionnement, 70 dB (A) pour la p\u00e9riode de jour et 60 dB (A) pour la p\u00e9riode de nuit, sauf si le bruit r\u00e9siduel pour la p\u00e9riode consid\u00e9r\u00e9e est sup\u00e9rieur \u00e0 cette limite."
+                },
+                {
+                  "text": "Dans le cas o\u00f9 le bruit particulier du site est \u00e0 tonalit\u00e9 marqu\u00e9e au sens du point 1.9 de l\u2019annexe de l\u2019arr\u00eat\u00e9 du 23 janvier 1997 susvis\u00e9, de mani\u00e8re \u00e9tablie ou cyclique, sa dur\u00e9e d\u2019apparition ne peut exc\u00e9der 30 % de la dur\u00e9e de fonctionnement du site dans chacune des p\u00e9riodes diurne ou nocturne d\u00e9finies dans le tableau ci-dessus."
+                },
+                {
+                  "text": "Lorsque plusieurs installations class\u00e9es, soumises \u00e0 d\u00e9claration au titre de rubriques diff\u00e9rentes, sont situ\u00e9es au sein d\u2019un m\u00eame site, le niveau de bruit global \u00e9mis par ces installations respecte les valeurs limites ci-dessus."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 10.1.",
+              "sections": [],
+              "title": {
+                "text": "10.1. Valeurs limites de bruit"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EFA69245d35f",
+              "outer_alineas": [
+                {
+                  "text": "Les v\u00e9hicules de transport, les mat\u00e9riels de manutention et les engins de chantier utilis\u00e9s \u00e0 l\u2019int\u00e9rieur de l\u2019installation sont conformes aux dispositions en vigueur en mati\u00e8re de limitation de leurs \u00e9missions sonores."
+                },
+                {
+                  "text": "En particulier, les engins de chantier sont conformes \u00e0 un type homologu\u00e9."
+                },
+                {
+                  "text": "L\u2019usage de tous appareils de communication par voie acoustique (par exemple sir\u00e8nes, avertisseurs, haut-parleurs), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d\u2019incidents graves ou d\u2019accidents."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 10.2.",
+              "sections": [],
+              "title": {
+                "text": "10.2. V\u00e9hicules, engins de chantier"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "B7e7B3fFFEd0",
+              "outer_alineas": [
+                {
+                  "text": "Les vibrations \u00e9mises sont conformes aux dispositions fix\u00e9es \u00e0 l\u2019annexe III. Une mesure du niveau de vibrations est effectu\u00e9e par une personne ou un organisme qualifi\u00e9 \u00e0 tout moment sur demande de l\u2019inspection."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 10.3.",
+              "sections": [],
+              "title": {
+                "text": "10.3. Vibrations"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "AfF3Cc3aEAbf",
+              "outer_alineas": [
+                {
+                  "text": "Une mesure du niveau de bruit et de l\u2019\u00e9mergence est effectu\u00e9e par une personne ou un organisme qualifi\u00e9 \u00e0 tout moment, sur demande de l\u2019inspection. Les mesures sont effectu\u00e9es selon la m\u00e9thode d\u00e9finie en annexe de l\u2019arr\u00eat\u00e9 du 23 janvier 1997 susvis\u00e9. Ces mesures sont effectu\u00e9es dans des conditions repr\u00e9sentatives du fonctionnement de l\u2019installation, sur une dur\u00e9e d\u2019une demi-heure au moins."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe I 10.4.",
+              "sections": [],
+              "title": {
+                "text": "10.4. Surveillance par l\u2019exploitant des \u00e9missions sonores"
+              }
+            }
+          ],
+          "title": {
+            "text": "10. Bruit et vibrations"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C46a07b75b9d",
+          "outer_alineas": [
+            {
+              "text": "En dehors des heures d\u2019exploitation du stockage, une surveillance du stockage, par gardiennage ou t\u00e9l\u00e9surveillance, est mise en place en permanence, notamment afin de transmettre l\u2019alerte aux services d\u2019incendie et de secours et de leur permettre l\u2019acc\u00e8s."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 11.",
+          "sections": [],
+          "title": {
+            "text": "11. Surveillance du stockage"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "FIN_EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C57BDCA7630d",
+          "outer_alineas": [
+            {
+              "text": "Outre les dispositions pr\u00e9vues au point 1.7, l\u2019exploitant remet en \u00e9tat le site de sorte qu\u2019il ne s\u2019y manifeste plus aucun danger et inconv\u00e9nient. En particulier :"
+            },
+            {
+              "text": "\t- tous les produits dangereux ainsi que tous les d\u00e9chets sont valoris\u00e9s ou \u00e9vacu\u00e9s vers des installations d\u00fbment autoris\u00e9es ;"
+            },
+            {
+              "text": "\t- les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vid\u00e9es, nettoy\u00e9es, d\u00e9gaz\u00e9es et, le cas \u00e9ch\u00e9ant, d\u00e9contamin\u00e9es."
+            },
+            {
+              "text": "Elles sont si possible enlev\u00e9es, sinon elles sont neutralis\u00e9es par remplissage avec un solide inerte. Le produit utilis\u00e9 pour la neutralisation recouvre toute la surface de la paroi interne et poss\u00e8de une r\u00e9sistance \u00e0 terme suffisante pour emp\u00eacher l\u2019affaissement du sol en surface."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe I 12.",
+          "sections": [],
+          "title": {
+            "text": "12. Remise en \u00e9tat en fin d\u2019exploitation"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe I : Prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1511"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "Bb2D1132dB72",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions de l\u2019annexe I sont applicables aux installations existantes selon le calendrier suivant :"
+        },
+        {
+          "text": "Les prescriptions du E et F du 4.3 sur les installations \u00e9lectriques et \u00e9clairage sont \u00e0 respecter en cas de remplacement de ces \u00e9quipements \u00e9lectriques."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe II",
+      "sections": [],
+      "title": {
+        "text": "Annexe II : Dispositions applicables aux installations existantes"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "BRUIT_VIBRATIONS"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "a6bafD3eAfBF",
+      "outer_alineas": [
+        {
+          "text": "L\u2019installation est construite, \u00e9quip\u00e9e et exploit\u00e9e afin que son fonctionnement ne soit pas \u00e0 l\u2019origine de vibrations dans les constructions avoisinantes susceptibles de compromettre la sant\u00e9 ou la s\u00e9curit\u00e9 du voisinage ou de constituer une nuisance pour celui-ci."
+        },
+        {
+          "text": "La vitesse particulaire des vibrations \u00e9mises, mesur\u00e9e selon la m\u00e9thode d\u00e9finie dans la pr\u00e9sente annexe, ne d\u00e9passe pas les valeurs d\u00e9finies ci-apr\u00e8s."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe III",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "1751aaCf29dF",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe III 1.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EABBEfB3F0d9",
+              "outer_alineas": [
+                {
+                  "text": "Sont consid\u00e9r\u00e9es comme sources continues ou assimil\u00e9es :"
+                },
+                {
+                  "text": "\t- toutes les machines \u00e9mettant des vibrations de mani\u00e8re continue ;"
+                },
+                {
+                  "text": "\t- les sources \u00e9mettant des impulsions \u00e0 intervalles assez courts, sans limitation du nombre d\u2019\u00e9missions."
+                },
+                {
+                  "text": "Les valeurs limites applicables \u00e0 chacune des trois composantes du mouvement vibratoire sont les suivantes :"
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III 1.1.",
+              "sections": [],
+              "title": {
+                "text": "1.1. Sources continues ou assimil\u00e9es"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "64b9eD54aE7e",
+              "outer_alineas": [
+                {
+                  "text": "Sont consid\u00e9r\u00e9es comme sources impulsionnelles \u00e0 impulsions r\u00e9p\u00e9t\u00e9es toutes les sources \u00e9mettant, en nombre limit\u00e9, des impulsions \u00e0 intervalles assez courts mais sup\u00e9rieurs \u00e0 1 seconde et dont la dur\u00e9e d\u2019\u00e9mission est inf\u00e9rieure \u00e0 500 millisecondes."
+                },
+                {
+                  "text": "Les valeurs limites applicables \u00e0 chacune des trois composantes du mouvement vibratoire sont les suivantes :"
+                },
+                {
+                  "text": "Quelle que soit la nature de la source, lorsque les fr\u00e9quences correspondant aux vitesses particulaires couramment observ\u00e9es pendant la p\u00e9riode de mesure s\u2019approchent de 0,5 Hz des fr\u00e9quences de 8, 30 et 100 Hz, la valeur limite \u00e0 retenir est celle correspondant \u00e0 la bande de fr\u00e9quences imm\u00e9diatement inf\u00e9rieure. Si les vibrations comportent des fr\u00e9quences en dehors de l\u2019intervalle 4-100 Hz, il convient de faire appel \u00e0 un organisme qualifi\u00e9 agr\u00e9\u00e9 par le ministre charg\u00e9 de l\u2019environnement."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III 1.2.",
+              "sections": [],
+              "title": {
+                "text": "1.2. Sources impulsionnelles \u00e0 impulsions r\u00e9p\u00e9t\u00e9es"
+              }
+            }
+          ],
+          "title": {
+            "text": "1. Valeurs limites de la vitesse particulaire"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "2b7FeaAbdBbF",
+          "outer_alineas": [
+            {
+              "text": "Pour l\u2019application des limites de vitesses particulaires, les constructions sont class\u00e9es en trois cat\u00e9gories suivant leur niveau de r\u00e9sistance :"
+            },
+            {
+              "text": "\t- constructions r\u00e9sistantes : les constructions des classes 1 \u00e0 4 d\u00e9finies par la circulaire n\u00b0 23 du 23 juillet 1986 relative aux vibrations m\u00e9caniques \u00e9mises dans l\u2019environnement par les installations class\u00e9es pour la protection de l\u2019environnement ;"
+            },
+            {
+              "text": "\t- constructions sensibles : les constructions des classes 5 \u00e0 8 d\u00e9finies par la circulaire n\u00b0 23 du 23 juillet 1986 ;"
+            },
+            {
+              "text": "\t- constructions tr\u00e8s sensibles : les constructions des classes 9 \u00e0 13 d\u00e9finies par la circulaire n\u00b0 23 du 23 juillet 1986 ;"
+            },
+            {
+              "text": "Les constructions suivantes sont exclues de cette classification :"
+            },
+            {
+              "text": "\t- les r\u00e9acteurs nucl\u00e9aires et leurs installations annexes ;"
+            },
+            {
+              "text": "\t- les installations li\u00e9es \u00e0 la s\u00fbret\u00e9 g\u00e9n\u00e9rale, sauf les constructions qui les contiennent ;"
+            },
+            {
+              "text": "\t- les barrages, les ponts ;"
+            },
+            {
+              "text": "\t- les ch\u00e2teaux d\u2019eau ;"
+            },
+            {
+              "text": "\t- les installations de transport \u00e0 grande distance de gaz ou de liquides autres que l\u2019eau ainsi que les tuyauteries d\u2019eau sous pression de diam\u00e8tre sup\u00e9rieur \u00e0 un m\u00e8tre ;"
+            },
+            {
+              "text": "\t- les r\u00e9servoirs de stockage de gaz, d\u2019hydrocarbures liquides ou de c\u00e9r\u00e9ales ;"
+            },
+            {
+              "text": "\t- les tunnels ferroviaires ou routiers et autres ouvrages souterrains d\u2019importance analogue ;"
+            },
+            {
+              "text": "\t- les ouvrages portuaires tels que digues, quais et les ouvrages se situant en mer, notamment les plateformes de forage, pour lesquelles l\u2019\u00e9tude des effets des vibrations est confi\u00e9e \u00e0 un organisme qualifi\u00e9. Le choix de cet organisme est approuv\u00e9 par l\u2019inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe III 2.",
+          "sections": [],
+          "title": {
+            "text": "2. Classification des constructions"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "849F36F18fff",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe III 3.",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "EF5EBCfdb4ff",
+              "outer_alineas": [
+                {
+                  "text": "Le mouvement en un point donn\u00e9 d\u2019une construction est enregistr\u00e9 dans trois directions rectangulaires, dont une verticale, les deux autres directions \u00e9tant d\u00e9finies par rapport aux axes horizontaux de l\u2019ouvrage \u00e9tudi\u00e9, sans tenir compte de l\u2019azimut."
+                },
+                {
+                  "text": "Les capteurs sont plac\u00e9s sur l\u2019\u00e9l\u00e9ment principal de la construction (appui de fen\u00eatre d\u2019un mur porteur, point d\u2019appui sur l\u2019ossature m\u00e9tallique ou en b\u00e9ton dans le cas d\u2019une construction moderne)."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III 3.1.",
+              "sections": [],
+              "title": {
+                "text": "3.1. El\u00e9ments de base"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "cAe332B5CaBe",
+              "outer_alineas": [
+                {
+                  "text": "La cha\u00eene de mesure \u00e0 utiliser permet l\u2019enregistrement, en fonction du temps, de la vitesse particulaire dans la bande de fr\u00e9quences allant de 4 Hz \u00e0 150 Hz pour les amplitudes de cette vitesse comprises entre 0,1 mm/s et 50 mm/s. La dynamique de la cha\u00eene est au moins \u00e9gale \u00e0 54 dB."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III 3.2.",
+              "sections": [],
+              "title": {
+                "text": "3.2. Appareillage de mesure"
+              }
+            },
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "543dCc2ae9Ed",
+              "outer_alineas": [
+                {
+                  "text": "Les capteurs sont compl\u00e8tement solidaires de leur support. Ils ne sont pas install\u00e9s sur des rev\u00eatements (zinc, pl\u00e2tre, carrelage, etc.) qui peuvent agir comme filtres de vibrations ou provoquer des vibrations parasites si ces rev\u00eatements ne sont pas bien solidaires de l\u2019\u00e9l\u00e9ment principal de la construction. Sauf justification particuli\u00e8re, une mesure des agitations existantes en dehors du fonctionnement de la source est effectu\u00e9e."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe III 3.3.",
+              "sections": [],
+              "title": {
+                "text": "3.3. Pr\u00e9cautions op\u00e9ratoires"
+              }
+            }
+          ],
+          "title": {
+            "text": "3. M\u00e9thode de mesure"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe III : R\u00e8gles techniques applicables en mati\u00e8re de vibrations"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 27/03/14 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 1511 de la nomenclature des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": []
+}

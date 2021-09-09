@@ -1,0 +1,3530 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/3989",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": [
+      "Applicable seulement aux installations soumises \u00e0 autorisation."
+    ]
+  },
+  "classements": [],
+  "classements_with_alineas": [],
+  "date_of_signature": "2010-10-04",
+  "id": "JORFTEXT000023081900",
+  "is_transverse": true,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023081900",
+  "nickname": "Risques accidentels",
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "92a1AaFFe86a",
+      "outer_alineas": [
+        {
+          "text": "Sauf mention contraire dans les articles concern\u00e9s, le pr\u00e9sent arr\u00eat\u00e9 est applicable \u00e0 l'ensemble des installations class\u00e9es soumises \u00e0 autorisation."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1er",
+      "sections": [],
+      "title": {
+        "text": "Article 1er"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "b4bd34F3B1Ef",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "e6E1F181DDF9",
+          "outer_alineas": [
+            {
+              "text": "Au titre de la pr\u00e9sente section, on entend par :"
+            },
+            {
+              "text": "Plan d'inspection ou de surveillance : tout document qui d\u00e9finit l'ensemble des op\u00e9rations prescrites pour assurer la ma\u00eetrise de l'\u00e9tat et la conformit\u00e9 dans le temps d'un \u00e9quipement ou d'un groupe d'\u00e9quipements soumis \u00e0 surveillance. Le terme plan de surveillance est employ\u00e9 pour les \u00e9quipements ne relevant pas d'un service inspection."
+            },
+            {
+              "text": "Programme d'inspection ou de surveillance : tout \u00e9ch\u00e9ancier d\u00e9finissant, sur une p\u00e9riode pluriannuelle, pour les \u00e9quipements concern\u00e9s, les dates et type de visite, d'inspection ou de surveillance \u00e0 effectuer."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7B3d1Aa5Ea31",
+          "outer_alineas": [
+            {
+              "text": "Pour l'application du pr\u00e9sent article, on entend par :"
+            },
+            {
+              "text": "R\u00e9servoir atmosph\u00e9rique : r\u00e9servoir dont la pression relative de stockage est inf\u00e9rieure ou \u00e9gale \u00e0 500 mbars."
+            },
+            {
+              "text": "Basse temp\u00e9rature : temp\u00e9rature de service inf\u00e9rieure ou \u00e9gale \u00e0 - 10 \u00b0C."
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent article sont applicables :"
+            },
+            {
+              "text": "\t- \u00e0 tout r\u00e9servoir atmosph\u00e9rique \u00e0 basse temp\u00e9rature de stockage de gaz liqu\u00e9fi\u00e9s toxiques ou inflammables ou d'oxyg\u00e8ne pr\u00e9sent au sein d'un \u00e9tablissement comportant au moins une installation seuil bas ou seuil haut d\u00e9finie \u00e0 l'article R. 511-10 du code de l'environnement ;"
+            },
+            {
+              "text": "\t- \u00e0 tout r\u00e9servoir de gaz de distillation des gaz de l'air (autre que l'oxyg\u00e8ne) liqu\u00e9fi\u00e9, lorsque le volume de liquide susceptible d'y \u00eatre stock\u00e9 est sup\u00e9rieur \u00e0 2 000 m\u00b3."
+            },
+            {
+              "text": "L'exploitant r\u00e9alise un \u00e9tat initial du r\u00e9servoir \u00e0 partir du dossier d'origine ou reconstitu\u00e9 du r\u00e9servoir, de ses caract\u00e9ristiques de construction (mat\u00e9riau, code ou norme de construction, rev\u00eatement \u00e9ventuel) et de l'historique des interventions r\u00e9alis\u00e9es sur le r\u00e9servoir (contr\u00f4le initial, inspections, contr\u00f4les non destructifs, maintenances et r\u00e9parations \u00e9ventuelles), lorsque ces informations existent."
+            },
+            {
+              "text": "A l'issue de cet \u00e9tat initial, l'exploitant \u00e9labore et met en \u0153uvre un programme d'inspection du r\u00e9servoir."
+            },
+            {
+              "text": "Lorsque l'\u00e9tat initial, le programme d'inspection et le plan d'inspection n'ont pas \u00e9t\u00e9 \u00e9tablis selon les recommandations d'un des guides professionnels mentionn\u00e9s \u00e0 l'article 8, l'exploitant proc\u00e8de \u00e0 une inspection interne tous les quinze ans."
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 30 juin 2011 ;"
+            },
+            {
+              "text": "\t- le programme d'inspection est d\u00e9fini avant le 31 d\u00e9cembre 2011 ;"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection interne mentionn\u00e9e ci-dessus est r\u00e9alis\u00e9e, lorsqu'elle est exig\u00e9e, avant le 1er janvier 2014 ou au plus tard quinze ans apr\u00e8s la derni\u00e8re inspection interne ;"
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service \u00e0 compter du 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- le programme d'inspection est d\u00e9fini au plus tard douze mois apr\u00e8s la date de mise en service ;"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection interne mentionn\u00e9e ci-dessus est r\u00e9alis\u00e9e, lorsqu'elle est exig\u00e9e, dans un d\u00e9lai de quinze ans suivant la mise en service."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "Article 3"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bfeF17Ef309E",
+          "outer_alineas": [
+            {
+              "text": "4-1. Les dispositions du pr\u00e9sent article sont applicables aux r\u00e9servoirs a\u00e9riens cylindriques verticaux d'une quantit\u00e9 stock\u00e9e :"
+            },
+            {
+              "text": "\t- sup\u00e9rieure \u00e0 10 m\u00b3 pour les substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 50 ou R. 50/53 ou les mentions de danger H400 ou H410 ; ou"
+            },
+            {
+              "text": "\t- sup\u00e9rieure \u00e0 100 m\u00b3 pour les substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 51 ou R. 51/53 ou les mentions de danger H411 ; ou"
+            },
+            {
+              "text": "\t- sup\u00e9rieure \u00e0 100 m\u00b3 pour les substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 25, R. 28, R. 40, R. 45, R. 46, R. 60, R. 61, R. 62, R. 63, R. 68 ou les mentions de dangers H301, H300, H351, H350, H340, H341, H360 F, H360D, H361f, H361d, H360 FD, H361fd, H360 Fd ou H360Df."
+            },
+            {
+              "text": "Sont exclus du champ d'application de cet article :"
+            },
+            {
+              "text": "\t- les r\u00e9servoirs faisant l'objet d'inspections hors exploitation d\u00e9taill\u00e9es en application du point 29-4 de l'article 29 de l'arr\u00eat\u00e9 du 3 octobre 2010 susvis\u00e9, et"
+            },
+            {
+              "text": "\t- les r\u00e9servoirs pour lesquels une d\u00e9faillance li\u00e9e au vieillissement n'est pas susceptible de g\u00e9n\u00e9rer un risque environnemental important lorsque l'estimation de l'importance de ce risque environnemental est r\u00e9alis\u00e9e selon une m\u00e9thodologie issue d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement."
+            },
+            {
+              "text": "4-2. L'exploitant r\u00e9alise un \u00e9tat initial du r\u00e9servoir \u00e0 partir du dossier d'origine ou reconstitu\u00e9 du r\u00e9servoir, de ses caract\u00e9ristiques de construction (mat\u00e9riau, code ou norme de construction, rev\u00eatement \u00e9ventuel) et de l'historique des interventions r\u00e9alis\u00e9es sur le r\u00e9servoir (contr\u00f4le initial, inspections, contr\u00f4les non destructifs, maintenances et r\u00e9parations \u00e9ventuelles), lorsque ces informations existent."
+            },
+            {
+              "text": "A l'issue de cet \u00e9tat initial, l'exploitant \u00e9labore et met en \u0153uvre un programme d'inspection du r\u00e9servoir."
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 31 d\u00e9cembre 2011 ;"
+            },
+            {
+              "text": "\t- le programme d'inspection est d\u00e9fini avant le 30 juin 2012."
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service \u00e0 compter du 1er janvier 2011, le programme d'inspection est d\u00e9fini au plus tard douze mois apr\u00e8s la date de mise en service."
+            },
+            {
+              "text": "4-3. Lorsque l'\u00e9tat initial, le programme d'inspection et le plan d'inspection n'ont pas \u00e9t\u00e9 \u00e9tablis selon les recommandations d'un des guides professionnels mentionn\u00e9s \u00e0 l'article 8, l'exploitant proc\u00e8de :"
+            },
+            {
+              "text": "- \u00e0 une visite de routine annuelle dont le but est de constater le bon \u00e9tat g\u00e9n\u00e9ral du bac et de son environnement ainsi que les signes ext\u00e9rieurs li\u00e9s aux modes de d\u00e9gradation possible ;"
+            },
+            {
+              "text": "\t- \u00e0 une inspection externe d\u00e9taill\u00e9e permettant de s'assurer de l'absence d'anomalie remettant en cause la date pr\u00e9vue pour la prochaine inspection. Cette inspection comprend a minima :"
+            },
+            {
+              "text": "\t- une inspection visuelle externe approfondie des \u00e9l\u00e9ments constitutifs du r\u00e9servoir et des accessoires (tuyauterie, \u00e9vent \u00e9ventuel, etc.) ;"
+            },
+            {
+              "text": "\t- une inspection visuelle de l'assise ;"
+            },
+            {
+              "text": "\t- une inspection de la soudure robe fond ;"
+            },
+            {
+              "text": "\t- un contr\u00f4le de l'\u00e9paisseur de la robe, notamment pr\u00e8s du fond ;"
+            },
+            {
+              "text": "\t- une v\u00e9rification des d\u00e9formations g\u00e9om\u00e9triques \u00e9ventuelles du r\u00e9servoir, et notamment de la verticalit\u00e9, de la d\u00e9formation \u00e9ventuelle de la robe et de la pr\u00e9sence d'\u00e9ventuels tassements ;"
+            },
+            {
+              "text": "\t- une inspection des ancrages si le r\u00e9servoir en est pourvu."
+            },
+            {
+              "text": "\tCette inspection est r\u00e9alis\u00e9e au moins tous les cinq ans, sauf si une visite de routine r\u00e9alis\u00e9e entre-temps a permis d'identifier une anomalie."
+            },
+            {
+              "text": "- pour les r\u00e9servoirs de plus de 100 m\u00b3, \u00e0 une inspection hors exploitation d\u00e9taill\u00e9e du r\u00e9servoir tous les dix ans comprenant :"
+            },
+            {
+              "text": "- l'ensemble des points pr\u00e9vus pour l'inspection externe d\u00e9taill\u00e9e ;"
+            },
+            {
+              "text": "\t- une inspection visuelle interne approfondie du r\u00e9servoir et des accessoires internes ;"
+            },
+            {
+              "text": "\t- des mesures visant \u00e0 d\u00e9terminer l'\u00e9paisseur restante par rapport \u00e0 une \u00e9paisseur minimale de calcul ou une \u00e9paisseur de retrait, conform\u00e9ment, d'une part, \u00e0 un code adapt\u00e9 et, d'autre part, \u00e0 la cin\u00e9tique de corrosion ;"
+            },
+            {
+              "text": "\t- un contr\u00f4le interne des soudures. Seront a minima v\u00e9rifi\u00e9es la soudure robe fond et les soudures du fond situ\u00e9es \u00e0 proximit\u00e9 imm\u00e9diate de la robe."
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection externe d\u00e9taill\u00e9e mentionn\u00e9e ci-dessus, lorsqu'elle est exig\u00e9e, est r\u00e9alis\u00e9e avant le 31 d\u00e9cembre 2013 ou au plus tard cinq ans apr\u00e8s la derni\u00e8re inspection externe d\u00e9taill\u00e9e ;"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection hors exploitation d\u00e9taill\u00e9e mentionn\u00e9e ci-dessus, lorsqu'elle est exig\u00e9e, est r\u00e9alis\u00e9e avant le 31 d\u00e9cembre 2016 ou au plus tard dix ans apr\u00e8s la derni\u00e8re inspection visuelle interne."
+            },
+            {
+              "text": "Pour les r\u00e9servoirs mis en service \u00e0 compter du 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection externe d\u00e9taill\u00e9e mentionn\u00e9e ci-dessus est r\u00e9alis\u00e9e dans un d\u00e9lai de cinq ans apr\u00e8s la mise en service ;"
+            },
+            {
+              "text": "\t- la premi\u00e8re inspection hors exploitation d\u00e9taill\u00e9e mentionn\u00e9e ci-dessus est r\u00e9alis\u00e9e dans un d\u00e9lai de dix ans apr\u00e8s la mise en service."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [],
+          "title": {
+            "text": "Article 4"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "14Dfa67e2A1B",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions du pr\u00e9sent article sont applicables :"
+            },
+            {
+              "text": "1. Aux capacit\u00e9s et aux tuyauteries pour lesquels une d\u00e9faillance li\u00e9e au vieillissement est susceptible d'\u00eatre \u00e0 l'origine, par perte de confinement, d'un accident d'une gravit\u00e9 importante au sens de l'arr\u00eat\u00e9 du 29 septembre 2005 susvis\u00e9, et"
+            },
+            {
+              "text": "2. Aux capacit\u00e9s d'un volume sup\u00e9rieur \u00e0 10 m\u00b3 contenant des substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 50, R. 50/53 ou les mentions de danger H400, H410 ; ou"
+            },
+            {
+              "text": "3. Aux capacit\u00e9s d'un volume sup\u00e9rieur \u00e0 100 m\u00b3 contenant des substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 25, R. 28, R. 40, R. 45, R. 46, R. 51, R. 51/53, R. 60, R. 61, R. 62, R. 63, R. 68 ou les mentions de dangers H301, H300, H351, H350, H340, H341, H360 F, H360D, H361f, H361d, H360 FD, H361fd, H360 Fd, H360Df, ou H411 ; ou"
+            },
+            {
+              "text": "4. Aux tuyauteries d'un diam\u00e8tre nominal sup\u00e9rieur ou \u00e9gal \u00e0 DN 80 au sens des normes EN 805 et ISO 6708 : 1995 v\u00e9hiculant des substances, des pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 50 ou R. 50/53 ou les mentions de danger H400 ou H410 ; ou"
+            },
+            {
+              "text": "5. Aux tuyauteries d'un diam\u00e8tre nominal sup\u00e9rieur ou \u00e9gal \u00e0 DN 100 au sens des normes EN 805 et ISO 6708 : 1995 v\u00e9hiculant des substances, pr\u00e9parations ou m\u00e9langes auxquels sont attribu\u00e9es les phrases de risques R. 25, R. 28, R. 40, R. 45, R. 46, R. 51, R. 51/53, R. 60, R. 61, R. 62, R. 63, R. 68 ou les mentions de danger H301, H300, H351, H350, H340, H341, H360 F, H360D, H361f, H361d, H360 FD, H361fd, H360 Fd, H360Df, ou H411,"
+            },
+            {
+              "text": "\tsauf si, dans le cas des \u00e9quipements vis\u00e9s aux points 2 \u00e0 5, une perte de confinement li\u00e9e au vieillissement n'est pas susceptible de g\u00e9n\u00e9rer un risque environnemental important. L'estimation de l'importance de ce risque environnemental est r\u00e9alis\u00e9e selon une m\u00e9thodologie issue d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement."
+            },
+            {
+              "text": "Sont exclus du champ d'application de cet article :"
+            },
+            {
+              "text": "\t- les canalisations vis\u00e9es par le chapitre V du titre V du livre V du code de l'environnement ; et"
+            },
+            {
+              "text": "\t- les r\u00e9servoirs de stockage vis\u00e9s par l'arr\u00eat\u00e9 du 3 octobre 2010 susvis\u00e9 et par les articles 3 et 4 du pr\u00e9sent arr\u00eat\u00e9 ; et"
+            },
+            {
+              "text": "\t- les tuyauteries et capacit\u00e9s vis\u00e9es parl'arr\u00eat\u00e9 du 15 mars 2000 susvis\u00e9."
+            },
+            {
+              "text": "L'exploitant r\u00e9alise un \u00e9tat initial de la tuyauterie ou de la capacit\u00e9 \u00e0 partir du dossier d'origine ou reconstitu\u00e9 de cet \u00e9quipement, de ses caract\u00e9ristiques de construction (mat\u00e9riau, code ou norme de construction, rev\u00eatement \u00e9ventuel) et de l'historique des interventions r\u00e9alis\u00e9es sur la tuyauterie (contr\u00f4le initial, inspections, contr\u00f4les non destructifs, maintenances et r\u00e9parations \u00e9ventuelles), lorsque ces informations existent.."
+            },
+            {
+              "text": "A l'issue de cet \u00e9tat initial, l'exploitant \u00e9labore et met en \u0153uvre un programme d'inspection de la tuyauterie ou de la capacit\u00e9."
+            },
+            {
+              "text": "L'\u00e9tat initial, le programme d'inspection et le plan d'inspection sont \u00e9tablis soit selon les recommandations d'un des guides professionnels mentionn\u00e9s \u00e0 l'article 8, soit selon une m\u00e9thodologie d\u00e9velopp\u00e9e par l'exploitant pour laquelle le pr\u00e9fet peut exiger une analyse critique par un organisme ext\u00e9rieur expert choisi par l'exploitant en accord avec l'administration."
+            },
+            {
+              "text": "Pour les tuyauteries et les capacit\u00e9s mises en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 31 d\u00e9cembre 2012 ;"
+            },
+            {
+              "text": "\t- le programme d'inspection est \u00e9labor\u00e9 avant le 31 d\u00e9cembre 2013."
+            },
+            {
+              "text": "Pour les tuyauteries et les capacit\u00e9s mises en service \u00e0 compter du 1er janvier 2011, l'\u00e9tat initial et le programme d'inspection sont r\u00e9alis\u00e9s au plus tard douze mois apr\u00e8s la date de mise en service."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "aCDca3FAAaD2",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions du pr\u00e9sent article sont applicables aux ouvrages suivants :"
+            },
+            {
+              "text": "\t- les massifs des r\u00e9servoirs vis\u00e9s aux articles 3 et 4 du pr\u00e9sent arr\u00eat\u00e9 ainsi que les massifs des r\u00e9servoirs vis\u00e9s par l'arr\u00eat\u00e9 du 3 octobre 2010 susvis\u00e9 d'une capacit\u00e9 \u00e9quivalente sup\u00e9rieure \u00e0 10 m\u00b3 ; et"
+            },
+            {
+              "text": "\t- les cuvettes de r\u00e9tention mises en place pour pr\u00e9venir les accidents et les pollutions accidentelles susceptibles d'\u00eatre g\u00e9n\u00e9r\u00e9s par les \u00e9quipements vis\u00e9s aux articles 3 et 4 du pr\u00e9sent arr\u00eat\u00e9 ainsi que les r\u00e9servoirs vis\u00e9s par l'arr\u00eat\u00e9 du 3 octobre 2010 susvis\u00e9 d'une capacit\u00e9 \u00e9quivalente sup\u00e9rieure \u00e0 10 m\u00b3 ; et"
+            },
+            {
+              "text": "\t- les structures supportant les tuyauteries inter-unit\u00e9s vis\u00e9es \u00e0 l'article 5 du pr\u00e9sent arr\u00eat\u00e9 ; et"
+            },
+            {
+              "text": "\t- les caniveaux en b\u00e9ton et les fosses humides d'unit\u00e9s de fabrication v\u00e9hiculant lors du fonctionnement normal de l'installation des produits agressifs pour l'ouvrage et pour lesquels la d\u00e9gradation de l'ouvrage serait susceptible de g\u00e9n\u00e9rer un accident de gravit\u00e9 importante."
+            },
+            {
+              "text": "L'exploitant r\u00e9alise un \u00e9tat initial de l'ouvrage \u00e0 partir du dossier d'origine de l'ouvrage, de ses caract\u00e9ristiques de construction, de l'historique des interventions r\u00e9alis\u00e9es sur l'ouvrage (contr\u00f4le initial, inspections, maintenance et r\u00e9parations \u00e9ventuelles) lorsque ces informations existent."
+            },
+            {
+              "text": "A l'issue de cet \u00e9tat initial, l'exploitant \u00e9labore et met en \u0153uvre un programme d'inspection de l'ouvrage."
+            },
+            {
+              "text": "L'\u00e9tat initial, le programme de surveillance et le plan de surveillance sont \u00e9tablis soit selon les recommandations d'un des guides professionnels mentionn\u00e9s \u00e0 l'article 8, soit selon une m\u00e9thodologie d\u00e9velopp\u00e9e par l'exploitant pour laquelle le pr\u00e9fet peut exiger une analyse critique par un organisme ext\u00e9rieur expert choisi par l'exploitant en accord avec l'administration."
+            },
+            {
+              "text": "Pour les ouvrages mis en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "S'agissant des massifs des r\u00e9servoirs et des cuvettes de r\u00e9tention :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 31 d\u00e9cembre 2011 ;"
+            },
+            {
+              "text": "\t- le programme de surveillance est \u00e9labor\u00e9 avant le 31 d\u00e9cembre 2012."
+            },
+            {
+              "text": "S'agissant des supports supportant les tuyauteries, les caniveaux et les fosses humides :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 31 d\u00e9cembre 2012 ;"
+            },
+            {
+              "text": "\t- le programme de surveillance est \u00e9labor\u00e9 avant le 31 d\u00e9cembre 2013."
+            },
+            {
+              "text": "Pour les ouvrages mis en service \u00e0 compter du 1er janvier 2011, l'\u00e9tat initial et le programme de surveillance sont r\u00e9alis\u00e9s au plus tard douze mois apr\u00e8s la mise en service."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "dd3381ed5e80",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent article est applicable aux mesures de ma\u00eetrise des risques, c'est-\u00e0-dire aux ensembles d'\u00e9l\u00e9ments techniques et/ou organisationnels n\u00e9cessaires et suffisants pour assurer une fonction de s\u00e9curit\u00e9, faisant appel \u00e0 de l'instrumentation de s\u00e9curit\u00e9 vis\u00e9es par l'article 4 de l'arr\u00eat\u00e9 du 29 septembre 2005 susvis\u00e9 et pr\u00e9sentes au sein d'un \u00e9tablissement comportant au moins une installation seuil bas ou seuil haut d\u00e9finie \u00e0 l'article R. 511-10 du code de l'environnement."
+            },
+            {
+              "text": "Sont exclues du champ d'application de cet article les mesures de ma\u00eetrise des risques faisant appel \u00e0 de l'instrumentation de s\u00e9curit\u00e9 dont la d\u00e9faillance n'est pas susceptible de remettre en cause de fa\u00e7on importante la s\u00e9curit\u00e9 lorsque cette estimation de l'importance est r\u00e9alis\u00e9e selon une m\u00e9thodologie issue d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement."
+            },
+            {
+              "text": "L'exploitant r\u00e9alise un \u00e9tat initial des \u00e9quipements techniques contribuant \u00e0 ces mesures de ma\u00eetrise des risques faisant appel \u00e0 de l'instrumentation de s\u00e9curit\u00e9."
+            },
+            {
+              "text": "A l'issue de cet \u00e9tat initial, il \u00e9labore un programme de surveillance des \u00e9quipements contribuant \u00e0 ces mesures de ma\u00eetrise des risques."
+            },
+            {
+              "text": "L'\u00e9tat initial, le programme de surveillance et le plan de surveillance sont \u00e9tablis soit sur la base d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement, soit sur la base d'une m\u00e9thodologie d\u00e9velopp\u00e9e par l'exploitant pour laquelle le pr\u00e9fet peut exiger une analyse critique par un organisme ext\u00e9rieur expert choisi par l'exploitant en accord avec l'administration."
+            },
+            {
+              "text": "Par ailleurs, pour les mesures de ma\u00eetrise des risques mettant en \u0153uvre de l'instrumentation de s\u00e9curit\u00e9 dont il appara\u00eet lors de l'\u00e9tat initial qu'elle n'a jamais fait l'objet d'un contr\u00f4le de bon fonctionnement, un tel contr\u00f4le est r\u00e9alis\u00e9 avant le 30 juin 2014."
+            },
+            {
+              "text": "Pour les \u00e9quipements contribuant aux mesures de ma\u00eetrise des risques vis\u00e9es par le pr\u00e9sent article et mis en service avant le 1er janvier 2011 :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial est r\u00e9alis\u00e9 avant le 31 d\u00e9cembre 2013 ;"
+            },
+            {
+              "text": "\t- le programme de surveillance est \u00e9labor\u00e9 avant le 31 d\u00e9cembre 2014."
+            },
+            {
+              "text": "Pour les \u00e9quipements contribuant aux mesures de ma\u00eetrise des risques vis\u00e9es par le pr\u00e9sent article et mis en services \u00e0 compter du 1er janvier 2011, l'\u00e9tat initial et le programme de surveillance sont r\u00e9alis\u00e9s au plus tard douze mois apr\u00e8s la mise en service."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [],
+          "title": {
+            "text": "Article 7"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "30F8ADd1E911",
+          "outer_alineas": [
+            {
+              "text": "L'\u00e9tat initial, les programmes d'inspection ou de surveillance ainsi que les plans d'inspection ou de surveillance mentionn\u00e9s aux articles 3 \u00e0 7 peuvent \u00eatre \u00e9tablis selon les recommandations de guides professionnels reconnus par le ministre charg\u00e9 de l'environnement."
+            },
+            {
+              "text": "Ces guides d\u00e9finissent :"
+            },
+            {
+              "text": "\t- les r\u00e8gles d'estimation de l'importance du risque environnemental lorsque les articles pr\u00e9c\u00e9dents le pr\u00e9voient ;"
+            },
+            {
+              "text": "\t- les r\u00e8gles de r\u00e9alisation de l'\u00e9tat initial ;"
+            },
+            {
+              "text": "\t- les modalit\u00e9s d'\u00e9tablissement des plans d'inspection ou de surveillance et de maintenance \u00e9ventuelle ;"
+            },
+            {
+              "text": "\t- le d\u00e9lai de mise en application des r\u00e9visions du guide lors de chaque r\u00e9vision."
+            },
+            {
+              "text": "Pour chaque \u00e9quipement ou ouvrage mentionn\u00e9 aux articles 3 \u00e0 7 et pour lequel un plan d'inspection et de surveillance est mis en place, l'exploitant \u00e9labore un dossier contenant :"
+            },
+            {
+              "text": "\t- l'\u00e9tat initial de l'\u00e9quipement ;"
+            },
+            {
+              "text": "\t- la pr\u00e9sentation de la strat\u00e9gie mise en place pour le contr\u00f4le de l'\u00e9tat de l'\u00e9quipement (modalit\u00e9s, fr\u00e9quence, m\u00e9thodes, etc.) et pour la d\u00e9termination des suites \u00e0 donner \u00e0 ces contr\u00f4les (m\u00e9thodologie d'analyse des r\u00e9sultats, crit\u00e8res de d\u00e9clenchement d'actions correctives de r\u00e9paration ou de remplacement, etc.). Ces \u00e9l\u00e9ments de la strat\u00e9gie sont justifi\u00e9s, en fonction des modes de d\u00e9gradation envisageables, le cas \u00e9ch\u00e9ant par simple r\u00e9f\u00e9rence aux parties du guide professionnel reconnu par le ministre charg\u00e9 de l'environnement sur la base desquelles ils ont \u00e9t\u00e9 \u00e9tablis ;"
+            },
+            {
+              "text": "\t- les r\u00e9sultats des contr\u00f4les et les suites donn\u00e9es \u00e0 ces contr\u00f4les ;"
+            },
+            {
+              "text": "\t- les interventions \u00e9ventuellement men\u00e9es."
+            },
+            {
+              "text": "Ce dossier est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es et est ais\u00e9ment consultable lors d'un contr\u00f4le de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Ce dossier peut constituer le dossier mentionn\u00e9 au 3 de l'annexe I de l'arr\u00eat\u00e9 du 26 mai 2014 relatif \u00e0 la pr\u00e9vention des accidents majeurs dans les installations class\u00e9es mentionn\u00e9es \u00e0 la section 9, chapitre V, titre Ier, du livre V du code de l'environnement."
+            },
+            {
+              "text": "Lorsque les documents mentionn\u00e9s ci-dessus sont \u00e9tablis sur la base d'un guide professionnel reconnu par le ministre charg\u00e9 de l'environnement, les r\u00e9visions du guide sont prises en compte par l'exploitant dans le d\u00e9lai fix\u00e9 par ces r\u00e9visions."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section I : Dispositions relatives \u00e0 la pr\u00e9vention des risques li\u00e9s au vieillissement de certains \u00e9quipements"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "d01E4bdEBCA9",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8EeFaBEfFaC1",
+          "outer_alineas": [
+            {
+              "text": "Aux fins de la pr\u00e9sente section, on entend par :"
+            },
+            {
+              "text": "- Installation seuil haut : une installation r\u00e9pondant aux dispositions de l'article L. 515-36 du code de l'environnement."
+            },
+            {
+              "text": "- Installation seuil bas : une installation r\u00e9pondant aux dispositions de l'article L. 515-32 du code de l'environnement et ne r\u00e9pondant pas aux dispositions de l'article L. 515-36 du code de l'environnement."
+            },
+            {
+              "text": "- Installation nouvelle : installation disposant d'une premi\u00e8re autorisation \u00e0 partir du 1er janvier 2013, ou partie d'installation ayant fait l'objet apr\u00e8s le 1er janvier 2013 d'une modification substantielle impliquant des constructions nouvelles."
+            },
+            {
+              "text": "- Installation existante : autres installations."
+            },
+            {
+              "text": "- Zones sans occupation humaine permanente : zones ne comptant aucun \u00e9tablissement recevant du public, aucun lieu d'habitation, aucun local de travail permanent, ni aucune voie de circulation routi\u00e8re d'un trafic sup\u00e9rieur \u00e0 5 000 v\u00e9hicules par jour et pour lesquelles des constructions nouvelles sont interdites."
+            },
+            {
+              "text": "- Equipement critique au s\u00e9isme : \u00e9quipement dont la d\u00e9faillance en cas de s\u00e9isme conduit \u00e0 des ph\u00e9nom\u00e8nes dangereux susceptibles de g\u00e9n\u00e9rer des zones de dangers graves (au sens de l'arr\u00eat\u00e9 minist\u00e9riel du 29 septembre 2005) en dehors des zones sans occupation humaine permanente hors des limites de propri\u00e9t\u00e9 du site."
+            },
+            {
+              "text": "- Classes de sol : cat\u00e9gories de nature locale du sol telles que d\u00e9finies dans l'arr\u00eat\u00e9 du 22 octobre 2010 relatif \u00e0 la classification et aux r\u00e8gles de construction parasismique applicables aux b\u00e2timents de la classe dite \u00e0 risque normal"
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bABDecaF70E5",
+          "outer_alineas": [
+            {
+              "text": "L'ensemble des installations class\u00e9es soumises \u00e0 autorisation respectent les dispositions pr\u00e9vues pour les b\u00e2timents, \u00e9quipements et installations de la cat\u00e9gorie dite \u00e0 risque normal par les arr\u00eat\u00e9s pris en application de l'article R. 563-5 du code de l'environnement dans les d\u00e9lais et modalit\u00e9s pr\u00e9vus par lesdits arr\u00eat\u00e9s."
+            },
+            {
+              "text": "Les articles 11,12,13 et 14 du pr\u00e9sent arr\u00eat\u00e9 s'appliquent aux seuls \u00e9quipements critiques au s\u00e9isme au sein d'installations seuil haut et seuil bas."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Ba8aF6DFA9dB",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant \u00e9labore et met en \u0153uvre un plan de visite des \u00e9quipements critiques au s\u00e9isme identifi\u00e9s dans l'\u00e9tude de dangers mentionn\u00e9e \u00e0 l'article L. 181-25 du code de l'environnement."
+            },
+            {
+              "text": "Ce plan a pour objectif de s'assurer de l'int\u00e9grit\u00e9 des \u00e9quipements et de la qualit\u00e9 de leurs ancrages et fixations. Les contr\u00f4les effectu\u00e9s dans le cadre de la section I du pr\u00e9sent arr\u00eat\u00e9, ou effectu\u00e9s au titre de la r\u00e9glementation applicable aux \u00e9quipements sous pression, valent contr\u00f4les au titre du pr\u00e9sent article. Ce plan peut \u00eatre \u00e9labor\u00e9 sur la base de guides techniques reconnus par le minist\u00e8re charg\u00e9 de l'environnement."
+            },
+            {
+              "text": "L'exploitant r\u00e9alise la maintenance n\u00e9cessaire lors de la mise en \u0153uvre de ce plan."
+            },
+            {
+              "text": "Le plan de visite, le bilan des visites et des suites qui leur ont \u00e9t\u00e9 donn\u00e9es sont tenus \u00e0 disposition de l'inspection des installations class\u00e9es."
+            },
+            {
+              "text": "Ce plan est \u00e9labor\u00e9 au plus tard :"
+            },
+            {
+              "text": "- au 1er janvier 2020 pour les installations existantes ;"
+            },
+            {
+              "text": "- \u00e0 la mise en service de l'installation pour les installations nouvelles."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "AAcC95E2BDD5",
+          "outer_alineas": [
+            {
+              "text": "Le pr\u00e9sent article s'applique :"
+            },
+            {
+              "text": "- aux installations existantes seuil haut situ\u00e9es en zone de sismicit\u00e9 3,4,5, ou en zone de sismicit\u00e9 2 avec une classe de sol D ou E ;"
+            },
+            {
+              "text": "- aux installations nouvelles seuil haut ;"
+            },
+            {
+              "text": "- aux installations existantes seuil bas situ\u00e9es en zone de sismicit\u00e9 4 ou 5 ;"
+            },
+            {
+              "text": "- aux installations nouvelles seuil bas situ\u00e9es en zone de sismicit\u00e9 3,4,5, ou en zone de sismicit\u00e9 2 avec une classe de sol D ou E."
+            },
+            {
+              "text": "Toutefois, il ne s'applique pas \u00e0 ces installations lorsqu'une \u00e9tude locale pr\u00e9vue \u00e0 l'article 14-2 a conduit \u00e0 des acc\u00e9l\u00e9rations inf\u00e9rieures \u00e0 celles correspondant pour une classe de sol donn\u00e9e, aux zones les plus faibles indiqu\u00e9es aux alin\u00e9as pr\u00e9c\u00e9dents. Pour ces installations, le pr\u00e9fet prend acte de l'\u00e9tude locale pr\u00e9vue \u00e0 l'article 14-2 remise par l'exploitant."
+            },
+            {
+              "text": "L'exploitant \u00e9labore une \u00e9tude s\u00e9isme permettant de :"
+            },
+            {
+              "text": "- justifier qu'il n'y a plus d'\u00e9quipements critiques au s\u00e9isme, en appliquant les acc\u00e9l\u00e9rations de calcul de l'article 14-1-I-a) pour les installations nouvelles, et de l'article 14-1-I-b) pour les installations existantes, apr\u00e8s prise en compte le cas \u00e9ch\u00e9ant de l'article 14-2, et apr\u00e8s prise en compte le cas \u00e9ch\u00e9ant des ouvrages agresseurs potentiels ainsi que des barri\u00e8res de protection restant op\u00e9rationnelles et efficaces \u00e0 ces acc\u00e9l\u00e9rations ;"
+            },
+            {
+              "text": "- pr\u00e9senter l'ensemble des \u00e9quipements devant \u00eatre \u00e9tudi\u00e9s et les dispositions prises pour assurer la p\u00e9rennit\u00e9 de leur efficacit\u00e9 reprenant au minimum le plan de visite mentionn\u00e9 \u00e0 l'article 11 ;"
+            },
+            {
+              "text": "- pr\u00e9senter un \u00e9ch\u00e9ancier des travaux \u00e0 r\u00e9aliser dans les d\u00e9lais pr\u00e9cis\u00e9s \u00e0 l'article 13, le cas \u00e9ch\u00e9ant, dont la priorisation peut \u00eatre justifi\u00e9e par une \u00e9tude technico-\u00e9conomique."
+            },
+            {
+              "text": "Cette \u00e9tude peut \u00eatre r\u00e9alis\u00e9e \u00e0 partir des guides techniques reconnus par le minist\u00e8re charg\u00e9 de l'environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7eEa7Ab57a6b",
+          "outer_alineas": [
+            {
+              "text": "Pour les installations nouvelles, l'\u00e9tude mentionn\u00e9e \u00e0 l'article 12 est produite au plus tard lors du d\u00e9p\u00f4t de la demande d'autorisation environnementale et les moyens techniques n\u00e9cessaires \u00e0 la protection parasismique des \u00e9quipements issus de cette \u00e9tude sont mis en \u0153uvre \u00e0 la mise en service de l'installation."
+            },
+            {
+              "text": "Pour les installations existantes, l'\u00e9tude mentionn\u00e9e \u00e0 l'article 12 est produite au plus tard \u00e0 la date suivante :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONE DE SISMICIT\u00c9"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "INSTALLATION SEUIL BAS"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "INSTALLATION SEUIL HAUT"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "/"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2021"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "/"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2020"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2022"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2020"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2018"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "31 d\u00e9cembre 2018"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "Pour les installations existantes seuil haut situ\u00e9es en zone de sismicit\u00e9 2, la classe de sol sera d\u00e9termin\u00e9e au plus tard le 31 d\u00e9cembre 2019."
+            },
+            {
+              "text": "Au plus tard trois ans apr\u00e8s la remise de l'\u00e9tude mentionn\u00e9e \u00e0 l'article 12, le pr\u00e9fet prend acte par arr\u00eat\u00e9 de l'\u00e9ch\u00e9ancier de mise en \u0153uvre des moyens techniques n\u00e9cessaires \u00e0 la protection parasismique des installations."
+            },
+            {
+              "text": "Cet \u00e9ch\u00e9ancier ne doit pas d\u00e9passer neuf ans \u00e0 compter de la date de l'arr\u00eat\u00e9. Dans le cas o\u00f9 l'exploitant s'engage \u00e0 arr\u00eater d\u00e9finitivement l'installation dans ces m\u00eames d\u00e9lais, le pr\u00e9fet en prend acte en lieu et place de l'\u00e9ch\u00e9ancier de mise en \u0153uvre des moyens techniques."
+            },
+            {
+              "text": "Par ailleurs, en cas de modification du zonage mentionn\u00e9 \u00e0 l'article R. 563-4 du code de l'environnement, le pr\u00e9fet peut prescrire \u00e0 l'exploitant de proc\u00e9der \u00e0 une nouvelle \u00e9tude telle que mentionn\u00e9e \u00e0 l'article 12."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 13",
+          "sections": [],
+          "title": {
+            "text": "Article 13"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eE1c4bC6CAfF",
+          "outer_alineas": [
+            {
+              "text": "Le mouvement d\u00fb au s\u00e9isme en un point donn\u00e9 de la surface du sol, \u00e0 partir duquel les r\u00e8gles de la pr\u00e9sente section doivent \u00eatre appliqu\u00e9es, est repr\u00e9sent\u00e9 par un spectre de r\u00e9ponse \u00e9lastique (verticale et horizontale) en acc\u00e9l\u00e9ration, d\u00e9nomm\u00e9 par la suite spectre de r\u00e9ponse \u00e9lastique."
+            },
+            {
+              "text": "Afin de r\u00e9aliser l'\u00e9tude s\u00e9isme mentionn\u00e9e \u00e0 l'article 12, l'exploitant d\u00e9termine le spectre en r\u00e9ponse \u00e9lastique :"
+            },
+            {
+              "text": "- soit \u00e0 travers le zonage de sismicit\u00e9 et la nature du sol, conform\u00e9ment aux dispositions de l'article 14-1 ;"
+            },
+            {
+              "text": "- soit \u00e0 travers une \u00e9tude de zonage sismique locale, conform\u00e9ment aux dispositions de l'article 14-2."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14",
+          "sections": [],
+          "title": {
+            "text": "Article 14"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "Eec42FCfCd75",
+          "outer_alineas": [
+            {
+              "text": "Le spectre de r\u00e9ponse \u00e9lastique \u00e9tabli en application du deuxi\u00e8me alin\u00e9a de l'article 14, est d\u00e9termin\u00e9 avec les param\u00e8tres suivants :"
+            },
+            {
+              "text": " I. L'acc\u00e9l\u00e9ration de calcul au niveau d'un sol de type rocheux (classe A), r\u00e9sultant de la situation de l'installation par rapport \u00e0 la zone sismique d'implantation, telle que d\u00e9finie par l'article R. 563-4 du code de l'environnement et son annexe."
+            },
+            {
+              "text": "a) Temps de retour consid\u00e9r\u00e9 de 5 000 ans :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONE DE SISMICIT\u00c9"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ACC\u00c9L\u00c9RATION HORIZONTALE DE CALCUL\n(m/ s2)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ACC\u00c9L\u00c9RATION VERTICALE DE CALCUL\n(m/ s2)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 1"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,88"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,79"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,54"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,39"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,42"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,18"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "3,52"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,82"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "6,60"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "5,28"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "b) Temps de retour consid\u00e9r\u00e9 de 3 000 ans :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONE DE SISMICIT\u00c9"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ACC\u00c9L\u00c9RATION HORIZONTALE DE CALCUL\n(m/ s2)"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ACC\u00c9L\u00c9RATION VERTICALE DE CALCUL\n(m/ s2)"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 1"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,74"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,67"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,30"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,17"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,04"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,84"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,96"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,37"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Zone de sismicit\u00e9 5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "5,55"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "4,44"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "II. La nature du sol par l'interm\u00e9diaire du param\u00e8tre de sol, S."
+            },
+            {
+              "text": "Les valeurs du param\u00e8tre de sol, S r\u00e9sultant de la classe de sol sous l'installation sont donn\u00e9es par le tableau suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "CLASSES DE SOL"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONES DE SISMICIT\u00c9 1 \u00e0 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONE DE SISMICITE 4 \u00e0 5"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "A"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,0"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,0"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "B"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,35"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "C"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,15"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "D"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,6"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,35"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "E"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,8"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,4"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "III. TB et TC, qui sont respectivement la limite inf\u00e9rieure et sup\u00e9rieure des p\u00e9riodes correspondant au palier d'acc\u00e9l\u00e9ration spectrale constante, et TD qui est la valeur d\u00e9finissant le d\u00e9but de la branche \u00e0 d\u00e9placement spectral constant."
+            },
+            {
+              "text": "Les valeurs de TB, TC et TD, \u00e0 prendre en compte pour l'\u00e9valuation des composantes horizontales du mouvement sismique, exprim\u00e9es en secondes, sont donn\u00e9es par le tableau suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "CLASSES DE SOL"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 3,
+                        "content": {
+                          "text": "ZONES DE SISMICIT\u00c9 1 \u00e0 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 3,
+                        "content": {
+                          "text": "ZONE DE SISMICIT\u00c9 4 \u00e0 5"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": ""
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TB"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TC"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TD"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TB"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TC"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TD"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "A"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,03"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,15"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "B"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,05"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,25"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,15"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "C"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,06"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,4"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,6"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "D"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,1"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,6"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,2"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,8"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "E"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,08"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,45"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1,25"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,15"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "Les valeurs de TB et TC et TD \u00e0 prendre en compte pour l'\u00e9valuation des composantes verticales du mouvement sismique quelle que soit la classe de sol, exprim\u00e9es en secondes, sont les suivantes :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "ZONE DE SISMICIT\u00c9"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TB"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TC"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "TD"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "1 \u00e0 3"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,03"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,20"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2,5"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "4 \u00e0 5"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,15"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "0,40"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "2"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14-1",
+          "sections": [],
+          "title": {
+            "text": "Article 14-1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3f5FBCc9868d",
+          "outer_alineas": [
+            {
+              "text": "Le spectre de r\u00e9ponse \u00e9lastique \u00e9tabli en application du troisi\u00e8me alin\u00e9a de l'article 14, est d\u00e9termin\u00e9 \u00e0 travers une \u00e9tude de zonage sismique locale portant sur le p\u00e9rim\u00e8tre de l'installation r\u00e9alis\u00e9e par un organisme agr\u00e9\u00e9 conform\u00e9ment \u00e0 l'article 15 ci-apr\u00e8s, pour des p\u00e9riodes de retour de 5000 ans et 3000 ans respectivement pour les installations nouvelles et existantes."
+            },
+            {
+              "text": "Ainsi calcul\u00e9s, les spectres de r\u00e9ponse \u00e9lastique pour les installations nouvelles ne peuvent \u00eatre inf\u00e9rieurs \u00e0 ceux qui auraient \u00e9t\u00e9 calcul\u00e9s conform\u00e9ment aux dispositions de l'article 14-I-1-a), en consid\u00e9rant la zone de sismicit\u00e9, d\u00e9finie \u00e0 l'article R. 563-4 du code de l'environnement, directement inf\u00e9rieure \u00e0 celle de la zone d'implantation de l'installation."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 14-2",
+          "sections": [],
+          "title": {
+            "text": "Article 14-2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8553c1c9bE0D",
+          "outer_alineas": [
+            {
+              "text": "Pour \u00eatre agr\u00e9\u00e9 au sens de la pr\u00e9sente section les organismes doivent adresser un dossier de demande d'agr\u00e9ment au ministre charg\u00e9 des installations class\u00e9es. Ce dossier comprend :"
+            },
+            {
+              "text": "- la demande d'agr\u00e9ment pr\u00e9cisant la raison sociale ou la d\u00e9nomination de l'organisme, l'adresse du si\u00e8ge social, la structure juridique ainsi que la qualit\u00e9 du signataire de la demande ;"
+            },
+            {
+              "text": "- un document pr\u00e9cisant le nom, le pr\u00e9nom, la formation et l'exp\u00e9rience professionnelle sur au moins 5 ans d'au moins un dirigeant ou cadre responsable comp\u00e9tent pour r\u00e9aliser ou faire r\u00e9aliser sous sa responsabilit\u00e9 les \u00e9tudes de zonage sismique mentionn\u00e9es \u00e0 l'article 14-2 ;"
+            },
+            {
+              "text": "- une liste d'au moins cinq \u00e9tudes de zonage sismique r\u00e9alis\u00e9es jusqu'au moment de la demande et d\u00e9montrant sa capacit\u00e9 \u00e0 r\u00e9aliser ces \u00e9tudes ; cette liste mentionnera les mod\u00e8les de calcul utilis\u00e9s et justifiera de leur accr\u00e9ditation ;"
+            },
+            {
+              "text": "L'agr\u00e9ment est renouvel\u00e9 tous les cinq ans par le ministre charg\u00e9 des installations class\u00e9es, apr\u00e8s examen d'une demande de renouvellement adress\u00e9e dans les m\u00eames conditions que la demande initiale. Les \u00e9tudes de zonage sismique doivent alors \u00eatre diff\u00e9rentes de celles transmises lors de la premi\u00e8re demande d'agr\u00e9ment ou de la derni\u00e8re demande de renouvellement."
+            },
+            {
+              "text": "Le ministre charg\u00e9 des installations class\u00e9es peut suspendre ou retirer l'agr\u00e9ment d'un organisme en cas de non-respect des proc\u00e9dures ou en cas de modification frauduleuse des r\u00e9sultats d'\u00e9tudes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 15",
+          "sections": [],
+          "title": {
+            "text": "Article 15"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section II : Dispositions relatives aux r\u00e8gles parasismiques applicables \u00e0 certaines installations"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "119E7eBF3Bf6",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FE56FfDFeAA2",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions de la pr\u00e9sente section sont applicables aux installations class\u00e9es vis\u00e9es par les rubriques suivantes d\u00e8s lors qu\u2019une agression par la foudre peut \u00eatre \u00e0 l\u2019origine d\u2019un \u00e9v\u00e9nement susceptible de porter atteinte, directement ou indirectement, aux int\u00e9r\u00eats mentionn\u00e9s \u00e0 l\u2019article L. 511-1 du code de l\u2019environnement :"
+            },
+            {
+              "text": "\t\u2013 les rubriques 47, 70 ;"
+            },
+            {
+              "text": "\t\u2013 toutes les rubriques de la s\u00e9rie des 1000 et des 4000 ;"
+            },
+            {
+              "text": "\t\u2013 les rubriques 2160, 2180, 2225, 2226, 2250, 2260, 2345, 2410, 2420 \u00e0 2450, 2531, 2541 \u00e0 2552, 2562 \u00e0 2670, 2680, 2681 et 2750 ;"
+            },
+            {
+              "text": "\t\u2013 les rubriques 2714, 2717, 2718, 2770, 2771, 2782, 2790, 2791, 2795 et 2797 ;"
+            },
+            {
+              "text": "\t\u2013 les rubriques 2910 \u00e0 2920, 2940 et 2950."
+            },
+            {
+              "text": "Pour les installations autoris\u00e9es avant le 24 ao\u00fbt 2008, les dispositions des articles 19 \u00e0 22 du pr\u00e9sent arr\u00eat\u00e9 ne sont applicables qu\u2019\u00e0 partir du 1er janvier 2012."
+            },
+            {
+              "text": "Les dispositions du pr\u00e9sent arr\u00eat\u00e9 peuvent \u00eatre rendues applicables par le pr\u00e9fet aux installations class\u00e9es soumises \u00e0 autorisation non vis\u00e9es par les quatre premiers alin\u00e9as de cet article d\u00e8s lors qu\u2019une agression par la foudre sur certaines installations class\u00e9es pourrait \u00eatre \u00e0 l\u2019origine d\u2019\u00e9v\u00e9nements susceptibles de porter atteinte, directement ou indirectement, aux int\u00e9r\u00eats vis\u00e9s \u00e0 l\u2019article L. 511-1 du code de l\u2019environnement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 16",
+          "sections": [],
+          "title": {
+            "text": "Article 16"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9Fe51FCb0D65",
+          "outer_alineas": [
+            {
+              "text": "Sont reconnus organismes comp\u00e9tents au titre de la pr\u00e9sente section les personnes et organismes qualifi\u00e9s par un organisme ind\u00e9pendant selon un r\u00e9f\u00e9rentiel approuv\u00e9 par le ministre charg\u00e9 des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 17",
+          "sections": [],
+          "title": {
+            "text": "Article 17"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "06042ad1Ef8C",
+          "outer_alineas": [
+            {
+              "text": "Une analyse du risque foudre (ARF) visant \u00e0 prot\u00e9ger les int\u00e9r\u00eats mentionn\u00e9s aux articles L. 211-1 et L. 511-1 du code de l\u2019environnement est r\u00e9alis\u00e9e par un organisme comp\u00e9tent. Elle identifie les \u00e9quipements et installations dont une protection doit \u00eatre assur\u00e9e."
+            },
+            {
+              "text": "L\u2019analyse est bas\u00e9e sur une \u00e9valuation des risques r\u00e9alis\u00e9e conform\u00e9ment \u00e0 la norme NF EN 62305-2, version de novembre 2006, ou \u00e0 un guide technique reconnu par le ministre charg\u00e9 des installations class\u00e9es."
+            },
+            {
+              "text": "Elle d\u00e9finit les niveaux de protection n\u00e9cessaires aux installations."
+            },
+            {
+              "text": "Cette analyse est syst\u00e9matiquement mise \u00e0 jour \u00e0 l\u2019occasion de modifications substantielles au sens de l\u2019article R. 512-33 du code de l\u2019environnement et \u00e0 chaque r\u00e9vision de l\u2019\u00e9tude de dangers ou pour toute modification des installations qui peut avoir des r\u00e9percussions sur les donn\u00e9es d\u2019entr\u00e9es de l\u2019ARF."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 18",
+          "sections": [],
+          "title": {
+            "text": "Article 18"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "e91DC61c3Eb7",
+          "outer_alineas": [
+            {
+              "text": "En fonction des r\u00e9sultats de l\u2019analyse du risque foudre, une \u00e9tude technique est r\u00e9alis\u00e9e, par un organisme comp\u00e9tent, d\u00e9finissant pr\u00e9cis\u00e9ment les mesures de pr\u00e9vention et les dispositifs de protection, le lieu de leur implantation ainsi que les modalit\u00e9s de leur v\u00e9rification et de leur maintenance."
+            },
+            {
+              "text": "Une notice de v\u00e9rification et de maintenance est r\u00e9dig\u00e9e lors de l\u2019\u00e9tude technique puis compl\u00e9t\u00e9e, si besoin, apr\u00e8s la r\u00e9alisation des dispositifs de protection."
+            },
+            {
+              "text": "Un carnet de bord est tenu par l\u2019exploitant. Les chapitres qui y figurent sont r\u00e9dig\u00e9s lors de l\u2019\u00e9tude technique."
+            },
+            {
+              "text": "Les syst\u00e8mes de protection contre la foudre pr\u00e9vus dans l\u2019\u00e9tude technique sont conformes aux normes fran\u00e7aises ou \u00e0 toute norme \u00e9quivalente en vigueur dans un Etat membre de l\u2019Union europ\u00e9enne."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 19",
+          "sections": [],
+          "title": {
+            "text": "Article 19"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "16b07C911A3C",
+          "outer_alineas": [
+            {
+              "text": "L\u2019installation des dispositifs de protection et la mise en place des mesures de pr\u00e9vention sont r\u00e9alis\u00e9es, par un organisme comp\u00e9tent, \u00e0 l\u2019issue de l\u2019\u00e9tude technique, au plus tard deux ans apr\u00e8s l\u2019\u00e9laboration de l\u2019analyse du risque foudre, \u00e0 l\u2019exception des installations autoris\u00e9es \u00e0 partir du 24 ao\u00fbt 2008, pour lesquelles ces mesures et dispositifs sont mis en oeuvre avant le d\u00e9but de l\u2019exploitation. Les dispositifs de protection et les mesures de pr\u00e9vention r\u00e9pondent aux exigences de l\u2019\u00e9tude technique."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 20",
+          "sections": [],
+          "title": {
+            "text": "Article 20"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "E7aac778603a",
+          "outer_alineas": [
+            {
+              "text": "L\u2019installation des protections fait l\u2019objet d\u2019une v\u00e9rification compl\u00e8te par un organisme comp\u00e9tent, distinct de l\u2019installateur, au plus tard six mois apr\u00e8s leur installation."
+            },
+            {
+              "text": "Une v\u00e9rification visuelle est r\u00e9alis\u00e9e annuellement par un organisme comp\u00e9tent."
+            },
+            {
+              "text": "L\u2019\u00e9tat des dispositifs de protection contre la foudre des installations fait l\u2019objet d\u2019une v\u00e9rification compl\u00e8te tous les deux ans par un organisme comp\u00e9tent."
+            },
+            {
+              "text": "Toutes ces v\u00e9rifications sont d\u00e9crites dans une notice de v\u00e9rification et de maintenance et sont r\u00e9alis\u00e9es conform\u00e9ment \u00e0 la norme NF EN 62305-3, version de d\u00e9cembre 2006."
+            },
+            {
+              "text": "Les agressions de la foudre sur le site sont enregistr\u00e9es. En cas de coup de foudre enregistr\u00e9, une v\u00e9rification visuelle des dispositifs de protection concern\u00e9s est r\u00e9alis\u00e9e, dans un d\u00e9lai maximum d\u2019un mois, par un organisme comp\u00e9tent."
+            },
+            {
+              "text": "Si l\u2019une de ces v\u00e9rifications fait appara\u00eetre la n\u00e9cessit\u00e9 d\u2019une remise en \u00e9tat, celle-ci est r\u00e9alis\u00e9e dans un d\u00e9lai maximum d\u2019un mois."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 21",
+          "sections": [],
+          "title": {
+            "text": "Article 21"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "9F1a75afCD48",
+          "outer_alineas": [
+            {
+              "text": "L\u2019exploitant tient en permanence \u00e0 disposition de l\u2019inspection des installations class\u00e9es l\u2019analyse du risque foudre, l\u2019\u00e9tude technique, la notice de v\u00e9rification et de maintenance, le carnet de bord et les rapports de v\u00e9rifications."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 22",
+          "sections": [],
+          "title": {
+            "text": "Article 22"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "4601adEa3FF8",
+          "outer_alineas": [
+            {
+              "text": "Les paratonnerres \u00e0 source radioactive pr\u00e9sents dans les installations sont d\u00e9pos\u00e9s avant le 1er janvier 2012 et remis \u00e0 la fili\u00e8re de traitement des d\u00e9chets radioactifs."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 23",
+          "sections": [],
+          "title": {
+            "text": "Article 23"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section III : Dispositions relatives \u00e0 la protection contre la foudre"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "7B64CAEc74F0",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "D49eFd7E7F8D",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions de la pr\u00e9sente section sont applicables aux installations autoris\u00e9es apr\u00e8s le 3 mars 1999 ou ayant fait l\u2019objet de modifications substantielles au sens de l\u2019article R. 512-33 du code de l\u2019environnement apr\u00e8s cette date, \u00e0 l\u2019exception des installations relevant des rubriques 4510 ou 4511 pour le p\u00e9trole brut ou des rubriques 1436,4330,4331,4722,4734,4744,4746,4747,4748, 1434, 2210, 2251, 2565, 2730, 2731, 2910 ou 2921\u00a0 ainsi que des cimenteries, des papeteries, des verreries, cristalleries et installations de fabrication de fibres min\u00e9rales et produits manufactur\u00e9s d\u00e9riv\u00e9s, des installations de traitement, de stockage ou de transit de r\u00e9sidus urbains ou de d\u00e9chets industriels, des \u00e9tablissements d\u2019\u00e9levage et des installations d\u2019incin\u00e9ration de cadavres d\u2019animaux de compagnie."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 24",
+          "sections": [],
+          "title": {
+            "text": "Article 24"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CeF9EDa12f17",
+          "outer_alineas": [
+            {
+              "text": "I. Tout stockage d\u2019un liquide susceptible de cr\u00e9er une pollution des eaux ou des sols est associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention dont le volume est au moins \u00e9gal \u00e0 la plus grande des deux valeurs suivantes :"
+            },
+            {
+              "text": "\t100 % de la capacit\u00e9 du plus grand r\u00e9servoir ;"
+            },
+            {
+              "text": "\t50 % de la capacit\u00e9 totale des r\u00e9servoirs associ\u00e9s."
+            },
+            {
+              "text": "\tCette disposition n\u2019est pas applicable aux bassins de traitement des eaux r\u00e9siduaires."
+            },
+            {
+              "text": "\tPour les stockages de r\u00e9cipients mobiles de capacit\u00e9 unitaire inf\u00e9rieure ou \u00e9gale \u00e0 250 litres, la capacit\u00e9 de r\u00e9tention est au moins \u00e9gale \u00e0 :"
+            },
+            {
+              "text": "\t\u2013 dans le cas de liquides inflammables ou de liquides combustibles de point \u00e9clair compris entre 60\u00b0 C et 93\u00b0 C, 50 % de la capacit\u00e9 totale des f\u00fbts ;"
+            },
+            {
+              "text": "\t\u2013 dans les autres cas, 20 % de la capacit\u00e9 totale des f\u00fbts ;"
+            },
+            {
+              "text": "\t\u2013 dans tous les cas, 800 litres au minimum ou \u00e9gale \u00e0 la capacit\u00e9 totale lorsque celle-ci est inf\u00e9rieure \u00e0 800 litres."
+            },
+            {
+              "text": "\u00a0II. La capacit\u00e9 de r\u00e9tention est \u00e9tanche aux produits qu\u2019elle pourrait contenir. Elle r\u00e9siste \u00e0 la pression statique du produit \u00e9ventuellement r\u00e9pandu et \u00e0 l\u2019action physico-chimique des produits pouvant \u00eatre recueillis."
+            },
+            {
+              "text": "Il en est de m\u00eame pour son dispositif d\u2019obturation qui est maintenu ferm\u00e9."
+            },
+            {
+              "text": "L\u2019\u00e9tanch\u00e9it\u00e9 du (ou des) r\u00e9servoir(s) associ\u00e9(s) est con\u00e7ue pour pouvoir \u00eatre contr\u00f4l\u00e9e \u00e0 tout moment, sauf impossibilit\u00e9 technique justifi\u00e9e par l\u2019exploitant."
+            },
+            {
+              "text": "Les produits r\u00e9cup\u00e9r\u00e9s en cas d\u2019accident ne peuvent \u00eatre rejet\u00e9s que dans des conditions conformes aux prescriptions applicables \u00e0 l\u2019installation en mati\u00e8res de rejets ou sont \u00e9limin\u00e9s comme les d\u00e9chets."
+            },
+            {
+              "text": "Les r\u00e9servoirs ou r\u00e9cipients contenant des produits incompatibles ne sont pas associ\u00e9s \u00e0 une m\u00eame r\u00e9tention."
+            },
+            {
+              "text": "Le stockage des liquides inflammables, toxiques, corrosifs ou dangereux pour l\u2019environnement ainsi que des liquides combustibles de point \u00e9clair compris entre 60\u00b0 C et 93\u00b0 C, n\u2019est autoris\u00e9 sous le niveau du sol environnant que dans des r\u00e9servoirs en fosse ma\u00e7onn\u00e9e ou assimil\u00e9s."
+            },
+            {
+              "text": "III. Les aires de chargement et de d\u00e9chargement routier et ferroviaire sont \u00e9tanches et reli\u00e9es \u00e0 des r\u00e9tentions dimensionn\u00e9es selon les m\u00eames r\u00e8gles."
+            },
+            {
+              "text": "Le stockage et la manipulation de produits dangereux ou polluants, solides ou liquides (ou liqu\u00e9fi\u00e9s dont la temp\u00e9rature d\u2019\u00e9bullition \u00e0 pression atmosph\u00e9rique est sup\u00e9rieure \u00e0 0\u00b0C) sont effectu\u00e9s sur des aires \u00e9tanches et am\u00e9nag\u00e9es pour la r\u00e9cup\u00e9ration des fuites \u00e9ventuelles."
+            },
+            {
+              "text": "Les dispositions des deux alin\u00e9as pr\u00e9c\u00e9dents ne sont pas applicables aux installations relevant des rubriques 1435 et 2510 qui font d\u00e9j\u00e0 l\u2019objet de dispositions sp\u00e9cifiques."
+            },
+            {
+              "text": "IV. Les stockages des d\u00e9chets susceptibles de contenir des produits polluants sont r\u00e9alis\u00e9s sur des aires \u00e9tanches et am\u00e9nag\u00e9es pour la r\u00e9cup\u00e9ration des eaux de ruissellement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 25",
+          "sections": [],
+          "title": {
+            "text": "Article 25"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "F2b65ee68A6F",
+          "outer_alineas": [
+            {
+              "text": "Les installations comportant des stockages de produits tr\u00e8s toxiques ou toxiques vis\u00e9s par l'une ou plusieurs des rubriques nos 4707,4708,4711,4712,4717,4723,4724,4726,4728,4729,4730,4732,4733 de la nomenclature des installations class\u00e9es en quantit\u00e9 sup\u00e9rieure \u00e0 20 tonnes, des stockages de substances vis\u00e9es \u00e0 l\u2019annexe II de l\u2019arr\u00eat\u00e9 du 2 f\u00e9vrier 1998 susvis\u00e9 en quantit\u00e9 sup\u00e9rieure \u00e0 200 tonnes sont \u00e9quip\u00e9es d\u2019un bassin de confinement ou de tout autre dispositif \u00e9quivalent."
+            },
+            {
+              "text": "Ce bassin ou le dispositif \u00e9quivalent mentionn\u00e9 ci-dessus est dimensionn\u00e9 pour pouvoir recueillir l\u2019ensemble des eaux susceptibles d\u2019\u00eatre pollu\u00e9es lors d\u2019un accident ou d\u2019un incendie, y compris les eaux utilis\u00e9es pour l\u2019extinction."
+            },
+            {
+              "text": "Pour les sites autoris\u00e9s apr\u00e8s le 1er janvier 2012, ce bassin ou ce dispositif \u00e9quivalent :"
+            },
+            {
+              "text": "\t\u2013 est implant\u00e9 hors des zones d\u2019effet thermique d\u2019intensit\u00e9 sup\u00e9rieure \u00e0 5 kW/m2 identifi\u00e9es dans l\u2019\u00e9tude de dangers, ou ;"
+            },
+            {
+              "text": "\t\u2013 est constitu\u00e9 de mat\u00e9riaux r\u00e9sistant aux effets g\u00e9n\u00e9r\u00e9s par les accidents identifi\u00e9s dans l\u2019\u00e9tude de dangers et susceptibles de conduire \u00e0 son emploi."
+            },
+            {
+              "text": "Le volume de ce bassin ou de ce dispositif \u00e9quivalent est d\u00e9termin\u00e9 au vu de l\u2019\u00e9tude de dangers. En l\u2019absence d\u2019\u00e9l\u00e9ments justificatifs, une valeur forfaitaire au moins \u00e9gale \u00e0 5 m3/tonne de produits vis\u00e9s au premier alin\u00e9a de cet article et susceptibles d\u2019\u00eatre stock\u00e9s dans un m\u00eame emplacement est retenue."
+            },
+            {
+              "text": "Les organes de commande n\u00e9cessaires \u00e0 la mise en service de ce bassin ou de ce dispositif \u00e9quivalent sont dispos\u00e9s pour pouvoir \u00eatre actionn\u00e9s en toutes circonstances."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 26",
+          "sections": [],
+          "title": {
+            "text": "Article 26"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8De91740FAdB",
+          "outer_alineas": [
+            {
+              "text": "Des appareils de d\u00e9tection indiquant la direction du vent, visibles de jour comme de nuit, sont mis en place \u00e0 proximit\u00e9 des installations susceptibles d\u2019\u00e9mettre \u00e0 l\u2019atmosph\u00e8re des substances dangereuses en cas de dysfonctionnement ou de perte de confinement."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 27",
+          "sections": [],
+          "title": {
+            "text": "Article 27"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section IV : Dispositions relatives \u00e0 la limitation des cons\u00e9quences de pertes de confinement"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "2FcddB5b6EBF",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "86B337DBa3d3",
+          "outer_alineas": [
+            {
+              "text": "Au titre de la pr\u00e9sente section, on entend par :"
+            },
+            {
+              "text": "Cellule photovolta\u00efque : dispositif photovolta\u00efque fondamental pouvant g\u00e9n\u00e9rer de l'\u00e9lectricit\u00e9 lorsqu'il est soumis \u00e0 la lumi\u00e8re, tel qu'un rayonnement solaire."
+            },
+            {
+              "text": "Module photovolta\u00efque (ou \u201c panneau photovolta\u00efque \u201d) : le plus petit ensemble de cellules photovolta\u00efques interconnect\u00e9es, compl\u00e8tement prot\u00e9g\u00e9 contre l'environnement. Il peut \u00eatre constitu\u00e9 d'un cadre, d'un panneau transparent au rayonnement solaire et en sous-face d'un bo\u00eetier de connexion et de c\u00e2bles de raccordement. L'\u00e9lectricit\u00e9 produite est soit inject\u00e9e dans le r\u00e9seau de distribution d'\u00e9lectricit\u00e9, soit consomm\u00e9e localement, voire les deux \u00e0 la fois."
+            },
+            {
+              "text": "Film photovolta\u00efque : forme de panneau photovolta\u00efque en couche mince, ayant la propri\u00e9t\u00e9 d'\u00eatre souple. Le film est soit directement coll\u00e9 sur le syst\u00e8me d'\u00e9tanch\u00e9it\u00e9 de la toiture, soit associ\u00e9 \u00e0 un support."
+            },
+            {
+              "text": "Onduleur d'injection, ci-apr\u00e8s d\u00e9sign\u00e9 par le terme \u201c onduleur \u201d : \u00e9quipement de conversion injectant dans un r\u00e9seau de courant alternatif sous tension la puissance produite par un g\u00e9n\u00e9rateur photovolta\u00efque."
+            },
+            {
+              "text": "Partie \u201c courant continu \u201d : partie d'une unit\u00e9 de production photovolta\u00efque situ\u00e9e entre les panneaux photovolta\u00efques et des bornes en courant continu de l'onduleur."
+            },
+            {
+              "text": "Partie \u201c courant alternatif \u201d : partie d'une unit\u00e9 de production photovolta\u00efque situ\u00e9e en aval des bornes \u00e0 courant alternatif de l'onduleur."
+            },
+            {
+              "text": "Organe g\u00e9n\u00e9ral de coupure et de protection : appareil ayant principalement une fonction de coupure de l'\u00e9nergie \u00e9lectrique."
+            },
+            {
+              "text": "Organe g\u00e9n\u00e9ral de coupure et de protection du circuit de production : dispositif de coupure situ\u00e9 entre l'onduleur et le r\u00e9seau de distribution public."
+            },
+            {
+              "text": "Unit\u00e9 de production photovolta\u00efque : circuit \u00e9lectrique compos\u00e9 de panneaux ou de films photovolta\u00efques et de l'ensemble des \u00e9quipements et c\u00e2bles \u00e9lectriques avec leurs canalisations et cheminements permettant leur jonction avec le r\u00e9seau de distribution g\u00e9n\u00e9ral en courant alternatif reli\u00e9 au site de l'installation class\u00e9e. Tout \u00e9quipement ins\u00e9r\u00e9 entre le ou les panneaux photovolta\u00efques et l'organe g\u00e9n\u00e9ral de coupure et de protection du circuit de production est consid\u00e9r\u00e9 comme \u00e9l\u00e9ment constitutif de l'unit\u00e9 de production photovolta\u00efque."
+            },
+            {
+              "text": "Bande de protection : bande dispos\u00e9e sur les rev\u00eatements d'\u00e9tanch\u00e9it\u00e9 le long des murs s\u00e9paratifs entre parties d'un b\u00e2timent couvert, destin\u00e9e \u00e0 pr\u00e9venir la propagation d'un sinistre d'une partie \u00e0 l'autre par la toiture."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 28",
+          "sections": [],
+          "title": {
+            "text": "Article 28"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C7ACe633A95e",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions de la pr\u00e9sente section sont applicables aux \u00e9quipements de production d'\u00e9lectricit\u00e9 utilisant l'\u00e9nergie solaire photovolta\u00efque, positionn\u00e9s en toiture, en fa\u00e7ade ou au sol, au sein d'une installation class\u00e9e soumise \u00e0 autorisation, \u00e0 l'exclusion des installations class\u00e9es sousmises \u00e0 l'une ou plusieurs des rubriques 2101 \u00e0 2150, ou 3660 de la nomenclature des installations class\u00e9es pour la protection de l'environnement."
+            },
+            {
+              "text": "Les \u00e9quipements de production d'\u00e9lectricit\u00e9 utilisant l'\u00e9nergie solaire photovolta\u00efque ne sont pas soumis aux exigences de la pr\u00e9sente section d\u00e8s lors qu'une analyse montre qu'ils ne pr\u00e9sentent aucun impact notable pour l'installation class\u00e9e."
+            },
+            {
+              "text": "Au sens de la pr\u00e9sente section, on entend par :"
+            },
+            {
+              "text": "\t- \u00e9quipements photovolta\u00efques existants : les \u00e9quipements pour lesquels la demande de modification de l'installation class\u00e9e ou, le cas \u00e9ch\u00e9ant, la demande d'autorisation d'exploiter comportant le projet d'implantation d'\u00e9quipements photovolta\u00efques, est port\u00e9e \u00e0 la connaissance du pr\u00e9fet avant le 1er juillet 2016 ;"
+            },
+            {
+              "text": "\t- \u00e9quipements photovolta\u00efques nouveaux : les \u00e9quipements photovolta\u00efques ne r\u00e9pondant pas \u00e0 la d\u00e9finition d'\u00e9quipements photovolta\u00efques existants."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 29",
+          "sections": [],
+          "title": {
+            "text": "Article 29"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "a45d9Acb06eD",
+          "outer_alineas": [
+            {
+              "text": "Conform\u00e9ment \u00e0 l'article R. 512-33 du code l'environnement, lorsqu'un exploitant d'une installation class\u00e9e pour la protection de l'environnement souhaite r\u00e9aliser l'implantation d'une unit\u00e9 de production photovolta\u00efque au sein d'une installation class\u00e9e de son site, il porte \u00e0 la connaissance du pr\u00e9fet cette modification avant sa r\u00e9alisation avec tous les \u00e9l\u00e9ments d'appr\u00e9ciation."
+            },
+            {
+              "text": "L'exploitant tient par ailleurs \u00e0 la disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments suivants :"
+            },
+            {
+              "text": "\t- la fiche technique des panneaux ou films photovolta\u00efques fournie par le constructeur ;"
+            },
+            {
+              "text": "\t- une fiche comportant les donn\u00e9es utiles en cas d'incendie ainsi que les pr\u00e9conisations en mati\u00e8re de lutte contre l'incendie ;"
+            },
+            {
+              "text": "\t- les documents attestant que les panneaux photovolta\u00efques r\u00e9pondent \u00e0 des exigences essentielles de s\u00e9curit\u00e9 garantissant la s\u00e9curit\u00e9 de leur fonctionnement. Les attestations de conformit\u00e9 des panneaux photovolta\u00efques aux normes \u00e9nonc\u00e9es au point 14.3 des guides UTE C 15-712 version de juillet 2013, d\u00e9livr\u00e9es par un organisme certificateur accr\u00e9dit\u00e9 par le Comit\u00e9 fran\u00e7ais d'accr\u00e9ditation (COFRAC) ou par un organisme signataire de l'accord multilat\u00e9ral pris dans le cadre de la Coordination europ\u00e9enne des organismes d'accr\u00e9ditation (European Cooperation for Accreditation ou EA), permettent de r\u00e9pondre \u00e0 cette exigence ;"
+            },
+            {
+              "text": "\t- les documents justifiant que l'entreprise charg\u00e9e de la mise en place de l'unit\u00e9 de production photovolta\u00efque au sein d'une installation class\u00e9e pour la protection de l'environnement poss\u00e8de les comp\u00e9tences techniques et organisationnelles n\u00e9cessaires. L'attestation de qualification ou de certification de service de l'entreprise r\u00e9alisant ces travaux, d\u00e9livr\u00e9e par un organisme certificateur accr\u00e9dit\u00e9 par le Comit\u00e9 fran\u00e7ais d'accr\u00e9ditation (COFRAC) ou par un organisme signataire de l'accord multilat\u00e9ral pris dans le cadre de la Coordination europ\u00e9enne des organismes d'accr\u00e9ditation (European Cooperation for Accreditation ou EA), permet de r\u00e9pondre \u00e0 cette exigence ;"
+            },
+            {
+              "text": "\t- le plan de surveillance des installations \u00e0 risques, pendant la phase des travaux d'implantation de l'unit\u00e9 de production photovolta\u00efque ;"
+            },
+            {
+              "text": "\t- les plans du site ou, le cas \u00e9ch\u00e9ant, les plans des b\u00e2timents, auvents ou ombri\u00e8res, destin\u00e9s \u00e0 faciliter l'intervention des services d'incendie et de secours et signalant la pr\u00e9sence d'\u00e9quipements photovolta\u00efques ;"
+            },
+            {
+              "text": "\t- une note d'analyse justifiant :"
+            },
+            {
+              "text": "\t- le comportement m\u00e9canique de la toiture ou des structures modifi\u00e9es par l'implantation de panneaux ou films photovolta\u00efques ;"
+            },
+            {
+              "text": "\t- la bonne fixation et la r\u00e9sistance \u00e0 l'arrachement des panneaux ou films photovolta\u00efques aux effets des intemp\u00e9ries ;"
+            },
+            {
+              "text": "\t- l'impact de la pr\u00e9sence de l'unit\u00e9 de production photovolta\u00efque en mati\u00e8re d'encombrement suppl\u00e9mentaire dans les zones susceptibles d'\u00eatre atteintes par un nuage inflammable et identifi\u00e9es dans l'\u00e9tude de dangers, ainsi qu'en mati\u00e8re de projection d'\u00e9l\u00e9ments la constituant pour les ph\u00e9nom\u00e8nes d'explosion identifi\u00e9s dans l'\u00e9tude de dangers ;"
+            },
+            {
+              "text": "\t- la ma\u00eetrise du risque de propagation vers toute installation connexe lors de la combustion pr\u00e9visible des panneaux en l'absence d'une intervention humaine s\u00e9curis\u00e9e ;"
+            },
+            {
+              "text": "\t- les justificatifs d\u00e9montrant le respect des dispositions pr\u00e9vues aux articles 31,32 et 37 du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "\tL'exploitant identifie les dangers li\u00e9s \u00e0 un choc \u00e9lectrique pour les services d'incendie et de secours lorsque les moyens d'extinction n\u00e9cessitent l'utilisation d'eau, et d\u00e9finit les conditions et le p\u00e9rim\u00e8tre dans lesquels ces derniers peuvent intervenir."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 30",
+          "sections": [],
+          "title": {
+            "text": "Article 30"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "C731dF18b5AA",
+          "outer_alineas": [
+            {
+              "text": "Les panneaux ou films photovolta\u00efques ne sont pas en contact direct avec les volumes int\u00e9rieurs des b\u00e2timents, auvents ou ombri\u00e8res o\u00f9 est potentiellement pr\u00e9sente, en situation normale, une atmosph\u00e8re explosible (gaz, vapeurs ou poussi\u00e8res). Ces volumes sont identifi\u00e9s dans l'\u00e9tude de dangers de l'installation class\u00e9e."
+            },
+            {
+              "text": "L'ensemble constitu\u00e9 par l'unit\u00e9 de production photovolta\u00efque et la toiture, respectivement la fa\u00e7ade, pr\u00e9sente les m\u00eames performances de r\u00e9sistance \u00e0 l'explosion que celles impos\u00e9es \u00e0 la toiture seule, respectivement \u00e0 la fa\u00e7ade seule, lorsque les \u00e9quipements photovolta\u00efques sont install\u00e9s sur des b\u00e2timents, auvents ou ombri\u00e8res qui abritent des zones \u00e0 risque d'explosion, identifi\u00e9es dans l'\u00e9tude de dangers. Pour les b\u00e2timents, auvents et ombri\u00e8res abritant des zones \u00e0 risque d'explosion, identifi\u00e9es dans l'\u00e9tude de dangers, l'ensemble constitu\u00e9 d'une part par la toiture ou la fa\u00e7ade, et d'autre part par l'unit\u00e9 de production photovolta\u00efque, r\u00e9pond aux exigences impos\u00e9es \u00e0 la toiture seule, ou \u00e0 la fa\u00e7ade seule, notamment pour les crit\u00e8res \u00e0 respecter pour les surfaces soufflables."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 31",
+          "sections": [],
+          "title": {
+            "text": "Article 31"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "e3B7fb2b38A7",
+          "outer_alineas": [
+            {
+              "text": "Pour les panneaux ou films photovolta\u00efques install\u00e9s en toiture de b\u00e2timents, auvents ou ombri\u00e8res abritant des zones \u00e0 risque d'incendie identifi\u00e9es dans l'\u00e9tude de dangers :"
+            },
+            {
+              "text": "\t- en mati\u00e8re de r\u00e9sistance au feu : l'ensemble constitu\u00e9 par la toiture, les panneaux ou films photovolta\u00efques, leurs supports, leurs isolants (thermique, \u00e9tanch\u00e9it\u00e9) et plus g\u00e9n\u00e9ralement tous les composants (\u00e9lectriques ou autres) associ\u00e9s aux panneaux pr\u00e9sente au minimum les m\u00eames performances de r\u00e9sistance au feu que celles impos\u00e9es \u00e0 la toiture seule ;"
+            },
+            {
+              "text": "\t- en mati\u00e8re de propagation du feu au travers de la toiture : l'ensemble constitu\u00e9 par la toiture, les panneaux ou films photovolta\u00efques, leurs supports, leurs isolants (thermique, \u00e9tanch\u00e9it\u00e9) et plus g\u00e9n\u00e9ralement tous les composants (\u00e9lectriques ou autres) associ\u00e9s aux panneaux r\u00e9pond au minimum \u00e0 la classification Broof t3 au sens de l'article 4 de l'arr\u00eat\u00e9 du 14 f\u00e9vrier 2003 relatif \u00e0 la performance des toitures et couvertures de toiture expos\u00e9es \u00e0 un incendie ext\u00e9rieur."
+            },
+            {
+              "text": "Dans ce cas, l'alin\u00e9a suivant n'est pas applicable aux \u00e9l\u00e9ments constitutifs de cet ensemble ;"
+            },
+            {
+              "text": "\t- les panneaux ou films photovolta\u00efques, leurs supports et leurs isolants (thermique, \u00e9tanch\u00e9it\u00e9) r\u00e9pondent au minimum aux exigences des mat\u00e9riaux non gouttant (d0). Lorsque cette disposition n'est pas respect\u00e9e pour les isolants (thermique, \u00e9tanch\u00e9it\u00e9), les panneaux ou films photovolta\u00efques ne sont pas en contact direct avec les volumes int\u00e9rieurs des b\u00e2timents, auvents ou ombri\u00e8res sur lesquels ils sont install\u00e9s."
+            },
+            {
+              "text": "Pour les panneaux ou films photovolta\u00efques install\u00e9s en fa\u00e7ade des b\u00e2timents, auvents ou ombri\u00e8res abritant des zones \u00e0 risque d'incendie identifi\u00e9es dans l'\u00e9tude de dangers :"
+            },
+            {
+              "text": "\t- l'ensemble constitu\u00e9 par la fa\u00e7ade et l'unit\u00e9 de production photovolta\u00efque pr\u00e9sente au minimum les m\u00eames performances de r\u00e9sistance au feu que celles impos\u00e9es \u00e0 la fa\u00e7ade seule ;"
+            },
+            {
+              "text": "\t- une distance verticale minimale de 2 m\u00e8tres est respect\u00e9e entre les ouvrants de d\u00e9senfumage et les \u00e9l\u00e9ments conducteurs d'une unit\u00e9 de production photovolta\u00efque situ\u00e9s au-dessus de ces ouvrants."
+            },
+            {
+              "text": "Les panneaux photovolta\u00efques et les c\u00e2bles ne sont pas install\u00e9s au droit des bandes de protection de part et d'autre des murs s\u00e9paratifs REI. Ils sont plac\u00e9s \u00e0 plus de 5 m\u00e8tres de part et d'autre des parois s\u00e9paratives REI."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 32",
+          "sections": [],
+          "title": {
+            "text": "Article 32"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "c6F7BeC8DC6D",
+          "outer_alineas": [
+            {
+              "text": "L'unit\u00e9 de production photovolta\u00efque est signal\u00e9e afin de faciliter l'intervention des services de secours. En particulier, des pictogrammes d\u00e9di\u00e9s aux risques photovolta\u00efques, d\u00e9finis dans les guides pratiques UTE C 15-712-1 version de juillet 2013 pour les installations photovolta\u00efques sans stockage et raccord\u00e9es au r\u00e9seau public de distribution et UTE C 15-712-2 version de juillet 2013 pour les installations photovolta\u00efques autonomes non raccord\u00e9es au r\u00e9seau public de distribution avec stockage par batterie, sont appos\u00e9s :"
+            },
+            {
+              "text": "\t- \u00e0 l'ext\u00e9rieur du b\u00e2timent, auvent ou ombri\u00e8re au niveau de chacun des acc\u00e8s des secours ;"
+            },
+            {
+              "text": "\t- au niveau des acc\u00e8s aux volumes et locaux abritant les \u00e9quipements techniques relatifs \u00e0 l'\u00e9nergie photovolta\u00efque ;"
+            },
+            {
+              "text": "\t- tous les 5 m\u00e8tres sur les c\u00e2bles ou chemins de c\u00e2bles qui transportent du courant continu. Lorsque l'unit\u00e9 de production photovolta\u00efque est positionn\u00e9e au sol, le pr\u00e9sent alin\u00e9a ne s'applique qu'aux c\u00e2bles et chemins de c\u00e2bles situ\u00e9s en p\u00e9riph\u00e9rie de celle-ci."
+            },
+            {
+              "text": "Un plan sch\u00e9matique de l'unit\u00e9 de production photovolta\u00efque est appos\u00e9 \u00e0 proximit\u00e9 de l'organe g\u00e9n\u00e9ral de coupure et de protection du circuit de production, en vue de faciliter l'intervention des services d'incendie et de secours."
+            },
+            {
+              "text": "\tLes emplacements des onduleurs sont signal\u00e9s sur les plans mentionn\u00e9s \u00e0 l'alin\u00e9a 8 de l'article 30 et destin\u00e9s \u00e0 faciliter l'intervention des services d'incendie et de secours."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 33",
+          "sections": [],
+          "title": {
+            "text": "Article 33"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "aBCBdda2AeAE",
+          "outer_alineas": [
+            {
+              "text": "L'exploitant d\u00e9finit des proc\u00e9dures de mise en s\u00e9curit\u00e9 de l'unit\u00e9 de production photovolta\u00efque. Ces proc\u00e9dures consistent en l'actionnement des dispositifs de coupure mentionn\u00e9s \u00e0 l'article 38."
+            },
+            {
+              "text": "Les proc\u00e9dures de mise en s\u00e9curit\u00e9 d\u00e9finies \u00e0 l'alin\u00e9a pr\u00e9c\u00e9dent sont jointes au plan d'op\u00e9ration interne lorsqu'il existe."
+            },
+            {
+              "text": "Les proc\u00e9dures de mise en s\u00e9curit\u00e9 et les plans mentionn\u00e9s \u00e0 l'alin\u00e9a 8 de l'article 30 sont tenus \u00e0 la disposition des services d'incendie et de secours en cas d'intervention."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 34",
+          "sections": [],
+          "title": {
+            "text": "Article 34"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8D6c6dD70D7a",
+          "outer_alineas": [
+            {
+              "text": "Chaque unit\u00e9 de production photovolta\u00efque est dot\u00e9e d'un syst\u00e8me d'alarme permettant d'alerter l'exploitant de l'installation, ou une personne qu'il aura d\u00e9sign\u00e9e, d'un \u00e9v\u00e9nement anormal pouvant conduire \u00e0 un d\u00e9part de feu sur l'unit\u00e9 de production photovolta\u00efque. Une d\u00e9tection li\u00e9e \u00e0 cette alarme s'appuyant sur le suivi des param\u00e8tres de production de l'unit\u00e9 permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "En cas de d\u00e9clenchement de l'alarme, l'exploitant proc\u00e8de \u00e0 une lev\u00e9e de doute (nature et cons\u00e9quences du dysfonctionnement) soit en se rendant sur place, soit gr\u00e2ce \u00e0 des moyens de contr\u00f4le \u00e0 distance."
+            },
+            {
+              "text": "Les dispositions permettant de respecter les deux alin\u00e9as pr\u00e9c\u00e9dents sont formalis\u00e9es dans une proc\u00e9dure tenue \u00e0 disposition de l'inspection des installations class\u00e9es et des services d'incendie et de secours. En cas d'intervention de ces derniers, l'exploitant les informe de la nature des emplacements des unit\u00e9s de production photovolta\u00efques (organe g\u00e9n\u00e9ral de coupure et de protection, fa\u00e7ades, couvertures, etc.) et des moyens de protection existants, \u00e0 l'aide des plans mentionn\u00e9s \u00e0 l'alin\u00e9a 8 de l'article 30."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 35",
+          "sections": [],
+          "title": {
+            "text": "Article 35"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "cdFc25c7CadA",
+          "outer_alineas": [
+            {
+              "text": "L'unit\u00e9 de production photovolta\u00efque et le raccordement au r\u00e9seau sont r\u00e9alis\u00e9s de mani\u00e8re \u00e0 pr\u00e9venir les risques de choc \u00e9lectrique et d'incendie. La conformit\u00e9 aux sp\u00e9cifications du guide UTE C 15-712-1 version de juillet 2013 pour les installations photovolta\u00efques sans stockage et raccord\u00e9es au r\u00e9seau public de distribution ainsi qu'\u00e0 celles de la norme NF C 15-100 version de mai 2013 concernant les installations \u00e9lectriques basse tension permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "Dans le cas d'une unit\u00e9 de production non raccord\u00e9e au r\u00e9seau et utilisant le stockage batterie, celle-ci est r\u00e9alis\u00e9e de mani\u00e8re \u00e0 pr\u00e9venir les risques de choc \u00e9lectrique et d'incendie. La conformit\u00e9 de l'installation aux sp\u00e9cifications du guide UTE C 15-712-2 version de juillet 2013 pour les installations photovolta\u00efques autonomes non raccord\u00e9es au r\u00e9seau public de distribution avec stockage par batterie permet de r\u00e9pondre \u00e0 cette exigence."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 36",
+          "sections": [],
+          "title": {
+            "text": "Article 36"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "691abb9ae5c3",
+          "outer_alineas": [
+            {
+              "text": "L'unit\u00e9 de production photovolta\u00efque respecte les dispositions de la section III du pr\u00e9sent arr\u00eat\u00e9, lorsque l'installation class\u00e9e sur laquelle elle peut agir est nomm\u00e9e dans cette m\u00eame section III."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 37",
+          "sections": [],
+          "title": {
+            "text": "Article 37"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b69f98EC233f",
+          "outer_alineas": [
+            {
+              "text": "Des dispositifs \u00e9lectrom\u00e9caniques de coupure d'urgence permettent d'une part, la coupure du r\u00e9seau de distribution, et d'autre part la coupure du circuit de production. Ces dispositifs sont actionn\u00e9s soit par man\u0153uvre directe, soit par t\u00e9l\u00e9commande. Dans tous les cas, leurs commandes sont regroup\u00e9es en un m\u00eame lieu accessible en toutes circonstances."
+            },
+            {
+              "text": "En cas de mise en s\u00e9curit\u00e9 de l'unit\u00e9 de production photovolta\u00efque, la coupure du circuit en courant continu s'effectue au plus pr\u00e8s des panneaux photovolta\u00efques. Dans le cas d'\u00e9quipements photovolta\u00efques positionn\u00e9s en toiture, ces dispositifs de coupure sont situ\u00e9s en toiture."
+            },
+            {
+              "text": "Un voyant lumineux servant au report d'information est situ\u00e9 \u00e0 l'aval imm\u00e9diat de la commande de coupure du circuit de production. Le voyant lumineux t\u00e9moigne en toute circonstance de la coupure effective du circuit en courant continu de l'unit\u00e9 de production photovolta\u00efque, des batteries \u00e9ventuelles et du circuit de distribution. La conformit\u00e9 aux sp\u00e9cifications du point 12.4 des guides UTE C 15-712-1 version de juillet 2013 pour les installations photovolta\u00efques sans stockage et raccord\u00e9es au r\u00e9seau public de distribution ou UTE C 15-712-2 version de juillet 2013 pour les installations photovolta\u00efques autonomes non raccord\u00e9es au r\u00e9seau public de distribution avec stockage par batterie permet de r\u00e9pondre \u00e0 cette exigence."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 38",
+          "sections": [],
+          "title": {
+            "text": "Article 38"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bD0ad534cA77",
+          "outer_alineas": [
+            {
+              "text": "Lorsque les onduleurs sont situ\u00e9s en toiture, ils sont isol\u00e9s de celle-ci par un dispositif de r\u00e9sistance au feu EI 60, dimensionn\u00e9 de mani\u00e8re \u00e0 \u00e9viter la propagation d'un incendie des onduleurs \u00e0 la toiture. Lorsque les onduleurs ne sont pas situ\u00e9s en toiture, ils sont isol\u00e9s des zones \u00e0 risques d'incendie ou d'explosion identifi\u00e9es dans l'\u00e9tude de dangers, par un dispositif de r\u00e9sistance au feu REI 60. Un local technique constitu\u00e9 par des parois de r\u00e9sistance au feu REI 60, le cas \u00e9ch\u00e9ant un plancher haut REI 60, le cas \u00e9ch\u00e9ant un plancher bas REI 60, et des portes EI 60, permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "L'alin\u00e9a pr\u00e9c\u00e9dent ne s'applique pas lorsque l'onduleur est directement int\u00e9gr\u00e9 aux \u00e9quipements photovolta\u00efques de par la conception de l'installation photovolta\u00efque (micro-onduleur)."
+            },
+            {
+              "text": "Les produits inflammables, explosifs ou toxiques non n\u00e9cessaires au fonctionnement des onduleurs ne sont stock\u00e9s ni \u00e0 proximit\u00e9 des onduleurs, ni dans les locaux techniques o\u00f9 sont positionn\u00e9s les onduleurs."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 39",
+          "sections": [],
+          "title": {
+            "text": "Article 39"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3ed7f42b41AC",
+          "outer_alineas": [
+            {
+              "text": "Les batteries d'accumulateurs \u00e9lectriques et mat\u00e9riels associ\u00e9s sont install\u00e9s dans un local non accessible aux personnes non autoris\u00e9es par l'exploitant."
+            },
+            {
+              "text": "Le local ainsi que l'enveloppe \u00e9ventuelle contenant les batteries d'accumulateurs sont ventil\u00e9s de mani\u00e8re \u00e0 \u00e9viter tout risque d'explosion. La conformit\u00e9 des ventilations aux sp\u00e9cifications du point 14.6 du guide UTE C 15-712-2 version de juillet 2013 pour les installations photovolta\u00efques autonomes non raccord\u00e9es au r\u00e9seau public de distribution avec stockage par batterie et de la norme NF C 15-100 version de mai 2013 relative aux installations \u00e9lectriques basse tension permet de r\u00e9pondre \u00e0 cette exigence."
+            },
+            {
+              "text": "Les accumulateurs \u00e9lectriques et mat\u00e9riels associ\u00e9s disposent d'un organe de coupure permettant de les isoler du reste de l'installation \u00e9lectrique. Cet organe dispose d'une signal\u00e9tique d\u00e9di\u00e9e."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 40",
+          "sections": [],
+          "title": {
+            "text": "Article 40"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7BA93b71f9E9",
+          "outer_alineas": [
+            {
+              "text": "Les connecteurs qui assurent la liaison \u00e9lectrique en courant continu sont \u00e9quip\u00e9s d'un dispositif m\u00e9canique de blocage qui permet d'\u00e9viter l'arrachement. La conformit\u00e9 des connecteurs \u00e0 la norme NF EN 50521/ A1 version d'octobre 2012 concernant les connecteurs pour syst\u00e8mes photovolta\u00efques-Exigences de s\u00e9curit\u00e9 et essais-permet de r\u00e9pondre \u00e0 cette exigence."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 41",
+          "sections": [],
+          "title": {
+            "text": "Article 41"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "0EA1AbEF21Fb",
+          "outer_alineas": [
+            {
+              "text": "Les c\u00e2bles de courant continu ne p\u00e9n\u00e8trent pas dans les zones \u00e0 risques d'incendie ou d'explosion, identifi\u00e9es dans l'\u00e9tude de dangers."
+            },
+            {
+              "text": "Lorsque, pour des raisons techniques d\u00fbment justifi\u00e9es par l'exploitant, ces c\u00e2bles sont amen\u00e9s \u00e0 circuler dans une zone \u00e0 risques d'incendie ou d'explosion, ils sont regroup\u00e9s dans des chemins de c\u00e2bles prot\u00e9g\u00e9s contre les chocs m\u00e9caniques et pr\u00e9sentant une performance minimale de r\u00e9sistance au feu EI 30. Leur pr\u00e9sence est signal\u00e9e pour \u00e9viter toute agression en cas d'intervention externe."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 42",
+          "sections": [],
+          "title": {
+            "text": "Article 42"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b22cAA138FDd",
+          "outer_alineas": [
+            {
+              "text": "L'unit\u00e9 de production photovolta\u00efque est accessible et contr\u00f4lable. Cette disposition ne s'applique pas aux c\u00e2bles eux-m\u00eames, mais uniquement \u00e0 leur connectique."
+            },
+            {
+              "text": "L'exploitant proc\u00e8de \u00e0 un contr\u00f4le annuel des \u00e9quipements et \u00e9l\u00e9ments de s\u00e9curit\u00e9 de l'unit\u00e9 de production photovolta\u00efque. Les modalit\u00e9s de ce contr\u00f4le tiennent compte de l'implantation g\u00e9ographique (milieu salin, atmosph\u00e8re corrosive, cycles froid chaud de grandes amplitudes, etc.) et de l'activit\u00e9 conduite dans le b\u00e2timent o\u00f9 l'unit\u00e9 est implant\u00e9e. Ces modalit\u00e9s sont formalis\u00e9es dans une proc\u00e9dure de contr\u00f4les."
+            },
+            {
+              "text": "Un contr\u00f4le des \u00e9quipements et des \u00e9l\u00e9ments de s\u00e9curit\u00e9 de l'unit\u00e9 de production photovolta\u00efque est \u00e9galement effectu\u00e9 \u00e0 la suite de tout \u00e9v\u00e9nement climatique susceptible d'affecter la s\u00e9curit\u00e9 de l'unit\u00e9 de production photovolta\u00efque."
+            },
+            {
+              "text": "Les r\u00e9sultats des contr\u00f4les ainsi que les actions correctives mises en place sont enregistr\u00e9s et tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 43",
+          "sections": [],
+          "title": {
+            "text": "Article 43"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "78a9b54bC864",
+          "outer_alineas": [
+            {
+              "text": "Les dispositions de la pr\u00e9sente section sont applicables aux \u00e9quipements photovolta\u00efques nouveaux \u00e0 compter du 1er juillet 2016, \u00e0 l'exception du troisi\u00e8me alin\u00e9a de l'article 32 qui est applicable aux \u00e9quipements pour lesquels la demande de modification de l'installation class\u00e9e ou, le cas \u00e9ch\u00e9ant, la demande d'autorisation d'exploiter comportant le projet d'implantation d'\u00e9quipements photovolta\u00efques, est port\u00e9e \u00e0 la connaissance du pr\u00e9fet \u00e0 compter du 1er juillet 2017."
+            },
+            {
+              "text": "Les dispositions de la pr\u00e9sente section reprises dans le tableau suivant sont applicables aux \u00e9quipements photovolta\u00efques existants :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "A compter du 1er juillet 2016"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "A compter du 1er juillet 2017"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "A compter du 1er juillet 2018"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Articles 28, 29 et 44"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Article 30, \u00e0 l'exception des alin\u00e9as 1, 6, 7 et 14\nArticle 33\nArticle 34\nArticle 35\nArticle 37\nArticle 39, alin\u00e9as 2 et 3\nArticle 40, alin\u00e9a 3\nArticle 43"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "Article 38"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 44",
+          "sections": [],
+          "title": {
+            "text": "Article 44"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section V : Dispositions relatives aux \u00e9quipements de production d'\u00e9lectricit\u00e9 utilisant l'\u00e9nergie photovolta\u00efque"
+      }
+    },
+    {
+      "annotations": {
+        "topic": "RISQUES"
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "3cdabBAcFBEf",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FFbd9DfCA80D",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 45",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "fb522E2Bb763",
+              "outer_alineas": [
+                {
+                  "text": "Au sens de la pr\u00e9sente section on entend par :"
+                },
+                {
+                  "text": "- mati\u00e8res dangereuses : substances ou m\u00e9langes vis\u00e9s par les rubriques 4XXX, 1450 et 1436 ainsi que les d\u00e9chets pr\u00e9sentant des propri\u00e9t\u00e9s \u00e9quivalentes."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 45",
+              "sections": [],
+              "title": {
+                "text": "D\u00e9finitions"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 45"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "eFFBA4b7E899",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 46",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "0b01dC6ca934",
+              "outer_alineas": [
+                {
+                  "text": "Les dispositions du pr\u00e9sent article sont applicables \u00e0 l'ensemble des installations relevant du r\u00e9gime de l'autorisation."
+                },
+                {
+                  "text": "L'exploitant tient \u00e0 jour un \u00e9tat des mati\u00e8res stock\u00e9es, y compris les mati\u00e8res combustibles non dangereuses ou ne relevant pas d'un classement au titre de la nomenclature des installations class\u00e9es."
+                },
+                {
+                  "text": "L'exploitant dispose, avant r\u00e9ception des mati\u00e8res, des fiches de donn\u00e9es de s\u00e9curit\u00e9 pour les mati\u00e8res dangereuses, pr\u00e9vues dans le code du travail lorsqu'elles existent ou tout autre document \u00e9quivalent."
+                },
+                {
+                  "text": "Ces documents sont facilement accessibles et tenus en permanence \u00e0 la disposition du pr\u00e9fet, des services d'incendie et de secours, de l'inspection des installations class\u00e9es et des autorit\u00e9s sanitaires. "
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 46",
+              "sections": [],
+              "title": {
+                "text": "Etat des mati\u00e8res stock\u00e9es"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 46"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7BA992edAdad",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": [
+              "Applicable seulement au 1er janvier 2022."
+            ]
+          },
+          "reference_str": "Art. 47",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "eC3EfB2A23be",
+              "outer_alineas": [
+                {
+                  "text": "L'article 46 est applicable aux installations relevant de l'article L. 515-32 du code de l'environnement ainsi qu'aux installations soumises \u00e0 autorisation au titre de l'une des rubriques 1436, 2718, 4330, 4331, 4722, 4734, 4742, 4743, 4744, 4746 , 4747 ou 4748 de la nomenclature des installations class\u00e9es."
+                },
+                {
+                  "text": "L'\u00e9tat des mati\u00e8res stock\u00e9es permet de r\u00e9pondre aux deux objectifs suivants :"
+                },
+                {
+                  "text": "1. Servir aux besoins de la gestion d'un \u00e9v\u00e8nement accidentel ; en particulier cet \u00e9tat permet de conna\u00eetre la nature et les quantit\u00e9s approximatives des substances, produits, mati\u00e8res ou d\u00e9chets, pr\u00e9sents au sein de chaque zone d'activit\u00e9s ou de stockage."
+                },
+                {
+                  "text": "Pour les mati\u00e8res dangereuses, devront figurer a minima les diff\u00e9rentes familles de mention de dangers des substances, produits, mati\u00e8res ou d\u00e9chets, lorsque ces mentions peuvent conduire \u00e0 un classement au titre d'une des rubriques 4XXX de la nomenclature des installations class\u00e9es."
+                },
+                {
+                  "text": "Pour les produits, mati\u00e8res ou d\u00e9chets, autres que les mati\u00e8res dangereuses, devront figurer, a minima, les grandes familles de produits, mati\u00e8res ou d\u00e9chets, selon une typologie pertinente par rapport aux principaux risques pr\u00e9sent\u00e9s en cas d'incendie. Les stockages pr\u00e9sentant des risques particuliers pour la gestion d'un incendie et de ses cons\u00e9quences, tels que les stockages de piles ou batteries, figurent sp\u00e9cifiquement."
+                },
+                {
+                  "text": "Cet \u00e9tat est tenu \u00e0 disposition du pr\u00e9fet, des services d'incendie et de secours, de l'inspection des installations class\u00e9es et des autorit\u00e9s sanitaires, dans des lieux et par des moyens convenus avec eux \u00e0 l'avance."
+                },
+                {
+                  "text": "2. R\u00e9pondre aux besoins d'information de la population ; un \u00e9tat sous format synth\u00e9tique permet de fournir une information vulgaris\u00e9e sur les substances, produits, mati\u00e8res ou d\u00e9chets pr\u00e9sents au sein de chaque zone d'activit\u00e9s ou de stockage. Ce format est tenu \u00e0 disposition du pr\u00e9fet \u00e0 cette fin."
+                },
+                {
+                  "text": "L'\u00e9tat des mati\u00e8res stock\u00e9es est mis \u00e0 jour a minima de mani\u00e8re hebdomadaire et accessible \u00e0 tout moment, y compris en cas d'incident, d'accident, de pertes d'utilit\u00e9 ou de tout autre \u00e9v\u00e8nement susceptible d'affecter l'installation. Il est accompagn\u00e9 d'un plan g\u00e9n\u00e9ral des zones d'activit\u00e9s ou stockage utilis\u00e9es pour r\u00e9aliser l'\u00e9tat qui est accessible dans les m\u00eames conditions."
+                },
+                {
+                  "text": "Pour les mati\u00e8res dangereuses, cet \u00e9tat est mis \u00e0 jour a minima de mani\u00e8re quotidienne."
+                },
+                {
+                  "text": "Un recalage p\u00e9riodique est effectu\u00e9 par un inventaire physique, au moins annuellement, le cas \u00e9ch\u00e9ant, de mani\u00e8re tournante."
+                },
+                {
+                  "text": "L'\u00e9tat des mati\u00e8res stock\u00e9es est r\u00e9f\u00e9renc\u00e9 dans le plan d'op\u00e9ration interne lorsqu'il existe."
+                },
+                {
+                  "text": "Les dispositions de l'article 47 sont applicables \u00e0 compter du 1er janvier 2022. "
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Art. 47",
+              "sections": [],
+              "title": {
+                "text": "Etat des mati\u00e8res stock\u00e9es-dispositions sp\u00e9cifiques"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article 47"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ECB6EFE6Fead",
+          "outer_alineas": [
+            {
+              "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 48",
+          "sections": [],
+          "title": {
+            "text": "Article 48"
+          }
+        }
+      ],
+      "title": {
+        "text": "Section VI :\u00a0 Dispositions g\u00e9n\u00e9rales de pr\u00e9vention des risques"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 04/10/10 relatif \u00e0 la pr\u00e9vention des risques accidentels au sein des installations class\u00e9es pour la protection de l\u2019environnement soumises \u00e0 autorisation"
+  },
+  "visa": []
+}

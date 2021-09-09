@@ -1,0 +1,692 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/37312",
+  "applicability": {
+    "condition_of_inapplicability": {
+      "parameter": {
+        "id": "date-d-autorisation",
+        "type": "DATE"
+      },
+      "strict": true,
+      "target": "1986-11-13",
+      "type": "LITTLER"
+    },
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": null,
+      "regime": "A",
+      "rubrique": "2113",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "A",
+      "rubrique": "2113"
+    }
+  ],
+  "date_of_signature": "1986-09-15",
+  "id": "LEGITEXT000006074852",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074852",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "DD1Ff11a6b6B",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "",
+      "sections": [
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "bB60acbFe8aA",
+          "outer_alineas": [
+            {
+              "text": "L'installation sera situ\u00e9e, install\u00e9e et exploit\u00e9e conform\u00e9ment aux plans et dossiers joints \u00e0 la demande d'autorisation, incluant l'\u00e9tude d'impact et une \u00e9tude des dangers pr\u00e9sent\u00e9s par l'installation, et sous r\u00e9serve du respect des prescriptions du pr\u00e9sent arr\u00eat\u00e9."
+            },
+            {
+              "text": "L'installation sera implant\u00e9e \u00e0 une distance minimale de 150 m\u00e8tres de tout immeuble habit\u00e9 ou occup\u00e9 par des tiers. Cette distance pourra toutefois \u00eatre r\u00e9duite, tout en restant sup\u00e9rieure \u00e0 100 m\u00e8tres, dans la mesure o\u00f9 la pr\u00e9sence d'obstacles (b\u00e2timents, barri\u00e8res v\u00e9g\u00e9tales, topographie) pourrait le justifier."
+            },
+            {
+              "text": "L'installation ne sera pas implant\u00e9e sur un terrain \u00e0 forte pente ou pr\u00e9sentant des risques importants de percolation."
+            },
+            {
+              "text": "Dans le cas d'une activit\u00e9 en zone de montagne, des dispositions particuli\u00e8res devront \u00eatre prises pour \u00e9viter tout ruissellement vers les points ou cours d'eau."
+            },
+            {
+              "text": "Elle ne sera pas implant\u00e9e dans le p\u00e9rim\u00e8tre de protection des captages d'eau potable, ni \u00e0 moins de 35 m\u00e8tres des cours d'eau, points d'eau et foss\u00e9s d'\u00e9vacuation des eaux pluviales."
+            },
+            {
+              "text": "Toute transformation dans l'\u00e9tat des lieux, toute modification de l'installation sera port\u00e9e \u00e0 la connaissance du pr\u00e9fet avant leur r\u00e9alisation, ainsi que tout changement d'exploitant."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FbeB1ae6AEcA",
+          "outer_alineas": [
+            {
+              "text": "La capacit\u00e9 autoris\u00e9e est de .................... animaux en pr\u00e9sence simultan\u00e9e dans l'installation, dont .................... femelles."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "IMPLANTATION_AMENAGEMENT"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "ba0E1Dd9399F",
+          "outer_alineas": [
+            {
+              "text": "Les lignes de cages et les b\u00e2timents seront con\u00e7us de mani\u00e8re \u00e0 \u00e9viter la fuite des animaux."
+            },
+            {
+              "text": "La distance entre chaque ligne de cage, bord \u00e0 bord du toit, sera au minimum de 4 m\u00e8tres ; ceci afin de permettre le passage d'engins en vue de l'enl\u00e8vement des fumiers ou l'installation d'un dispositif automatique d'enl\u00e8vement de ces fumiers."
+            },
+            {
+              "text": "Ces all\u00e9es seront stabilis\u00e9es pour permettre la circulation dans de bonnes conditions des v\u00e9hicules de service."
+            },
+            {
+              "text": "Le sol sera \u00e9tanche, r\u00e9sistant aux d\u00e9gradations et apte aux nettoyages r\u00e9p\u00e9t\u00e9s."
+            },
+            {
+              "text": "Sous les cages une couche suffisante de mati\u00e8re propre \u00e0 absorber les d\u00e9jections (paille, sciure, sable) sera mise en place et renouvel\u00e9e r\u00e9guli\u00e8rement."
+            },
+            {
+              "text": "Le toit sera muni de goutti\u00e8res et devra d\u00e9border suffisamment des lignes de cages pour \u00e9viter aux eaux pluviales de ruisseler sur les fumiers. Des caniveaux \u00e9tanches seront pr\u00e9vus, pr\u00e9sentant une pente suffisante pour \u00e9vacuer les liquides non absorb\u00e9s vers des dispositifs d'\u00e9vacuation ou de stockage."
+            },
+            {
+              "text": "Les eaux pluviales ne seront pas m\u00e9lang\u00e9es aux eaux r\u00e9siduaires :"
+            },
+            {
+              "text": "\u00e0 cet effet, le sol des b\u00e2timents sera sur\u00e9lev\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "Article 3"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b7aaaCbE485F",
+          "outer_alineas": [
+            {
+              "text": "Les \u00e9quipements d'abreuvement (abreuvoir simple ou int\u00e9gr\u00e9 dans un syst\u00e8me \u00e0 distribution automatique) seront maintenus en bon \u00e9tat de propret\u00e9 et d'entretien, et, le cas \u00e9ch\u00e9ant, prot\u00e9g\u00e9s contre le gel."
+            },
+            {
+              "text": "L'eau des abreuvoirs sera renouvel\u00e9e tous les jours dans la mesure o\u00f9 il ne s'agit pas d'installations sous pression."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 4",
+          "sections": [],
+          "title": {
+            "text": "Article 4"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "b3EDf8e4831b",
+          "outer_alineas": [
+            {
+              "text": "Les aliments seront pr\u00e9par\u00e9s \u00e0 mesure des besoins. Les produits utilis\u00e9s seront stock\u00e9s dans un local clos et r\u00e9serv\u00e9 \u00e0 cet effet, ou en silo. Les produits frais (sous-produits animaux) seront conserv\u00e9s en chambre froide ou congel\u00e9s et alors conserv\u00e9s en cong\u00e9lateur."
+            },
+            {
+              "text": "Lorsqu'il sera fait usage d'une cuisine pour la pr\u00e9paration de la nourriture, son sol sera imperm\u00e9able avec une pente suffisante pour assurer un \u00e9coulement facile des liquides vers l'amorce de la canalisation souterraine, aboutissant aux dispositifs d'\u00e9vacuation, de stockage et de traitement."
+            },
+            {
+              "text": "Les eaux de lavage des mat\u00e9riels et ustensiles seront \u00e9vacu\u00e9es de m\u00eame."
+            },
+            {
+              "text": "Les odeurs seront combattues par les moyens ad\u00e9quats (ventilation, hottes)."
+            },
+            {
+              "text": "Il ne sera pas conserv\u00e9 dans l'\u00e9tablissement d'aliments corrompus. Les b\u00e2timents utilis\u00e9s seront maintenus en parfait \u00e9tat de propret\u00e9 et d'entretien, et d\u00e9sinfect\u00e9s au moins une fois par an."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 5",
+          "sections": [],
+          "title": {
+            "text": "Article 5"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "CaeEEf6eaBEc",
+          "outer_alineas": [
+            {
+              "text": "Les fumiers seront stock\u00e9s sur une aire \u00e9tanche d'une surface suffisante munie au moins d'un point bas, o\u00f9 sont collect\u00e9s les liquides d'\u00e9gouttage et situ\u00e9e \u00e0 plus de 150 m\u00e8tres des habitations de tiers les plus proches."
+            },
+            {
+              "text": "Sa superficie sera fonction de la plus longue p\u00e9riode pouvant s\u00e9parer deux \u00e9vacuations successives de d\u00e9jections solides, soit ... ."
+            },
+            {
+              "text": "Les jus d'\u00e9gouttage seront dirig\u00e9s vers les installations de stockage des effluents d'une capacit\u00e9 de ... m\u00e8tres cubes."
+            },
+            {
+              "text": "Les fumiers seront \u00e9vacu\u00e9s dans des r\u00e9cipients \u00e9tanches r\u00e9guli\u00e8rement lav\u00e9s, ou, s'ils sont destin\u00e9s \u00e0 l'\u00e9pandage, dans des bennes agricoles."
+            },
+            {
+              "text": "Ils seront enlev\u00e9s de dessous les cages aussi souvent que n\u00e9cessaire pour \u00e9viter les \u00e9coulements, les odeurs et le d\u00e9veloppement d'insectes soit \u00e0 une fr\u00e9quence de ... ."
+            },
+            {
+              "text": "Dans le cas de production de lisiers, ceux-ci seront collect\u00e9s et dirig\u00e9s vers une fosse de stockage d'une capacit\u00e9 suffisante pour un stockage minimal de trois mois des d\u00e9jections et eaux de lavage."
+            },
+            {
+              "text": "Les cadavres d'animaux seront envoy\u00e9s dans un \u00e9quarrissage r\u00e9guli\u00e8rement autoris\u00e9 au titre de la loi du 19 juillet 1976, ou d\u00e9truits dans les conditions pr\u00e9vues par le code rural."
+            },
+            {
+              "text": "D'une fa\u00e7on g\u00e9n\u00e9rale, toutes dispositions seront prises pour combattre les nuisances."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 6",
+          "sections": [],
+          "title": {
+            "text": "Article 6"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "EbbCbD2Bd9ea",
+          "outer_alineas": [
+            {
+              "text": "Les animaux sacrifi\u00e9s sont amen\u00e9s d\u00e8s refroidissement suffisant en salle de d\u00e9pouillage."
+            },
+            {
+              "text": "Ce local devra \u00eatre \u00e9quip\u00e9 de mani\u00e8re \u00e0 permettre l'ex\u00e9cution du travail dans de bonnes conditions d'hygi\u00e8ne et de s\u00e9curit\u00e9."
+            },
+            {
+              "text": "Les d\u00e9chets seront stock\u00e9s et \u00e9vacu\u00e9s en conformit\u00e9 avec les prescriptions de l'article 6 ; leur destination sera pr\u00e9cis\u00e9e."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 7",
+          "sections": [],
+          "title": {
+            "text": "Article 7"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "93a0a46a64da",
+          "outer_alineas": [
+            {
+              "text": "D'une mani\u00e8re g\u00e9n\u00e9rale, le s\u00e9chage, la pr\u00e9paration et le stockage des peaux devront \u00eatre effectu\u00e9s selon les r\u00e8gles de l'art et ne pas \u00eatre \u00e0 l'origine de nuisances ou dangers pour le voisinage."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 8",
+          "sections": [],
+          "title": {
+            "text": "Article 8"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EXPLOITATION"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "8071F383CBe4",
+          "outer_alineas": [
+            {
+              "text": "Toutes dispositions efficaces seront prises contre la pullulation des mouches et des rongeurs nuisibles : emploi d'insecticides, etc."
+            },
+            {
+              "text": "Toutes dispositions seront \u00e9galement prises pour \u00e9viter la fuite des animaux : si les b\u00e2timents d'\u00e9levage ne peuvent \u00eatre enti\u00e8rement clos, la cl\u00f4ture ext\u00e9rieure sera munie d'un sas de volume suffisant pour contenir les \u00e9quipements et v\u00e9hicules employ\u00e9s, et \u00e9quip\u00e9e de portes \u00e0 fermeture automatique."
+            },
+            {
+              "text": "Si les b\u00e2timents d'\u00e9levage sont clos, la cl\u00f4ture externe et celle des b\u00e2timents ne pourront \u00eatre ouvertes simultan\u00e9ment."
+            },
+            {
+              "text": "Toute fuite d'animaux constat\u00e9e sera signal\u00e9e \u00e0 l'inspecteur des installations class\u00e9es."
+            },
+            {
+              "text": "La cl\u00f4ture (\u00e9ventuellement de grillage) entourant l'\u00e9levage sera d'une hauteur minimale au-dessus du sol de 1,50 m\u00e8tre, enfonc\u00e9e dans le sol d'au moins 30 centim\u00e8tres et surmont\u00e9e le cas \u00e9ch\u00e9ant (grillage) d'une plaque pleine et lisse d'au moins 25 centim\u00e8tres (t\u00f4le ou, mieux, mat\u00e9riaux synth\u00e9tiques) pour \u00e9viter la fuite des animaux et les prot\u00e9ger des pr\u00e9dateurs."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 9",
+          "sections": [],
+          "title": {
+            "text": "Article 9"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "EAU"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "DE1dF8854193",
+          "outer_alineas": [
+            {
+              "text": "Tout rejet direct des fumiers et lisiers dans les eaux superficielles est interdit."
+            },
+            {
+              "text": "L'exploitant fournira \u00e0 l'inspecteur des installations class\u00e9es le relev\u00e9 cadastral des terrains sur lesquels est pratiqu\u00e9 l'\u00e9pandage (en produisant, le cas \u00e9ch\u00e9ant, l'accord \u00e9crit des propri\u00e9taires concern\u00e9s)."
+            },
+            {
+              "text": "En cas d'\u00e9pandage des effluents, les prescriptions suivantes seront respect\u00e9es : en aucun cas la capacit\u00e9 d'absorption des sols ne devra \u00eatre d\u00e9pass\u00e9e, de telle sorte que ni la stagnation prolong\u00e9e sur ces sols, ni le ruissellement en dehors du champ d'\u00e9pandage, ni une percolation rapide vers les nappes souterraines ne puissent se produire."
+            },
+            {
+              "text": "L'\u00e9pandage est interdit :"
+            },
+            {
+              "text": "- \u00e0 proximit\u00e9 des points de pr\u00e9l\u00e8vements d'eau destin\u00e9e \u00e0 l'alimentation des collectivit\u00e9s humaines ou des particuliers, \u00e0 moins de 200 m\u00e8tres des lieux de baignade, \u00e0 moins de 500 m\u00e8tres des sites d'aquaculture, \u00e0 moins de 35 m\u00e8tres des cours d'eau ;"
+            },
+            {
+              "text": "- \u00e0 moins de 100 m\u00e8tres des habitations, des campings, hormis le cas du camping \u00e0 la ferme."
+            },
+            {
+              "text": "En cas d'\u00e9pandage avec enfouissement ou \u00e9pandage de lisier d\u00e9sodoris\u00e9, la distance de 100 m\u00e8tres par rapport aux lieux d'habitations et de camping (sauf camping \u00e0 la ferme) peut \u00eatre ramen\u00e9e \u00e0 50 m\u00e8tres :"
+            },
+            {
+              "text": "- pendant les p\u00e9riodes o\u00f9 le sol est gel\u00e9 ;"
+            },
+            {
+              "text": "- en dehors des terres r\u00e9guli\u00e8rement travaill\u00e9es et des prairies normalement exploit\u00e9es ;"
+            },
+            {
+              "text": "- \u00e0 l'aide de dispositifs d'a\u00e9ro-aspersion, g\u00e9n\u00e9rateurs de brouillards fins ;"
+            },
+            {
+              "text": "- sur les sols dont la pente est importante."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 10",
+          "sections": [],
+          "title": {
+            "text": "Article 10"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "BRUIT_VIBRATIONS"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6bdb628CbDCf",
+          "outer_alineas": [
+            {
+              "text": "Le niveau sonore des bruits \u00e9mis par l'\u00e9levage ne devra pas exc\u00e9der les seuils fix\u00e9s par l'arr\u00eat\u00e9 minist\u00e9riel du 20 ao\u00fbt 1985, soit en limite de propri\u00e9t\u00e9 :"
+            },
+            {
+              "text": "45 dB + Ct + Cz"
+            },
+            {
+              "text": "Ct"
+            },
+            {
+              "text": "\u00e9tant un coefficient correcteur fonction de l'heure ;"
+            },
+            {
+              "text": "Cz"
+            },
+            {
+              "text": "\u00e9tant un coefficient correcteur fonction de la zone d'implantation."
+            },
+            {
+              "text": "Exemple simplifi\u00e9 : en zone rurale non habit\u00e9e, la limite est fix\u00e9e \u00e0 65 dB le jour et 55 dB la nuit."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 11",
+          "sections": [],
+          "title": {
+            "text": "Article 11"
+          }
+        },
+        {
+          "annotations": {
+            "topic": "RISQUES"
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3a11453A3EFE",
+          "outer_alineas": [
+            {
+              "text": "Le mat\u00e9riel \u00e9lectrique utilis\u00e9 sera conforme aux normes en vigueur."
+            },
+            {
+              "text": "L'implantation de la borne d'eau la plus proche sera indiqu\u00e9e dans le dossier de demande d'autorisation ; il sera signal\u00e9 \u00e9ventuellement la pr\u00e9sence d'une mare ou d'une r\u00e9serve d'eau pouvant \u00eatre utilis\u00e9e en cas d'incendie."
+            },
+            {
+              "text": "Lorsqu'une installation utilisant des gaz toxiques sera mise en oeuvre pour la sacrification des animaux, toutes pr\u00e9cautions devront \u00eatre prises en vue de la protection du personnel et de l'environnement. Les produits utilis\u00e9s pour la sacrification seront, d'une fa\u00e7on g\u00e9n\u00e9rale, conserv\u00e9s comme des produits toxiques et dangereux et non accessibles \u00e0 d'autres personnes que l'exploitant ou les employ\u00e9s d\u00e9sign\u00e9s par lui."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 12",
+          "sections": [],
+          "title": {
+            "text": "Article 12"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "5B1acF3fDaFB",
+          "outer_alineas": [
+            {
+              "text": "Les r\u00e8gles techniques applicables au titre de la protection de l'environnement aux \u00e9levages d'animaux carnassiers \u00e0 fourrure sont fix\u00e9es par l'instruction et son commentaire, annex\u00e9s au pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 1",
+          "sections": [],
+          "title": {
+            "text": "Article 1"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "13dEa3a82fF6",
+          "outer_alineas": [
+            {
+              "text": "L'ensemble de ces r\u00e8gles est applicable sans d\u00e9lai aux \u00e9tablissements faisant l'objet d'un arr\u00eat\u00e9 d'autorisation post\u00e9rieur au pr\u00e9sent arr\u00eat\u00e9."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 2",
+          "sections": [],
+          "title": {
+            "text": "Article 2"
+          }
+        },
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "6f5539c6A864",
+          "outer_alineas": [
+            {
+              "text": "Le directeur de la pr\u00e9vention des pollutions et les   pr\u00e9fets sont charg\u00e9s de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Art. 3",
+          "sections": [],
+          "title": {
+            "text": "Article 3"
+          }
+        }
+      ],
+      "title": {
+        "text": "R\u00e8gles techniques applicables aux \u00e9levages de carnassiers \u00e0 fourrure (visons)soumis \u00e0 autorisation (plus de 2000 animaux) Rubrique 58-7\u00b0."
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "08bEFE648aEd",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "FcFCfd400F2b",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "8c074ca8F3cE",
+              "outer_alineas": [
+                {
+                  "text": "Ces prescriptions concernent essentiellement les visons, principaux carnassiers \u00e9lev\u00e9s en France pour leur fourrure."
+                },
+                {
+                  "text": "Dans le cas d'un \u00e9levage de renards ou de putois, autres cas pouvant \u00eatre rencontr\u00e9s, une adaptation de ces prescriptions est bien entendu n\u00e9cessaire."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe Annexe",
+              "sections": [],
+              "title": {
+                "text": "ANNEXE"
+              }
+            }
+          ],
+          "title": {
+            "text": "R\u00e8gles techniques applicables aux \u00e9levages de carnassiers \u00e0 fourrure (visons)soumis \u00e0 autorisation (plus de 2000 animaux) Rubrique 58-7\u00b0."
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexes"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 15/09/86 fixant les r\u00e8gles techniques auxquelles doivent satisfaire au titre de la protection de l'environnement les \u00e9levages d'animaux carnassiers \u00e0 fourrure"
+  },
+  "visa": []
+}

@@ -1,0 +1,1905 @@
+{
+  "aida_url": "https://aida.ineris.fr/consultation_document/42121",
+  "applicability": {
+    "condition_of_inapplicability": null,
+    "warnings": []
+  },
+  "classements": [
+    {
+      "alinea": "",
+      "regime": "D",
+      "rubrique": "2792",
+      "state": "ACTIVE"
+    }
+  ],
+  "classements_with_alineas": [
+    {
+      "alineas": [],
+      "regime": "D",
+      "rubrique": "2792"
+    }
+  ],
+  "date_of_signature": "2019-03-08",
+  "id": "JORFTEXT000038528312",
+  "is_transverse": false,
+  "legifrance_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038528312",
+  "nickname": null,
+  "sections": [
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "0EB4eFd8D0BD",
+      "outer_alineas": [
+        {
+          "text": "Les installations class\u00e9es soumises \u00e0 d\u00e9claration sous la rubrique n\u00b0 2792-1 sont soumises aux dispositions de l'annexe I."
+        },
+        {
+          "text": "Les appareils contamin\u00e9s au PCB et les modalit\u00e9s d'analyse sont ceux pr\u00e9cis\u00e9s par l'arr\u00eat\u00e9 du 7 janvier 2014 susvis\u00e9. Dans le cadre du pr\u00e9sent arr\u00eat\u00e9, le terme PCB est utilis\u00e9 pour d\u00e9signer les PCB/ PCT tels que d\u00e9finis au sens de l'article R. 543-17 du code de l'environnement."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 1",
+      "sections": [],
+      "title": {
+        "text": "Article 1"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "A36E0cDD51BF",
+      "outer_alineas": [
+        {
+          "text": "Les dispositions de l'annexe I sont applicables aux installations d\u00e9clar\u00e9es \u00e0 compter du 1er juillet 2019."
+        },
+        {
+          "text": "Les dispositions de l'annexe I sont applicables aux installations existantes, d\u00e9clar\u00e9es avant le 1er juillet 2019, dans les conditions pr\u00e9cis\u00e9es en annexe II."
+        },
+        {
+          "text": "Les dispositions de l'annexe I sont \u00e9galement applicables aux installations class\u00e9es soumises \u00e0 d\u00e9claration incluses dans un \u00e9tablissement qui comporte au moins une installation soumise au r\u00e9gime de l'autorisation d\u00e8s lors que ces installations ne sont pas r\u00e9gies par l'arr\u00eat\u00e9 pr\u00e9fectoral d'autorisation."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 2",
+      "sections": [],
+      "title": {
+        "text": "Article 2"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "16eACBeB88e9",
+      "outer_alineas": [
+        {
+          "text": "L'arr\u00eat\u00e9 du 8 juillet 2003 relatif aux crit\u00e8res et m\u00e9thodes d'\u00e9valuation des propri\u00e9t\u00e9s de dangers H1 explosif, H2 comburant, H3 inflammable et facilement inflammable d'un d\u00e9chet est abrog\u00e9."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 3",
+      "sections": [],
+      "title": {
+        "text": "Article 3"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "63E966FA74cE",
+      "outer_alineas": [
+        {
+          "text": "Le directeur g\u00e9n\u00e9ral de la pr\u00e9vention des risques est charg\u00e9 de l'ex\u00e9cution du pr\u00e9sent arr\u00eat\u00e9, qui sera publi\u00e9 au Journal officiel de la R\u00e9publique fran\u00e7aise."
+        }
+      ],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Art. 4",
+      "sections": [],
+      "title": {
+        "text": "Article 4"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "177Ab0eb55bA",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "3Bee18CDcB0e",
+          "outer_alineas": [],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe Art. -",
+          "sections": [
+            {
+              "annotations": {
+                "topic": null
+              },
+              "applicability": {
+                "active": true,
+                "modified": false,
+                "previous_version": null,
+                "warnings": []
+              },
+              "id": "21B1d5d2F8E1",
+              "outer_alineas": [
+                {
+                  "text": "PRESCRIPTIONS G\u00c9N\u00c9RALES APPLICABLES AUX INSTALLATIONS CLASS\u00c9ES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES \u00c0 D\u00c9CLARATION SOUS LA RUBRIQUE NO 2792-1"
+                },
+                {
+                  "text": "D\u00e9finitions"
+                },
+                {
+                  "text": "Au sens du pr\u00e9sent arr\u00eat\u00e9, on entend par :"
+                },
+                {
+                  "text": "\u00ab Produits dangereux et mati\u00e8res dangereuses \u00bb : substance ou m\u00e9lange class\u00e9 suivant les \u00ab classes et cat\u00e9gories de danger d\u00e9finies \u00e0 l'annexe I, parties 2, 3 et 4, du r\u00e8glement (CE) n\u00b0 1272/2008 relatif \u00e0 la classification, l'\u00e9tiquetage et l'emballage des substances et des m\u00e9langes \u00bb dit CLP. Ce r\u00e8glement a pour objectif de classer les substances et m\u00e9langes dangereux et de communiquer sur ces dangers via l'\u00e9tiquetage et les fiches de donn\u00e9es de s\u00e9curit\u00e9."
+                }
+              ],
+              "parametrization": {
+                "potential_inapplicabilities": [],
+                "potential_modifications": [],
+                "warnings": []
+              },
+              "reference_str": "Annexe Art. - Annexe I",
+              "sections": [
+                {
+                  "annotations": {
+                    "topic": "DISPOSITIONS_GENERALES"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "3bbEE02ef14b",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 1.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "A20F3ad37a9b",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est soumise \u00e0 des contr\u00f4les p\u00e9riodiques par des organismes agr\u00e9\u00e9s dans les conditions d\u00e9finies par les articles R. 512-55 \u00e0 R. 512-60 du code de l'environnement. Le contenu de ces contr\u00f4les est pr\u00e9cis\u00e9 \u00e0 la fin de chaque point de la pr\u00e9sente annexe apr\u00e8s la mention \u00ab Objet du contr\u00f4le \u00bb."
+                        },
+                        {
+                          "text": "L'exploitant conserve le rapport de visite que l'organisme agr\u00e9\u00e9 lui adresse apr\u00e8s chaque contr\u00f4le dans le dossier installations class\u00e9es pr\u00e9vu au point 1.2."
+                        },
+                        {
+                          "text": "Si le rapport fait appara\u00eetre des non-conformit\u00e9s aux dispositions faisant l'objet du contr\u00f4le, l'exploitant met en \u0153uvre les actions correctives n\u00e9cessaires pour y rem\u00e9dier. Ces actions ainsi que leurs dates de mise en \u0153uvre sont formalis\u00e9es et conserv\u00e9es dans le dossier susmentionn\u00e9."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 1.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "1.1. Contr\u00f4le p\u00e9riodique"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "c0387A9746de",
+                      "outer_alineas": [
+                        {
+                          "text": "L'exploitant \u00e9tablit et tient \u00e0 jour un dossier comportant les documents suivants :"
+                        },
+                        {
+                          "text": "- les plans de l'installation tenus \u00e0 jour ;"
+                        },
+                        {
+                          "text": "- la preuve du d\u00e9p\u00f4t de d\u00e9claration et les prescriptions g\u00e9n\u00e9rales ;"
+                        },
+                        {
+                          "text": "- les arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation concern\u00e9e, pris en application de la l\u00e9gislation relative aux installations class\u00e9es pour la protection de l'environnement, s'il y en a ;"
+                        },
+                        {
+                          "text": "- les r\u00e9sultats des derni\u00e8res mesures sur les effluents ;"
+                        },
+                        {
+                          "text": "- les documents pr\u00e9vus aux points 1.1, 2.2.1, 2.2.2, 2.4, 4.1, 4.2, 4.3, 5.1 et 5.5 ci-apr\u00e8s ;"
+                        },
+                        {
+                          "text": "- les dispositions pr\u00e9vues en cas de sinistre."
+                        },
+                        {
+                          "text": "Ce dossier est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- preuve du d\u00e9p\u00f4t de d\u00e9claration ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification de la quantit\u00e9 maximale de fluide contenant des PCB/PCT au regard de la quantit\u00e9 maximale d\u00e9clar\u00e9e ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification que la quantit\u00e9 maximale de fluide contenant des PCB/PCT est inf\u00e9rieure au seuil sup\u00e9rieur du r\u00e9gime d\u00e9claratif tel que d\u00e9fini \u00e0 l'annexe de l'article R. 511-9 du code de l'environnement ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence des prescriptions g\u00e9n\u00e9rales ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence des arr\u00eat\u00e9s pr\u00e9fectoraux relatifs \u00e0 l'installation, s'il y en a ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de plans tenus \u00e0 jour."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 1.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "1.2. Dossier installation class\u00e9e"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "1. Dispositions g\u00e9n\u00e9rales"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "IMPLANTATION_AMENAGEMENT"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "993C2d5fC0bb",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 2.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "823b5D83b4cD",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est implant\u00e9e \u00e0 une distance minimale :"
+                        },
+                        {
+                          "text": "- de 200 m\u00e8tres des puits et forages ext\u00e9rieurs au site, des sources, des aqueducs en \u00e9coulement libre, de toute installation souterraine ou semi-enterr\u00e9e utilis\u00e9e pour le stockage des eaux destin\u00e9es \u00e0 l'alimentation en eau potable, des rivages, des berges des cours d'eau ;"
+                        },
+                        {
+                          "text": "- de 200 m\u00e8tres des lieux publics de baignade et des plages ;"
+                        },
+                        {
+                          "text": "- de 500 m\u00e8tres des zones conchylicoles et des piscicultures de rivi\u00e8res soumises \u00e0 la rubrique 2130 \u00ab Piscicultures \u00bb de la nomenclature des installations class\u00e9es."
+                        },
+                        {
+                          "text": "L'installation se situe en dehors d'un p\u00e9rim\u00e8tre class\u00e9 zone rouge ou bleue d'un plan de pr\u00e9vention du risque d'inondation approuv\u00e9."
+                        },
+                        {
+                          "text": "L'activit\u00e9 de transit, regroupement ou tri de d\u00e9chets contenant des PCB est effectu\u00e9e dans un ou des b\u00e2timents ferm\u00e9s."
+                        },
+                        {
+                          "text": "Les parois ext\u00e9rieures desdits b\u00e2timents ferm\u00e9s assurant le tri, transit regroupement des d\u00e9chets contenant des PCB/PCT sont \u00e9loign\u00e9es des limites du site de a minima 1,5 fois la hauteur, avec un minimum de 20 m\u00e8tres, \u00e0 moins que l'exploitant justifie que les effets l\u00e9taux (seuil des effets thermiques de 5 kW/m2) restent \u00e0 l'int\u00e9rieur du site au moyen, si n\u00e9cessaire, de la mise en place d'un dispositif s\u00e9paratif E120."
+                        },
+                        {
+                          "text": "Les parois externes de ces b\u00e2timents ferm\u00e9s sont suffisamment \u00e9loign\u00e9es, au moins de deux m\u00e8tres, des aires ext\u00e9rieures d'entreposage et de manipulation du site et des zones de stationnement susceptibles de favoriser la naissance d'un incendie pouvant se propager aux b\u00e2timents."
+                        },
+                        {
+                          "text": "Les parois des autres b\u00e2timents du site (n'assurant pas ce tri, transit, regroupement de d\u00e9chets contenant des PCB/PCT et/ou contenant des produits combustibles ou inflammables), ainsi que les \u00e9l\u00e9ments de structure dans le cas d'un b\u00e2timent ouvert, et les limites des aires d'entreposage dans le cas d'un entreposage en ext\u00e9rieur sont \u00e9galement \u00e9loign\u00e9es des limites du site de a minima 1,5 fois la hauteur, avec un minimum de 20 m\u00e8tres ; \u00e0 moins que l'exploitant justifie que les effets l\u00e9taux (seuil des effets thermiques de 5 kW/m2) restent \u00e0 l'int\u00e9rieur du site au moyen, si n\u00e9cessaire, de la mise en place d'un dispositif s\u00e9paratif E120."
+                        },
+                        {
+                          "text": "Les parois externes de ces autres b\u00e2timents ainsi que les \u00e9l\u00e9ments de structure dans le cas d'un b\u00e2timent ouvert sont suffisamment \u00e9loign\u00e9s, au moins de deux m\u00e8tres, des aires ext\u00e9rieures d'entreposage et de manipulation du site et des zones de stationnement susceptibles de favoriser la naissance d'un incendie pouvant se propager aux b\u00e2timents."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'un b\u00e2timent ferm\u00e9 accueillant les activit\u00e9s de transit, tri ou regroupement des d\u00e9chets contenant des PCB/PCT (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- respect des distances d'\u00e9loignement et des interdictions d'implantation (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- le cas \u00e9ch\u00e9ant, justificatif des propri\u00e9t\u00e9s de r\u00e9sistance au feu du dispositif s\u00e9paratif."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [
+                          {
+                            "alineas": null,
+                            "condition": {
+                              "parameter": {
+                                "id": "date-d-declaration",
+                                "type": "DATE"
+                              },
+                              "strict": true,
+                              "target": "2019-07-01",
+                              "type": "LITTLER"
+                            }
+                          }
+                        ],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.1. R\u00e8gles d'implantation"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "46B0E97dd14b",
+                      "outer_alineas": [],
+                      "parametrization": {
+                        "potential_inapplicabilities": [
+                          {
+                            "alineas": null,
+                            "condition": {
+                              "parameter": {
+                                "id": "date-d-declaration",
+                                "type": "DATE"
+                              },
+                              "strict": true,
+                              "target": "2019-07-01",
+                              "type": "LITTLER"
+                            }
+                          }
+                        ],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.2.",
+                      "sections": [
+                        {
+                          "annotations": {
+                            "topic": null
+                          },
+                          "applicability": {
+                            "active": true,
+                            "modified": false,
+                            "previous_version": null,
+                            "warnings": []
+                          },
+                          "id": "AAcD1669A58a",
+                          "outer_alineas": [
+                            {
+                              "text": "Les b\u00e2timents o\u00f9 sont entrepos\u00e9s ou manipul\u00e9s des d\u00e9chets pr\u00e9sentent les caract\u00e9ristiques de r\u00e9sistance au feu minimales suivantes :"
+                            },
+                            {
+                              "text": "- l'ensemble de la structure est R15 ;"
+                            },
+                            {
+                              "text": "- les mat\u00e9riaux sont de classe A2s1d0."
+                            },
+                            {
+                              "text": "Pour toutes les installations vis\u00e9es par le pr\u00e9sent article, les justificatifs attestant des propri\u00e9t\u00e9s de r\u00e9sistance au feu sont conserv\u00e9s et tenus \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                            },
+                            {
+                              "text": "Objet du contr\u00f4le :"
+                            },
+                            {
+                              "text": "- pr\u00e9sence de documents attestant des propri\u00e9t\u00e9s de r\u00e9sistance au feu (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure."
+                            }
+                          ],
+                          "parametrization": {
+                            "potential_inapplicabilities": [],
+                            "potential_modifications": [],
+                            "warnings": []
+                          },
+                          "reference_str": "Annexe Art. - Annexe I 2.2.1.",
+                          "sections": [],
+                          "title": {
+                            "text": "2.2.1. Comportement au feu des b\u00e2timents"
+                          }
+                        },
+                        {
+                          "annotations": {
+                            "topic": null
+                          },
+                          "applicability": {
+                            "active": true,
+                            "modified": false,
+                            "previous_version": null,
+                            "warnings": []
+                          },
+                          "id": "72dd3579C7c7",
+                          "outer_alineas": [
+                            {
+                              "text": "Les toitures et couvertures de toiture r\u00e9pondent \u00e0 la classe BROOF (t3)."
+                            }
+                          ],
+                          "parametrization": {
+                            "potential_inapplicabilities": [],
+                            "potential_modifications": [],
+                            "warnings": []
+                          },
+                          "reference_str": "Annexe Art. - Annexe I 2.2.2.",
+                          "sections": [],
+                          "title": {
+                            "text": "2.2.2. Toitures et couvertures de toiture"
+                          }
+                        },
+                        {
+                          "annotations": {
+                            "topic": null
+                          },
+                          "applicability": {
+                            "active": true,
+                            "modified": false,
+                            "previous_version": null,
+                            "warnings": []
+                          },
+                          "id": "E81Cca87bB7C",
+                          "outer_alineas": [
+                            {
+                              "text": "Les b\u00e2timents ferm\u00e9s o\u00f9 sont entrepos\u00e9s ou manipul\u00e9s des produits ou d\u00e9chets combustibles ou inflammables sont \u00e9quip\u00e9s en partie haute de dispositifs d'\u00e9vacuation naturelle de fum\u00e9es et de chaleur, permettant l'\u00e9vacuation \u00e0 l'air libre des fum\u00e9es, gaz de combustion, chaleur et produits imbr\u00fbl\u00e9s d\u00e9gag\u00e9s en cas d'incendie."
+                            },
+                            {
+                              "text": "Les dispositifs d'\u00e9vacuation naturelle \u00e0 l'air libre peuvent \u00eatre des dispositifs passifs (ouvertures permanentes) ou des dispositifs actifs. Dans ce dernier cas, ils sont compos\u00e9s d'exutoires \u00e0 commandes automatique et manuelle."
+                            },
+                            {
+                              "text": "Les dispositifs passifs ne sont toutefois pas autoris\u00e9s dans le cas d'entreposage ou de manipulation de d\u00e9chets susceptibles d'\u00eatre \u00e0 l'origine d'\u00e9missions de vapeurs ou gaz toxiques, ou d'odeurs susceptibles d'incommoder le voisinage, de nuire \u00e0 la sant\u00e9 ou \u00e0 la s\u00e9curit\u00e9 publique."
+                            },
+                            {
+                              "text": "Leur surface utile d'ouverture n'est pas inf\u00e9rieure \u00e0 :"
+                            },
+                            {
+                              "text": "- 2 % si la superficie \u00e0 d\u00e9senfumer est inf\u00e9rieure \u00e0 1 600 m2 ;"
+                            },
+                            {
+                              "text": "- et \u00e0 d\u00e9terminer selon la nature des risques si la superficie \u00e0 d\u00e9senfumer est sup\u00e9rieure \u00e0 1 600 m2 sans pouvoir \u00eatre inf\u00e9rieure \u00e0 2 % de la superficie des b\u00e2timents."
+                            },
+                            {
+                              "text": "En exploitation normale, le r\u00e9armement (fermeture) doit \u00eatre possible depuis le sol du b\u00e2timent ou depuis la zone de d\u00e9senfumage ou la cellule \u00e0 d\u00e9senfumer dans le cas d'un b\u00e2timent divis\u00e9 en plusieurs cantons ou cellules."
+                            },
+                            {
+                              "text": "Les commandes d'ouverture manuelle sont plac\u00e9es \u00e0 proximit\u00e9 des acc\u00e8s."
+                            },
+                            {
+                              "text": "Les dispositifs d'\u00e9vacuation naturelle de fum\u00e9es et de chaleur sont adapt\u00e9s aux risques particuliers de l'installation."
+                            },
+                            {
+                              "text": "Objet du contr\u00f4le :"
+                            },
+                            {
+                              "text": "- pr\u00e9sence des dispositifs d'\u00e9vacuation des fum\u00e9es et gaz de combustion (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                            },
+                            {
+                              "text": "- positionnement des commandes d'ouverture manuelle \u00e0 proximit\u00e9 des acc\u00e8s."
+                            }
+                          ],
+                          "parametrization": {
+                            "potential_inapplicabilities": [],
+                            "potential_modifications": [],
+                            "warnings": []
+                          },
+                          "reference_str": "Annexe Art. - Annexe I 2.2.3.",
+                          "sections": [],
+                          "title": {
+                            "text": "2.2.3. D\u00e9senfumage"
+                          }
+                        }
+                      ],
+                      "title": {
+                        "text": "2.2. Comportement au feu"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "FE1EbeDc5Fc0",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est accessible pour permettre l'intervention des services d'incendie et de secours."
+                        },
+                        {
+                          "text": "Elle est desservie, sur au moins deux faces, par une voie engin ou par une aire de mise en station des moyens \u00e9l\u00e9vateurs a\u00e9riens si le plancher bas du niveau le plus haut de cette installation est \u00e0 une hauteur sup\u00e9rieure \u00e0 huit m\u00e8tres par rapport au niveau d'acc\u00e8s des services d'incendie et de secours."
+                        },
+                        {
+                          "text": "Une des fa\u00e7ades de chaque b\u00e2timent ferm\u00e9 est \u00e9quip\u00e9e d'ouvrants permettant le passage de sauveteurs \u00e9quip\u00e9s."
+                        },
+                        {
+                          "text": "Le cas \u00e9ch\u00e9ant, cette voie engin respecte les caract\u00e9ristiques suivantes :"
+                        },
+                        {
+                          "text": "- la largeur utile est au minimum de trois m\u00e8tres, la hauteur libre au minimum de 4,5 m\u00e8tres et la pente inf\u00e9rieure \u00e0 15 % ;"
+                        },
+                        {
+                          "text": "- dans les virages de rayon int\u00e9rieur inf\u00e9rieur \u00e0 50 m\u00e8tres, un rayon int\u00e9rieur R minimal de 13 m\u00e8tres est maintenu et une sur-largeur de S = 15/R m\u00e8tres est ajout\u00e9e ;"
+                        },
+                        {
+                          "text": "- la voie r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci \u00e9tant distants de 3,6 m\u00e8tres au minimum ;"
+                        },
+                        {
+                          "text": "- chaque point du p\u00e9rim\u00e8tre du b\u00e2timent est \u00e0 une distance maximale de 60 m\u00e8tres de cette voie ;"
+                        },
+                        {
+                          "text": "- elle est positionn\u00e9e de fa\u00e7on \u00e0 ne pouvoir \u00eatre obstru\u00e9e par l'effondrement de tout ou partie de ce b\u00e2timent ou occup\u00e9e par les eaux d'extinction ;"
+                        },
+                        {
+                          "text": "- aucun obstacle n'est dispos\u00e9 entre la voie \u00ab engins \u00bb et les acc\u00e8s au b\u00e2timent."
+                        },
+                        {
+                          "text": "Le cas \u00e9ch\u00e9ant, cette aire de mise en station des moyens \u00e9l\u00e9vateurs a\u00e9riens respecte les caract\u00e9ristiques suivantes :"
+                        },
+                        {
+                          "text": "- la largeur utile est au minimum de sept m\u00e8tres et la longueur au minimum de dix m\u00e8tres, avec un positionnement de l'aire permettant un stationnement parall\u00e8le au b\u00e2timent ; la distance par rapport \u00e0 la fa\u00e7ade est de un m\u00e8tre minimum et huit m\u00e8tres maximum ;"
+                        },
+                        {
+                          "text": "- un positionnement de l'aire permettant un stationnement perpendiculaire au b\u00e2timent est possible, sous r\u00e9serve qu'il permette aux lances incendie d'atteindre les m\u00eames zones du b\u00e2timent qu'avec une aire en stationnement parall\u00e8le ;"
+                        },
+                        {
+                          "text": "- la distance par rapport \u00e0 la fa\u00e7ade est inf\u00e9rieure \u00e0 un m\u00e8tre pour un stationnement perpendiculaire au b\u00e2timent ;"
+                        },
+                        {
+                          "text": "- la pente est au maximum de 10 % ;"
+                        },
+                        {
+                          "text": "- l'aire r\u00e9siste \u00e0 la force portante calcul\u00e9e pour un v\u00e9hicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci \u00e9tant distants de 3,6 m\u00e8tres au minimum et pr\u00e9sente une r\u00e9sistance au poin\u00e7onnement minimale de 88 N/cm2 ;"
+                        },
+                        {
+                          "text": "- aucun obstacle a\u00e9rien ne g\u00eane la man\u0153uvre de ces moyens \u00e9l\u00e9vateurs a\u00e9riens \u00e0 la verticale de cette aire ;"
+                        },
+                        {
+                          "text": "- elle comporte une mat\u00e9rialisation au sol ;"
+                        },
+                        {
+                          "text": "- elle est maintenue en permanence entretenue, d\u00e9gag\u00e9e et accessible aux services d'incendie et de secours. Si les conditions d'exploitation ne permettent pas de maintenir ces aires d\u00e9gag\u00e9es en permanence (pr\u00e9sence de v\u00e9hicules li\u00e9s \u00e0 l'exploitation). L'exploitant fixe les mesures organisationnelles permettant de lib\u00e9rer ces aires en cas de sinistre avant l'arriv\u00e9e des services d'incendie et de secours ;"
+                        },
+                        {
+                          "text": "- elle est positionn\u00e9e de fa\u00e7on \u00e0 ne pouvoir \u00eatre obstru\u00e9e par l'effondrement de tout ou partie du b\u00e2timent ou occup\u00e9es par les eaux d'extinction."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'une voie engin ou d'une aire de mise en station des moyens \u00e9l\u00e9vateurs a\u00e9riens, gard\u00e9e libre ;"
+                        },
+                        {
+                          "text": "- en cas de b\u00e2timent ferm\u00e9, pr\u00e9sence d'ouvrants sur une des fa\u00e7ades de chaque b\u00e2timent."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.3. Accessibilit\u00e9"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "E19F4bcDb622",
+                      "outer_alineas": [
+                        {
+                          "text": "L'exploitant tient \u00e0 la disposition de l'inspection des installations class\u00e9es les \u00e9l\u00e9ments justifiant que ses installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux r\u00e8gles en vigueur."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence des \u00e9l\u00e9ments justifiant que les installations \u00e9lectriques sont r\u00e9alis\u00e9es conform\u00e9ment aux r\u00e8gles en vigueur (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.4.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.4. Installations \u00e9lectriques"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "bFa91A9847BE",
+                      "outer_alineas": [
+                        {
+                          "text": "Les \u00e9quipements m\u00e9talliques (r\u00e9servoirs, cuves, canalisations) sont mis \u00e0 la terre conform\u00e9ment aux r\u00e8gles en vigueur, compte tenu notamment de la nature explosive ou inflammable des produits ou d\u00e9chets qu'ils contiennent."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.5.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.5. Mise \u00e0 la terre des \u00e9quipements"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "5D6cf4519d03",
+                      "outer_alineas": [
+                        {
+                          "text": "Le sol des aires et des b\u00e2timents o\u00f9 sont entrepos\u00e9s ou manipul\u00e9s des d\u00e9chets ou mati\u00e8res dangereuses pour l'homme ou susceptibles de cr\u00e9er une pollution de l'eau ou du sol est \u00e9tanche, A1 (incombustible) et \u00e9quip\u00e9 de fa\u00e7on \u00e0 pouvoir recueillir les eaux de lavage et les mati\u00e8res r\u00e9pandues accidentellement."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- \u00e9tanch\u00e9it\u00e9 des sols (par examen visuel : nature du mat\u00e9riau et absence de fissures, etc.) ;"
+                        },
+                        {
+                          "text": "- capacit\u00e9 des aires et locaux \u00e0 recueillir les eaux et mati\u00e8res r\u00e9pandues (pr\u00e9sence de seuil par exemple)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.6. R\u00e9tention des sols"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "93310E9c1Ffc",
+                      "outer_alineas": [
+                        {
+                          "text": "Tout stockage de produits ou d\u00e9chets liquides susceptibles de cr\u00e9er une pollution de l'eau ou du sol est associ\u00e9 \u00e0 une capacit\u00e9 de r\u00e9tention dont le volume est au moins \u00e9gal \u00e0 la plus grande des deux valeurs suivantes :"
+                        },
+                        {
+                          "text": "- 100 % de la capacit\u00e9 du plus grand r\u00e9servoir ;"
+                        },
+                        {
+                          "text": "- 50 % de la capacit\u00e9 globale des r\u00e9servoirs associ\u00e9s."
+                        },
+                        {
+                          "text": "Cette disposition ne s'applique pas aux bassins de traitement des eaux r\u00e9siduaires."
+                        },
+                        {
+                          "text": "Le stockage \u00e0 l'air libre des d\u00e9chets contenant des PCB est interdit."
+                        },
+                        {
+                          "text": "Lorsque le stockage est constitu\u00e9 exclusivement de r\u00e9cipients de capacit\u00e9 unitaire inf\u00e9rieure ou \u00e9gale \u00e0 250 litres, admis au transport, le volume minimal de la r\u00e9tention est \u00e9gal soit \u00e0 la capacit\u00e9 totale des r\u00e9cipients si cette capacit\u00e9 est inf\u00e9rieure \u00e0 800 litres, soit \u00e0 20 % de la capacit\u00e9 totale ou 50 % dans le cas de liquides inflammables avec un minimum de 800 litres si cette capacit\u00e9 exc\u00e8de 800 litres."
+                        },
+                        {
+                          "text": "La capacit\u00e9 de r\u00e9tention est \u00e9tanche aux produits et d\u00e9chets qu'elle pourrait contenir et r\u00e9siste \u00e0 l'action physique et chimique des fluides. Il en est de m\u00eame pour son dispositif d'obturation qui est maintenu ferm\u00e9 en conditions normales."
+                        },
+                        {
+                          "text": "L'\u00e9tanch\u00e9it\u00e9 du (ou des) r\u00e9servoir(s) doit pouvoir \u00eatre contr\u00f4l\u00e9e \u00e0 tout moment. Les r\u00e9servoirs ou r\u00e9cipients contenant des produits ou d\u00e9chets incompatibles ne sont pas associ\u00e9s \u00e0 une m\u00eame r\u00e9tention."
+                        },
+                        {
+                          "text": "Les cuvettes de r\u00e9tention sont entretenues en bon \u00e9tat et v\u00e9rifi\u00e9es tous les ans. Ces v\u00e9rifications font l'objet d'un rapport de v\u00e9rification annuelle."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de cuvettes de r\u00e9tention (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification du volume des cuvettes de r\u00e9tention (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- \u00e9tanch\u00e9it\u00e9 des cuvettes de r\u00e9tention (par examen visuel : nature du mat\u00e9riau et absence de fissures) ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de cuvettes de r\u00e9tention s\u00e9par\u00e9es pour les produits et d\u00e9chets susceptibles de r\u00e9agir dangereusement ensemble ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence du rapport de v\u00e9rification annuelle (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.7.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.7. Cuvettes de r\u00e9tention"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "e0cf0c2850dB",
+                      "outer_alineas": [
+                        {
+                          "text": "Le site dispose d'une capacit\u00e9 de r\u00e9tention des eaux de ruissellement g\u00e9n\u00e9r\u00e9es lors de l'extinction d'un sinistre ou d'un accident de transport. L'exploitant dispose d'un justificatif de dimensionnement de cette capacit\u00e9 de r\u00e9tention."
+                        },
+                        {
+                          "text": "Les dispositifs d'obturation des r\u00e9seaux d'\u00e9vacuation des eaux de ruissellement sont clairement signal\u00e9s et facilement accessibles. Une consigne d\u00e9finit les modalit\u00e9s de mise en \u0153uvre de ces dispositifs."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- justification du dimensionnement de la capacit\u00e9 de r\u00e9tention des eaux ou \u00e9coulements concern\u00e9s ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de dispositifs d'isolement des r\u00e9seaux d'\u00e9vacuation des eaux de ruissellement implant\u00e9s de sorte \u00e0 maintenir sur le site les eaux d'extinction d'un sinistre ou l'\u00e9coulement d'un accident de transport (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de la consigne d\u00e9finissant les modalit\u00e9s de mise en \u0153uvre de ces dispositifs."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 2.8.",
+                      "sections": [],
+                      "title": {
+                        "text": "2.8. Isolement du r\u00e9seau de collecte"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "2. Implantation - am\u00e9nagement"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "EXPLOITATION"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "f84EBC9ed117",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 3.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "eBb4E7270EBE",
+                      "outer_alineas": [
+                        {
+                          "text": "Les personnes \u00e9trang\u00e8res \u00e0 l'\u00e9tablissement n'ont pas un acc\u00e8s libre aux installations."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'un dispositif interdisant l'acc\u00e8s aux installations aux personnes non autoris\u00e9es."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 3.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.1. Contr\u00f4le de l'acc\u00e8s"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "dcf13F3935D4",
+                      "outer_alineas": [
+                        {
+                          "text": "Les d\u00e9chets admissibles sont les d\u00e9chets d'appareils contenant des PCB dans la limite d'une quantit\u00e9 de fluide contenant des PCB, au sens des articles R. 543-17 et R. 543-28 du code de l'environnement, cumul\u00e9e de deux tonnes."
+                        },
+                        {
+                          "text": "Leur admission au sein de l'installation est subordonn\u00e9e \u00e0 une v\u00e9rification de :"
+                        },
+                        {
+                          "text": "- l'\u00e9tat g\u00e9n\u00e9ral des contenants ;"
+                        },
+                        {
+                          "text": "- la pr\u00e9sence d'un document attestant de la teneur en PCB/PCT du fluide contenu par l'appareil."
+                        },
+                        {
+                          "text": "Le tri effectu\u00e9 au sein de l'installation consiste en une s\u00e9paration des diff\u00e9rents types de d\u00e9chets d'appareils contenant des PCB/PCT permettant une r\u00e9exp\u00e9dition par type de d\u00e9chets."
+                        },
+                        {
+                          "text": "Par ailleurs, les appareils dont les fluides pr\u00e9sentent une concentration sup\u00e9rieure ou \u00e9gale \u00e0 500 ppm sont clairement identifi\u00e9s et rassembl\u00e9s. Leur admission fait alors l'objet d'une information au pr\u00e9fet."
+                        },
+                        {
+                          "text": "Il est interdit de proc\u00e9der \u00e0 la vidange d'appareils ou de tout contenant ou conditionnement de fluides contenant des PCB/PCT sur le site."
+                        },
+                        {
+                          "text": "L'exploitant garde \u00e0 sa disposition des documents lui permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation, en particulier les fiches de donn\u00e9es de s\u00e9curit\u00e9. Il prend les dispositions n\u00e9cessaires pour respecter les pr\u00e9conisations desdites fiches (compatibilit\u00e9 des produits, stockage, emploi, lutte contre l'incendie)."
+                        },
+                        {
+                          "text": "Les f\u00fbts, r\u00e9servoirs et autres emballages portent en caract\u00e8res tr\u00e8s lisibles le nom des produits et, s'il y a lieu, les symboles de danger conform\u00e9ment \u00e0 la r\u00e9glementation relative \u00e0 l'\u00e9tiquetage des substances et m\u00e9langes dangereux."
+                        },
+                        {
+                          "text": "L'installation est \u00e9quip\u00e9e d'un moyen de pes\u00e9e ou de tout autre dispositif \u00e9quivalent permettant l'estimation du tonnage des d\u00e9chets entrant sur site."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'une proc\u00e9dure de v\u00e9rification et de tri ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence des documents permettant de conna\u00eetre la nature et les risques des produits dangereux pr\u00e9sents dans l'installation ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence du dispositif de pes\u00e9e et v\u00e9rification de l'effectif fonctionnement de celui-ci."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 3.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.2. Admission des d\u00e9chets entrant"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "ae47acbf7AD1",
+                      "outer_alineas": [
+                        {
+                          "text": "La dur\u00e9e d'entreposage des appareils contenant des PCB ne peut exc\u00e9der quatre mois."
+                        },
+                        {
+                          "text": "Le site est correctement nettoy\u00e9 et toutes pr\u00e9cautions sont prises pour \u00e9viter les risques d'envol de d\u00e9chets et de poussi\u00e8res, les \u00e9pandages accidentels et les \u00e9gouttures."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- dur\u00e9e d'entreposage des appareils contenant des PCB inf\u00e9rieure \u00e0 quatre mois."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 3.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "3.3. Conditions d'entreposage"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "3. Exploitation - entretien"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "RISQUES"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "22ff970B6cC8",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 4.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "deabEfcEDDfe",
+                      "outer_alineas": [
+                        {
+                          "text": "L'installation est \u00e9quip\u00e9e de moyens de lutte contre l'incendie appropri\u00e9s aux risques, notamment :"
+                        },
+                        {
+                          "text": "- d'extincteurs r\u00e9partis \u00e0 l'int\u00e9rieur des b\u00e2timents et dans les lieux pr\u00e9sentant des risques sp\u00e9cifiques, \u00e0 proximit\u00e9 des d\u00e9gagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropri\u00e9s aux risques \u00e0 combattre et compatibles avec les produits et d\u00e9chets g\u00e9r\u00e9s dans l'installation ;"
+                        },
+                        {
+                          "text": "- d'un moyen permettant d'alerter les services d'incendie et de secours ;"
+                        },
+                        {
+                          "text": "- de plans des b\u00e2timents et aires de gestion des d\u00e9chets facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque b\u00e2timent et aire ;"
+                        },
+                        {
+                          "text": "- d'un syst\u00e8me de d\u00e9tection automatique et d'alarme incendie avec report d'alarme pour les b\u00e2timents ferm\u00e9s o\u00f9 sont entrepos\u00e9s des d\u00e9chets contenant des PCB ;"
+                        },
+                        {
+                          "text": "- d'un ou plusieurs points d'eau incendie, tels que :"
+                        },
+                        {
+                          "text": "- des bouches d'incendie, poteaux ou prises d'eau, d'un diam\u00e8tre nominal adapt\u00e9 au d\u00e9bit \u00e0 fournir, aliment\u00e9s par un r\u00e9seau public ou priv\u00e9, sous des pressions minimale et maximale permettant la mise en \u0153uvre des pompes des engins des services d'incendie et de secours ;"
+                        },
+                        {
+                          "text": "- des r\u00e9serves d'eau, r\u00e9aliment\u00e9es ou non, disponibles pour le site et dont les organes de man\u0153uvre sont utilisables en permanence pour les services d'incendie et de secours."
+                        },
+                        {
+                          "text": "Les prises de raccordement permettent aux services d'incendie et de secours de s'alimenter sur ces points d'eau incendie."
+                        },
+                        {
+                          "text": "Le ou les points d'eau incendie sont en mesure de fournir un d\u00e9bit global adapt\u00e9 aux risques \u00e0 d\u00e9fendre, sans \u00eatre inf\u00e9rieur \u00e0 60 m3/h durant deux heures. Le point d'eau incendie le plus proche de l'installation se situe \u00e0 moins de 100 m\u00e8tres de cette derni\u00e8re. Les autres points d'eau incendie, le cas \u00e9ch\u00e9ant, se situent \u00e0 moins de 200 m\u00e8tres de l'installation (les distances sont mesur\u00e9es par les voies praticables par les moyens des services d'incendie et de secours)."
+                        },
+                        {
+                          "text": "Ces mat\u00e9riels sont maintenus en bon \u00e9tat et v\u00e9rifi\u00e9s au moins une fois par an. Ces v\u00e9rifications font l'objet d'un rapport annuel de contr\u00f4le."
+                        },
+                        {
+                          "text": "L'exploitant s'assure que l'int\u00e9rieur du local o\u00f9 sont entrepos\u00e9s les d\u00e9chets de PCB ne comporte pas de mati\u00e8res combustibles ou inflammables susceptibles de provoquer ou d'alimenter un incendie."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence des extincteurs (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- implantation des extincteurs ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'un moyen d'alerte des services d'incendie et de secours ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de plans des b\u00e2timents, avec descriptions des dangers associ\u00e9s ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'un syst\u00e8me de d\u00e9tection automatique et d'alarme incendie (dans les b\u00e2timents ferm\u00e9s abritant des d\u00e9chets) (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence du rapport de contr\u00f4le datant de moins d'un an ;"
+                        },
+                        {
+                          "text": "- absence de mati\u00e8res combustibles ou inflammables dans le local o\u00f9 sont entrepos\u00e9s les d\u00e9chets de PCB/PCT (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 4.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "4.1. Moyens de lutte contre l'incendie"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "072317f8C1ac",
+                      "outer_alineas": [
+                        {
+                          "text": "L'exploitant recense, sous sa responsabilit\u00e9, les parties de l'installation qui, en raison de la pr\u00e9sence de d\u00e9chets contenant des PCB ou de mati\u00e8res inflammables, sont susceptibles d'\u00eatre \u00e0 l'origine d'un sinistre pouvant avoir des cons\u00e9quences directes ou indirectes sur l'environnement, la s\u00e9curit\u00e9 publique ou le maintien en s\u00e9curit\u00e9 de l'installation."
+                        },
+                        {
+                          "text": "Ce risque est signal\u00e9. Les ateliers et aires de manipulations de ces produits doivent faire partie de ce recensement."
+                        },
+                        {
+                          "text": "L'exploitant dispose d'un plan g\u00e9n\u00e9ral des ateliers et des stockages indiquant les diff\u00e9rentes zones de danger correspondant \u00e0 ces risques."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence du plan de l'atelier indiquant les diff\u00e9rentes zones de danger ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure)."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 4.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "4.2. Localisation des risques"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "DED4d1444c5B",
+                      "outer_alineas": [
+                        {
+                          "text": "Les op\u00e9rations susceptibles de g\u00e9n\u00e9rer une pollution ou un accident font l'objet de consignes d'exploitation \u00e9crites. Elles concernent notamment les op\u00e9rations de manipulation des d\u00e9chets contenant des PCB."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence de chacune de ces consignes."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 4.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "4.3. Consignes d'exploitation"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "F7213bE0Ab5b",
+                      "outer_alineas": [
+                        {
+                          "text": "Outre l'aptitude au poste occup\u00e9, les diff\u00e9rents op\u00e9rateurs et intervenants sur le site, y compris le personnel int\u00e9rimaire, re\u00e7oivent une formation sur les risques inh\u00e9rents des installations, la conduite \u00e0 tenir en cas d'incident ou accident et, sur la mise en oeuvre des moyens d'intervention."
+                        },
+                        {
+                          "text": "Des mesures sont prises pour v\u00e9rifier le niveau de connaissance et assurer son maintien."
+                        },
+                        {
+                          "text": "Cette formation comporte notamment :"
+                        },
+                        {
+                          "text": "- toutes les informations utiles sur les produits manipul\u00e9s, les r\u00e9actions chimiques ;"
+                        },
+                        {
+                          "text": "- les explications n\u00e9cessaires pour la bonne compr\u00e9hension des consignes ;"
+                        },
+                        {
+                          "text": "- des exercices p\u00e9riodiques de simulation d'application des consignes de s\u00e9curit\u00e9 pr\u00e9vues par le pr\u00e9sent arr\u00eat\u00e9, ainsi qu'un entra\u00eenement r\u00e9gulier au maniement des moyens d'intervention affect\u00e9s \u00e0 leur unit\u00e9 ;"
+                        },
+                        {
+                          "text": "- un entra\u00eenement p\u00e9riodique \u00e0 la conduite des unit\u00e9s en situation d\u00e9grad\u00e9e vis-\u00e0-vis de la s\u00e9curit\u00e9 et \u00e0 l'intervention sur celles-ci ;"
+                        },
+                        {
+                          "text": "- une sensibilisation sur le comportement humain et les facteurs susceptibles d'alt\u00e9rer les capacit\u00e9s de r\u00e9action face au danger."
+                        },
+                        {
+                          "text": "Objet de contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sence au sein du personnel de l'installation d'un r\u00e9f\u00e9rent s\u00e9curit\u00e9, risques et pr\u00e9vention des accidents et incidents li\u00e9s \u00e0 la nature de l'installation."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 4.4.",
+                      "sections": [],
+                      "title": {
+                        "text": "4.4. Formation du personnel"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "4. Risques"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "EAU"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "ed2C813dE3Ea",
+                  "outer_alineas": [],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 5.",
+                  "sections": [
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "c82Bd41fe0B9",
+                      "outer_alineas": [
+                        {
+                          "text": "Tous les effluents aqueux sont canalis\u00e9s."
+                        },
+                        {
+                          "text": "Le r\u00e9seau de collecte est de type s\u00e9paratif permettant d'isoler les eaux r\u00e9siduaires des eaux pluviales."
+                        },
+                        {
+                          "text": "Les effluents susceptibles d'\u00eatre pollu\u00e9s, c'est-\u00e0-dire les eaux r\u00e9siduaires et les eaux pluviales susceptibles d'\u00eatre pollu\u00e9es, notamment par ruissellement sur les voies de circulation, aires de stationnement, de chargement et d\u00e9chargement ou sur les produits et/ou d\u00e9chets entrepos\u00e9s, sont trait\u00e9s avant rejet dans l'environnement par un dispositif de traitement ad\u00e9quat."
+                        },
+                        {
+                          "text": "Le plan des r\u00e9seaux de collecte des effluents fait appara\u00eetre les secteurs collect\u00e9s, les points de branchement, regards, avaloirs, postes de relevage, postes de mesure, vannes manuelles et automatiques. Il est tenu \u00e0 la disposition de l'inspection des installations class\u00e9es ainsi que des services d'incendie et de secours."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- le r\u00e9seau de collecte est de type s\u00e9paratif (v\u00e9rification sur plan) ;"
+                        },
+                        {
+                          "text": "- les eaux pluviales collect\u00e9es sont trait\u00e9es par un dispositif ad\u00e9quat avant rejet."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [
+                          {
+                            "alineas": [
+                              2,
+                              3,
+                              4,
+                              5,
+                              6,
+                              0
+                            ],
+                            "condition": {
+                              "parameter": {
+                                "id": "date-d-declaration",
+                                "type": "DATE"
+                              },
+                              "strict": true,
+                              "target": "2019-07-01",
+                              "type": "LITTLER"
+                            }
+                          }
+                        ],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.1.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.1. R\u00e9seau de collecte et eaux pluviales"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "AA8CBAeBf7a1",
+                      "outer_alineas": [
+                        {
+                          "text": "Le dispositif de traitement des effluents susceptibles d'\u00eatre pollu\u00e9s est entretenu par l'exploitant conform\u00e9ment \u00e0 un protocole d'entretien. Les fiches de suivi du nettoyage des \u00e9quipements ainsi que les bordereaux de traitement des d\u00e9chets d\u00e9truits ou retrait\u00e9s sont mis \u00e0 la disposition de l'inspection des installations class\u00e9es."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- pr\u00e9sentation des fiches de suivi du nettoyage des \u00e9quipements."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.2.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.2. Rejet des effluents"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "9F1FFe9FAB36",
+                      "outer_alineas": [
+                        {
+                          "text": "Les effluents susceptibles d'\u00eatre pollu\u00e9s rejet\u00e9s au milieu naturel respectent les valeurs limites de concentration suivantes :"
+                        },
+                        {
+                          "text": "- mati\u00e8res en suspension : la concentration ne d\u00e9passe pas 100 mg/litre si le flux journalier n'exc\u00e8de pas 15 kg/jour, 35 mg/litre au-del\u00e0 ;"
+                        },
+                        {
+                          "text": "- demande chimique en oxyg\u00e8ne (DCO) : la concentration ne d\u00e9passe pas 300 mg/litre si le flux journalier n'exc\u00e8de pas 100 kg/jour, 125 mg/litre au-del\u00e0 ;"
+                        },
+                        {
+                          "text": "- PCB totaux (1) : 0,3 \u00b5g/litre ;"
+                        },
+                        {
+                          "text": "- hydrocarbures totaux : 10 mg/litre si le flux est sup\u00e9rieur \u00e0 100 g/jour."
+                        },
+                        {
+                          "text": "Ces valeurs limites sont respect\u00e9es en moyenne quotidienne. Aucune valeur instantan\u00e9e ne d\u00e9passe le double des valeurs limites de concentration."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.3.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.3. Valeurs limites de rejet"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "9D49bd6D67e7",
+                      "outer_alineas": [
+                        {
+                          "text": "Le raccordement \u00e0 une station d'\u00e9puration collective, urbaine ou industrielle, n'est autoris\u00e9 que si l'infrastructure collective d'assainissement (r\u00e9seau et station d'\u00e9puration) est apte \u00e0 acheminer et traiter l'effluent industriel ainsi que les boues r\u00e9sultant de ce traitement dans de bonnes conditions. Une autorisation de d\u00e9versement ainsi que, le cas \u00e9ch\u00e9ant, une convention de d\u00e9versement, sont \u00e9tablies avec la ou les autorit\u00e9s comp\u00e9tentes en charge du r\u00e9seau d'assainissement et du r\u00e9seau de collecte."
+                        },
+                        {
+                          "text": "Les valeurs limites de concentration impos\u00e9es \u00e0 l'effluent \u00e0 la sortie de l'installation avant raccordement \u00e0 une station d'\u00e9puration urbaine ne d\u00e9passent pas :"
+                        },
+                        {
+                          "text": "- mati\u00e8re en suspension totale (MEST) : 600 mg/litre ;"
+                        },
+                        {
+                          "text": "- demande chimique en oxyg\u00e8ne (DCO) : 2 000 mg/litre."
+                        },
+                        {
+                          "text": "Toutefois, les valeurs limites de rejet peuvent \u00eatre sup\u00e9rieures aux valeurs ci-dessus si les autorisations et \u00e9ventuelles conventions de d\u00e9versement l'autorisent et dans la mesure o\u00f9 il a \u00e9t\u00e9 d\u00e9montr\u00e9 que le bon fonctionnement des r\u00e9seaux, des \u00e9quipements d'\u00e9puration, ainsi que du syst\u00e8me de traitement des boues n'est pas alt\u00e9r\u00e9 par ces d\u00e9passements."
+                        },
+                        {
+                          "text": "Cette disposition s'applique \u00e9galement pour une installation raccord\u00e9e \u00e0 une station d'\u00e9puration industrielle (rubrique n\u00b0 2750 \u00ab Stations d'\u00e9puration collective d'eaux r\u00e9siduaires industrielles \u00bb) ou mixte (rubrique n\u00b0 2752 \u00ab Stations d'\u00e9puration mixte \u00bb) dans le cas de rejets de micropolluants."
+                        },
+                        {
+                          "text": "Pour une installation raccord\u00e9e \u00e0 une station d'\u00e9puration urbaine et pour les polluants autres que ceux r\u00e9glement\u00e9s ci-dessus, les valeurs limites sont les m\u00eames que pour un rejet dans le milieu naturel."
+                        },
+                        {
+                          "text": "Pour la temp\u00e9rature, le d\u00e9bit et le pH, l'autorisation de d\u00e9versement dans le r\u00e9seau public fixe la valeur \u00e0 respecter."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.4.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.4. Raccordement \u00e0 une station d'\u00e9puration"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "Ec8251d94ee8",
+                      "outer_alineas": [
+                        {
+                          "text": "Les valeurs limites ci-dessus s'appliquent \u00e0 des pr\u00e9l\u00e8vements, mesures ou analyses moyens r\u00e9alis\u00e9s sur 24 heures. La mesure est r\u00e9alis\u00e9e \u00e0 partir d'un \u00e9chantillon pr\u00e9lev\u00e9 sur une dur\u00e9e de 24 heures et repr\u00e9sentatif du fonctionnement de l'installation."
+                        },
+                        {
+                          "text": "Les contr\u00f4les se font, sauf stipulation contraire de la norme appliqu\u00e9e (si une norme est appliqu\u00e9e), sur effluent brut non d\u00e9cant\u00e9 et non filtr\u00e9, sans dilution pr\u00e9alable ou m\u00e9lange avec d'autres effluents."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.5.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.5. Dispositions concernant la surveillance des effluents aqueux"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "869ba6b34f02",
+                      "outer_alineas": [
+                        {
+                          "text": "Une mesure des concentrations des diff\u00e9rents polluants vis\u00e9s au point 5.3 est effectu\u00e9e au moins tous les ans par un organisme agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement."
+                        },
+                        {
+                          "text": "Les polluants dont l'exploitant justifie qu'ils ne sont pas susceptibles d'\u00eatre \u00e9mis par l'installation, ne font pas l'objet des mesures p\u00e9riodiques pr\u00e9vues au pr\u00e9sent point."
+                        },
+                        {
+                          "text": "L'exploitant met en place un programme de surveillance des caract\u00e9ristiques soit des \u00e9missions de PCB soit de param\u00e8tres repr\u00e9sentatifs de ces derniers, lui permettant d'intervenir d\u00e8s que les limites d'\u00e9missions sont ou risquent d'\u00eatre d\u00e9pass\u00e9es."
+                        },
+                        {
+                          "text": "Une mesure des concentrations en PCB est effectu\u00e9e apr\u00e8s chaque lavage des locaux abritant les d\u00e9chets de PCB, ou le cas \u00e9ch\u00e9ant au moins une fois tous les trois ans. Elle est r\u00e9alis\u00e9e par un organisme agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement."
+                        },
+                        {
+                          "text": "Les conditions de pr\u00e9l\u00e8vement, d'\u00e9chantillonnage et d'analyse doivent \u00eatre fiables et reproductibles. Le respect de la norme NF EN ISO 6468 (1997) pour la partie analytique et la m\u00e9thode B de calcul de la norme NF EN 12766-2 (2002) pour la partie calcul de la concentration est pr\u00e9sum\u00e9 r\u00e9pondre \u00e0 ces deux obligations."
+                        },
+                        {
+                          "text": "Objet du contr\u00f4le :"
+                        },
+                        {
+                          "text": "- conformit\u00e9 des r\u00e9sultats de mesures avec les valeurs limites d'\u00e9missions applicables (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- pr\u00e9sence du programme de surveillance ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification de l'absence de PCB au-del\u00e0 des seuils pr\u00e9vus en cas de rejets d'eaux apr\u00e8s lavage des aires et des locaux ;"
+                        },
+                        {
+                          "text": "- v\u00e9rification que les mesures sont r\u00e9alis\u00e9es par un organisme agr\u00e9\u00e9 par le ministre charg\u00e9 de l'environnement (le non-respect de ce point rel\u00e8ve d'une non-conformit\u00e9 majeure) ;"
+                        },
+                        {
+                          "text": "- lorsque la mesure p\u00e9riodique d'un polluant n'est pas effectu\u00e9e, pr\u00e9sence des \u00e9l\u00e9ments justifiant que le polluant n'est pas susceptible d'\u00eatre \u00e9mis par l'installation."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.6.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.6. Surveillance par l'exploitant de la pollution rejet\u00e9e"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "6597FCB173cB",
+                      "outer_alineas": [
+                        {
+                          "text": "Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident (rupture de r\u00e9cipient, cuvette, etc.), d\u00e9versement de fluides contenant des PCB dans les \u00e9gouts publics ou le milieu naturel."
+                        },
+                        {
+                          "text": "En cas d'\u00e9coulement sur le sol de fluide contenant des PCB, les mati\u00e8res contamin\u00e9es sont enlev\u00e9es sans utilisation de flamme, d\u00e9contamin\u00e9es ou \u00e9limin\u00e9es dans une installation d\u00fbment autoris\u00e9e \u00e0 cet effet. Une analyse de la contamination du sol aux PCB est r\u00e9alis\u00e9e."
+                        },
+                        {
+                          "text": "Les analyses et mesures prises sont transmises au pr\u00e9fet."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.7.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.7. Pr\u00e9vention des pollutions accidentelles"
+                      }
+                    },
+                    {
+                      "annotations": {
+                        "topic": null
+                      },
+                      "applicability": {
+                        "active": true,
+                        "modified": false,
+                        "previous_version": null,
+                        "warnings": []
+                      },
+                      "id": "e9afEf878C3e",
+                      "outer_alineas": [
+                        {
+                          "text": "Toute application de d\u00e9chets ou effluents sur ou dans les sols est interdite."
+                        }
+                      ],
+                      "parametrization": {
+                        "potential_inapplicabilities": [],
+                        "potential_modifications": [],
+                        "warnings": []
+                      },
+                      "reference_str": "Annexe Art. - Annexe I 5.8.",
+                      "sections": [],
+                      "title": {
+                        "text": "5.8. Epandage"
+                      }
+                    }
+                  ],
+                  "title": {
+                    "text": "5. Eau"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "DECHETS"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "6c0B0E2fac08",
+                  "outer_alineas": [
+                    {
+                      "text": "L'exploitant prend toutes les dispositions n\u00e9cessaires dans la conception, l'am\u00e9nagement, et l'exploitation de ses installations pour :"
+                    },
+                    {
+                      "text": "- en priorit\u00e9, pr\u00e9venir et r\u00e9duire la production et la nocivit\u00e9 des d\u00e9chets ;"
+                    },
+                    {
+                      "text": "- assurer une bonne gestion des d\u00e9chets de son entreprise en privil\u00e9giant, dans l'ordre :"
+                    },
+                    {
+                      "text": "a) La pr\u00e9paration en vue de la r\u00e9utilisation ;"
+                    },
+                    {
+                      "text": "b) Le recyclage ;"
+                    },
+                    {
+                      "text": "c) Toute autre valorisation, notamment la valorisation \u00e9nerg\u00e9tique ;"
+                    },
+                    {
+                      "text": "d) L'\u00e9limination."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 6.",
+                  "sections": [],
+                  "title": {
+                    "text": "6. D\u00e9chets g\u00e9n\u00e9r\u00e9s par l'installation"
+                  }
+                },
+                {
+                  "annotations": {
+                    "topic": "BRUIT_VIBRATIONS"
+                  },
+                  "applicability": {
+                    "active": true,
+                    "modified": false,
+                    "previous_version": null,
+                    "warnings": []
+                  },
+                  "id": "5F639Dcd1a21",
+                  "outer_alineas": [
+                    {
+                      "text": "L'usage de tous appareils de communication par voie acoustique (sir\u00e8nes, avertisseurs, haut-parleurs, \u2026 etc.), g\u00eanant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et r\u00e9serv\u00e9 \u00e0 la pr\u00e9vention et au signalement d'incidents graves ou d'accidents."
+                    },
+                    {
+                      "text": "(1) Tel que d\u00e9fini par l'arr\u00eat\u00e9 du 7 janvier 2014 relatif aux modalit\u00e9s d'analyse et d'\u00e9tiquetage et aux conditions de d\u00e9tention des appareils contenant des PCB/PCT."
+                    }
+                  ],
+                  "parametrization": {
+                    "potential_inapplicabilities": [],
+                    "potential_modifications": [],
+                    "warnings": []
+                  },
+                  "reference_str": "Annexe Art. - Annexe I 7.",
+                  "sections": [],
+                  "title": {
+                    "text": "7. Bruit"
+                  }
+                }
+              ],
+              "title": {
+                "text": "ANNEXE I"
+              }
+            }
+          ],
+          "title": {
+            "text": "Article - ANNEXES"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe"
+      }
+    },
+    {
+      "annotations": {
+        "topic": null
+      },
+      "applicability": {
+        "active": true,
+        "modified": false,
+        "previous_version": null,
+        "warnings": []
+      },
+      "id": "ed2cCFAEd1f9",
+      "outer_alineas": [],
+      "parametrization": {
+        "potential_inapplicabilities": [],
+        "potential_modifications": [],
+        "warnings": []
+      },
+      "reference_str": "Annexe",
+      "sections": [
+        {
+          "annotations": {
+            "topic": null
+          },
+          "applicability": {
+            "active": true,
+            "modified": false,
+            "previous_version": null,
+            "warnings": []
+          },
+          "id": "7Ae7BB1CeDba",
+          "outer_alineas": [
+            {
+              "text": "DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES"
+            },
+            {
+              "text": "Les dispositions sont applicables aux installations existantes selon le calendrier suivant :"
+            },
+            {
+              "table": {
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n1er juillet 2019"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n1er janvier 2020"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "cells": [
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n1. Dispositions g\u00e9n\u00e9rales\n2. Implantation - am\u00e9nagement (sauf 2.1, 2.2, 2.3 et 2.6)\n3. Exploitation-entretien\n4. Risques\n5.8 Epandage\n6. D\u00e9chets\n7. Bruit"
+                        },
+                        "rowspan": 1
+                      },
+                      {
+                        "colspan": 1,
+                        "content": {
+                          "text": "\n2.3 Accessibilit\u00e9\n2.6 R\u00e9tention des sols (sauf la disposition A1 incombustible)\n5.1 R\u00e9seau de collecte (2\u00e8me alin\u00e9a)\n5.2 Rejets des effluents\n5.3 Valeurs limites de rejet\n5.4 Raccordement \u00e0 une station d'\u00e9puration\n5.5 Dispositions concernant la surveillance des effluents aqueux\n5.6 Surveillance par l'exploitant de la pollution rejet\u00e9e\n5.7 Pr\u00e9vention des pollutions accidentelles"
+                        },
+                        "rowspan": 1
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              "text": ""
+            },
+            {
+              "text": "Les dispositions ne figurant pas dans le tableau ci-dessus ne sont pas applicables aux installations existantes."
+            }
+          ],
+          "parametrization": {
+            "potential_inapplicabilities": [],
+            "potential_modifications": [],
+            "warnings": []
+          },
+          "reference_str": "Annexe Art. -",
+          "sections": [],
+          "title": {
+            "text": "Article - ANNEXE II"
+          }
+        }
+      ],
+      "title": {
+        "text": "Annexe"
+      }
+    }
+  ],
+  "title": {
+    "text": "Arr\u00eat\u00e9 du 08/03/19 relatif aux prescriptions g\u00e9n\u00e9rales applicables aux installations de transit, tri, regroupement de d\u00e9chets contenant des PCB/PCT \u00e0 une concentration sup\u00e9rieure \u00e0 50 ppm relevant du r\u00e9gime de la d\u00e9claration au titre de la rubrique n\u00b0 2792-1 de la nomenclature des installations class\u00e9es pour la protection de l'environnement"
+  },
+  "visa": [
+    {
+      "text": "Vu le r\u00e8glement UE n\u00b0 1357/2014 de la Commission du 18 d\u00e9cembre 2014 rempla\u00e7ant l'annexe III de la directive 2008/98/CE du Parlement europ\u00e9en et du Conseil relative aux d\u00e9chets et abrogeant certaines directives ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 23,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code de l'environnement, notamment les titres Ier et IV du livre V ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 15,
+          "position": 6,
+          "target": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu le code du travail, notamment ses articles R. 4512-6 et suivants ;"
+    },
+    {
+      "text": "Vu l'arr\u00eat\u00e9 du 7 janvier 2014 relatif aux modalit\u00e9s d'analyse et d'\u00e9tiquetage et aux conditions de d\u00e9tention des appareils contenant des PCB ;"
+    },
+    {
+      "text": "Vu l'avis des organisations professionnelles int\u00e9ress\u00e9es ;"
+    },
+    {
+      "links": [
+        {
+          "content_size": 46,
+          "position": 183,
+          "target": "https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000032975869&dateTexte=29990101&categorieLien=cid"
+        }
+      ],
+      "text": "Vu les observations formul\u00e9es lors des deux consultations du public successives r\u00e9alis\u00e9es du 10 novembre 2017 au 3 d\u00e9cembre 2017 et du 24 mai 2018 au 14 juin 2018 en application de l'article L. 123-19-1 du code de l'environnement ;"
+    },
+    {
+      "text": "Vu les avis du Conseil sup\u00e9rieur de la pr\u00e9vention des risques technologiques du 16 janvier 2018 et du 16 octobre 2018,"
+    }
+  ]
+}
